@@ -34,7 +34,7 @@ fs.readFile("decklist.out", {encoding:"utf8"}).then(data=>{
         return new Promise(resolve=>{
           setTimeout(()=>{
             promise().then(data=>resolve(data) )
-          },1000)
+          },500)
         })
       })
     }

@@ -1,0 +1,3843 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	<meta name="keywords" content="湖の乙女ヴィヴィアン,遊戯王,デッキ,デュエルモンスターズ,VRAINS,ヴレインズ,禁止,制限,パック,禁止カード,カード,カードリスト,ルール,OCG,コナミ,KONAMI"/>
+	<meta name="description" content="「湖の乙女ヴィヴィアン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+	<meta name="title" content="湖の乙女ヴィヴィアン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:title" content="湖の乙女ヴィヴィアン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:description" content="「湖の乙女ヴィヴィアン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。" />
+	<meta name="twitter:title" content="湖の乙女ヴィヴィアン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta name="twitter:description" content="「湖の乙女ヴィヴィアン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10875%26request_locale%3Dja%26a%3D202105070018"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10875%26request_locale%3Dja%26a%3D202105070018"/>
+
+	<meta http-equiv="x-ua-compatible" content="IE=10" >
+	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="ja">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="imagetoolbar" content="no">
+
+	<meta property="og:site_name" content="遊戯王OCGカードデータベース">
+
+	<meta property="og:type" content="product" />
+	<meta property="og:locale" content="ja_JP" />
+
+	<meta name="twitter:card" content="summary"/>
+
+	<script type="text/javascript" src="/yugiohdb/ga.js"></script>
+	<meta name="copyright" content="KONAMI">
+	<link rel="shortcut icon" href="external/image/yugioh.ico">
+	<link rel="apple-touch-icon" href="external/image/apple-touch-icon.png">
+
+
+
+	<meta property='og:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=10875&ciid=1&enc=FkY6Tew3ojHknBpMqF3YMw&app=tournament&request_locale=ja" />
+	<meta name='twitter:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=10875&ciid=1&enc=FkY6Tew3ojHknBpMqF3YMw&app=tournament&request_locale=ja" />
+
+
+
+
+	
+
+
+	
+		<title>湖の乙女ヴィヴィアン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</title>
+	
+	
+
+
+
+
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="external/html5/js/html5shiv.js"></script>
+<![endif]-->
+	<script type="text/javascript" src="external/jquery/jquery-1.7.2.js"></script>
+	<script type="text/javascript" src="external/jquery/jquery-ui-1.8.16.custom/js/jquery-ui-1.8.16.custom.min.js"></script>
+ 	<script type="text/javascript" src="external/jquery/jquery.dropkick/js/jquery.dropkick-1.0.0.js"></script>
+	<script type="text/javascript" src="external/js/common.js"></script>
+
+	<script type="text/javascript" src="external/jquery/scrolltopcontrol.js"></script>
+
+
+
+
+
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery-ui-1.8.16.custom/css/ui-lightness/jquery-ui-1.8.16.custom.css">
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery.dropkick/css/dropkick.css">
+	<link type="text/css" rel="stylesheet" href="external/css/common.css?20171030">
+
+	<link rel="stylesheet" type="text/css" href="external/css/CardDetail.css">
+
+	<script type="text/javascript">
+	<!--
+
+	$(function() {
+		$('a[href^=#]').click(function(){
+			$('html,body').animate({scrollTop:$($(this).attr("href")).offset().top},'slow','swing');
+			return false;
+		})
+
+		$('#message').hide();
+		
+		$('#keyword').val('');
+		$('#stype').val('1');
+		$('#ctype').val('');
+		$('input:checkbox').prop('checked', false);
+ 		$('#othercon_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#othercon_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+		$('#link_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#link_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+
+		
+		$('#stype').dropkick({
+			theme: 'stype_ja'
+		});
+		$('#ctype').dropkick({
+			change: function (value, label) {
+				ChangeCtype(value, label);
+			}
+		});
+
+	   
+
+		
+	   
+		$('#card_image_1').attr('src', '/yugiohdb/get_image.action?type=2&cid=10875&ciid=1&enc=FkY6Tew3ojHknBpMqF3YMw').show();
+		$('#thumbnail_card_image_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10875&ciid=1&enc=FkY6Tew3ojHknBpMqF3YMw').addClass('current').show();
+	   
+		
+		$('#thumbnail img').click(function(){
+			
+			var setImgId = $(this).attr('alt');
+			var setContent = 'https://www.db.yugioh-card.com'
+			         + '/yugiohdb/get_image.action'
+			         + '?type=1&osplang=1&cid=10875'
+			         + '&ciid=' + setImgId
+			         + '&enc=FkY6Tew3ojHknBpMqF3YMw'
+			         + '&app=tournament'
+			         + '&request_locale=ja'
+			         ;
+			$("meta[property='og:image']").attr('content',setContent); 
+			$("meta[name='twitter:image']").attr('content',setContent);
+
+			$('[id^=card_image]').hide();
+			$('#card_image_' + $(this).attr('alt')).show();
+			$('[id^=thumbnail_card_image]').removeClass('current');
+			$(this).addClass('current');
+		});
+
+		
+		$('#pack_list table tr.row').click(function() {
+			location.href = $('.link_value', this).val();
+		});
+		
+		
+			
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13430&ciid=1&enc=Dt2WKICa1RX45dBohAGJbA').show();
+			
+		
+			
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15246&ciid=1&enc=Y4Bv_Q2-xystJAHxlSGyKA').show();
+			
+		
+			
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15247&ciid=1&enc=Byz-8y8cF20wpCUhwA-4TA').show();
+			
+		
+			
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15248&ciid=1&enc=jMnlRCbZwR0Alqfzd8yEiQ').show();
+			
+		
+			
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15517&ciid=1&enc=IHWDZTtmBZmqqr7YTarwbw').show();
+			
+		
+			
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15276&ciid=1&enc=af7a3LAM3azAm2UeylkcYg').show();
+			
+		
+			
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15275&ciid=1&enc=Xf1RvJiSXTGVBN2oUFimXA').show();
+			
+		
+			
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15249&ciid=1&enc=93v5jxg3jXqg5k4rbIbong').show();
+			
+		
+			
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15082&ciid=1&enc=ZcHRzk3pV-gNitva-CTUiA').show();
+			
+		
+			
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14803&ciid=1&enc=wAQFP1vDNDbSBN3VTvAX0w').show();
+			
+		
+			
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11202&ciid=1&enc=eq9KZu5s639XrBA_j1vIdQ').show();
+			
+		
+			
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10878&ciid=1&enc=Q_VHg7P3JyoKx-OQ3HqQKQ').show();
+			
+		
+			
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13985&ciid=1&enc=GFUytaQS4C_sqRFuHA44jg').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10115&ciid=1&enc=mqg100A2HeAeV3JdjWR9rQ').show();
+			
+		
+			
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14073&ciid=1&enc=cwAwRLl77EhYlXKDgEiKFA').show();
+			
+		
+			
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11197&ciid=1&enc=C3iFyPgijUr_2MU0w4UhYw').show();
+			
+		
+			
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10474&ciid=1&enc=zJIMzZQbHpsvaKJ3wyAJUA').show();
+			
+		
+			
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10311&ciid=1&enc=idp5X5lFPillMvs6Qo6WXA').show();
+			
+		
+			
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10595&ciid=1&enc=Dt4t3Kay3WEFyeAhKugX6w').show();
+			
+		
+			
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13984&ciid=1&enc=ElXfXGgaB-UwJnrA-4QcXg').show();
+			
+		
+			
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9201&ciid=1&enc=5EBcBlHqkZuSuOxfpAhKuA').show();
+			
+		
+			
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11470&ciid=1&enc=6wh2nBLg0pch2uOKEvct-g').show();
+			
+		
+			
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10813&ciid=1&enc=bMhc_tdtwnvxUo11enRtVw').show();
+			
+		
+			
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11196&ciid=1&enc=8tLIEpplPpLaPaqvJv1gYQ').show();
+			
+		
+			
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13500&ciid=1&enc=pivbye2YKRoWcJB7mMKVSA').show();
+			
+		
+			
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10989&ciid=1&enc=E5rIdoyOqn7qkJz4tRc8LA').show();
+			
+		
+			
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11469&ciid=1&enc=IoUaWD3NXbRaAYfpiW2YVw').show();
+			
+		
+			
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13986&ciid=1&enc=W_1nhbl0bsPxxgSyKgGQtA').show();
+			
+		
+			
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10876&ciid=1&enc=Zj35fpGQzBmivtwt6I5ZNw').show();
+			
+		
+			
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10469&ciid=1&enc=ZiJpT35ha7_5qV0mC0A68A').show();
+			
+		
+			
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10877&ciid=1&enc=T3Idr37olQTMOnsLw5W6Ag').show();
+			
+		
+			
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10350&ciid=1&enc=29w9Rxpf8fojX5Sjggp5Tg').show();
+			
+		
+
+		
+		$('.list_style ul li').click(function() {
+			var li_class = $(this).attr('class');
+			if(!(li_class == "li_top")){
+				location.href = $('.link_value_detail', this).val();
+			}
+		});
+
+		$('#sort').val('1');
+		$('#rp').val('100');
+		$('#mode').val('1');
+
+		$('#sort').dropkick({
+			theme: 'sort_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=10875'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#rp').dropkick({
+			theme: 'rp_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=10875'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#mode').dropkick({
+			theme: 'mode_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+							+ '?ope=2'
+							+ '&cid=10875'
+							+ '&sess=4'
+							+ '&mode=' + value;
+			}
+		});
+
+		
+		$('.box_card_linkmarker').load(function(){});
+	});
+
+	
+	function ChangePage(page) {
+		location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=10875'
+					+ '&sess=3'
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=' + page;
+	}
+
+	
+
+	//-->
+	</script>
+</head>
+
+
+
+
+<body>
+
+<div id="wrapper">
+	<header>
+		<div class="h1_set">遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</div>
+		<div id="header_meta">
+			<a href="https://www.konami.com/games/jp/ja/" target="_blank"><img src="external/image/logo_konami.png" alt="KONAMI" id="konami" class="ui-draggable"></a>
+
+
+	
+			<nav id="language">
+				<span>
+		日本語
+		
+		
+		
+		
+		
+		
+		
+				</span>
+				<ul>
+					<li><a href="javascript:ChangeLanguage('ja')" class="current">日本語</a></li>
+					<li><a href="javascript:ChangeLanguage('en')" >English</a></li>
+					<li><a href="javascript:ChangeLanguage('de')" >Deutsch</a></li>
+					<li><a href="javascript:ChangeLanguage('fr')" >Fran&ccedil;ais</a></li>
+					<li><a href="javascript:ChangeLanguage('it')" >Italiano</a></li>
+					<li><a href="javascript:ChangeLanguage('es')" >Espa&ntilde;ol</a></li>
+					<li><a href="javascript:ChangeLanguage('pt')" >Portugues</a></li>
+					<li><a href="javascript:ChangeLanguage('ko')" >한글</a></li>
+				</ul>
+			</nav>
+	
+
+		</div><!--#header_meta-->
+		<div id="header_menu">
+			<div id="main_logo">
+				<a href="/yugiohdb/"><img src="external/image/ja/logo_ocg.png" alt="遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース" title="TOP"></a>
+			</div>
+			<nav>
+				<div id="menber_menu">
+				
+				</div><!--#menber_menu-->
+				<ul id="main_menu">
+					<li><a href="/yugiohdb/card_search.action"><img src="external/image/ja/menu_btn_home.png" alt="カード検索"></a></li>
+					<li><a href="/yugiohdb/card_list.action"><img src="external/image/ja/menu_btn_cardlist.png" alt="カードリスト"></a></li>
+					<li><a href="/yugiohdb/forbidden_limited.action"><img src="external/image/ja/menu_btn_limitr.png" alt="リミットレギュレーション"></a></li>
+					<li><a href="/yugiohdb/faq_search.action"><img src="external/image/ja/menu_btn_q_a.png" alt="Ｑ＆Ａ"></a></li>
+					<li><a href="/yugiohdb/deck_search.action"><img src="external/image/ja/menu_btn_decks.png" alt="デッキ検索"></a></li>
+	
+					<li class="last"><a href="/yugiohdb/member_login.action"><img src="external/image/ja/menu_btn_login.png" alt="ログイン"></a></li>
+	
+	
+				</ul><!--#main_menu-->
+			</nav>
+		</div><!-- #header_menu-->
+	</header>
+
+	<nav id="pan_nav">
+		<ul>
+			<li><a href="/yugiohdb/">ホーム</a></li>
+			<li>&raquo;</li>
+
+			<li>湖の乙女ヴィヴィアン</li>
+
+
+		</ul>
+	</nav><!--#pan_nav-->
+
+
+	 
+		<nav id="title_msg">
+			遊戯王OCGカード「湖の乙女ヴィヴィアン」のカード詳細です。<br>「湖の乙女ヴィヴィアン」の遊戯王OCG公式ルールはこちらのページで確認してください。<br>「湖の乙女ヴィヴィアン」の使い方に関する質問等は「<a href="faq_search.action?ope=4&cid=10875" target=_blank>このカードのQ&Aを表示</a>」より確認ができます。<br>「湖の乙女ヴィヴィアン」を使用したデッキを検索したい場合は「<a href="deck_search.action?cardid=10875" target=_blank>このカードを使用したデッキを検索</a>」より確認ができます。
+		</nav>
+	
+
+	<article>
+
+
+		<header id="broad_title">
+			<div>
+				<h1>
+	
+					<span class="ruby">みずうみのおとめヴィヴィアン</span>
+	
+					湖の乙女ヴィヴィアン
+	
+					<span>Lady of the Lake</span>
+	
+				</h1>
+			</div>
+		</header>
+
+
+		<div id="article_body">
+
+
+			<table style="margin:0 8px 10px 8px;">
+				<tr>
+				<td valign="top" style="padding-right:8px;">
+					<div id="card_frame">
+	
+		
+						<img id="card_image_1" alt="湖の乙女ヴィヴィアン" title="湖の乙女ヴィヴィアン" class="none">
+		
+	
+	
+					</div>
+	
+					<div id="thumbnail">
+		
+						<img id="thumbnail_card_image_1" alt="1" class="none">
+		
+					</div>
+	
+				</td>
+
+				<td valign="top">
+
+	
+					<table id="details">
+						<col width="50%">
+						<col width="50%">
+						<tr>
+							<td>
+								<div class="item_box" style="margin-right:5px;">
+									<span class="item_box_title">
+										<b>属性</b>
+									</span>
+									<span class="item_box_value">
+		
+										光属性
+		
+									</span>
+								</div>
+							</td>
+							<td>
+								<div class="item_box" style="margin-left:5px;">
+		
+		
+		
+									<span class="item_box_title">
+										<b>レベル</b>
+									</span>
+									<span class="item_box_value">
+										1
+									</span>
+		
+								</div>
+							</td>
+						</tr>
+
+		
+						<tr>
+							<td colspan="2">
+								<div class="item_box t_center" style="margin-top:10px;">
+									<span class="item_box_title">
+										<b>種族</b>
+									</span>
+		
+									水族
+		
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="item_box t_center" style="margin-top:10px;">
+									<span class="item_box_title">
+										<b>その他項目</b>
+									</span>
+		
+									 	チューナー
+		
+		
+							
+										／
+							
+									効果
+		
+		
+		
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<div class="item_box" style="margin-top:10px;margin-right:5px;">
+									<span class="item_box_title">
+										<b>攻撃力</b>
+									</span>
+									<span class="item_box_value">
+										200
+									</span>
+								</div>
+							</td>
+							<td>
+								<div class="item_box" style="margin-top:10px;margin-left:5px;">
+									<span class="item_box_title">
+										<b>守備力</b>
+									</span>
+									<span class="item_box_value">
+										
+										
+											1800
+										
+									</span>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="item_box_text" style="margin-top:10px;">
+									<div class="item_box_title">
+										<b>カードテキスト</b>
+									</div>
+									このカードをS素材とする場合、戦士族モンスターのS召喚にしか使用できず、S召喚に使用されたこのカードは除外される。①：このカードが召喚に成功した時、自分の墓地の「聖騎士」通常モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：このカードが墓地に存在する場合、自分フィールドのレベル５の「聖騎士」モンスター１体を対象として発動できる。そのモンスターのレベルを１つ下げ、このカードを墓地から特殊召喚する。
+									
+			
+								</div>
+							</td>
+						</tr>
+					</table><!--#details-->
+	
+	
+
+<!--シェア追加-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!--シェア追加-->
+					<table style="margin-top:5px;width:100%;text-align: center;">
+						<tr>
+							<td>
+								
+								<iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=10875&amp;sess=2&amp;sort=1&amp;rp=100&amp;page=1&amp;lang=ja&amp;count=horizontal&amp;hashtags=YugiohDB_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td>
+								
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10875%26request_locale%3Dja%26a%3D202105070018&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td style="display: block;margin:0 10px 0 0;">
+								
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10875&request_locale=ja&a=202105070018" data-layout="button_count" data-size="small" ></div>
+							</td>
+							<td>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10875&request_locale=ja&a=202105070018"></div>
+								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+							</td>
+						</tr>
+					</table>
+				
+				
+					<div id="relationCard_a">
+						<a href="#relationCard">このカードの関連カードを見る</a>
+					</div>
+				
+				</td>
+				<td valign="top" style="padding-left:8px;">
+
+	
+	
+					<div style="">
+						<a href="/yugiohdb/faq_search.action?ope=4&cid=10875" id="to_QandA" class="CD_a_btn" target="_blank"><b>このカードの<br>Ｑ＆Ａを表示</b></a>
+					</div>
+	
+	
+	
+					<div style="">
+						<a href="/yugiohdb/deck_search.action?cardid=10875" id="to_MyD" class="CD_a_btn" target="_blank"><b>このカードを<br>使用したデッキを検索</b></a>
+					</div>
+	
+	
+	
+	
+				</td>
+				</tr>
+			</table>
+
+
+
+
+
+			<div id="pack_list" class="radius_top">
+				<table>
+					<col width="100">
+					<col width="100">
+					<col width="*">
+					<col width="50">
+					<tr>
+						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2014-09-13</td>
+		
+		
+		
+						<td>EP14-JP015</td>
+		
+		
+						<td>
+							<b>EXTRA PACK - KNIGHTS OF ORDER -</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=3307006&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_r.png" class="icon_info rid_2" alt="レア仕様" style="margin-right: 7px;">
+		
+		
+						</td>
+					</tr>
+	
+				</table>
+			</div><!--#pack_list-->
+
+
+
+
+
+
+
+
+
+	<div class="list_style" id="relationCard">
+		<div class="li_top">関連カード</div>
+
+
+
+			<table style="margin:0 auto;width:100%;border-spacing: 0px;">
+				<tr>
+				<td valign="top" style="padding: 0px;">
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="mode" style="width:110px;">
+							<option value="1">画像表示</option>
+							<option value="2">テキスト表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="rp" style="width:170px;">
+							<option value="10">10件ずつ表示</option>
+							<option value="50">50件ずつ表示</option>
+							<option value="100">100件ずつ表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right">
+						<select id="sort" style="width:260px;">
+							<option value="1">50音順</option>
+							<option value="2">レベル／ランク順（大きい順）</option>
+							<option value="3">レベル／ランク順（小さい順）</option>
+							<option value="4">攻撃力順（大きい順）</option>
+							<option value="5">攻撃力順（小さい順）</option>
+							<option value="6">守備力順（大きい順）</option>
+							<option value="7">守備力順（小さい順）</option>
+							<option value="8">ペンデュラムスケール順（大きい順）</option>
+							<option value="9">ペンデュラムスケール順（小さい順）</option>
+							<option value="11">リンク数（多い順）</option>
+							<option value="12">リンク数（少ない順）</option>
+						</select>
+					</span>
+
+					
+					<div class="page_num_title">
+						<div>
+							<strong>
+
+								検索結果 32件中 1～32件を表示
+							</strong>
+						</div>
+					</div>
+					<br class="f_del">
+				</td>
+				</tr>
+			</table>
+
+
+
+
+		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えいこうのせいきしだん</span>
+						<span class="card_status">
+						<strong>栄光の聖騎士団</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの「聖騎士」モンスター１体を対象として発動できる。その自分のモンスターが装備可能な装備魔法カード１枚をデッキから選び、そのモンスターに装備する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="栄光の聖騎士団" title="栄光の聖騎士団" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13430">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんせいきし－アストルフォ</span>
+						<span class="card_status">
+						<strong>焔聖騎士－アストルフォ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 500</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれデュエル中に１度しか使用できない。①：自分の手札・墓地から戦士族・炎属性モンスター１体を除外して発動できる。このカードを手札から特殊召喚する。その後、このカードのレベルを除外したモンスターと同じにできる。②：墓地のこのカードを除外して発動できる。発動後２回目の自分スタンバイフェイズに、除外されているこのカードを特殊召喚する。その後、自分の墓地のモンスター及び除外されている自分のモンスターの中から、戦士族・炎属性モンスター１体を選んで特殊召喚できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="焔聖騎士－アストルフォ" title="焔聖騎士－アストルフォ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15246">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんせいきし－オジエ</span>
+						<span class="card_status">
+						<strong>焔聖騎士－オジエ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「焔聖騎士－オジエ」以外の戦士族・炎属性モンスター１体または「聖剣」カード１枚を墓地へ送る。②：このカードが墓地に存在する場合、自分フィールドの戦士族モンスター１体を対象として発動できる。このカードを装備カード扱いとしてその自分のモンスターに装備する。③：このカードの装備モンスターは効果では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="焔聖騎士－オジエ" title="焔聖騎士－オジエ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15247">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんせいきし－オリヴィエ</span>
+						<span class="card_status">
+						<strong>焔聖騎士－オリヴィエ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札及び自分フィールドの表側表示のカードの中から、戦士族・炎属性モンスター１体または装備魔法カード１枚を墓地へ送って発動できる。このカードを手札からレベル１モンスターとして特殊召喚する。②：このカードが墓地に存在する場合、自分フィールドの戦士族モンスター１体を対象として発動できる。このカードを装備カード扱いとしてその自分のモンスターに装備する。③：このカードの装備モンスターは相手の効果の対象にならない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="焔聖騎士－オリヴィエ" title="焔聖騎士－オリヴィエ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15248">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんせいきししょう－オリヴィエ</span>
+						<span class="card_status">
+						<strong>焔聖騎士将－オリヴィエ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>このカード名の②の効果は１ターンに１度しか使用できない。①：装備カードを装備したこのカードの攻撃宣言時に、フィールドの表側表示のカード１枚を対象として発動できる。そのカードを破壊する。②：自分フィールドの戦士族モンスター１体を対象として発動できる。このカードをチューナー扱いで墓地から特殊召喚し、対象の自分のモンスターを攻撃力５００アップの装備カード扱いとしてこのカードに装備する。この効果はこのカードが墓地へ送られたターンには発動できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_4_1" alt="焔聖騎士将－オリヴィエ" title="焔聖騎士将－オリヴィエ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15517">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんせいきしてい－シャルル</span>
+						<span class="card_status">
+						<strong>焔聖騎士帝－シャルル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 9</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドのモンスターに装備カードが装備された場合に発動できる（ダメージステップでも発動可能）。フィールドのカード１枚を選んで破壊する。②：自分・相手のエンドフェイズに発動できる。自分の手札・墓地から装備魔法カード１枚を選んでこのカードに装備する。その後、デッキから戦士族・炎属性モンスター１体を選んでこのカードに攻撃力５００アップの装備カード扱いとして装備できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="焔聖騎士帝－シャルル" title="焔聖騎士帝－シャルル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15276">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんせいきしどう－ローラン</span>
+						<span class="card_status">
+						<strong>焔聖騎士導－ローラン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがS召喚に成功した場合に発動できる。このターンのエンドフェイズに、デッキから装備魔法カード１枚を墓地へ送る。その後、デッキから戦士族モンスター１体を手札に加える。②：このカードが墓地に存在する場合、自分・相手のメインフェイズに、自分フィールドの戦士族モンスター１体を対象として発動できる。このカードを攻撃力５００アップの装備カード扱いとしてその自分のモンスターに装備する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="焔聖騎士導－ローラン" title="焔聖騎士導－ローラン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15275">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんせいきし－モージ</span>
+						<span class="card_status">
+						<strong>焔聖騎士－モージ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1500</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが墓地へ送られた場合、自分の墓地のカード及び除外されている自分のカードの中から、このカード以外の戦士族・炎属性モンスターまたは「聖剣」カードを合計３枚デッキに戻して発動できる。自分はデッキから１枚ドローする。②：このカードが墓地に存在する場合、自分フィールドの戦士族モンスター１体を対象として発動できる。このカードを装備カード扱いとしてその自分のモンスターに装備する。③：このカードの装備モンスターは戦闘では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="焔聖騎士－モージ" title="焔聖騎士－モージ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15249">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんせいきし－リナルド</span>
+						<span class="card_status">
+						<strong>焔聖騎士－リナルド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 500</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：自分フィールドに戦士族・炎属性モンスターが存在する場合、このカードは手札から特殊召喚できる。この方法で特殊召喚したこのカードはチューナーとして扱う。②：このカードが特殊召喚に成功した場合、自分の墓地のカード及び除外されている自分のカードの中から、「焔聖騎士－リナルド」以外の戦士族・炎属性モンスター１体または装備魔法カード１枚を対象として発動できる。そのカードを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_8_1" alt="焔聖騎士－リナルド" title="焔聖騎士－リナルド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15082">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんせいきし－ローラン</span>
+						<span class="card_status">
+						<strong>焔聖騎士－ローラン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 500</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの表側表示モンスター１体を対象として発動できる。このカードを手札から攻撃力５００アップの装備カード扱いとしてその自分のモンスターに装備する。この効果は相手ターンでも発動できる。②：このカードが墓地へ送られたターンのエンドフェイズに発動できる。デッキから「焔聖騎士－ローラン」以外の戦士族・炎属性モンスター１体または装備魔法カード１枚を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_9_1" alt="焔聖騎士－ローラン" title="焔聖騎士－ローラン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14803">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんたくのせいきし</span>
+						<span class="card_status">
+						<strong>円卓の聖騎士</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_field.png" alt="フィールド" title="フィールド">
+							<span>フィールド</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分エンドフェイズに、自分のフィールド・墓地の「聖騎士」カードの種類によって以下の効果をそれぞれ１度ずつ発動できる。<br>●３種類以上：デッキから「聖騎士」カード１枚を墓地へ送る。<br>●６種類以上：手札から「聖騎士」モンスター１体を特殊召喚する。その後、手札から「聖剣」装備魔法カード１枚をそのモンスターに装備できる。<br>●９種類以上：自分の墓地の「聖騎士」モンスター１体を対象として発動できる。そのモンスターを手札に加える。<br>●１２種類：自分はデッキから１枚ドローする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_10_1" alt="円卓の聖騎士" title="円卓の聖騎士" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11202">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>しんせいきしおうアルトリウス</span>
+						<span class="card_status">
+						<strong>神聖騎士王アルトリウス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 5</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2200</span>
+						
+						
+							<span class="def_power">守備力 2200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル５「聖騎士」モンスター×２<br>①：このカードがX召喚に成功した時、自分の墓地の「聖剣」装備魔法カードを３種類まで対象として発動できる。対象のカードをこのカードに装備する。②：１ターンに１度、このカードのX素材を１つ取り除き、このカード以外のフィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。③：このカードがフィールドから墓地へ送られた場合、自分の墓地のレベル４以上の「聖騎士」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_11_1" alt="神聖騎士王アルトリウス" title="神聖騎士王アルトリウス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10878">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>しんせいきしおうコルネウス</span>
+						<span class="card_status">
+						<strong>神聖騎士王コルネウス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1500</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル４「聖騎士」モンスター×２体以上<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードのX素材を任意の数だけ取り除き、その数だけ相手フィールドのカードを対象として発動できる。そのカードを持ち主の手札に戻す。②：このカードが戦闘・効果で破壊され墓地へ送られた場合に発動できる。「神聖騎士王コルネウス」以外の「聖騎士」Xモンスター１体をX召喚扱いとしてEXデッキから特殊召喚し、墓地のこのカードを下に重ねてX素材とする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_12_1" alt="神聖騎士王コルネウス" title="神聖騎士王コルネウス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13985">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしアルトリウス</span>
+						<span class="card_status">
+						<strong>聖騎士アルトリウス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							通常
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 1800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						聖騎士団に所属する聡明な青年騎士。導かれるかの如く分け入った森の中、ついに運命にたどり着く。そして青年は大きな一歩を踏み出すのだ。<br>――これは全ての始まりであり、大いなる叙事詩である。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_13_1" alt="聖騎士アルトリウス" title="聖騎士アルトリウス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10115">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしイヴァン</span>
+						<span class="card_status">
+						<strong>聖騎士イヴァン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1700</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが「聖剣」装備魔法カードを装備した場合に発動できる。自分フィールドに「聖騎士トークン」（戦士族・光・星４・攻／守１０００）１体を特殊召喚する。この効果の発動後、ターン終了時まで自分は「聖騎士」モンスターしか特殊召喚できない。②：このカードが「聖剣」装備魔法カードを装備している限り、このカード以外の自分フィールドの「聖騎士」モンスターの攻撃力は５００アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_14_1" alt="聖騎士イヴァン" title="聖騎士イヴァン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14073">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしエクター・ド・マリス</span>
+						<span class="card_status">
+						<strong>聖騎士エクター・ド・マリス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「聖騎士エクター・ド・マリス」の①の効果は１ターンに１度しか使用できない。①：自分の墓地の「聖騎士」モンスター２体を除外して発動できる。このカードを手札・墓地から特殊召喚する。②：このカードを素材とした「聖騎士」モンスターのS召喚・X召喚は無効化されず、その特殊召喚成功時に相手は魔法・罠・モンスターの効果を発動できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_15_1" alt="聖騎士エクター・ド・マリス" title="聖騎士エクター・ド・マリス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11197">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしおうアルトリウス</span>
+						<span class="card_status">
+						<strong>聖騎士王アルトリウス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル４「聖騎士」モンスター×２<br>①：このカードがX召喚に成功した時、自分の墓地の「聖剣」装備魔法カードを３枚まで対象として発動できる（同名カードは１枚まで）。そのカードをこのカードに装備する。②：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。自分フィールドの「聖剣」装備魔法カードの数まで、フィールドの魔法・罠カードを選んで破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_16_1" alt="聖騎士王アルトリウス" title="聖騎士王アルトリウス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10474">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしガウェイン</span>
+						<span class="card_status">
+						<strong>聖騎士ガウェイン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1900</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上に光属性の通常モンスターが存在する場合、このカードは手札から表側守備表示で特殊召喚できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_17_1" alt="聖騎士ガウェイン" title="聖騎士ガウェイン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10311">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしガラハド</span>
+						<span class="card_status">
+						<strong>聖騎士ガラハド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1500</span>
+						
+						
+							<span class="def_power">守備力 1800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードはフィールド上に表側表示で存在する限り、通常モンスターとして扱う。このカードが「聖剣」と名のついた装備魔法カードを装備している限り、このカードは効果モンスター扱いとなり以下の効果を得る。●自分の墓地の「聖騎士」と名のついたモンスター１体を選択して発動できる。選択したモンスターを手札に加え、自分フィールド上の「聖剣」と名のついた装備魔法カード１枚を選んで破壊する。「聖騎士ガラハド」のこの効果は１ターンに１度しか使用できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_18_1" alt="聖騎士ガラハド" title="聖騎士ガラハド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10595">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしコルネウス</span>
+						<span class="card_status">
+						<strong>聖騎士コルネウス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：自分フィールドに「聖剣」装備魔法カードが存在する場合、このカードは手札から特殊召喚できる。②：フィールドのこのカードを素材としてS・X・リンク召喚した「聖騎士」モンスターは以下の効果を得る。●この特殊召喚に成功した場合に発動できる。このターン、自分は通常召喚に加えて１度だけ、自分メインフェイズにモンスター１体を召喚できる。この効果の発動後、ターン終了時まで自分は「聖騎士」モンスターしかEXデッキから特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_19_1" alt="聖騎士コルネウス" title="聖騎士コルネウス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13984">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしジャンヌ</span>
+						<span class="card_status">
+						<strong>聖騎士ジャンヌ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1900</span>
+						
+						
+							<span class="def_power">守備力 1300</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが攻撃するダメージステップの間、このカードの攻撃力は３００ダウンする。②：このカードが相手によって破壊され墓地へ送られた場合、手札を１枚墓地へ送り、自分の墓地のレベル４以下の戦士族モンスター１体を対象として発動できる。その戦士族モンスターを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_20_1" alt="聖騎士ジャンヌ" title="聖騎士ジャンヌ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9201">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしでんせつのしゅうまく</span>
+						<span class="card_status">
+						<strong>聖騎士伝説の終幕</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「聖騎士伝説の終幕」は１ターンに１枚しか発動できない。①：相手フィールドにモンスターが存在し、自分フィールドにモンスターが存在しない場合、自分の墓地の、「聖騎士」モンスター１体とそのモンスターが装備可能な「聖剣」装備魔法カード１枚を対象として発動できる。そのモンスターを特殊召喚し、その装備魔法カードを正しい対象となるそのモンスターに装備する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_21_1" alt="聖騎士伝説の終幕" title="聖騎士伝説の終幕" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11470">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしトリスタン</span>
+						<span class="card_status">
+						<strong>聖騎士トリスタン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「聖騎士トリスタン」の②の効果は１ターンに１度しか使用できない。①：自分フィールドにこのカード以外の「聖騎士」モンスターが存在する限り、相手はこのカード以外の自分フィールドの攻撃力１８００未満のモンスターを攻撃対象にできず、効果の対象にもできない。②：このカードが「聖剣」装備魔法カードを装備した場合、フィールドの表側表示のカード１枚を対象として発動する。その表側表示のカードを破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_22_1" alt="聖騎士トリスタン" title="聖騎士トリスタン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10813">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしのさんきょうだい</span>
+						<span class="card_status">
+						<strong>聖騎士の三兄弟</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 2400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚に成功した時に発動できる。手札から「聖騎士」モンスターを２体まで特殊召喚する。この効果の発動後、ターン終了時まで自分は「聖騎士」モンスターしか特殊召喚できない。②：このカードは、自分フィールドのモンスターが「聖騎士」モンスター３体の場合にのみ攻撃できる。③：１ターンに１度、自分の墓地の「聖騎士」カード及び「聖剣」カードを合計３枚対象として発動できる。そのカード３枚をデッキに加えてシャッフルする。その後、自分はデッキから１枚ドローする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_23_1" alt="聖騎士の三兄弟" title="聖騎士の三兄弟" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11196">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしのついそう　イゾルデ</span>
+						<span class="card_status">
+						<strong>聖騎士の追想 イゾルデ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+						<span class="box_card_linkmarker">
+							<img class="icon_img" src="external/image/parts/link_pc/link13.png" alt="リンク" title="リンク">
+							<span>リンク 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							リンク
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+							<span class="def_power">守備力 - </span>
+						
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						戦士族モンスター２体<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがリンク召喚に成功した場合に発動できる。デッキから戦士族モンスター１体を手札に加える。このターン、自分はこの効果で手札に加えたモンスター及びその同名モンスターを通常召喚・特殊召喚できず、そのモンスター効果も発動できない。②：デッキから装備魔法カードを任意の数だけ墓地へ送って発動できる（同名カードは１枚まで）。墓地へ送ったカードの数と同じレベルの戦士族モンスター１体をデッキから特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_24_1" alt="聖騎士の追想 イゾルデ" title="聖騎士の追想 イゾルデ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13500">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしパーシヴァル</span>
+						<span class="card_status">
+						<strong>聖騎士パーシヴァル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1900</span>
+						
+						
+							<span class="def_power">守備力 300</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが「聖剣」装備魔法カードを装備している限り、このカードはレベルが１つ上がり闇属性になる。②：「聖剣」装備魔法カードを装備したこのカードが墓地へ送られた場合、自分の墓地の「聖剣」カード１枚を対象として発動する。そのカードを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_25_1" alt="聖騎士パーシヴァル" title="聖騎士パーシヴァル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10989">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしベディヴィエール</span>
+						<span class="card_status">
+						<strong>聖騎士ベディヴィエール</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚・特殊召喚に成功した時に発動できる。デッキから「聖剣」装備魔法カード１枚を墓地へ送る。②：このカードがフィールドに表側表示で存在する限り１度だけ、フィールドの「聖剣」装備魔法カード１枚と、そのカードを装備可能なモンスター１体を対象として発動できる。その装備魔法カードを正しい対象となるそのモンスターに移し替える。この効果は相手ターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_26_1" alt="聖騎士ベディヴィエール" title="聖騎士ベディヴィエール" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11469">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしペリノア</span>
+						<span class="card_status">
+						<strong>聖騎士ペリノア</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1900</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の効果は１ターンに１度しか使用できない。①：このカードに装備されている「聖剣」装備魔法カード１枚と相手フィールドの表側表示モンスター１体を対象として発動できる。そのカードを破壊する。その後、自分はデッキから１枚ドローする。この効果の発動後、ターン終了時までこのカードは攻撃できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_27_1" alt="聖騎士ペリノア" title="聖騎士ペリノア" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13986">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしボールス</span>
+						<span class="card_status">
+						<strong>聖騎士ボールス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1700</span>
+						
+						
+							<span class="def_power">守備力 900</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードはモンスターゾーンに存在する限り、通常モンスターとして扱う。②：このカードが「聖剣」装備魔法カードを装備している限り、このカードは効果モンスター扱いとなり以下の効果を得る。●このカードはレベルが１つ上がり闇属性になる。●自分メインフェイズに発動できる。デッキから「聖剣」カード３枚を相手に見せ、相手はその中からランダムに１枚選ぶ。そのカード１枚を自分の手札に加え、残りを墓地へ送る。このカード名のこの効果は１ターンに１度しか使用できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_28_1" alt="聖騎士ボールス" title="聖騎士ボールス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10876">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしモルドレッド</span>
+						<span class="card_status">
+						<strong>聖騎士モルドレッド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1700</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードはモンスターゾーンに存在する限り、通常モンスターとして扱う。②：このカードが「聖剣」装備魔法カードを装備している限り、このカードは効果モンスター扱いとなり以下の効果を得る。●このカードはレベルが１つ上がり闇属性になる。●１ターンに１度、自分フィールドにこのカード以外のモンスターが存在しない場合に発動できる。デッキから「聖騎士モルドレッド」以外の「聖騎士」モンスター１体を守備表示で特殊召喚し、自分フィールドの装備魔法カード１枚を選んで破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_29_1" alt="聖騎士モルドレッド" title="聖騎士モルドレッド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10469">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ませいきしおうランスロット</span>
+						<span class="card_status">
+						<strong>魔聖騎士皇ランスロット</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2100</span>
+						
+						
+							<span class="def_power">守備力 900</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外の「聖騎士」モンスター１体以上<br>①：「魔聖騎士皇ランスロット」は自分フィールドに１体しか表側表示で存在できない。②：このカードがS召喚に成功した時に発動できる。デッキから「聖剣」装備魔法カード１枚を選んでこのカードに装備する。③：このカードが戦闘でモンスターを破壊し墓地へ送ったバトルフェイズ終了時に発動できる。デッキから「聖騎士」カードまたは「聖剣」カード１枚を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_30_1" alt="魔聖騎士皇ランスロット" title="魔聖騎士皇ランスロット" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10877">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ませいきしランスロット</span>
+						<span class="card_status">
+						<strong>魔聖騎士ランスロット</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上に表側表示で存在する光属性の通常モンスター１体を墓地へ送って発動できる。このカードを手札または墓地から特殊召喚する。また、自分フィールド上の「聖騎士」と名のついたモンスター１体をリリースして発動できる。デッキから「聖剣」と名のついたカード１枚を手札に加える。「魔聖騎士ランスロット」のこの効果は１ターンに１度しか使用できない。また、「魔聖騎士ランスロット」は自分フィールド上に１体しか表側表示で存在できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_31_1" alt="魔聖騎士ランスロット" title="魔聖騎士ランスロット" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10350">
+			</li>
+		  
+		</ul><!--.box_list-->
+	</div><!--.list_style-->
+
+	<div class="page_num">
+		<span>
+			
+			
+			  
+				<a class="nowpage">1</a>
+			  
+			  
+			
+			
+		</span>
+	</div>
+
+
+
+
+
+
+
+
+	
+
+			<script type="text/javascript">
+			<!--
+
+			$(function(){
+
+				
+				$('#keyword[value=]').css('color', '#bbb').val('キーワードを入力');
+				$('#keyword').focus(function(){
+					if ($(this).val() == 'キーワードを入力') {
+						$(this).val('').css('color', '#555');
+					}
+				}).blur(function(){
+					if ($(this).val() == ''){
+						$(this).css('color', '#bbb').val('キーワードを入力');
+					}
+					if ($(this).val() != 'キーワードを入力') {
+						$(this).css('color', '#555');
+					}
+				});
+
+
+				
+				$('.search_box_tips').hover(
+					function(e){
+
+						if (($(this).closest('.search_body').css('opacity') != 1)) {
+							return false;
+						}
+
+						var tips_txt = $(this).attr('alt');
+						$(this).after('<span id="search_box_tips"><span></span></span>');
+						$('#search_box_tips span').text(tips_txt);
+
+						var offset = $(this).offset();
+						var pos_x = offset.left - 30;
+						var pos_y = offset.top - 34;
+
+						$('#search_box_tips').css({
+							'position': 'absolute',
+							'top': pos_y,
+							'left': pos_x,
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) right bottom no-repeat',
+							'height': '35px',
+							'padding-right': '4px'
+						});
+
+						$('#search_box_tips span').css({
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) left top no-repeat',
+							'line-height': '23px',
+							'height': '35px',
+							'padding': '0 5px 0 20px',
+							'font-weight': 'bold',
+							'font-size': '12px',
+							'color': '#6a3807'
+						});
+					},
+					function(e){
+						if ($(this).closest('.search_body').css('opacity') != 1) {
+							return false;
+						}
+						$('#search_box_tips').remove();
+					}
+				);
+
+				
+				$('.attreffe, .species, .other, .jogai').click(function(){
+					if ($(this).hasClass('button_off')) {
+						$(this).addClass('button_on').removeClass('button_off');
+						$(':checkbox', this).prop('checked', true);
+					} else {
+						$(this).addClass('button_off').removeClass('button_on');
+						$(':checkbox', this).prop('checked', false);
+					}
+				});
+				
+				$('.othercon_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.othercon_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('.link_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.link_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('#condition_toggle').click(function(){
+					$('#search_by_attack_and_defense_and_level, #search_by_attribute, #search_by_effect, #search_by_species, #search_by_other, #search_by_jogai').toggle();
+				});
+
+				
+				$('#form_search input:text').keypress(function(e){
+					if (e.keyCode == 13) {
+						Search();
+					}
+				});
+
+			});
+
+			
+			function ChangeCtype(value, label) {
+				switch (value) {
+
+				case '':
+				case '1':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', false);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					if (value == '') {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					} else {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					break;
+
+				case '2':
+				case '3':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', true);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					if (value == '2') {
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					} else {
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					break;
+
+				default:
+					break;
+				}
+			}
+
+			
+			function Search() {
+				if ($('#keyword').css('color') == '#bbb' || $('#keyword').css('color') == 'rgb(187, 187, 187)') {
+					$('#keyword').val('');
+				}
+				$('#form_search').get(0).submit();
+			}
+
+			//-->
+			</script>
+
+			<form id="form_search" action="/yugiohdb/card_search.action" method="GET">
+				<input type="hidden" name="ope" value="1">
+				<input type="hidden" name="sess" value="1">
+
+				<div id="search_box">
+
+					<div id="search_by_keyword_and_type" style="padding:5px 8px;">
+						<table style="width:100%;">
+							<col width="36">
+							<col width="325">
+							<col width="249">
+							<col width="176">
+							<col width="*">
+							<tr valign="middle">
+								<td>
+									<img src="external/image/parts/icon_search.png" alt="Search">
+								</td>
+								<td valign="top">
+									<input type="text" id="keyword" name="keyword" style="width:300px;" maxlength="50">
+								</td>
+								<td valign="top">
+									<select id="stype" name="stype" style="width:218px;">
+										<option value="1">カード名で検索</option>
+										<option value="2">カードテキストで検索</option>
+										<option value="3">ペンデュラム効果で検索</option>
+										<option value="4">カードNoで検索</option>
+									</select>
+								</td>
+								<td valign="top">
+									<select id="ctype" name="ctype" style="width:145px;">
+										<option value="">すべてのカード</option>
+
+										<option value="1">モンスターカード</option>
+
+										<option value="2">魔法カード</option>
+
+										<option value="3">罠カード</option>
+
+									</select>
+								</td>
+								<td>
+									<a href="javascript:Search();" class="black_btn"><b>検　索</b></a>
+								</td>
+							</tr>
+						</table>
+					</div>
+
+					<div id="condition_toggle">
+						さらに条件を絞って検索
+					</div><!--#condition_toggle-->
+
+					<div id="search_by_attack_and_defense_and_level" class="none">
+						<div class="search_body" style="border-bottom:solid 1px #414a56;padding-bottom: 5px;">
+							<div id="search_set">
+								<div class="search_l">
+									<div class="search_top">
+										<span id="level_rank_title">
+											<b>レベル／ランク</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="0から13までのレベルあるいはランクを絞り込みます">
+										</span>
+										<span id="level_rank_input">
+											<input type="text" id="starfr" name="starfr" maxlength="2">
+											<input type="text" id="starto" name="starto" maxlength="2">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="pen_scale_title">
+											<b>ペンデュラム</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="ペンデュラムスケールで絞り込みます">
+										</span>
+										<span id="pen_scale_input">
+											<input type="text" id="pscalefr" name="pscalefr" maxlength="2">
+											<input type="text" id="pscaleto" name="pscaleto" maxlength="2">
+										</span>
+									</div>
+								</div>
+								<div class="search_m">
+									<div class="search_m_l">
+										<div class="search_top">
+											<span id="link_title">
+												<b>リンク</b>
+												<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="リンクを数値またはマーカーの位置で絞り込みます。">
+											</span>
+										</div>
+										<div class="search_bottom">
+											<span id="link_input">
+												<input type="text" id="linkmarkerfr" name="linkmarkerfr" maxlength="2">
+												<input type="text" id="linkmarkerto" name="linkmarkerto" maxlength="2">
+											</span>
+										</div>
+									</div>
+									<div class="search_m_r">
+										<div class="link_m_set">
+											<form>
+												<input type="checkbox" id="linkbtn7" name="linkbtn7" value="7"><label class="linkbtn7" for="linkbtn7"></label>
+												<input type="checkbox" id="linkbtn8" name="linkbtn8" value="8"><label class="linkbtn8" for="linkbtn8"></label>
+												<input type="checkbox" id="linkbtn9" name="linkbtn9" value="9"><label class="linkbtn9" for="linkbtn9"></label>
+												<input type="checkbox" id="linkbtn4" name="linkbtn4" value="4"><label class="linkbtn4" for="linkbtn4"></label>
+												<input type="checkbox" id="linkbtn6" name="linkbtn6" value="6"><label class="linkbtn6" for="linkbtn6"></label>
+												<input type="checkbox" id="linkbtn1" name="linkbtn1" value="1"><label class="linkbtn1" for="linkbtn1"></label>
+												<input type="checkbox" id="linkbtn2" name="linkbtn2" value="2"><label class="linkbtn2" for="linkbtn2"></label>
+												<input type="checkbox" id="linkbtn3" name="linkbtn3" value="3"><label class="linkbtn3" for="linkbtn3"></label>
+											</form>
+										</div>
+										<div id="and_or2">
+											<a href="javascript:void(0);" class="link_left radio_off_left">
+												<img alt="">
+												<b>and</b>
+												<input type="radio" id="link_and" name="link_m" value="1" class="none">
+											</a>
+											<a href="javascript:void(0);" class="link_right radio_off_right" style="">
+												<img alt="">
+												<b>or</b>
+												<input type="radio" id="link_or"  name="link_m" value="2" class="none">
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="search_r">
+									<div class="search_top">
+										<span id="attack_title">
+											<b>攻撃力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="攻撃力で絞り込みます、最大は5000です">
+										</span>
+										<span id="attack_input">
+											<input type="text" id="atkfr" name="atkfr" maxlength="4">
+											<input type="text" id="atkto" name="atkto" maxlength="4">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="defense_title">
+											<b>守備力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="守備力で絞り込みます、最大は5000です">
+										</span>
+										<span id="defense_input">
+											<input type="text" id="deffr" name="deffr" maxlength="4">
+											<input type="text" id="defto" name="defto" maxlength="4">
+										</span>
+									</div>
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attack_and_defense_and_level-->
+
+
+					<div id="search_by_attribute" style="margin-bottom:-7px;border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>属性</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい属性を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_dark.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												闇属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_light.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												光属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_earth.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												地属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_water.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												水属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_fire.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												炎属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_wind.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												風属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_divine.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												神属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="17">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attribute-->
+
+
+
+					<div id="search_by_effect" style="border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body" style="padding-top: 2px;">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>効果</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい効果を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_1_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_equip.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												装備
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_2_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_field.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												フィールド
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_3_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_quickplay.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												速攻
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="25">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_4_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_ritual.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												儀式
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_5_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_continuous.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												永続
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="24">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_6_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_counter.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												カウンター
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_7_ja">
+		
+		
+										<span style="padding-left:18px;">
+											通常
+										</span>
+		
+										<input type="checkbox" name="effe" class="none" value="20">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_effect-->
+
+
+
+					<div id="search_by_species" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>種族</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい種族を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="species button_off species_1_ja">
+										魔法使い族
+										<input type="checkbox" name="species" class="none" value="18">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_2_ja">
+										ドラゴン族
+										<input type="checkbox" name="species" class="none" value="1">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_3_ja">
+										アンデット族
+										<input type="checkbox" name="species" class="none" value="2">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_4_ja">
+										戦士族
+										<input type="checkbox" name="species" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_5_ja">
+										獣戦士族
+										<input type="checkbox" name="species" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_6_ja">
+										獣族
+										<input type="checkbox" name="species" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_7_ja">
+										鳥獣族
+										<input type="checkbox" name="species" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_8_ja">
+										悪魔族
+										<input type="checkbox" name="species" class="none" value="3">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_9_ja">
+										天使族
+										<input type="checkbox" name="species" class="none" value="17">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_10_ja">
+										昆虫族
+										<input type="checkbox" name="species" class="none" value="10">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_11_ja">
+										恐竜族
+										<input type="checkbox" name="species" class="none" value="9">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_12_ja">
+										爬虫類族
+										<input type="checkbox" name="species" class="none" value="20">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_13_ja">
+										魚族
+										<input type="checkbox" name="species" class="none" value="8">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_14_ja">
+										海竜族
+										<input type="checkbox" name="species" class="none" value="5">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_15_ja">
+										水族
+										<input type="checkbox" name="species" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_16_ja">
+										炎族
+										<input type="checkbox" name="species" class="none" value="4">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_17_ja">
+										雷族
+										<input type="checkbox" name="species" class="none" value="19">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_18_ja">
+										岩石族
+										<input type="checkbox" name="species" class="none" value="6">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_19_ja">
+										植物族
+										<input type="checkbox" name="species" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_20_ja">
+										機械族
+										<input type="checkbox" name="species" class="none" value="7">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_21_ja">
+										サイキック族
+										<input type="checkbox" name="species" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_22_ja">
+										幻神獣族
+										<input type="checkbox" name="species" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_23_ja">
+										創造神族
+										<input type="checkbox" name="species" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_24_ja">
+										幻竜族
+										<input type="checkbox" name="species" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_25_ja">
+										サイバース族
+										<input type="checkbox" name="species" class="none" value="27">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_species-->
+
+
+
+					<div id="search_by_other" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>その他項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたいその他の項目を選択してください、AndあるいはOrで絞り込みます">
+									<div id="and_or">
+										<a href="javascript:void(0);" class="othercon_left radio_off_left">
+											<img alt="">
+											<b>and</b>
+											<input type="radio" id="othercon_and" name="othercon" value="1" class="none">
+										</a>
+										<a href="javascript:void(0);" class="othercon_right radio_off_right" style="padding-left:5px;">
+											<img alt="">
+											<b>or</b>
+											<input type="radio" id="othercon_or"  name="othercon" value="2" class="none">
+										</a>
+									</div>
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_other-->
+
+
+
+					<div id="search_by_jogai" style="border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>除外項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="除外したい項目を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_jogai-->
+
+
+				</div><!--#search_box-->
+
+			</form><!--#form_search-->
+
+
+		</div><!--#article_body-->
+	</article>
+
+
+
+
+
+
+	<div id="cdb_link_set"><a class="link_ocg" href="//www.yugioh-card.com/japan/" target="_blank">遊戯王公式サイト</a> <a class="link_neuron" href="//www.konami.com/yugioh/neuron/ja/" target="_blank">遊戯王ニューロン</a> <a class="link_cgn" href="//cardgame-network.konami.net/" target="_blank">KONAMI CARD GAME NETWORK</a> <a class="link_kst" href="http://www.konamistyle.jp/" target="_blank">コナミスタイル</a> <a class="link_kfs" href="https://www.konami.com/games/card/friendly_shop/" target="_blank">コナミ フレンドリーショップ</a> <a class="link_rushdb" href="https://www.db.yugioh-card.com/rushdb/" target="_blank">遊戯王ラッシュデュエルカードデータベース</a> </div>
+
+	<footer id="footer">
+		<div id="content_copyright">&copy;スタジオ・ダイス／集英社・テレビ東京・KONAMI</div>
+		<div id="footer_meta">
+			<nav>
+				<ul>
+					<li><a href="http://www.yugioh-card.com/japan/support/" target="_blank">お問い合わせ</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://www.konami.com/siteinfo/ja/" target="_blank">サイトポリシー</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://legal.konami.com/games/privacy/ja/" target="_blank">個人情報等保護方針</a></li><!--
+				 --><li>|</li><!--
+				 --><li></li>
+				</ul>
+			</nav>
+			<small>&copy;2021 Konami Digital Entertainment</small>
+		</div>
+	</footer>
+</div><!--wrapper-->
+<noscript>JavaScript を有効にしてください</noscript>
+
+</body>
+</html>
+

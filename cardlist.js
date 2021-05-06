@@ -22,7 +22,7 @@ request(options)
 .then(data=>{
   const links = Array.from(
     new Set(
-      data.split("\r\n").filter(v=>/class="link_value" /.test(v) ).map(v=>domain + v.split("\"")[5] ).slice(0,2)
+      data.split("\r\n").filter(v=>/class="link_value" /.test(v) ).map(v=>domain + v.split("\"")[5] ).slice(0, 3)
     )
   )
   const result = [];
@@ -34,8 +34,8 @@ request(options)
       const link = links.shift();
       options.url = link;
       return request(options).then(data=>{
-        const _links = data.split("\r\n").filter(v=>/class="link_value" /.test(v) ).map(v=>domain + v.split("\"")[5] );
-        result.push(_links.slice(-2) );
+        const _links = data.split("\r\n").filter(v=>/class="link_value" /.test(v) ).map(v=>domain + v.split("\"")[5] ).slice(0,3);
+        result.push(_links);
         return new Promise(resolve=>{
           setTimeout(()=>{
             promise().then(data=>resolve(data) );

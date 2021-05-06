@@ -1,0 +1,5582 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	<meta name="keywords" content="BF－東雲のコチ,遊戯王,デッキ,デュエルモンスターズ,VRAINS,ヴレインズ,禁止,制限,パック,禁止カード,カード,カードリスト,ルール,OCG,コナミ,KONAMI"/>
+	<meta name="description" content="「BF－東雲のコチ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+	<meta name="title" content="BF－東雲のコチ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:title" content="BF－東雲のコチ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:description" content="「BF－東雲のコチ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。" />
+	<meta name="twitter:title" content="BF－東雲のコチ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta name="twitter:description" content="「BF－東雲のコチ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9242%26request_locale%3Dja%26a%3D202105062353"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9242%26request_locale%3Dja%26a%3D202105062353"/>
+
+	<meta http-equiv="x-ua-compatible" content="IE=10" >
+	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="ja">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="imagetoolbar" content="no">
+
+	<meta property="og:site_name" content="遊戯王OCGカードデータベース">
+
+	<meta property="og:type" content="product" />
+	<meta property="og:locale" content="ja_JP" />
+
+	<meta name="twitter:card" content="summary"/>
+
+	<script type="text/javascript" src="/yugiohdb/ga.js"></script>
+	<meta name="copyright" content="KONAMI">
+	<link rel="shortcut icon" href="external/image/yugioh.ico">
+	<link rel="apple-touch-icon" href="external/image/apple-touch-icon.png">
+
+
+
+	<meta property='og:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=9242&ciid=1&enc=1Smg4AYgUpDv6MD8GhtHoQ&app=tournament&request_locale=ja" />
+	<meta name='twitter:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=9242&ciid=1&enc=1Smg4AYgUpDv6MD8GhtHoQ&app=tournament&request_locale=ja" />
+
+
+
+
+	
+
+
+	
+		<title>BF－東雲のコチ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</title>
+	
+	
+
+
+
+
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="external/html5/js/html5shiv.js"></script>
+<![endif]-->
+	<script type="text/javascript" src="external/jquery/jquery-1.7.2.js"></script>
+	<script type="text/javascript" src="external/jquery/jquery-ui-1.8.16.custom/js/jquery-ui-1.8.16.custom.min.js"></script>
+ 	<script type="text/javascript" src="external/jquery/jquery.dropkick/js/jquery.dropkick-1.0.0.js"></script>
+	<script type="text/javascript" src="external/js/common.js"></script>
+
+	<script type="text/javascript" src="external/jquery/scrolltopcontrol.js"></script>
+
+
+
+
+
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery-ui-1.8.16.custom/css/ui-lightness/jquery-ui-1.8.16.custom.css">
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery.dropkick/css/dropkick.css">
+	<link type="text/css" rel="stylesheet" href="external/css/common.css?20171030">
+
+	<link rel="stylesheet" type="text/css" href="external/css/CardDetail.css">
+
+	<script type="text/javascript">
+	<!--
+
+	$(function() {
+		$('a[href^=#]').click(function(){
+			$('html,body').animate({scrollTop:$($(this).attr("href")).offset().top},'slow','swing');
+			return false;
+		})
+
+		$('#message').hide();
+		
+		$('#keyword').val('');
+		$('#stype').val('1');
+		$('#ctype').val('');
+		$('input:checkbox').prop('checked', false);
+ 		$('#othercon_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#othercon_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+		$('#link_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#link_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+
+		
+		$('#stype').dropkick({
+			theme: 'stype_ja'
+		});
+		$('#ctype').dropkick({
+			change: function (value, label) {
+				ChangeCtype(value, label);
+			}
+		});
+
+	   
+
+		
+	   
+		$('#card_image_1').attr('src', '/yugiohdb/get_image.action?type=2&cid=9242&ciid=1&enc=1Smg4AYgUpDv6MD8GhtHoQ').show();
+		$('#thumbnail_card_image_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9242&ciid=1&enc=1Smg4AYgUpDv6MD8GhtHoQ').addClass('current').show();
+	   
+		
+		$('#thumbnail img').click(function(){
+			
+			var setImgId = $(this).attr('alt');
+			var setContent = 'https://www.db.yugioh-card.com'
+			         + '/yugiohdb/get_image.action'
+			         + '?type=1&osplang=1&cid=9242'
+			         + '&ciid=' + setImgId
+			         + '&enc=1Smg4AYgUpDv6MD8GhtHoQ'
+			         + '&app=tournament'
+			         + '&request_locale=ja'
+			         ;
+			$("meta[property='og:image']").attr('content',setContent); 
+			$("meta[name='twitter:image']").attr('content',setContent);
+
+			$('[id^=card_image]').hide();
+			$('#card_image_' + $(this).attr('alt')).show();
+			$('[id^=thumbnail_card_image]').removeClass('current');
+			$(this).addClass('current');
+		});
+
+		
+		$('#pack_list table tr.row').click(function() {
+			location.href = $('.link_value', this).val();
+		});
+		
+		
+			
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8202&ciid=1&enc=WH0Ok7ssdq5OUHmiJnzyeQ').show();
+			
+		
+			
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12446&ciid=1&enc=O1foa3I9MbP5mzl13VA5Pw').show();
+			
+		
+			
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12448&ciid=1&enc=Ep7H-AGVxxH7MxEKWPVgLw').show();
+			
+		
+			
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11962&ciid=1&enc=tFgdo9nK4GLCdHRCTnTOPw').show();
+			
+		
+			
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12447&ciid=1&enc=T_No5HMevooVspqyFDg48g').show();
+			
+		
+			
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11991&ciid=1&enc=9Pm0oRB5kSX1ZWxUgmJFUQ').show();
+			
+		
+			
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12323&ciid=1&enc=a7CMU378JyfT7dFtRKJXjw').show();
+			
+		
+			
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8203&ciid=1&enc=oklc6565kNWsLxORmkADfg').show();
+			
+		
+			
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8821&ciid=1&enc=13qqP7nhu30G9ke9SwjMBA').show();
+			
+		
+			
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9245&ciid=1&enc=x2nLeXvqkEKmNZURb_hTtg').show();
+			
+		
+			
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13855&ciid=1&enc=w3ygVdXYBwm1IUpenfVgUQ').show();
+			
+		
+			
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8220&ciid=1&enc=6kcWwv_mX22kbXQ0LNcFxA').show();
+			
+		
+			
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8222&ciid=1&enc=4eHghxfGO6PfNVKy_wlsZA').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8043&ciid=1&enc=v_jcpDGCAdhtSUHPphXicw').show();
+			
+		
+			
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8841&ciid=1&enc=FqdRm3SpKe6P6pAiiXYJWw').show();
+			
+		
+			
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11175&ciid=1&enc=uBKax9rjRxgAxYcY0RbtaA').show();
+			
+		
+			
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9142&ciid=1&enc=NFyhL7XI77sp7vyhC40CWA').show();
+			
+		
+			
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13856&ciid=1&enc=bnp7GVhi3nusah0CMR_DDw').show();
+			
+		
+			
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8013&ciid=1&enc=XXp_psBIXuLsdPs6Dt8LBg').show();
+			
+		
+			
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8840&ciid=1&enc=uLMc_CdWS0QEx0YNDuYnCw').show();
+			
+		
+			
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8036&ciid=1&enc=IB5-fuLz87LssX7dbPpD8w').show();
+			
+		
+			
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8193&ciid=1&enc=mjR5Eyi9cDDIzntI_d2-WA').show();
+			
+		
+			
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9299&ciid=1&enc=sKKQanjnRv-C-kb0FOYWWw').show();
+			
+		
+			
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12412&ciid=1&enc=dgRq5UaasWUiTEJLXT4IGA').show();
+			
+		
+			
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11173&ciid=1&enc=HnUdPsPko6TeFtASwbqL9g').show();
+			
+		
+			
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8162&ciid=1&enc=iirbbk_ZpgTZ1RJwJck6tQ').show();
+			
+		
+			
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10303&ciid=1&enc=1lgMGoPL5zaN0DsoiT-FvQ').show();
+			
+		
+			
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9093&ciid=1&enc=pHJt2qluAsfGHepeBMQxjA').show();
+			
+		
+			
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9464&ciid=1&enc=Rg1PfZhfosNnbHQFkC_qwA').show();
+			
+		
+			
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8778&ciid=1&enc=YC1pNS1gFMvM1aU3Y03agg').show();
+			
+		
+			
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8012&ciid=1&enc=-AWaL8zYY0ZAhM6FDh4Acg').show();
+			
+		
+			
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8164&ciid=1&enc=f5QACtI_OCJV1MbI0DMm-Q').show();
+			
+		
+			
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8476&ciid=1&enc=bsMMvOHoCKbfYqipie0G6Q').show();
+			
+		
+			
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12411&ciid=1&enc=ufhQIzUTh5rSetHSBcU9qg').show();
+			
+		
+			
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12122&ciid=1&enc=XcjrTAXkdJEO9NmfTX_1qQ').show();
+			
+		
+			
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9480&ciid=1&enc=dX5dpijnKhqn0Rm2RhZPhg').show();
+			
+		
+			
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9460&ciid=1&enc=JpeA-hEeU-p6H5jPDSUvmQ').show();
+			
+		
+			
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8165&ciid=1&enc=vmZIrCImOwparwFCxYkTbA').show();
+			
+		
+			
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8011&ciid=1&enc=Huer1zF24h7ENIWpQ5dZIA').show();
+			
+		
+			
+				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8820&ciid=1&enc=R4XUCKchXTr36AwRZEjFxQ').show();
+			
+		
+			
+				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9459&ciid=1&enc=LR28AKuCv6VtGMLkBH-8vA').show();
+			
+		
+			
+				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9298&ciid=1&enc=92zNktz_vk7-So9y7Ry21Q').show();
+			
+		
+			
+				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8163&ciid=1&enc=S-Ce7kPywNrS0gr-MHNaSQ').show();
+			
+		
+			
+				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9243&ciid=1&enc=jfnfReSsRpqyTySE2J0lww').show();
+			
+		
+			
+				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8779&ciid=1&enc=_1Q3EkHItul4UUE5KDu2gw').show();
+			
+		
+			
+				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8296&ciid=1&enc=LCFRCXYj32tKW9GrlfHYCQ').show();
+			
+		
+			
+				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9463&ciid=1&enc=bbmKHzTArfjFyu5iu8aD2w').show();
+			
+		
+			
+				$('#card_image_47_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9479&ciid=1&enc=kk9AIVHXsXjtEVhihgGD0w').show();
+			
+		
+			
+				$('#card_image_48_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11172&ciid=1&enc=sujaIeSclBwbz78gFUHWhg').show();
+			
+		
+			
+				$('#card_image_49_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12289&ciid=1&enc=uyKYHwdzwkboqQtU1UjMwg').show();
+			
+		
+			
+				$('#card_image_50_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13853&ciid=1&enc=oQgSryF2Ob2UPI3ZXYNi7A').show();
+			
+		
+			
+				$('#card_image_51_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9092&ciid=1&enc=Y5dmuENlXMPmQ6xBbKQc9Q').show();
+			
+		
+			
+				$('#card_image_52_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8839&ciid=1&enc=SxWhoOHNOVmtuxltPy78Fg').show();
+			
+		
+			
+				$('#card_image_53_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9461&ciid=1&enc=Tv8I0Zxi9noJyHz5afWy4w').show();
+			
+		
+			
+				$('#card_image_54_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13852&ciid=1&enc=z7E__qytRSPEBw7JwWPi0g').show();
+			
+		
+			
+				$('#card_image_55_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11649&ciid=1&enc=qcdoKo5BJK1IJeddGUxyug').show();
+			
+		
+			
+				$('#card_image_56_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9145&ciid=1&enc=UKl8kJtE7O6eCF8HYlqDBw').show();
+			
+		
+			
+				$('#card_image_57_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13854&ciid=1&enc=zkXYNbAsVWP3R9R4qqk3Hg').show();
+			
+		
+			
+				$('#card_image_58_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9356&ciid=1&enc=wbUu58zvUAWtiwwlaQkD6g').show();
+			
+		
+			
+				$('#card_image_59_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9246&ciid=1&enc=wuz99XYrZIvlQhk-t6cjug').show();
+			
+		
+
+		
+		$('.list_style ul li').click(function() {
+			var li_class = $(this).attr('class');
+			if(!(li_class == "li_top")){
+				location.href = $('.link_value_detail', this).val();
+			}
+		});
+
+		$('#sort').val('1');
+		$('#rp').val('100');
+		$('#mode').val('1');
+
+		$('#sort').dropkick({
+			theme: 'sort_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=9242'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#rp').dropkick({
+			theme: 'rp_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=9242'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#mode').dropkick({
+			theme: 'mode_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+							+ '?ope=2'
+							+ '&cid=9242'
+							+ '&sess=4'
+							+ '&mode=' + value;
+			}
+		});
+
+		
+		$('.box_card_linkmarker').load(function(){});
+	});
+
+	
+	function ChangePage(page) {
+		location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=9242'
+					+ '&sess=3'
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=' + page;
+	}
+
+	
+
+	//-->
+	</script>
+</head>
+
+
+
+
+<body>
+
+<div id="wrapper">
+	<header>
+		<div class="h1_set">遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</div>
+		<div id="header_meta">
+			<a href="https://www.konami.com/games/jp/ja/" target="_blank"><img src="external/image/logo_konami.png" alt="KONAMI" id="konami" class="ui-draggable"></a>
+
+
+	
+			<nav id="language">
+				<span>
+		日本語
+		
+		
+		
+		
+		
+		
+		
+				</span>
+				<ul>
+					<li><a href="javascript:ChangeLanguage('ja')" class="current">日本語</a></li>
+					<li><a href="javascript:ChangeLanguage('en')" >English</a></li>
+					<li><a href="javascript:ChangeLanguage('de')" >Deutsch</a></li>
+					<li><a href="javascript:ChangeLanguage('fr')" >Fran&ccedil;ais</a></li>
+					<li><a href="javascript:ChangeLanguage('it')" >Italiano</a></li>
+					<li><a href="javascript:ChangeLanguage('es')" >Espa&ntilde;ol</a></li>
+					<li><a href="javascript:ChangeLanguage('pt')" >Portugues</a></li>
+					<li><a href="javascript:ChangeLanguage('ko')" >한글</a></li>
+				</ul>
+			</nav>
+	
+
+		</div><!--#header_meta-->
+		<div id="header_menu">
+			<div id="main_logo">
+				<a href="/yugiohdb/"><img src="external/image/ja/logo_ocg.png" alt="遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース" title="TOP"></a>
+			</div>
+			<nav>
+				<div id="menber_menu">
+				
+				</div><!--#menber_menu-->
+				<ul id="main_menu">
+					<li><a href="/yugiohdb/card_search.action"><img src="external/image/ja/menu_btn_home.png" alt="カード検索"></a></li>
+					<li><a href="/yugiohdb/card_list.action"><img src="external/image/ja/menu_btn_cardlist.png" alt="カードリスト"></a></li>
+					<li><a href="/yugiohdb/forbidden_limited.action"><img src="external/image/ja/menu_btn_limitr.png" alt="リミットレギュレーション"></a></li>
+					<li><a href="/yugiohdb/faq_search.action"><img src="external/image/ja/menu_btn_q_a.png" alt="Ｑ＆Ａ"></a></li>
+					<li><a href="/yugiohdb/deck_search.action"><img src="external/image/ja/menu_btn_decks.png" alt="デッキ検索"></a></li>
+	
+					<li class="last"><a href="/yugiohdb/member_login.action"><img src="external/image/ja/menu_btn_login.png" alt="ログイン"></a></li>
+	
+	
+				</ul><!--#main_menu-->
+			</nav>
+		</div><!-- #header_menu-->
+	</header>
+
+	<nav id="pan_nav">
+		<ul>
+			<li><a href="/yugiohdb/">ホーム</a></li>
+			<li>&raquo;</li>
+
+			<li>BF－東雲のコチ</li>
+
+
+		</ul>
+	</nav><!--#pan_nav-->
+
+
+	 
+		<nav id="title_msg">
+			遊戯王OCGカード「BF－東雲のコチ」のカード詳細です。<br>「BF－東雲のコチ」の遊戯王OCG公式ルールはこちらのページで確認してください。<br>「BF－東雲のコチ」の使い方に関する質問等は「<a href="faq_search.action?ope=4&cid=9242" target=_blank>このカードのQ&Aを表示</a>」より確認ができます。<br>「BF－東雲のコチ」を使用したデッキを検索したい場合は「<a href="deck_search.action?cardid=9242" target=_blank>このカードを使用したデッキを検索</a>」より確認ができます。
+		</nav>
+	
+
+	<article>
+
+
+		<header id="broad_title">
+			<div>
+				<h1>
+	
+					<span class="ruby">ブラックフェザー－しののめのコチ</span>
+	
+					BF－東雲のコチ
+	
+					<span>Blackwing - Kochi the Daybreak</span>
+	
+				</h1>
+			</div>
+		</header>
+
+
+		<div id="article_body">
+
+
+			<table style="margin:0 8px 10px 8px;">
+				<tr>
+				<td valign="top" style="padding-right:8px;">
+					<div id="card_frame">
+	
+		
+						<img id="card_image_1" alt="BF－東雲のコチ" title="BF－東雲のコチ" class="none">
+		
+	
+	
+					</div>
+	
+					<div id="thumbnail">
+		
+						<img id="thumbnail_card_image_1" alt="1" class="none">
+		
+					</div>
+	
+				</td>
+
+				<td valign="top">
+
+	
+					<table id="details">
+						<col width="50%">
+						<col width="50%">
+						<tr>
+							<td>
+								<div class="item_box" style="margin-right:5px;">
+									<span class="item_box_title">
+										<b>属性</b>
+									</span>
+									<span class="item_box_value">
+		
+										闇属性
+		
+									</span>
+								</div>
+							</td>
+							<td>
+								<div class="item_box" style="margin-left:5px;">
+		
+		
+		
+									<span class="item_box_title">
+										<b>レベル</b>
+									</span>
+									<span class="item_box_value">
+										4
+									</span>
+		
+								</div>
+							</td>
+						</tr>
+
+		
+						<tr>
+							<td colspan="2">
+								<div class="item_box t_center" style="margin-top:10px;">
+									<span class="item_box_title">
+										<b>種族</b>
+									</span>
+		
+									鳥獣族
+		
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="item_box t_center" style="margin-top:10px;">
+									<span class="item_box_title">
+										<b>その他項目</b>
+									</span>
+		
+									 	チューナー
+		
+		
+							
+										／
+							
+									効果
+		
+		
+		
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<div class="item_box" style="margin-top:10px;margin-right:5px;">
+									<span class="item_box_title">
+										<b>攻撃力</b>
+									</span>
+									<span class="item_box_value">
+										700
+									</span>
+								</div>
+							</td>
+							<td>
+								<div class="item_box" style="margin-top:10px;margin-left:5px;">
+									<span class="item_box_title">
+										<b>守備力</b>
+									</span>
+									<span class="item_box_value">
+										
+										
+											1500
+										
+									</span>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="item_box_text" style="margin-top:10px;">
+									<div class="item_box_title">
+										<b>カードテキスト</b>
+									</div>
+									特殊召喚されたこのカードはS素材にできない。
+									
+			
+								</div>
+							</td>
+						</tr>
+					</table><!--#details-->
+	
+	
+
+<!--シェア追加-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!--シェア追加-->
+					<table style="margin-top:5px;width:100%;text-align: center;">
+						<tr>
+							<td>
+								
+								<iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=9242&amp;sess=2&amp;sort=1&amp;rp=100&amp;page=1&amp;lang=ja&amp;count=horizontal&amp;hashtags=YugiohDB_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td>
+								
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9242%26request_locale%3Dja%26a%3D202105062353&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td style="display: block;margin:0 10px 0 0;">
+								
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9242&request_locale=ja&a=202105062353" data-layout="button_count" data-size="small" ></div>
+							</td>
+							<td>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9242&request_locale=ja&a=202105062353"></div>
+								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+							</td>
+						</tr>
+					</table>
+				
+				
+					<div id="relationCard_a">
+						<a href="#relationCard">このカードの関連カードを見る</a>
+					</div>
+				
+				</td>
+				<td valign="top" style="padding-left:8px;">
+
+	
+	
+					<div style="">
+						<a href="/yugiohdb/faq_search.action?ope=4&cid=9242" id="to_QandA" class="CD_a_btn" target="_blank"><b>このカードの<br>Ｑ＆Ａを表示</b></a>
+					</div>
+	
+	
+	
+					<div style="">
+						<a href="/yugiohdb/deck_search.action?cardid=9242" id="to_MyD" class="CD_a_btn" target="_blank"><b>このカードを<br>使用したデッキを検索</b></a>
+					</div>
+	
+	
+	
+	
+				</td>
+				</tr>
+			</table>
+
+
+
+
+
+			<div id="pack_list" class="radius_top">
+				<table>
+					<col width="100">
+					<col width="100">
+					<col width="*">
+					<col width="50">
+					<tr>
+						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2014-10-11</td>
+		
+		
+		
+						<td>SPTR-JP040</td>
+		
+		
+						<td>
+							<b>ブースターSP - トライブ・フォース -</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=3317001&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2014-10-11</td>
+		
+		
+		
+						<td>SPTR-JP040</td>
+		
+		
+						<td>
+							<b>ブースターSP - トライブ・フォース -</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=3317001&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_p.png" class="icon_info rid_9" alt="パラレル仕様" style="margin-right: 7px;">
+		
+		
+						</td>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2010-10-16</td>
+		
+		
+		
+						<td>DP11-JP010</td>
+		
+		
+						<td>
+							<b>デュエリストパック － クロウ編 －</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=3309010&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_r.png" class="icon_info rid_2" alt="レア仕様" style="margin-right: 7px;">
+		
+		
+						</td>
+					</tr>
+	
+				</table>
+			</div><!--#pack_list-->
+
+
+
+
+
+
+
+
+
+	<div class="list_style" id="relationCard">
+		<div class="li_top">関連カード</div>
+
+
+
+			<table style="margin:0 auto;width:100%;border-spacing: 0px;">
+				<tr>
+				<td valign="top" style="padding: 0px;">
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="mode" style="width:110px;">
+							<option value="1">画像表示</option>
+							<option value="2">テキスト表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="rp" style="width:170px;">
+							<option value="10">10件ずつ表示</option>
+							<option value="50">50件ずつ表示</option>
+							<option value="100">100件ずつ表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right">
+						<select id="sort" style="width:260px;">
+							<option value="1">50音順</option>
+							<option value="2">レベル／ランク順（大きい順）</option>
+							<option value="3">レベル／ランク順（小さい順）</option>
+							<option value="4">攻撃力順（大きい順）</option>
+							<option value="5">攻撃力順（小さい順）</option>
+							<option value="6">守備力順（大きい順）</option>
+							<option value="7">守備力順（小さい順）</option>
+							<option value="8">ペンデュラムスケール順（大きい順）</option>
+							<option value="9">ペンデュラムスケール順（小さい順）</option>
+							<option value="11">リンク数（多い順）</option>
+							<option value="12">リンク数（少ない順）</option>
+						</select>
+					</span>
+
+					
+					<div class="page_num_title">
+						<div>
+							<strong>
+
+								検索結果 60件中 1～60件を表示
+							</strong>
+						</div>
+					</div>
+					<br class="f_del">
+				</td>
+				</tr>
+			</table>
+
+
+
+
+		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アゲインスト・ウィンド</span>
+						<span class="card_status">
+						<strong>アゲインスト・ウィンド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分の墓地に存在する「BF」と名のついたモンスター１体を選択して発動する。自分はそのモンスターの攻撃力分のダメージを受け、そのモンスターを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="アゲインスト・ウィンド" title="アゲインスト・ウィンド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8202">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アサルト　ブラックフェザー－あまがくれのサヨ</span>
+						<span class="card_status">
+						<strong>A BF－雨隠れのサヨ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体<br>①：「BF」モンスターを素材としてS召喚したこのカードはチューナーとして扱う。②：このカードは１ターンに２度まで戦闘では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="A BF－雨隠れのサヨ" title="A BF－雨隠れのサヨ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12446">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アサルト　ブラックフェザー－がんだちのオニマル</span>
+						<span class="card_status">
+						<strong>A BF－神立のオニマル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 12</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>「A BF－神立のオニマル」の③の効果はデュエル中に１度しか使用できない。①：「BF」モンスターを素材としてS召喚したこのカードはチューナーとして扱う。②：このカードは効果では破壊されない。③：自分の墓地の「BF」モンスター１体を対象として発動できる。このカードのレベルはそのモンスターと同じになる。④：Sモンスターのみを素材としてS召喚したこのカードが攻撃する場合、ダメージステップの間このカードの攻撃力は３０００アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="A BF－神立のオニマル" title="A BF－神立のオニマル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12448">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アサルト　ブラックフェザー－きりさめのクナイ</span>
+						<span class="card_status">
+						<strong>A BF－霧雨のクナイ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2100</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードは自分フィールドの「BF」モンスター１体をリリースして手札から特殊召喚できる。この方法で特殊召喚したこのカードはチューナーとして扱う。②：１ターンに１度、自分フィールドのSモンスター１体を対象とし、１～８までの任意のレベルを宣言して発動できる。そのモンスターはターン終了時まで宣言したレベルになる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="A BF－霧雨のクナイ" title="A BF－霧雨のクナイ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11962">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アサルト　ブラックフェザー－さみだれのソハヤ</span>
+						<span class="card_status">
+						<strong>A BF－五月雨のソハヤ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>「A BF－五月雨のソハヤ」の②③の効果はそれぞれ１ターンに１度しか使用できない。①：「BF」モンスターを素材としてS召喚したこのカードはチューナーとして扱う。②：このカードがS召喚に成功した時、自分の墓地の「A BF」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。③：このカードが墓地へ送られたターンの自分メインフェイズにこのカード以外の自分の墓地の「A BF－五月雨のソハヤ」１体を除外して発動できる。このカードを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_4_1" alt="A BF－五月雨のソハヤ" title="A BF－五月雨のソハヤ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12447">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アサルト　ブラックフェザー－しゅううのライキリ</span>
+						<span class="card_status">
+						<strong>A BF－驟雨のライキリ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2600</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>①：「BF」モンスターを素材としてS召喚したこのカードはチューナーとして扱う。②：１ターンに１度、このカード以外の自分フィールドの「BF」モンスターの数まで、相手フィールドのカードを対象として発動できる。そのカードを破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="A BF－驟雨のライキリ" title="A BF－驟雨のライキリ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11991">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アサルト　ブラックフェザー－なみだあめのチドリ</span>
+						<span class="card_status">
+						<strong>A BF－涙雨のチドリ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2600</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>①：「BF」モンスターを素材としてS召喚したこのカードはチューナーとして扱う。②：このカードの攻撃力は自分の墓地の「BF」モンスターの数×３００アップする。③：このカードが破壊され墓地へ送られた時、「A BF－涙雨のチドリ」以外の自分の墓地の鳥獣族Sモンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="A BF－涙雨のチドリ" title="A BF－涙雨のチドリ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12323">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>くろいせんぷう</span>
+						<span class="card_status">
+						<strong>黒い旋風</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドに「BF」モンスターが召喚された時にこの効果を発動できる。そのモンスターより低い攻撃力を持つ「BF」モンスター１体をデッキから手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="黒い旋風" title="黒い旋風" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8203">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>くろはねのほうさつ</span>
+						<span class="card_status">
+						<strong>黒羽の宝札</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						手札の「BF」と名のついたモンスター１体をゲームから除外して発動できる。デッキからカードを２枚ドローする。「黒羽の宝札」は１ターンに１枚しか発動できず、このカードを発動するターン、自分はモンスターを特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_8_1" alt="黒羽の宝札" title="黒羽の宝札" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8821">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>くろはねのみちびき</span>
+						<span class="card_status">
+						<strong>黒羽の導き</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						カードの効果によって自分がダメージを受けた時に発動する事ができる。手札からレベル４以下の「BF」と名のついたモンスター１体を特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_9_1" alt="黒羽の導き" title="黒羽の導き" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9245">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>グローウィング・ボウガン</span>
+						<span class="card_status">
+						<strong>グローウィング・ボウガン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_equip.png" alt="装備" title="装備">
+							<span>装備</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF」モンスターにのみ装備可能。このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：装備モンスターの攻撃力・守備力は５００アップする。②：装備モンスターが戦闘で相手モンスターを破壊した場合に発動できる。相手の手札をランダムに１枚選んで捨てる。③：装備モンスターがS素材になった事でこのカードが墓地へ送られた場合に発動できる。墓地のこのカードを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_10_1" alt="グローウィング・ボウガン" title="グローウィング・ボウガン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13855">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>デルタ・クロウ－アンチ・リバース</span>
+						<span class="card_status">
+						<strong>デルタ・クロウ－アンチ・リバース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールドの「BF」モンスターが３体のみの場合、このカードの発動は手札からもできる。①：自分フィールドに「BF」モンスターが存在する場合に発動できる。相手フィールドにセットされた魔法・罠カードを全て破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_11_1" alt="デルタ・クロウ－アンチ・リバース" title="デルタ・クロウ－アンチ・リバース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8220">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>フェイク・フェザー</span>
+						<span class="card_status">
+						<strong>フェイク・フェザー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						手札から「BF」と名のついたモンスター１体を墓地へ送り、相手の墓地の通常罠カード１枚を選択して発動できる。このカードの効果は、選択した通常罠カードの効果と同じになる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_12_1" alt="フェイク・フェザー" title="フェイク・フェザー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8222">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>フェザー・ウィンド・アタック</span>
+						<span class="card_status">
+						<strong>フェザー・ウィンド・アタック</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上に表側表示で存在する「BF」と名のついたモンスター１体をデッキに戻して発動する。自分のデッキから「BF」と名のついたモンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_13_1" alt="フェザー・ウィンド・アタック" title="フェザー・ウィンド・アタック" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8043">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラック・サンダー</span>
+						<span class="card_status">
+						<strong>ブラック・サンダー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上に存在する「BF」と名のついたモンスターが戦闘によって破壊され墓地へ送られた時に発動する事ができる。相手フィールド上に存在するカード１枚につき、相手ライフに４００ポイントダメージを与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_14_1" alt="ブラック・サンダー" title="ブラック・サンダー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8841">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラック・ソニック</span>
+						<span class="card_status">
+						<strong>ブラック・ソニック</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールドのモンスターが「BF」モンスター３体のみの場合、このカードの発動は手札からもできる。①：相手モンスターが自分フィールドの「BF」モンスターに攻撃宣言した時に発動できる。相手フィールドの表側攻撃表示モンスターを全て除外する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_15_1" alt="ブラック・ソニック" title="ブラック・ソニック" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11175">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラック・バック</span>
+						<span class="card_status">
+						<strong>ブラック・バック</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分のターンのみ発動する事ができる。自分の墓地に存在する攻撃力２０００以下の「BF」と名のついたモンスター１体を選択して特殊召喚する。このカードを発動するターン、自分はモンスターを通常召喚する事はできない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_16_1" alt="ブラック・バック" title="ブラック・バック" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9142">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラック・バード・クローズ</span>
+						<span class="card_status">
+						<strong>ブラック・バード・クローズ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_counter.png" alt="カウンター" title="カウンター">
+							<span>カウンター</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールドに「BF」Sモンスターまたは「ブラックフェザー・ドラゴン」が存在する場合、このカードの発動は手札からもできる。①：相手フィールドのモンスターが効果を発動した時、自分フィールドの表側表示の「BF」モンスター１体を墓地へ送って発動できる。その発動を無効にし破壊する。その後、EXデッキから「ブラックフェザー・ドラゴン」１体を特殊召喚できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_17_1" alt="ブラック・バード・クローズ" title="ブラック・バード・クローズ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13856">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－あかつきのシロッコ</span>
+						<span class="card_status">
+						<strong>BF－暁のシロッコ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 900</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：相手フィールドにモンスターが存在し、自分フィールドにモンスターが存在しない場合、このカードはリリースなしで通常召喚できる。②：１ターンに１度、自分メインフェイズ１に自分フィールドの「BF」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、そのモンスター以外のフィールドの「BF」モンスターの攻撃力の合計分アップする。この効果を発動するターン、対象のモンスターしか攻撃できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_18_1" alt="BF－暁のシロッコ" title="BF－暁のシロッコ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8013">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－アンカー</span>
+						<span class="card_status">
+						<strong>BF－アンカー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF」と名のついたモンスター１体をリリースし、自分フィールド上に表側表示で存在するシンクロモンスター１体を選択して発動する。選択したモンスターの攻撃力はエンドフェイズ時まで、このカードを発動するためにリリースしたモンスターの攻撃力分アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_19_1" alt="BF－アンカー" title="BF－アンカー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8840">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－アーマード・ウィング</span>
+						<span class="card_status">
+						<strong>BF－アーマード・ウィング</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF」チューナー＋チューナー以外のモンスター１体以上<br>①：このカードは戦闘では破壊されず、このカードの戦闘で発生する自分への戦闘ダメージは０になる。②：このカードがモンスターを攻撃したダメージステップ終了時に発動できる。そのモンスターに楔カウンターを１つ置く（最大１つまで）。③：相手フィールドの楔カウンターを全て取り除いて発動できる。楔カウンターが置かれていた全てのモンスターの攻撃力・守備力をターン終了時まで０にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_20_1" alt="BF－アーマード・ウィング" title="BF－アーマード・ウィング" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8036">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－アームズ・ウィング</span>
+						<span class="card_status">
+						<strong>BF－アームズ・ウィング</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2300</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF」チューナー＋チューナー以外のモンスター１体以上<br>①：このカードが守備表示モンスターを攻撃するダメージステップの間、このカードの攻撃力は５００アップする。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_21_1" alt="BF－アームズ・ウィング" title="BF－アームズ・ウィング" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8193">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－おいかぜのアリゼ</span>
+						<span class="card_status">
+						<strong>BF－追い風のアリゼ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 1800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上に表側表示で存在する「BF」と名のついたモンスターが２体以上破壊されたターン、このカードは手札から特殊召喚する事ができる。このカードがシンクロ召喚の素材として墓地へ送られた場合、自分は６００ライフポイント回復する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_22_1" alt="BF－追い風のアリゼ" title="BF－追い風のアリゼ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9299">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－おぼろかげのゴウフウ</span>
+						<span class="card_status">
+						<strong>BF－朧影のゴウフウ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							特殊召喚
+						  
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードは通常召喚できない。自分フィールドにモンスターが存在しない場合に特殊召喚できる。①：このカードが手札からの特殊召喚に成功した時に発動できる。自分フィールドに「朧影トークン」（鳥獣族・闇・星１・攻／守０）２体を特殊召喚する。このトークンはリリースできず、S素材にできない。②：このカードとチューナー以外のモンスター１体以上を自分フィールドから除外し、そのレベルの合計と同じレベルを持つ自分の墓地の「BF」Sモンスター１体を対象として発動できる。そのモンスターをチューナー扱いとして特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_23_1" alt="BF－朧影のゴウフウ" title="BF－朧影のゴウフウ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12412">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－かくれみののスチーム</span>
+						<span class="card_status">
+						<strong>BF－隠れ蓑のスチーム</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 1200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF－隠れ蓑のスチーム」の②の効果はデュエル中に１度しか使用できない。①：表側表示のこのカードがフィールドから離れた場合に発動する。自分フィールドに「スチーム・トークン」（水族・風・星１・攻／守１００）１体を特殊召喚する。②：このカードが墓地に存在する場合、自分フィールドのモンスター１体をリリースして発動できる。このカードを墓地から特殊召喚する。この効果で特殊召喚したこのカードをS素材とする場合、他のS素材モンスターは全て「BF」モンスターでなければならない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_24_1" alt="BF－隠れ蓑のスチーム" title="BF－隠れ蓑のスチーム" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11173">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－きょくほくのブリザード</span>
+						<span class="card_status">
+						<strong>BF－極北のブリザード</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1300</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードは特殊召喚できない。①：このカードが召喚に成功した時、自分の墓地のレベル４以下の「BF」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_25_1" alt="BF－極北のブリザード" title="BF－極北のブリザード" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8162">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－きょくやのダマスカス</span>
+						<span class="card_status">
+						<strong>BF－極夜のダマスカス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1300</span>
+						
+						
+							<span class="def_power">守備力 700</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードを手札から捨て、自分フィールドの「BF」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで５００アップする。この効果は相手ターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_26_1" alt="BF－極夜のダマスカス" title="BF－極夜のダマスカス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10303">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－きょっこうのアウロラ</span>
+						<span class="card_status">
+						<strong>BF－極光のアウロラ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 10</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							特殊召喚
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 ?</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードは通常召喚できない。自分フィールド上に表側表示で存在する「BF」と名のついたチューナー１体と、チューナー以外のモンスター１体をゲームから除外した場合のみ特殊召喚する事ができる。１ターンに１度、自分のエクストラデッキから「BF」と名のついたシンクロモンスター１体をゲームから除外し、エンドフェイズ時までそのモンスターと同名カードとして扱い、同じ攻撃力と効果を得る事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_27_1" alt="BF－極光のアウロラ" title="BF－極光のアウロラ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9093">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－きらぼしのグラム</span>
+						<span class="card_status">
+						<strong>BF－煌星のグラム</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2200</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>このカードはシンクロ召喚でのみエクストラデッキから特殊召喚できる。このカードがシンクロ召喚に成功した時、手札からチューナー以外のレベル４以下の「BF」と名のついたモンスター１体を特殊召喚できる。この効果で特殊召喚したモンスターの効果は無効化される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_28_1" alt="BF－煌星のグラム" title="BF－煌星のグラム" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9464">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－ぎゃくふうのガスト</span>
+						<span class="card_status">
+						<strong>BF－逆風のガスト</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 900</span>
+						
+						
+							<span class="def_power">守備力 1400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上にカードが存在しない場合、このカードは手札から特殊召喚する事ができる。このカードがフィールド上に表側表示で存在する限り、相手モンスターが自分フィールド上に存在する「BF」と名のついたモンスターを攻撃する場合、その攻撃モンスターはダメージステップの間攻撃力が３００ポイントダウンする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_29_1" alt="BF－逆風のガスト" title="BF－逆風のガスト" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8778">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－くろやりのブラスト</span>
+						<span class="card_status">
+						<strong>BF－黒槍のブラスト</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1700</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドに「BF－黒槍のブラスト」以外の「BF」モンスターが存在する場合、このカードは手札から特殊召喚できる。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_30_1" alt="BF－黒槍のブラスト" title="BF－黒槍のブラスト" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8012">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－げつえいのカルート</span>
+						<span class="card_status">
+						<strong>BF－月影のカルート</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1400</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分の「BF」モンスターが戦闘を行うダメージステップ開始時からダメージ計算前までに、このカードを手札から墓地へ送って発動できる。そのモンスターの攻撃力はターン終了時まで１４００アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_31_1" alt="BF－月影のカルート" title="BF－月影のカルート" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8164">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－ここうのシルバー・ウィンド</span>
+						<span class="card_status">
+						<strong>BF－孤高のシルバー・ウィンド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2800</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF」と名のついたチューナー＋チューナー以外のモンスター２体以上<br>このカードがシンクロ召喚に成功した時、このカードの攻撃力よりも低い守備力を持つ、フィールド上のモンスターを２体まで選択して破壊できる。この効果を発動するターン、自分はバトルフェイズを行えない。また、相手のターンに１度だけ、このカードがフィールド上に表側表示で存在する限り、自分フィールド上の「BF」と名のついたモンスターは戦闘では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_32_1" alt="BF－孤高のシルバー・ウィンド" title="BF－孤高のシルバー・ウィンド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8476">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－さかまきのトルネード</span>
+						<span class="card_status">
+						<strong>BF－逆巻のトルネード</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 1200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：特殊召喚されたモンスターが相手フィールドに存在し、このカードが召喚に成功した時、自分の墓地の「BF」チューナー１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。この効果の発動後、ターン終了時まで自分は「BF」モンスターしかエクストラデッキから特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_33_1" alt="BF－逆巻のトルネード" title="BF－逆巻のトルネード" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12411">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－さじんのハルマッタン</span>
+						<span class="card_status">
+						<strong>BF－砂塵のハルマッタン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF－砂塵のハルマッタン」の①の方法による特殊召喚は１ターンに１度しかできない。①：自分フィールドに「BF－砂塵のハルマッタン」以外の「BF」モンスターが存在する場合、このカードは手札から特殊召喚できる。②：このカードが召喚・特殊召喚に成功した時、このカード以外の自分フィールドの「BF」モンスター１体を対象として発動できる。このカードのレベルをそのモンスターのレベル分だけ上げる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_34_1" alt="BF－砂塵のハルマッタン" title="BF－砂塵のハルマッタン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12122">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－さすらいのコガラシ</span>
+						<span class="card_status">
+						<strong>BF－流離いのコガラシ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2300</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上に表側表示で存在する「BF」と名のついたモンスターがカードの効果によって破壊され墓地へ送られた時、このカードを手札から特殊召喚する事ができる。また、このカードをシンクロ素材としたシンクロ召喚に成功した時、相手は魔法・罠・効果モンスターの効果を発動する事ができない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_35_1" alt="BF－流離いのコガラシ" title="BF－流離いのコガラシ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9480">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－ざんやのクリス</span>
+						<span class="card_status">
+						<strong>BF－残夜のクリス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1900</span>
+						
+						
+							<span class="def_power">守備力 300</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF－残夜のクリス」の①の方法による特殊召喚は１ターンに１度しかできない。①：自分フィールドに「BF－残夜のクリス」以外の「BF」モンスターが存在する場合、このカードは手札から特殊召喚できる。②：このカードは１ターンに１度だけ、魔法・罠カードの効果では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_36_1" alt="BF－残夜のクリス" title="BF－残夜のクリス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9460">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－しっこくのエルフェン</span>
+						<span class="card_status">
+						<strong>BF－漆黒のエルフェン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2200</span>
+						
+						
+							<span class="def_power">守備力 1200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上に「BF」と名のついたモンスターが表側表示で存在する場合、このカードはリリースなしで召喚する事ができる。このカードが召喚に成功した時、相手フィールド上に存在するモンスター１体の表示形式を変更する事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_37_1" alt="BF－漆黒のエルフェン" title="BF－漆黒のエルフェン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8165">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－しっぷうのゲイル</span>
+						<span class="card_status">
+						<strong>BF－疾風のゲイル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1300</span>
+						
+						
+							<span class="def_power">守備力 400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドに「BF－疾風のゲイル」以外の「BF」モンスターが存在する場合、このカードは手札から特殊召喚できる。②：１ターンに１度、相手フィールドの表側表示モンスター１体を対象として発動できる。その相手モンスターの攻撃力・守備力を半分にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_38_1" alt="BF－疾風のゲイル" title="BF－疾風のゲイル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8011">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー・シュート</span>
+						<span class="card_status">
+						<strong>ブラックフェザー・シュート</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						手札から「BF」と名のついたモンスター１体を墓地へ送り、相手フィールド上に守備表示で存在するモンスター１体を選択して発動する。選択したモンスターを墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_39_1" alt="ブラックフェザー・シュート" title="ブラックフェザー・シュート" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8820">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－じょうげんのピナーカ</span>
+						<span class="card_status">
+						<strong>BF－上弦のピナーカ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF－上弦のピナーカ」の効果は１ターンに１度しか使用できない。このカードをS素材とする場合、「BF」モンスターのS召喚にしか使用できない。①：このカードがフィールドから墓地へ送られたターンのエンドフェイズに発動できる。デッキから「BF－上弦のピナーカ」以外の「BF」モンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_40_1" alt="BF－上弦のピナーカ" title="BF－上弦のピナーカ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9459">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－せんえいのボーラ</span>
+						<span class="card_status">
+						<strong>BF－尖鋭のボーラ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1300</span>
+						
+						
+							<span class="def_power">守備力 900</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						墓地に存在するこのカードをゲームから除外し、自分フィールド上に表側表示で存在する「BF」と名のついたモンスター１体を選択して発動する。このターン選択したモンスターが攻撃する場合、その攻撃によって発生する自分への戦闘ダメージは０になり、選択したモンスターは戦闘では破壊されず、戦闘を行った相手モンスターをダメージ計算後に破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_41_1" alt="BF－尖鋭のボーラ" title="BF－尖鋭のボーラ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9298">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－そうえんのシュラ</span>
+						<span class="card_status">
+						<strong>BF－蒼炎のシュラ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 1200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが戦闘で相手モンスターを破壊し墓地へ送った時に発動できる。デッキから攻撃力１５００以下の「BF」モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_42_1" alt="BF－蒼炎のシュラ" title="BF－蒼炎のシュラ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8163">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－そうてんのジェット</span>
+						<span class="card_status">
+						<strong>BF－蒼天のジェット</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						戦闘ダメージ計算時、このカードを手札から墓地へ送って発動する。自分フィールド上に存在する「BF」と名のついたモンスターはその戦闘では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_43_1" alt="BF－蒼天のジェット" title="BF－蒼天のジェット" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9243">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－そよかぜのブリーズ</span>
+						<span class="card_status">
+						<strong>BF－そよ風のブリーズ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1100</span>
+						
+						
+							<span class="def_power">守備力 300</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードがカードの効果によって自分のデッキから手札に加わった場合、このカードを手札から特殊召喚できる。このカードをシンクロ素材とする場合、「BF」と名のついたモンスターのシンクロ召喚にしか使用できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_44_1" alt="BF－そよ風のブリーズ" title="BF－そよ風のブリーズ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8779">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－たいはいのヴァーユ</span>
+						<span class="card_status">
+						<strong>BF－大旆のヴァーユ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードはモンスターゾーンに存在する限り、S素材にできない。②：このカードが墓地に存在する場合、チューナー以外の自分の墓地の「BF」モンスター１体を対象として発動できる。そのモンスターとこのカードを墓地から除外し、その２体のレベルの合計と同じレベルを持つ「BF」Sモンスター１体をエクストラデッキから特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_45_1" alt="BF－大旆のヴァーユ" title="BF－大旆のヴァーユ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8296">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー　テイマー－しっこくのホーク・ジョー</span>
+						<span class="card_status">
+						<strong>BF T－漆黒のホーク・ジョー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2600</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF」チューナー＋チューナー以外の「BF」モンスター１体以上<br>「BF T－漆黒のホーク・ジョー」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地のレベル５以上の鳥獣族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：このカードが相手の効果の対象になった時、または相手モンスターの攻撃対象になった時、このカード以外の自分フィールドの「BF」モンスター１体を対象として発動できる。その対象を正しい対象となるそのモンスターに移し替える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_46_1" alt="BF T－漆黒のホーク・ジョー" title="BF T－漆黒のホーク・ジョー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9463">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－てんぐかぜのヒレン</span>
+						<span class="card_status">
+						<strong>BF－天狗風のヒレン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 2300</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードが墓地に存在し、相手モンスターの直接攻撃によって自分が２０００ポイント以上の戦闘ダメージを受けた時、自分の墓地に存在する「BF」と名のついたレベル３以下のモンスター１体を選択して発動する。選択したモンスターとこのカードを墓地から特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。「BF－天狗風のヒレン」の効果はデュエル中に１度しか使用できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_47_1" alt="BF－天狗風のヒレン" title="BF－天狗風のヒレン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9479">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－とっぷうのオロシ</span>
+						<span class="card_status">
+						<strong>BF－突風のオロシ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 400</span>
+						
+						
+							<span class="def_power">守備力 600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：自分フィールドに「BF－突風のオロシ」以外の「BF」モンスターが存在する場合、このカードは手札から特殊召喚できる。②：このカードがS素材として墓地へ送られた場合、フィールドのモンスター１体を対象として発動できる。そのモンスターの表示形式を変更する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_48_1" alt="BF－突風のオロシ" title="BF－突風のオロシ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11172">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－とむらいかぜのデス</span>
+						<span class="card_status">
+						<strong>BF－弔風のデス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF－弔風のデス」の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した時、自分フィールドの「BF」モンスター１体を対象とし、以下の効果から１つを選択して発動できる。<br>●対象のモンスターのレベルを１つ上げる。<br>●対象のモンスターのレベルを１つ下げる。<br>②：このカードが墓地へ送られたターンのエンドフェイズに発動する。自分は１０００ダメージを受ける。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_49_1" alt="BF－弔風のデス" title="BF－弔風のデス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12289">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－どくかぜのシムーン</span>
+						<span class="card_status">
+						<strong>BF－毒風のシムーン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の効果は１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合、手札からこのカード以外の「BF」モンスター１体を除外して発動できる。デッキから「黒い旋風」１枚を自分の魔法＆罠ゾーンに表側表示で置く。その後、手札のこのカードをリリースなしで召喚するか、墓地へ送る。この効果で置いた「黒い旋風」はエンドフェイズに墓地へ送られ、自分は１０００ダメージを受ける。この効果の発動後、ターン終了時まで自分は闇属性モンスターしかEXデッキから特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_50_1" alt="BF－毒風のシムーン" title="BF－毒風のシムーン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13853">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－にのたちのエテジア</span>
+						<span class="card_status">
+						<strong>BF－二の太刀のエテジア</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 400</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上に存在する「BF」と名のついたモンスターが相手モンスターとの戦闘を行ったダメージステップ終了時にその相手モンスターがフィールド上に存在する場合、このカードを手札から墓地へ送って発動する事ができる。相手ライフに１０００ポイントダメージを与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_51_1" alt="BF－二の太刀のエテジア" title="BF－二の太刀のエテジア" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9092">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－バックフラッシュ</span>
+						<span class="card_status">
+						<strong>BF－バックフラッシュ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分の墓地に「BF」と名のついたモンスターが５体以上存在する場合、相手モンスターの直接攻撃宣言時に発動する事ができる。相手フィールド上に存在するモンスターを全て破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_52_1" alt="BF－バックフラッシュ" title="BF－バックフラッシュ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8839">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－びゃくやのグラディウス</span>
+						<span class="card_status">
+						<strong>BF－白夜のグラディウス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドの表側表示モンスターが「BF－白夜のグラディウス」以外の「BF」モンスター１体のみの場合、このカードは手札から特殊召喚できる。②：このカードは１ターンに１度だけ戦闘では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_53_1" alt="BF－白夜のグラディウス" title="BF－白夜のグラディウス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9461">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－フルアーマード・ウィング</span>
+						<span class="card_status">
+						<strong>BF－フルアーマード・ウィング</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 10</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 3000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF」チューナー＋チューナー以外のモンスター１体以上<br>①：このカードは他のカードの効果を受けない。②：このカードがモンスターゾーンに存在する限り、相手フィールドのモンスターが効果を発動する度に、その相手の表側表示モンスターに楔カウンターを１つ置く（最大１つまで）。③：１ターンに１度、相手フィールドの楔カウンターが置かれたモンスター１体を対象として発動できる。そのモンスターのコントロールを得る。④：自分エンドフェイズに発動できる。フィールドの楔カウンターが置かれたモンスターを全て破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_54_1" alt="BF－フルアーマード・ウィング" title="BF－フルアーマード・ウィング" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13852">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－ほしかげのノートゥング</span>
+						<span class="card_status">
+						<strong>BF－星影のノートゥング</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2400</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>「BF－星影のノートゥング」の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動する。相手に８００ダメージを与える。その後、相手の表側表示モンスター１体を選び、その攻撃力・守備力を８００ダウンする。②：このカードがモンスターゾーンに存在する限り、自分は通常召喚に加えて１度だけ、自分メインフェイズに「BF」モンスター１体を召喚できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_55_1" alt="BF－星影のノートゥング" title="BF－星影のノートゥング" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11649">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－マイン</span>
+						<span class="card_status">
+						<strong>BF－マイン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						セットされたこのカードが相手の効果によって破壊された時、自分フィールド上に「BF」と名のついたモンスターが表側表示で存在する場合、相手ライフに１０００ポイントダメージを与え、自分はデッキからカードを１枚ドローする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_56_1" alt="BF－マイン" title="BF－マイン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9145">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラックフェザー－みなみかぜのアウステル</span>
+						<span class="card_status">
+						<strong>BF－南風のアウステル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1300</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードは特殊召喚できない。①：このカードが召喚に成功した時、除外されている自分のレベル４以下の「BF」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。②：墓地のこのカードを除外し、以下の効果から１つを選択して発動できる。<br>●自分フィールドの「ブラックフェザー・ドラゴン」１体を選び、相手フィールドのカードの数だけ黒羽カウンターを置く。<br>●相手フィールドの表側表示モンスター全てに可能な限り楔カウンターを１つずつ置く（最大１つまで）。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_57_1" alt="BF－南風のアウステル" title="BF－南風のアウステル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13854">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラック・ブースト</span>
+						<span class="card_status">
+						<strong>ブラック・ブースト</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上に表側表示で存在する「BF」と名のついたチューナー２体をゲームから除外して発動する。自分のデッキからカードを２枚ドローする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_58_1" alt="ブラック・ブースト" title="ブラック・ブースト" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9356">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラック・リターン</span>
+						<span class="card_status">
+						<strong>ブラック・リターン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「BF」と名のついたモンスター１体が特殊召喚に成功した時、相手フィールド上に表側表示で存在するモンスター１体を選択して発動する。選択した相手モンスターの攻撃力分だけ自分のライフを回復し、そのモンスターを持ち主の手札に戻す。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_59_1" alt="ブラック・リターン" title="ブラック・リターン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9246">
+			</li>
+		  
+		</ul><!--.box_list-->
+	</div><!--.list_style-->
+
+	<div class="page_num">
+		<span>
+			
+			
+			  
+				<a class="nowpage">1</a>
+			  
+			  
+			
+			
+		</span>
+	</div>
+
+
+
+
+
+
+
+
+	
+
+			<script type="text/javascript">
+			<!--
+
+			$(function(){
+
+				
+				$('#keyword[value=]').css('color', '#bbb').val('キーワードを入力');
+				$('#keyword').focus(function(){
+					if ($(this).val() == 'キーワードを入力') {
+						$(this).val('').css('color', '#555');
+					}
+				}).blur(function(){
+					if ($(this).val() == ''){
+						$(this).css('color', '#bbb').val('キーワードを入力');
+					}
+					if ($(this).val() != 'キーワードを入力') {
+						$(this).css('color', '#555');
+					}
+				});
+
+
+				
+				$('.search_box_tips').hover(
+					function(e){
+
+						if (($(this).closest('.search_body').css('opacity') != 1)) {
+							return false;
+						}
+
+						var tips_txt = $(this).attr('alt');
+						$(this).after('<span id="search_box_tips"><span></span></span>');
+						$('#search_box_tips span').text(tips_txt);
+
+						var offset = $(this).offset();
+						var pos_x = offset.left - 30;
+						var pos_y = offset.top - 34;
+
+						$('#search_box_tips').css({
+							'position': 'absolute',
+							'top': pos_y,
+							'left': pos_x,
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) right bottom no-repeat',
+							'height': '35px',
+							'padding-right': '4px'
+						});
+
+						$('#search_box_tips span').css({
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) left top no-repeat',
+							'line-height': '23px',
+							'height': '35px',
+							'padding': '0 5px 0 20px',
+							'font-weight': 'bold',
+							'font-size': '12px',
+							'color': '#6a3807'
+						});
+					},
+					function(e){
+						if ($(this).closest('.search_body').css('opacity') != 1) {
+							return false;
+						}
+						$('#search_box_tips').remove();
+					}
+				);
+
+				
+				$('.attreffe, .species, .other, .jogai').click(function(){
+					if ($(this).hasClass('button_off')) {
+						$(this).addClass('button_on').removeClass('button_off');
+						$(':checkbox', this).prop('checked', true);
+					} else {
+						$(this).addClass('button_off').removeClass('button_on');
+						$(':checkbox', this).prop('checked', false);
+					}
+				});
+				
+				$('.othercon_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.othercon_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('.link_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.link_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('#condition_toggle').click(function(){
+					$('#search_by_attack_and_defense_and_level, #search_by_attribute, #search_by_effect, #search_by_species, #search_by_other, #search_by_jogai').toggle();
+				});
+
+				
+				$('#form_search input:text').keypress(function(e){
+					if (e.keyCode == 13) {
+						Search();
+					}
+				});
+
+			});
+
+			
+			function ChangeCtype(value, label) {
+				switch (value) {
+
+				case '':
+				case '1':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', false);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					if (value == '') {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					} else {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					break;
+
+				case '2':
+				case '3':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', true);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					if (value == '2') {
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					} else {
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					break;
+
+				default:
+					break;
+				}
+			}
+
+			
+			function Search() {
+				if ($('#keyword').css('color') == '#bbb' || $('#keyword').css('color') == 'rgb(187, 187, 187)') {
+					$('#keyword').val('');
+				}
+				$('#form_search').get(0).submit();
+			}
+
+			//-->
+			</script>
+
+			<form id="form_search" action="/yugiohdb/card_search.action" method="GET">
+				<input type="hidden" name="ope" value="1">
+				<input type="hidden" name="sess" value="1">
+
+				<div id="search_box">
+
+					<div id="search_by_keyword_and_type" style="padding:5px 8px;">
+						<table style="width:100%;">
+							<col width="36">
+							<col width="325">
+							<col width="249">
+							<col width="176">
+							<col width="*">
+							<tr valign="middle">
+								<td>
+									<img src="external/image/parts/icon_search.png" alt="Search">
+								</td>
+								<td valign="top">
+									<input type="text" id="keyword" name="keyword" style="width:300px;" maxlength="50">
+								</td>
+								<td valign="top">
+									<select id="stype" name="stype" style="width:218px;">
+										<option value="1">カード名で検索</option>
+										<option value="2">カードテキストで検索</option>
+										<option value="3">ペンデュラム効果で検索</option>
+										<option value="4">カードNoで検索</option>
+									</select>
+								</td>
+								<td valign="top">
+									<select id="ctype" name="ctype" style="width:145px;">
+										<option value="">すべてのカード</option>
+
+										<option value="1">モンスターカード</option>
+
+										<option value="2">魔法カード</option>
+
+										<option value="3">罠カード</option>
+
+									</select>
+								</td>
+								<td>
+									<a href="javascript:Search();" class="black_btn"><b>検　索</b></a>
+								</td>
+							</tr>
+						</table>
+					</div>
+
+					<div id="condition_toggle">
+						さらに条件を絞って検索
+					</div><!--#condition_toggle-->
+
+					<div id="search_by_attack_and_defense_and_level" class="none">
+						<div class="search_body" style="border-bottom:solid 1px #414a56;padding-bottom: 5px;">
+							<div id="search_set">
+								<div class="search_l">
+									<div class="search_top">
+										<span id="level_rank_title">
+											<b>レベル／ランク</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="0から13までのレベルあるいはランクを絞り込みます">
+										</span>
+										<span id="level_rank_input">
+											<input type="text" id="starfr" name="starfr" maxlength="2">
+											<input type="text" id="starto" name="starto" maxlength="2">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="pen_scale_title">
+											<b>ペンデュラム</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="ペンデュラムスケールで絞り込みます">
+										</span>
+										<span id="pen_scale_input">
+											<input type="text" id="pscalefr" name="pscalefr" maxlength="2">
+											<input type="text" id="pscaleto" name="pscaleto" maxlength="2">
+										</span>
+									</div>
+								</div>
+								<div class="search_m">
+									<div class="search_m_l">
+										<div class="search_top">
+											<span id="link_title">
+												<b>リンク</b>
+												<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="リンクを数値またはマーカーの位置で絞り込みます。">
+											</span>
+										</div>
+										<div class="search_bottom">
+											<span id="link_input">
+												<input type="text" id="linkmarkerfr" name="linkmarkerfr" maxlength="2">
+												<input type="text" id="linkmarkerto" name="linkmarkerto" maxlength="2">
+											</span>
+										</div>
+									</div>
+									<div class="search_m_r">
+										<div class="link_m_set">
+											<form>
+												<input type="checkbox" id="linkbtn7" name="linkbtn7" value="7"><label class="linkbtn7" for="linkbtn7"></label>
+												<input type="checkbox" id="linkbtn8" name="linkbtn8" value="8"><label class="linkbtn8" for="linkbtn8"></label>
+												<input type="checkbox" id="linkbtn9" name="linkbtn9" value="9"><label class="linkbtn9" for="linkbtn9"></label>
+												<input type="checkbox" id="linkbtn4" name="linkbtn4" value="4"><label class="linkbtn4" for="linkbtn4"></label>
+												<input type="checkbox" id="linkbtn6" name="linkbtn6" value="6"><label class="linkbtn6" for="linkbtn6"></label>
+												<input type="checkbox" id="linkbtn1" name="linkbtn1" value="1"><label class="linkbtn1" for="linkbtn1"></label>
+												<input type="checkbox" id="linkbtn2" name="linkbtn2" value="2"><label class="linkbtn2" for="linkbtn2"></label>
+												<input type="checkbox" id="linkbtn3" name="linkbtn3" value="3"><label class="linkbtn3" for="linkbtn3"></label>
+											</form>
+										</div>
+										<div id="and_or2">
+											<a href="javascript:void(0);" class="link_left radio_off_left">
+												<img alt="">
+												<b>and</b>
+												<input type="radio" id="link_and" name="link_m" value="1" class="none">
+											</a>
+											<a href="javascript:void(0);" class="link_right radio_off_right" style="">
+												<img alt="">
+												<b>or</b>
+												<input type="radio" id="link_or"  name="link_m" value="2" class="none">
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="search_r">
+									<div class="search_top">
+										<span id="attack_title">
+											<b>攻撃力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="攻撃力で絞り込みます、最大は5000です">
+										</span>
+										<span id="attack_input">
+											<input type="text" id="atkfr" name="atkfr" maxlength="4">
+											<input type="text" id="atkto" name="atkto" maxlength="4">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="defense_title">
+											<b>守備力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="守備力で絞り込みます、最大は5000です">
+										</span>
+										<span id="defense_input">
+											<input type="text" id="deffr" name="deffr" maxlength="4">
+											<input type="text" id="defto" name="defto" maxlength="4">
+										</span>
+									</div>
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attack_and_defense_and_level-->
+
+
+					<div id="search_by_attribute" style="margin-bottom:-7px;border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>属性</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい属性を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_dark.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												闇属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_light.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												光属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_earth.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												地属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_water.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												水属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_fire.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												炎属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_wind.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												風属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_divine.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												神属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="17">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attribute-->
+
+
+
+					<div id="search_by_effect" style="border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body" style="padding-top: 2px;">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>効果</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい効果を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_1_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_equip.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												装備
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_2_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_field.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												フィールド
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_3_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_quickplay.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												速攻
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="25">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_4_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_ritual.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												儀式
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_5_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_continuous.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												永続
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="24">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_6_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_counter.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												カウンター
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_7_ja">
+		
+		
+										<span style="padding-left:18px;">
+											通常
+										</span>
+		
+										<input type="checkbox" name="effe" class="none" value="20">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_effect-->
+
+
+
+					<div id="search_by_species" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>種族</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい種族を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="species button_off species_1_ja">
+										魔法使い族
+										<input type="checkbox" name="species" class="none" value="18">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_2_ja">
+										ドラゴン族
+										<input type="checkbox" name="species" class="none" value="1">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_3_ja">
+										アンデット族
+										<input type="checkbox" name="species" class="none" value="2">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_4_ja">
+										戦士族
+										<input type="checkbox" name="species" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_5_ja">
+										獣戦士族
+										<input type="checkbox" name="species" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_6_ja">
+										獣族
+										<input type="checkbox" name="species" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_7_ja">
+										鳥獣族
+										<input type="checkbox" name="species" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_8_ja">
+										悪魔族
+										<input type="checkbox" name="species" class="none" value="3">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_9_ja">
+										天使族
+										<input type="checkbox" name="species" class="none" value="17">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_10_ja">
+										昆虫族
+										<input type="checkbox" name="species" class="none" value="10">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_11_ja">
+										恐竜族
+										<input type="checkbox" name="species" class="none" value="9">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_12_ja">
+										爬虫類族
+										<input type="checkbox" name="species" class="none" value="20">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_13_ja">
+										魚族
+										<input type="checkbox" name="species" class="none" value="8">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_14_ja">
+										海竜族
+										<input type="checkbox" name="species" class="none" value="5">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_15_ja">
+										水族
+										<input type="checkbox" name="species" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_16_ja">
+										炎族
+										<input type="checkbox" name="species" class="none" value="4">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_17_ja">
+										雷族
+										<input type="checkbox" name="species" class="none" value="19">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_18_ja">
+										岩石族
+										<input type="checkbox" name="species" class="none" value="6">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_19_ja">
+										植物族
+										<input type="checkbox" name="species" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_20_ja">
+										機械族
+										<input type="checkbox" name="species" class="none" value="7">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_21_ja">
+										サイキック族
+										<input type="checkbox" name="species" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_22_ja">
+										幻神獣族
+										<input type="checkbox" name="species" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_23_ja">
+										創造神族
+										<input type="checkbox" name="species" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_24_ja">
+										幻竜族
+										<input type="checkbox" name="species" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_25_ja">
+										サイバース族
+										<input type="checkbox" name="species" class="none" value="27">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_species-->
+
+
+
+					<div id="search_by_other" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>その他項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたいその他の項目を選択してください、AndあるいはOrで絞り込みます">
+									<div id="and_or">
+										<a href="javascript:void(0);" class="othercon_left radio_off_left">
+											<img alt="">
+											<b>and</b>
+											<input type="radio" id="othercon_and" name="othercon" value="1" class="none">
+										</a>
+										<a href="javascript:void(0);" class="othercon_right radio_off_right" style="padding-left:5px;">
+											<img alt="">
+											<b>or</b>
+											<input type="radio" id="othercon_or"  name="othercon" value="2" class="none">
+										</a>
+									</div>
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_other-->
+
+
+
+					<div id="search_by_jogai" style="border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>除外項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="除外したい項目を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_jogai-->
+
+
+				</div><!--#search_box-->
+
+			</form><!--#form_search-->
+
+
+		</div><!--#article_body-->
+	</article>
+
+
+
+
+
+
+	<div id="cdb_link_set"><a class="link_ocg" href="//www.yugioh-card.com/japan/" target="_blank">遊戯王公式サイト</a> <a class="link_neuron" href="//www.konami.com/yugioh/neuron/ja/" target="_blank">遊戯王ニューロン</a> <a class="link_cgn" href="//cardgame-network.konami.net/" target="_blank">KONAMI CARD GAME NETWORK</a> <a class="link_kst" href="http://www.konamistyle.jp/" target="_blank">コナミスタイル</a> <a class="link_kfs" href="https://www.konami.com/games/card/friendly_shop/" target="_blank">コナミ フレンドリーショップ</a> <a class="link_rushdb" href="https://www.db.yugioh-card.com/rushdb/" target="_blank">遊戯王ラッシュデュエルカードデータベース</a> </div>
+
+	<footer id="footer">
+		<div id="content_copyright">&copy;スタジオ・ダイス／集英社・テレビ東京・KONAMI</div>
+		<div id="footer_meta">
+			<nav>
+				<ul>
+					<li><a href="http://www.yugioh-card.com/japan/support/" target="_blank">お問い合わせ</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://www.konami.com/siteinfo/ja/" target="_blank">サイトポリシー</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://legal.konami.com/games/privacy/ja/" target="_blank">個人情報等保護方針</a></li><!--
+				 --><li>|</li><!--
+				 --><li></li>
+				</ul>
+			</nav>
+			<small>&copy;2021 Konami Digital Entertainment</small>
+		</div>
+	</footer>
+</div><!--wrapper-->
+<noscript>JavaScript を有効にしてください</noscript>
+
+</body>
+</html>
+

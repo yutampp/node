@@ -1,0 +1,4729 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	<meta name="keywords" content="SRタケトンボーグ,遊戯王,デッキ,デュエルモンスターズ,VRAINS,ヴレインズ,禁止,制限,パック,禁止カード,カード,カードリスト,ルール,OCG,コナミ,KONAMI"/>
+	<meta name="description" content="「SRタケトンボーグ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+	<meta name="title" content="SRタケトンボーグ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:title" content="SRタケトンボーグ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:description" content="「SRタケトンボーグ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。" />
+	<meta name="twitter:title" content="SRタケトンボーグ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta name="twitter:description" content="「SRタケトンボーグ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12052%26request_locale%3Dja%26a%3D202105062352"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12052%26request_locale%3Dja%26a%3D202105062352"/>
+
+	<meta http-equiv="x-ua-compatible" content="IE=10" >
+	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="ja">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="imagetoolbar" content="no">
+
+	<meta property="og:site_name" content="遊戯王OCGカードデータベース">
+
+	<meta property="og:type" content="product" />
+	<meta property="og:locale" content="ja_JP" />
+
+	<meta name="twitter:card" content="summary"/>
+
+	<script type="text/javascript" src="/yugiohdb/ga.js"></script>
+	<meta name="copyright" content="KONAMI">
+	<link rel="shortcut icon" href="external/image/yugioh.ico">
+	<link rel="apple-touch-icon" href="external/image/apple-touch-icon.png">
+
+
+
+	<meta property='og:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=12052&ciid=1&enc=aMtNo2LeHZD_9MCIK2JjuA&app=tournament&request_locale=ja" />
+	<meta name='twitter:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=12052&ciid=1&enc=aMtNo2LeHZD_9MCIK2JjuA&app=tournament&request_locale=ja" />
+
+
+
+
+	
+
+
+	
+		<title>SRタケトンボーグ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</title>
+	
+	
+
+
+
+
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="external/html5/js/html5shiv.js"></script>
+<![endif]-->
+	<script type="text/javascript" src="external/jquery/jquery-1.7.2.js"></script>
+	<script type="text/javascript" src="external/jquery/jquery-ui-1.8.16.custom/js/jquery-ui-1.8.16.custom.min.js"></script>
+ 	<script type="text/javascript" src="external/jquery/jquery.dropkick/js/jquery.dropkick-1.0.0.js"></script>
+	<script type="text/javascript" src="external/js/common.js"></script>
+
+	<script type="text/javascript" src="external/jquery/scrolltopcontrol.js"></script>
+
+
+
+
+
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery-ui-1.8.16.custom/css/ui-lightness/jquery-ui-1.8.16.custom.css">
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery.dropkick/css/dropkick.css">
+	<link type="text/css" rel="stylesheet" href="external/css/common.css?20171030">
+
+	<link rel="stylesheet" type="text/css" href="external/css/CardDetail.css">
+
+	<script type="text/javascript">
+	<!--
+
+	$(function() {
+		$('a[href^=#]').click(function(){
+			$('html,body').animate({scrollTop:$($(this).attr("href")).offset().top},'slow','swing');
+			return false;
+		})
+
+		$('#message').hide();
+		
+		$('#keyword').val('');
+		$('#stype').val('1');
+		$('#ctype').val('');
+		$('input:checkbox').prop('checked', false);
+ 		$('#othercon_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#othercon_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+		$('#link_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#link_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+
+		
+		$('#stype').dropkick({
+			theme: 'stype_ja'
+		});
+		$('#ctype').dropkick({
+			change: function (value, label) {
+				ChangeCtype(value, label);
+			}
+		});
+
+	   
+
+		
+	   
+		$('#card_image_1').attr('src', '/yugiohdb/get_image.action?type=2&cid=12052&ciid=1&enc=aMtNo2LeHZD_9MCIK2JjuA').show();
+		$('#thumbnail_card_image_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12052&ciid=1&enc=aMtNo2LeHZD_9MCIK2JjuA').addClass('current').show();
+	   
+		
+		$('#thumbnail img').click(function(){
+			
+			var setImgId = $(this).attr('alt');
+			var setContent = 'https://www.db.yugioh-card.com'
+			         + '/yugiohdb/get_image.action'
+			         + '?type=1&osplang=1&cid=12052'
+			         + '&ciid=' + setImgId
+			         + '&enc=aMtNo2LeHZD_9MCIK2JjuA'
+			         + '&app=tournament'
+			         + '&request_locale=ja'
+			         ;
+			$("meta[property='og:image']").attr('content',setContent); 
+			$("meta[name='twitter:image']").attr('content',setContent);
+
+			$('[id^=card_image]').hide();
+			$('#card_image_' + $(this).attr('alt')).show();
+			$('[id^=thumbnail_card_image]').removeClass('current');
+			$(this).addClass('current');
+		});
+
+		
+		$('#pack_list table tr.row').click(function() {
+			location.href = $('.link_value', this).val();
+		});
+		
+		
+			
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7057&ciid=1&enc=8iYTJt-CuMis6QeAGVe6fw').show();
+			
+		
+			
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6735&ciid=1&enc=ot7fz2-ZxjGj2cFhySwB-g').show();
+			
+		
+			
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6736&ciid=1&enc=RFm4z4mxNaVQuCIf6trCoQ').show();
+			
+		
+			
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9402&ciid=1&enc=_InwoOh61wTLFMZIEnMbGg').show();
+			
+		
+			
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12828&ciid=1&enc=gXuuko30AVODc2nKcxSFjg').show();
+			
+		
+			
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6741&ciid=1&enc=6nSLKATGi-OfQ1FKkRPebQ').show();
+			
+		
+			
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12056&ciid=1&enc=zr_7ImpmCEQDTUhD0NjpGQ').show();
+			
+		
+			
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12857&ciid=1&enc=a3_ArHM6aF-SCBLJblABgQ').show();
+			
+		
+			
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12054&ciid=1&enc=aaZkwfpMaP8aWhFywDIs8Q').show();
+			
+		
+			
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12921&ciid=1&enc=5S026_HBf7fw14beSpGZAQ').show();
+			
+		
+			
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12053&ciid=1&enc=VJnlYx0Re5Puz4toouJ4BA').show();
+			
+		
+			
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12740&ciid=1&enc=HGXZNZu6owsi_atAfz-1XA').show();
+			
+		
+			
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15180&ciid=1&enc=5N1E2I07400FeC5q8aWkDA').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12050&ciid=1&enc=-wYLq_1__Q51GtlYyGMP0g').show();
+			
+		
+			
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12049&ciid=1&enc=JEVWsVEfCJhRmdnBNrgT9A').show();
+			
+		
+			
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12278&ciid=1&enc=KbWSltMP0M2Qk3h3GJfeaQ').show();
+			
+		
+			
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12883&ciid=1&enc=dul-75u5URvTxkxkM8m5lA').show();
+			
+		
+			
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12741&ciid=1&enc=wiMqjq4bk28iKmxbWuVwRw').show();
+			
+		
+			
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12279&ciid=1&enc=eeUljeA8Q4DbJqkR2OemDA').show();
+			
+		
+			
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12829&ciid=1&enc=M1jtmc5on6IXTcHBn5IYag').show();
+			
+		
+			
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14339&ciid=1&enc=Nv9RhMhO2tSTZFMRcnUkig').show();
+			
+		
+			
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12920&ciid=1&enc=mKYtAIcCqbRDpl18OM77fA').show();
+			
+		
+			
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12922&ciid=1&enc=IvDcoeRpArCKny2-lpmLMA').show();
+			
+		
+			
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15179&ciid=1&enc=Va9XgWYJSIecPySIE28PHQ').show();
+			
+		
+			
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14340&ciid=1&enc=cWD3xKFMZP70-89HvWVnDQ').show();
+			
+		
+			
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12047&ciid=1&enc=4YnDPVHOi_V9mEpev9zODg').show();
+			
+		
+			
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12048&ciid=1&enc=A9uObNCbYERePBUyyLd6CA').show();
+			
+		
+			
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12051&ciid=1&enc=NxJjv7SBqrYzwV6J4FUQDQ').show();
+			
+		
+			
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6747&ciid=1&enc=k207Pr-Gy_Jc6B_uk6ptzg').show();
+			
+		
+			
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13185&ciid=1&enc=3LfHi3P2hTWCKDVUXUL7Yw').show();
+			
+		
+			
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12059&ciid=1&enc=tDw7bqhow1HhozAt9Ol1Yg').show();
+			
+		
+			
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12166&ciid=1&enc=5UDN6q_eM1cX8b4F7awlMg').show();
+			
+		
+			
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12322&ciid=1&enc=qiwd94xhkxKfRtnhhhj17g').show();
+			
+		
+			
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14430&ciid=1&enc=zT6BjVjMR0fN4k30NL7-ww').show();
+			
+		
+			
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14206&ciid=1&enc=mpInfyz9gaHG53pORxW_Cg').show();
+			
+		
+			
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12055&ciid=1&enc=89ZwL0lej8oFx2bvic5xxg').show();
+			
+		
+			
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11640&ciid=1&enc=eiX0Uu08mz_pRU3lq8SkUg').show();
+			
+		
+			
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12157&ciid=1&enc=AfKSJvx-uo0aerR2NJ-zKw').show();
+			
+		
+			
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12057&ciid=1&enc=FwyayA2_TSjtTJo_-vT50A').show();
+			
+		
+			
+				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13184&ciid=1&enc=T3_GxUz9IPqdBuPDsGwBog').show();
+			
+		
+			
+				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13186&ciid=1&enc=8kXbHJ94UnS7lJJFJ2Fn1A').show();
+			
+		
+			
+				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12342&ciid=1&enc=Z491M6mgq42ft41Ca0yq7g').show();
+			
+		
+			
+				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6745&ciid=1&enc=8POcdHBHQxoYSVZz1q5OZw').show();
+			
+		
+			
+				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13187&ciid=1&enc=1d2k2MSIOEv4n-aPv4JSfw').show();
+			
+		
+			
+				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6749&ciid=1&enc=RKJtYSYEVn3teOXxtvAEiA').show();
+			
+		
+
+		
+		$('.list_style ul li').click(function() {
+			var li_class = $(this).attr('class');
+			if(!(li_class == "li_top")){
+				location.href = $('.link_value_detail', this).val();
+			}
+		});
+
+		$('#sort').val('1');
+		$('#rp').val('100');
+		$('#mode').val('1');
+
+		$('#sort').dropkick({
+			theme: 'sort_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=12052'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#rp').dropkick({
+			theme: 'rp_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=12052'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#mode').dropkick({
+			theme: 'mode_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+							+ '?ope=2'
+							+ '&cid=12052'
+							+ '&sess=4'
+							+ '&mode=' + value;
+			}
+		});
+
+		
+		$('.box_card_linkmarker').load(function(){});
+	});
+
+	
+	function ChangePage(page) {
+		location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=12052'
+					+ '&sess=3'
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=' + page;
+	}
+
+	
+
+	//-->
+	</script>
+</head>
+
+
+
+
+<body>
+
+<div id="wrapper">
+	<header>
+		<div class="h1_set">遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</div>
+		<div id="header_meta">
+			<a href="https://www.konami.com/games/jp/ja/" target="_blank"><img src="external/image/logo_konami.png" alt="KONAMI" id="konami" class="ui-draggable"></a>
+
+
+	
+			<nav id="language">
+				<span>
+		日本語
+		
+		
+		
+		
+		
+		
+		
+				</span>
+				<ul>
+					<li><a href="javascript:ChangeLanguage('ja')" class="current">日本語</a></li>
+					<li><a href="javascript:ChangeLanguage('en')" >English</a></li>
+					<li><a href="javascript:ChangeLanguage('de')" >Deutsch</a></li>
+					<li><a href="javascript:ChangeLanguage('fr')" >Fran&ccedil;ais</a></li>
+					<li><a href="javascript:ChangeLanguage('it')" >Italiano</a></li>
+					<li><a href="javascript:ChangeLanguage('es')" >Espa&ntilde;ol</a></li>
+					<li><a href="javascript:ChangeLanguage('pt')" >Portugues</a></li>
+					<li><a href="javascript:ChangeLanguage('ko')" >한글</a></li>
+				</ul>
+			</nav>
+	
+
+		</div><!--#header_meta-->
+		<div id="header_menu">
+			<div id="main_logo">
+				<a href="/yugiohdb/"><img src="external/image/ja/logo_ocg.png" alt="遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース" title="TOP"></a>
+			</div>
+			<nav>
+				<div id="menber_menu">
+				
+				</div><!--#menber_menu-->
+				<ul id="main_menu">
+					<li><a href="/yugiohdb/card_search.action"><img src="external/image/ja/menu_btn_home.png" alt="カード検索"></a></li>
+					<li><a href="/yugiohdb/card_list.action"><img src="external/image/ja/menu_btn_cardlist.png" alt="カードリスト"></a></li>
+					<li><a href="/yugiohdb/forbidden_limited.action"><img src="external/image/ja/menu_btn_limitr.png" alt="リミットレギュレーション"></a></li>
+					<li><a href="/yugiohdb/faq_search.action"><img src="external/image/ja/menu_btn_q_a.png" alt="Ｑ＆Ａ"></a></li>
+					<li><a href="/yugiohdb/deck_search.action"><img src="external/image/ja/menu_btn_decks.png" alt="デッキ検索"></a></li>
+	
+					<li class="last"><a href="/yugiohdb/member_login.action"><img src="external/image/ja/menu_btn_login.png" alt="ログイン"></a></li>
+	
+	
+				</ul><!--#main_menu-->
+			</nav>
+		</div><!-- #header_menu-->
+	</header>
+
+	<nav id="pan_nav">
+		<ul>
+			<li><a href="/yugiohdb/">ホーム</a></li>
+			<li>&raquo;</li>
+
+			<li>SRタケトンボーグ</li>
+
+
+		</ul>
+	</nav><!--#pan_nav-->
+
+
+	 
+		<nav id="title_msg">
+			遊戯王OCGカード「SRタケトンボーグ」のカード詳細です。<br>「SRタケトンボーグ」の遊戯王OCG公式ルールはこちらのページで確認してください。<br>「SRタケトンボーグ」の使い方に関する質問等は「<a href="faq_search.action?ope=4&cid=12052" target=_blank>このカードのQ&Aを表示</a>」より確認ができます。<br>「SRタケトンボーグ」を使用したデッキを検索したい場合は「<a href="deck_search.action?cardid=12052" target=_blank>このカードを使用したデッキを検索</a>」より確認ができます。
+		</nav>
+	
+
+	<article>
+
+
+		<header id="broad_title">
+			<div>
+				<h1>
+	
+					<span class="ruby">スピードロイドタケトンボーグ</span>
+	
+					SRタケトンボーグ
+	
+					<span>Speedroid Taketomborg</span>
+	
+				</h1>
+			</div>
+		</header>
+
+
+		<div id="article_body">
+
+
+			<table style="margin:0 8px 10px 8px;">
+				<tr>
+				<td valign="top" style="padding-right:8px;">
+					<div id="card_frame">
+	
+		
+						<img id="card_image_1" alt="SRタケトンボーグ" title="SRタケトンボーグ" class="none">
+		
+	
+	
+					</div>
+	
+					<div id="thumbnail">
+		
+						<img id="thumbnail_card_image_1" alt="1" class="none">
+		
+					</div>
+	
+				</td>
+
+				<td valign="top">
+
+	
+					<table id="details">
+						<col width="50%">
+						<col width="50%">
+						<tr>
+							<td>
+								<div class="item_box" style="margin-right:5px;">
+									<span class="item_box_title">
+										<b>属性</b>
+									</span>
+									<span class="item_box_value">
+		
+										風属性
+		
+									</span>
+								</div>
+							</td>
+							<td>
+								<div class="item_box" style="margin-left:5px;">
+		
+		
+		
+									<span class="item_box_title">
+										<b>レベル</b>
+									</span>
+									<span class="item_box_value">
+										3
+									</span>
+		
+								</div>
+							</td>
+						</tr>
+
+		
+						<tr>
+							<td colspan="2">
+								<div class="item_box t_center" style="margin-top:10px;">
+									<span class="item_box_title">
+										<b>種族</b>
+									</span>
+		
+									機械族
+		
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="item_box t_center" style="margin-top:10px;">
+									<span class="item_box_title">
+										<b>その他項目</b>
+									</span>
+		
+									 	効果
+		
+		
+		
+		
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<div class="item_box" style="margin-top:10px;margin-right:5px;">
+									<span class="item_box_title">
+										<b>攻撃力</b>
+									</span>
+									<span class="item_box_value">
+										600
+									</span>
+								</div>
+							</td>
+							<td>
+								<div class="item_box" style="margin-top:10px;margin-left:5px;">
+									<span class="item_box_title">
+										<b>守備力</b>
+									</span>
+									<span class="item_box_value">
+										
+										
+											1200
+										
+									</span>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="item_box_text" style="margin-top:10px;">
+									<div class="item_box_title">
+										<b>カードテキスト</b>
+									</div>
+									自分は「SRタケトンボーグ」を１ターンに１度しか特殊召喚できない。①：自分フィールドに風属性モンスターが存在する場合、このカードは手札から特殊召喚できる。②：このカードをリリースして発動できる。デッキから「スピードロイド」チューナー１体を特殊召喚する。この効果の発動後、ターン終了時まで自分は風属性モンスターしか特殊召喚できない。
+									
+			
+								</div>
+							</td>
+						</tr>
+					</table><!--#details-->
+	
+	
+
+<!--シェア追加-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!--シェア追加-->
+					<table style="margin-top:5px;width:100%;text-align: center;">
+						<tr>
+							<td>
+								
+								<iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=12052&amp;sess=2&amp;sort=1&amp;rp=100&amp;page=1&amp;lang=ja&amp;count=horizontal&amp;hashtags=YugiohDB_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td>
+								
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12052%26request_locale%3Dja%26a%3D202105062352&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td style="display: block;margin:0 10px 0 0;">
+								
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12052&request_locale=ja&a=202105062352" data-layout="button_count" data-size="small" ></div>
+							</td>
+							<td>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12052&request_locale=ja&a=202105062352"></div>
+								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+							</td>
+						</tr>
+					</table>
+				
+				
+					<div id="relationCard_a">
+						<a href="#relationCard">このカードの関連カードを見る</a>
+					</div>
+				
+				</td>
+				<td valign="top" style="padding-left:8px;">
+
+	
+	
+					<div style="">
+						<a href="/yugiohdb/faq_search.action?ope=4&cid=12052" id="to_QandA" class="CD_a_btn" target="_blank"><b>このカードの<br>Ｑ＆Ａを表示</b></a>
+					</div>
+	
+	
+	
+					<div style="">
+						<a href="/yugiohdb/deck_search.action?cardid=12052" id="to_MyD" class="CD_a_btn" target="_blank"><b>このカードを<br>使用したデッキを検索</b></a>
+					</div>
+	
+	
+	
+	
+				</td>
+				</tr>
+			</table>
+
+
+
+
+
+			<div id="pack_list" class="radius_top">
+				<table>
+					<col width="100">
+					<col width="100">
+					<col width="*">
+					<col width="50">
+					<tr>
+						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2019-02-23</td>
+		
+		
+		
+						<td>20CP-JPC03</td>
+		
+		
+						<td>
+							<b>20thシークレットレア CHALLENGE PACK</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=141418014&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_sr.png" class="icon_info rid_3" alt="スーパーレア仕様" style="margin-right: 7px;">
+		
+		
+						</td>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2015-08-22</td>
+		
+		
+		
+						<td>SPHR-JP006</td>
+		
+		
+						<td>
+							<b>ブースターSP - ハイスピード・ライダーズ -</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=3317002&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2015-08-22</td>
+		
+		
+		
+						<td>SPHR-JP006</td>
+		
+		
+						<td>
+							<b>ブースターSP - ハイスピード・ライダーズ -</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=3317002&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_p.png" class="icon_info rid_9" alt="パラレル仕様" style="margin-right: 7px;">
+		
+		
+						</td>
+					</tr>
+	
+				</table>
+			</div><!--#pack_list-->
+
+
+
+
+
+
+
+
+
+	<div class="list_style" id="relationCard">
+		<div class="li_top">関連カード</div>
+
+
+
+			<table style="margin:0 auto;width:100%;border-spacing: 0px;">
+				<tr>
+				<td valign="top" style="padding: 0px;">
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="mode" style="width:110px;">
+							<option value="1">画像表示</option>
+							<option value="2">テキスト表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="rp" style="width:170px;">
+							<option value="10">10件ずつ表示</option>
+							<option value="50">50件ずつ表示</option>
+							<option value="100">100件ずつ表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right">
+						<select id="sort" style="width:260px;">
+							<option value="1">50音順</option>
+							<option value="2">レベル／ランク順（大きい順）</option>
+							<option value="3">レベル／ランク順（小さい順）</option>
+							<option value="4">攻撃力順（大きい順）</option>
+							<option value="5">攻撃力順（小さい順）</option>
+							<option value="6">守備力順（大きい順）</option>
+							<option value="7">守備力順（小さい順）</option>
+							<option value="8">ペンデュラムスケール順（大きい順）</option>
+							<option value="9">ペンデュラムスケール順（小さい順）</option>
+							<option value="11">リンク数（多い順）</option>
+							<option value="12">リンク数（少ない順）</option>
+						</select>
+					</span>
+
+					
+					<div class="page_num_title">
+						<div>
+							<strong>
+
+								検索結果 45件中 1～45件を表示
+							</strong>
+						</div>
+					</div>
+					<br class="f_del">
+				</td>
+				</tr>
+			</table>
+
+
+
+
+		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アーマロイドガイデンゴー</span>
+						<span class="card_status">
+						<strong>アーマロイドガイデンゴー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_earth.png" alt="地属性" title="地属性">
+							<span>地属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2700</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：「ロイド」モンスターをリリースしてこのカードがアドバンス召喚に成功した場合に発動する。フィールドの魔法・罠カードを全て除外する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="アーマロイドガイデンゴー" title="アーマロイドガイデンゴー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=7057">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エクスプレスロイド</span>
+						<span class="card_status">
+						<strong>エクスプレスロイド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_earth.png" alt="地属性" title="地属性">
+							<span>地属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 400</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚・反転召喚・特殊召喚に成功した時、「エクスプレスロイド」以外の自分の墓地の「ロイド」モンスター２体を対象として発動できる。そのモンスターを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="エクスプレスロイド" title="エクスプレスロイド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=6735">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>キューキューロイド</span>
+						<span class="card_status">
+						<strong>キューキューロイド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_earth.png" alt="地属性" title="地属性">
+							<span>地属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 300</span>
+						
+						
+							<span class="def_power">守備力 1200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「ロイド」と名のついたモンスターが自分の墓地から手札に加わった時、そのモンスターを特殊召喚する事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="キューキューロイド" title="キューキューロイド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=6736">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>きょくせんきおうヴァルバロイド</span>
+						<span class="card_status">
+						<strong>極戦機王ヴァルバロイド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_earth.png" alt="地属性" title="地属性">
+							<span>地属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 12</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							融合
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 4000</span>
+						
+						
+							<span class="def_power">守備力 4000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「ロイド」と名のついた機械族モンスター×５<br>このカードは１度のバトルフェイズ中に２回攻撃する事ができる。このカードが攻撃した相手の効果モンスターの効果をダメージ計算後に無効化する。このカードが戦闘によって相手モンスターを破壊した場合、相手ライフに１０００ポイントダメージを与える。このカードは相手プレイヤーに直接攻撃をする事はできない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="極戦機王ヴァルバロイド" title="極戦機王ヴァルバロイド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9402">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>クリアウィング・ファスト・ドラゴン</span>
+						<span class="card_status">
+						<strong>クリアウィング・ファスト・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							4
+						</span>
+						<span class="box_card_pen_effect">
+							「クリアウィング・ファスト・ドラゴン」のP効果は１ターンに１度しか使用できない。①：レベルの合計が７になるように、自分フィールドの表側表示の、「スピードロイド」チューナー１体とチューナー以外のモンスター１体を墓地へ送って発動できる。Pゾーンのこのカードを特殊召喚する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外の風属性モンスター１体以上<br>「クリアウィング・ファスト・ドラゴン」の①のモンスター効果は１ターンに１度しか使用できない。①：エクストラデッキから特殊召喚された相手フィールドの表側表示モンスター１体を対象として発動できる。ターン終了時まで、そのモンスターの攻撃力は０になり、効果は無効化される。この効果は相手ターンでも発動できる。②：モンスターゾーンのこのカードが戦闘・効果で破壊された場合に発動できる。このカードを自分のPゾーンに置く。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_4_1" alt="クリアウィング・ファスト・ドラゴン" title="クリアウィング・ファスト・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12828">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ステルスロイド</span>
+						<span class="card_status">
+						<strong>ステルスロイド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上にこのカード以外の「ロイド」と名のついたモンスターが存在する場合、このカードが戦闘を行った自分ターンのバトルフェイズ終了時に、フィールド上の魔法または罠カード１枚を破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="ステルスロイド" title="ステルスロイド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=6741">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードリバース</span>
+						<span class="card_status">
+						<strong>スピードリバース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分の墓地の「スピードロイド」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：墓地のこのカードを除外し、自分の墓地の「スピードロイド」モンスター１体を対象として発動できる。そのモンスターを手札に加える。この効果はこのカードが墓地へ送られたターンには発動できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="スピードリバース" title="スピードリバース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12056">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードリフト</span>
+						<span class="card_status">
+						<strong>スピードリフト</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドのモンスターがチューナー１体のみの場合に発動できる。デッキからレベル４以下の「スピードロイド」モンスター１体を特殊召喚する。そのモンスターの特殊召喚成功時には、お互いに魔法・罠・モンスターの効果は発動できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="スピードリフト" title="スピードリフト" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12857">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドあかめのダイス</span>
+						<span class="card_status">
+						<strong>SR赤目のダイス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚・特殊召喚に成功した時、「SR赤目のダイス」以外の自分フィールドの「スピードロイド」モンスター１体を対象とし、１～６までの任意のレベルを宣言して発動できる。そのモンスターのレベルはターン終了時まで、宣言したレベルになる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_8_1" alt="SR赤目のダイス" title="SR赤目のダイス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12054">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドアクマグネ</span>
+						<span class="card_status">
+						<strong>SRアクマグネ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「SRアクマグネ」の効果は１ターンに１度しか使用できない。このカードはこのカードの効果によるS召喚でしかS素材にできない。①：このカードが自分メインフェイズに召喚・特殊召喚に成功した場合、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターとこのカードのみを素材として風属性Sモンスター１体をS召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_9_1" alt="SRアクマグネ" title="SRアクマグネ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12921">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドオハジキッド</span>
+						<span class="card_status">
+						<strong>SRオハジキッド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚に成功した時、自分または相手の墓地のチューナー１体を対象として発動できる。そのモンスターを自分フィールドに特殊召喚し、そのモンスターとこのカードのみを素材として風属性のSモンスター１体をS召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_10_1" alt="SRオハジキッド" title="SRオハジキッド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12053">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイド－オーエムケーガム</span>
+						<span class="card_status">
+						<strong>SR－OMKガム</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分・相手のバトルフェイズに自分が戦闘・効果でダメージを受けた場合に発動できる。このカードを手札から特殊召喚する。②：このカードの効果でこのカードが特殊召喚に成功したバトルフェイズに発動できる。このカードを含む自分フィールドの風属性モンスターのみをS素材としてS召喚する。③：このカードがS素材として墓地へ送られた場合に発動できる。自分のデッキの一番上のカードを墓地へ送り、そのカードが「スピードロイド」モンスターだった場合、このカードをS素材としたSモンスターの攻撃力は１０００アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_11_1" alt="SR－OMKガム" title="SR－OMKガム" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12740">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドカールターボ</span>
+						<span class="card_status">
+						<strong>SRカールターボ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 1200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに風属性モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。この効果の発動後、ターン終了時まで自分は風属性以外のモンスターの効果を発動できない。②：自分の墓地からこのカードと「スピードロイド」モンスター１体を除外して発動できる。自分フィールドの全ての風属性モンスターの攻撃力はターン終了時まで８００アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_12_1" alt="SRカールターボ" title="SRカールターボ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15180">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドシェイブー・メラン</span>
+						<span class="card_status">
+						<strong>SRシェイブー・メラン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードは召喚したターンには攻撃できない。②：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。このカードを守備表示にし、対象のモンスターの攻撃力はターン終了時まで８００ダウンする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_13_1" alt="SRシェイブー・メラン" title="SRシェイブー・メラン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12050">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドダブルヨーヨー</span>
+						<span class="card_status">
+						<strong>SRダブルヨーヨー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1400</span>
+						
+						
+							<span class="def_power">守備力 1400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚に成功した時、自分の墓地のレベル３以下の「スピードロイド」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_14_1" alt="SRダブルヨーヨー" title="SRダブルヨーヨー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12049">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドでんでんだいこう</span>
+						<span class="card_status">
+						<strong>SR電々大公</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「SR電々大公」の効果は１ターンに１度しか使用できない。①：墓地のこのカードを除外して発動できる。自分の手札・墓地から「SR電々大公」以外の「スピードロイド」チューナー１体を選んで特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_15_1" alt="SR電々大公" title="SR電々大公" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12278">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドドミノバタフライ</span>
+						<span class="card_status">
+						<strong>SRドミノバタフライ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 300</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							「SRドミノバタフライ」の②のP効果は１ターンに１度しか使用できない。①：自分は風属性モンスターしかP召喚できない。この効果は無効化されない。②：手札から風属性モンスター１体を捨て、除外されている自分の風属性モンスター１体を対象として発動できる。そのモンスターを手札に加える。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードをS素材とする場合、ドラゴン族・機械族の風属性モンスターのS召喚にしか使用できない。エクストラデッキから特殊召喚したこのカードは、S召喚に使用された場合に除外される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_16_1" alt="SRドミノバタフライ" title="SRドミノバタフライ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12883">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドバンブー・ホース</span>
+						<span class="card_status">
+						<strong>SRバンブー・ホース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1100</span>
+						
+						
+							<span class="def_power">守備力 1100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「SRバンブー・ホース」の②の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。手札からレベル４以下の「スピードロイド」モンスター１体を特殊召喚する。②：墓地のこのカードを除外して発動できる。デッキから風属性モンスター１体を墓地へ送る。この効果はこのカードが墓地へ送られたターンには発動できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_17_1" alt="SRバンブー・ホース" title="SRバンブー・ホース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12741">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドパチンゴーカート</span>
+						<span class="card_status">
+						<strong>SRパチンゴーカート</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：１ターンに１度、手札から機械族モンスター１体を捨て、フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_18_1" alt="SRパチンゴーカート" title="SRパチンゴーカート" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12279">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドパッシングライダー</span>
+						<span class="card_status">
+						<strong>SRパッシングライダー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2200</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							3
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、手札及び自分フィールドの表側表示モンスターの中から、「スピードロイド」チューナー１体を墓地へ送って発動できる。ターン終了時まで、墓地へ送ったそのモンスターの元々のレベル分だけこのカードのPスケールを上げる、または下げる（最小１まで）。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「SRパッシングライダー」の①の方法による特殊召喚は１ターンに１度しかできない。①：お互いのフィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：このカードがアドバンス召喚に成功した時、自分の墓地のレベル４以下の「スピードロイド」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。③：このカードがモンスターゾーンに存在する限り、相手は他の「スピードロイド」モンスターを攻撃対象に選択できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_19_1" alt="SRパッシングライダー" title="SRパッシングライダー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12829">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドビーダマシーン</span>
+						<span class="card_status">
+						<strong>SRビーダマシーン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 200</span>
+						
+						
+							<span class="def_power">守備力 100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							1
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分の守備表示モンスターが攻撃対象に選択された時に発動できる。そのモンスターを表側攻撃表示にする。このターン、そのモンスターは戦闘では破壊されない。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。デッキから「スピードロイド」モンスター１体を手札に加える。この効果の発動後、ターン終了時まで自分は風属性モンスターしか特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_20_1" alt="SRビーダマシーン" title="SRビーダマシーン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14339">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドビードロ・ドクロ</span>
+						<span class="card_status">
+						<strong>SRビードロ・ドクロ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 3000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「SRビードロ・ドクロ」の③の効果は１ターンに１度しか使用できない。①：自分・相手のスタンバイフェイズに、エクストラデッキから特殊召喚されたモンスターが相手フィールドに存在する場合に発動できる。このカードを手札から特殊召喚する。②：このカードは通常召喚されたモンスターとの戦闘では破壊されない。③：このカードの戦闘で発生する自分への戦闘ダメージは代わりに相手が受ける。④：自分フィールドに「スピードロイド」モンスター以外の表側表示モンスターが存在する場合にこのカードは破壊される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_21_1" alt="SRビードロ・ドクロ" title="SRビードロ・ドクロ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12920">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドファイブシックスプレーン</span>
+						<span class="card_status">
+						<strong>SR５６プレーン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「SR５６プレーン」の①の効果は１ターンに１度しか使用できない。①：自分フィールドにモンスターが特殊召喚された場合に発動できる。このカードを手札から特殊召喚する。この効果の発動後、ターン終了時まで自分は風属性モンスターしか特殊召喚できない。②：このカードが召喚・特殊召喚に成功した場合、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで６００ダウンする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_22_1" alt="SR５６プレーン" title="SR５６プレーン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12922">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドブロックンロール</span>
+						<span class="card_status">
+						<strong>SRブロックンロール</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 1800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の効果は１ターンに１度しか使用できない。①：このカードがS素材として墓地へ送られた場合に発動できる。このカードをS素材としたSモンスターの元々のレベルと同じレベルを持つ「SRトークン」（機械族・風・攻／守０）１体を自分フィールドに特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_23_1" alt="SRブロックンロール" title="SRブロックンロール" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15179">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドヘキサソーサー</span>
+						<span class="card_status">
+						<strong>SRヘキサソーサー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							6
+						</span>
+						<span class="box_card_pen_effect">
+							このカード名のP効果は１ターンに１度しか使用できない。①：自分の墓地のモンスター及び除外されている自分のモンスターの中から、風属性Sモンスター１体を対象として発動できる。そのモンスターをEXデッキに戻す。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードの戦闘で発生する戦闘ダメージはお互いのプレイヤーが受ける。②：このカードの戦闘で発生するお互いの戦闘ダメージは半分になる。③：このカードがPゾーンで破壊された場合に発動できる。自分のEXデッキから表側表示の「スピードロイド」Pモンスター１体を特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_24_1" alt="SRヘキサソーサー" title="SRヘキサソーサー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14340">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドベイゴマックス</span>
+						<span class="card_status">
+						<strong>SRベイゴマックス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：このカードが召喚・特殊召喚に成功した時に発動できる。デッキから「SRベイゴマックス」以外の「スピードロイド」モンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_25_1" alt="SRベイゴマックス" title="SRベイゴマックス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12047">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドみつめのダイス</span>
+						<span class="card_status">
+						<strong>SR三つ目のダイス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 300</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：相手ターンに墓地のこのカードを除外して発動できる。このターン、相手モンスターの攻撃を１度だけ無効にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_26_1" alt="SR三つ目のダイス" title="SR三つ目のダイス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12048">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドメンコート</span>
+						<span class="card_status">
+						<strong>SRメンコート</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：相手モンスターの直接攻撃宣言時に発動できる。このカードを手札から攻撃表示で特殊召喚し、相手フィールドの表側表示モンスターを全て守備表示にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_27_1" alt="SRメンコート" title="SRメンコート" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12051">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スーパーチャージ</span>
+						<span class="card_status">
+						<strong>スーパーチャージ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドのモンスターが機械族の「ロイド」モンスターのみの場合、相手モンスターの攻撃宣言時に発動できる。自分はデッキから２枚ドローする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_28_1" alt="スーパーチャージ" title="スーパーチャージ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=6747">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スーパービークロイド－モビルベース</span>
+						<span class="card_status">
+						<strong>スーパービークロイド－モビルベース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_earth.png" alt="地属性" title="地属性">
+							<span>地属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 10</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							融合
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 5000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「ロイド」融合モンスター＋「ロイド」モンスター<br>このカード名の①の効果は１ターンに１度しか使用できない。①：相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力以下の攻撃力を持つ「ロイド」モンスター１体をデッキ・EXデッキから特殊召喚する。②：自分・相手のエンドフェイズにこのカード以外の自分のメインモンスターゾーンの「ロイド」モンスター１体を対象として発動できる。その自分のモンスターを持ち主の手札に戻し、このカードの位置をそのモンスターゾーンに移動する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_29_1" alt="スーパービークロイド－モビルベース" title="スーパービークロイド－モビルベース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13185">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ダイスロール・バトル</span>
+						<span class="card_status">
+						<strong>ダイスロール・バトル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：相手モンスターの攻撃宣言時に自分の墓地の「スピードロイド」モンスター１体を対象として発動できる。そのモンスターと手札の「スピードロイド」チューナー１体を除外し、その２体の元々のレベルの合計と同じレベルを持つSモンスター１体をエクストラデッキから特殊召喚する。②：相手バトルステップに墓地のこのカードを除外し、自分及び相手フィールドの表側攻撃表示のSモンスターを１体ずつ対象として発動できる。その相手の表側攻撃表示モンスターはその自分のモンスターへ攻撃し、ダメージ計算を行う。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_30_1" alt="ダイスロール・バトル" title="ダイスロール・バトル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12059">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ハイ・スピード・リレベル</span>
+						<span class="card_status">
+						<strong>ハイ・スピード・リレベル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分の墓地の「スピードロイド」モンスター１体を除外し、自分フィールドのSモンスター１体を対象として発動できる。そのモンスターはターン終了時まで、除外したモンスターと同じレベルになり、攻撃力は除外したモンスターのレベル×５００アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_31_1" alt="ハイ・スピード・リレベル" title="ハイ・スピード・リレベル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12166">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ハイスピードロイドかいとうらっぱズール</span>
+						<span class="card_status">
+						<strong>HSR快刀乱破ズール</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1300</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>①：このカードが特殊召喚されたモンスターと戦闘を行うダメージステップ開始時に発動できる。このカードの攻撃力はそのダメージステップ終了時まで倍になる。②：S召喚したこのカードが墓地へ送られたターンのエンドフェイズに、「HSR快刀乱破ズール」以外の自分の墓地の「スピードロイド」モンスター１体を対象として発動できる。そのモンスターを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_32_1" alt="HSR快刀乱破ズール" title="HSR快刀乱破ズール" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12322">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ハイスピードロイドカイドレイク</span>
+						<span class="card_status">
+						<strong>HSRカイドレイク</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						機械族・風属性チューナー＋チューナー以外のモンスター１体以上<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがS召喚に成功した場合、以下の効果から１つを選択して発動できる。<br>●このカード以外のフィールドのカードを全て破壊する。<br>●相手フィールドの全ての表側表示のカードの効果を無効にする。<br>②：このカードが相手によって墓地へ送られた場合に発動できる。デッキから「スピードロイド」モンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_33_1" alt="HSRカイドレイク" title="HSRカイドレイク" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14430">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ハイスピードロイド－ジーオーエムガン</span>
+						<span class="card_status">
+						<strong>HSR－GOMガン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+						<span class="box_card_linkmarker">
+							<img class="icon_img" src="external/image/parts/link_pc/link13.png" alt="リンク" title="リンク">
+							<span>リンク 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							リンク
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+							<span class="def_power">守備力 - </span>
+						
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						風属性モンスター２体<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。風属性モンスター１体を召喚する。この効果を発動したターン、自分はSモンスターしかEXデッキから特殊召喚できない。②：EXデッキから風属性Sモンスター１体を除外して発動できる。レベルの合計が除外したモンスターと同じになるように、デッキからカード名が異なる「スピードロイド」モンスター２体を相手に見せ、相手はその中からランダムに１枚選ぶ。その１枚を自分の手札に加え、残りを墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_34_1" alt="HSR－GOMガン" title="HSR－GOMガン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14206">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ハイスピードロイドチャンバライダー</span>
+						<span class="card_status">
+						<strong>HSRチャンバライダー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>自分は「HSRチャンバライダー」を１ターンに１度しか特殊召喚できない。①：このカードは１度のバトルフェイズ中に２回攻撃できる。②：このカードが戦闘を行うダメージステップ開始時に発動する。このカードの攻撃力は２００アップする。③：このカードが墓地へ送られた場合、除外されている自分の「スピードロイド」カード１枚を対象として発動できる。そのカードを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_35_1" alt="HSRチャンバライダー" title="HSRチャンバライダー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12055">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ハイスピードロイドまけんダーマ</span>
+						<span class="card_status">
+						<strong>HSR魔剣ダーマ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2200</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>「HSR魔剣ダーマ」の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。②：自分の墓地の機械族モンスター１体を除外して発動できる。相手に５００ダメージを与える。③：このカードが墓地に存在し、自分フィールドにカードが存在しない場合、自分メインフェイズに発動できる。このカードを墓地から特殊召喚する。この効果を発動するターン、自分は通常召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_36_1" alt="HSR魔剣ダーマ" title="HSR魔剣ダーマ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11640">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ハイスピードロイドマッハゴー・イータ</span>
+						<span class="card_status">
+						<strong>HSRマッハゴー・イータ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>このカード名の②の効果は１ターンに１度しか使用できない。①：このカードをリリースして発動できる。フィールドの全ての表側表示モンスターのレベルはターン終了時まで１つ上がる。この効果は相手ターンでも発動できる。②：このカードが墓地に存在し、自分フィールドに「スピードロイド」チューナーが存在する場合に発動できる。このカードを特殊召喚する。この効果の発動後、ターン終了時まで自分は風属性モンスターしか特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_37_1" alt="HSRマッハゴー・イータ" title="HSRマッハゴー・イータ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12157">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ヒドゥン・ショット</span>
+						<span class="card_status">
+						<strong>ヒドゥン・ショット</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分の墓地の「スピードロイド」モンスターを２体まで除外し、除外した数だけフィールドのカードを対象として発動できる。そのカードを破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_38_1" alt="ヒドゥン・ショット" title="ヒドゥン・ショット" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12057">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ミキサーロイド</span>
+						<span class="card_status">
+						<strong>ミキサーロイド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 2200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの機械族モンスター１体をリリースして発動できる。デッキから風属性以外の「ロイド」モンスター１体を特殊召喚する。②：LPを半分払い、自分の墓地からこのカードを含む機械族モンスターを任意の数だけ除外して発動できる。除外したモンスターの数と同じレベルの「ロイド」融合モンスター１体をEXデッキから召喚条件を無視して特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに破壊される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_39_1" alt="ミキサーロイド" title="ミキサーロイド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13184">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>メガロイドシティ</span>
+						<span class="card_status">
+						<strong>メガロイド都市</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_field.png" alt="フィールド" title="フィールド">
+							<span>フィールド</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できず、この効果を発動するターン、自分は融合モンスターしかEXデッキから特殊召喚できない。①：このカード以外の自分フィールドのカード１枚を対象として発動できる。そのカードを破壊し、デッキから「ロイド」カード１枚を手札に加える。②：自分の「ロイド」モンスターが戦闘を行うダメージ計算時に、デッキから「ロイド」モンスター１体を墓地へ送って発動できる。その戦闘を行う自分のモンスターはそのダメージ計算時のみ、元々の攻撃力と元々の守備力が入れ替わる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_40_1" alt="メガロイド都市" title="メガロイド都市" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13186">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>リサイコロ</span>
+						<span class="card_status">
+						<strong>リサイコロ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分の墓地の「スピードロイド」チューナー１体を対象として発動できる。そのモンスターを効果を無効にして特殊召喚し、サイコロを１回振る。その特殊召喚したモンスターはターン終了時まで出た目と同じレベルになる。②：墓地のこのカードを除外して発動できる。自分フィールドの「スピードロイド」チューナーを含むモンスターを素材として、風属性Sモンスター１体をS召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_41_1" alt="リサイコロ" title="リサイコロ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12342">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レスキューロイド</span>
+						<span class="card_status">
+						<strong>レスキューロイド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 1800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードが自分フィールド上に表側表示で存在する限り、自分フィールド上に存在する「ロイド」と名のついたモンスターが戦闘によって破壊され墓地に送られた時、そのモンスターを手札に戻す事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_42_1" alt="レスキューロイド" title="レスキューロイド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=6745">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レッド・ロイド・コール</span>
+						<span class="card_status">
+						<strong>レッド・ロイド・コール</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_counter.png" alt="カウンター" title="カウンター">
+							<span>カウンター</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドに「ロイド」融合モンスターが存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にする。その後、発動したそのプレイヤーのデッキ・EXデッキから同名カードを全て墓地へ送る。②：墓地のこのカードを除外し、自分の墓地の「ロイド」モンスター１体を対象として発動できる。そのモンスターを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_43_1" alt="レッド・ロイド・コール" title="レッド・ロイド・コール" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13187">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ワンダーガレージ</span>
+						<span class="card_status">
+						<strong>ワンダーガレージ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						セットされたこのカードが破壊され墓地へ送られた時、手札からレベル４以下の「ロイド」と名のついた機械族モンスター１体を特殊召喚する事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_44_1" alt="ワンダーガレージ" title="ワンダーガレージ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=6749">
+			</li>
+		  
+		</ul><!--.box_list-->
+	</div><!--.list_style-->
+
+	<div class="page_num">
+		<span>
+			
+			
+			  
+				<a class="nowpage">1</a>
+			  
+			  
+			
+			
+		</span>
+	</div>
+
+
+
+
+
+
+
+
+	
+
+			<script type="text/javascript">
+			<!--
+
+			$(function(){
+
+				
+				$('#keyword[value=]').css('color', '#bbb').val('キーワードを入力');
+				$('#keyword').focus(function(){
+					if ($(this).val() == 'キーワードを入力') {
+						$(this).val('').css('color', '#555');
+					}
+				}).blur(function(){
+					if ($(this).val() == ''){
+						$(this).css('color', '#bbb').val('キーワードを入力');
+					}
+					if ($(this).val() != 'キーワードを入力') {
+						$(this).css('color', '#555');
+					}
+				});
+
+
+				
+				$('.search_box_tips').hover(
+					function(e){
+
+						if (($(this).closest('.search_body').css('opacity') != 1)) {
+							return false;
+						}
+
+						var tips_txt = $(this).attr('alt');
+						$(this).after('<span id="search_box_tips"><span></span></span>');
+						$('#search_box_tips span').text(tips_txt);
+
+						var offset = $(this).offset();
+						var pos_x = offset.left - 30;
+						var pos_y = offset.top - 34;
+
+						$('#search_box_tips').css({
+							'position': 'absolute',
+							'top': pos_y,
+							'left': pos_x,
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) right bottom no-repeat',
+							'height': '35px',
+							'padding-right': '4px'
+						});
+
+						$('#search_box_tips span').css({
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) left top no-repeat',
+							'line-height': '23px',
+							'height': '35px',
+							'padding': '0 5px 0 20px',
+							'font-weight': 'bold',
+							'font-size': '12px',
+							'color': '#6a3807'
+						});
+					},
+					function(e){
+						if ($(this).closest('.search_body').css('opacity') != 1) {
+							return false;
+						}
+						$('#search_box_tips').remove();
+					}
+				);
+
+				
+				$('.attreffe, .species, .other, .jogai').click(function(){
+					if ($(this).hasClass('button_off')) {
+						$(this).addClass('button_on').removeClass('button_off');
+						$(':checkbox', this).prop('checked', true);
+					} else {
+						$(this).addClass('button_off').removeClass('button_on');
+						$(':checkbox', this).prop('checked', false);
+					}
+				});
+				
+				$('.othercon_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.othercon_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('.link_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.link_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('#condition_toggle').click(function(){
+					$('#search_by_attack_and_defense_and_level, #search_by_attribute, #search_by_effect, #search_by_species, #search_by_other, #search_by_jogai').toggle();
+				});
+
+				
+				$('#form_search input:text').keypress(function(e){
+					if (e.keyCode == 13) {
+						Search();
+					}
+				});
+
+			});
+
+			
+			function ChangeCtype(value, label) {
+				switch (value) {
+
+				case '':
+				case '1':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', false);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					if (value == '') {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					} else {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					break;
+
+				case '2':
+				case '3':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', true);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					if (value == '2') {
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					} else {
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					break;
+
+				default:
+					break;
+				}
+			}
+
+			
+			function Search() {
+				if ($('#keyword').css('color') == '#bbb' || $('#keyword').css('color') == 'rgb(187, 187, 187)') {
+					$('#keyword').val('');
+				}
+				$('#form_search').get(0).submit();
+			}
+
+			//-->
+			</script>
+
+			<form id="form_search" action="/yugiohdb/card_search.action" method="GET">
+				<input type="hidden" name="ope" value="1">
+				<input type="hidden" name="sess" value="1">
+
+				<div id="search_box">
+
+					<div id="search_by_keyword_and_type" style="padding:5px 8px;">
+						<table style="width:100%;">
+							<col width="36">
+							<col width="325">
+							<col width="249">
+							<col width="176">
+							<col width="*">
+							<tr valign="middle">
+								<td>
+									<img src="external/image/parts/icon_search.png" alt="Search">
+								</td>
+								<td valign="top">
+									<input type="text" id="keyword" name="keyword" style="width:300px;" maxlength="50">
+								</td>
+								<td valign="top">
+									<select id="stype" name="stype" style="width:218px;">
+										<option value="1">カード名で検索</option>
+										<option value="2">カードテキストで検索</option>
+										<option value="3">ペンデュラム効果で検索</option>
+										<option value="4">カードNoで検索</option>
+									</select>
+								</td>
+								<td valign="top">
+									<select id="ctype" name="ctype" style="width:145px;">
+										<option value="">すべてのカード</option>
+
+										<option value="1">モンスターカード</option>
+
+										<option value="2">魔法カード</option>
+
+										<option value="3">罠カード</option>
+
+									</select>
+								</td>
+								<td>
+									<a href="javascript:Search();" class="black_btn"><b>検　索</b></a>
+								</td>
+							</tr>
+						</table>
+					</div>
+
+					<div id="condition_toggle">
+						さらに条件を絞って検索
+					</div><!--#condition_toggle-->
+
+					<div id="search_by_attack_and_defense_and_level" class="none">
+						<div class="search_body" style="border-bottom:solid 1px #414a56;padding-bottom: 5px;">
+							<div id="search_set">
+								<div class="search_l">
+									<div class="search_top">
+										<span id="level_rank_title">
+											<b>レベル／ランク</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="0から13までのレベルあるいはランクを絞り込みます">
+										</span>
+										<span id="level_rank_input">
+											<input type="text" id="starfr" name="starfr" maxlength="2">
+											<input type="text" id="starto" name="starto" maxlength="2">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="pen_scale_title">
+											<b>ペンデュラム</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="ペンデュラムスケールで絞り込みます">
+										</span>
+										<span id="pen_scale_input">
+											<input type="text" id="pscalefr" name="pscalefr" maxlength="2">
+											<input type="text" id="pscaleto" name="pscaleto" maxlength="2">
+										</span>
+									</div>
+								</div>
+								<div class="search_m">
+									<div class="search_m_l">
+										<div class="search_top">
+											<span id="link_title">
+												<b>リンク</b>
+												<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="リンクを数値またはマーカーの位置で絞り込みます。">
+											</span>
+										</div>
+										<div class="search_bottom">
+											<span id="link_input">
+												<input type="text" id="linkmarkerfr" name="linkmarkerfr" maxlength="2">
+												<input type="text" id="linkmarkerto" name="linkmarkerto" maxlength="2">
+											</span>
+										</div>
+									</div>
+									<div class="search_m_r">
+										<div class="link_m_set">
+											<form>
+												<input type="checkbox" id="linkbtn7" name="linkbtn7" value="7"><label class="linkbtn7" for="linkbtn7"></label>
+												<input type="checkbox" id="linkbtn8" name="linkbtn8" value="8"><label class="linkbtn8" for="linkbtn8"></label>
+												<input type="checkbox" id="linkbtn9" name="linkbtn9" value="9"><label class="linkbtn9" for="linkbtn9"></label>
+												<input type="checkbox" id="linkbtn4" name="linkbtn4" value="4"><label class="linkbtn4" for="linkbtn4"></label>
+												<input type="checkbox" id="linkbtn6" name="linkbtn6" value="6"><label class="linkbtn6" for="linkbtn6"></label>
+												<input type="checkbox" id="linkbtn1" name="linkbtn1" value="1"><label class="linkbtn1" for="linkbtn1"></label>
+												<input type="checkbox" id="linkbtn2" name="linkbtn2" value="2"><label class="linkbtn2" for="linkbtn2"></label>
+												<input type="checkbox" id="linkbtn3" name="linkbtn3" value="3"><label class="linkbtn3" for="linkbtn3"></label>
+											</form>
+										</div>
+										<div id="and_or2">
+											<a href="javascript:void(0);" class="link_left radio_off_left">
+												<img alt="">
+												<b>and</b>
+												<input type="radio" id="link_and" name="link_m" value="1" class="none">
+											</a>
+											<a href="javascript:void(0);" class="link_right radio_off_right" style="">
+												<img alt="">
+												<b>or</b>
+												<input type="radio" id="link_or"  name="link_m" value="2" class="none">
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="search_r">
+									<div class="search_top">
+										<span id="attack_title">
+											<b>攻撃力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="攻撃力で絞り込みます、最大は5000です">
+										</span>
+										<span id="attack_input">
+											<input type="text" id="atkfr" name="atkfr" maxlength="4">
+											<input type="text" id="atkto" name="atkto" maxlength="4">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="defense_title">
+											<b>守備力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="守備力で絞り込みます、最大は5000です">
+										</span>
+										<span id="defense_input">
+											<input type="text" id="deffr" name="deffr" maxlength="4">
+											<input type="text" id="defto" name="defto" maxlength="4">
+										</span>
+									</div>
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attack_and_defense_and_level-->
+
+
+					<div id="search_by_attribute" style="margin-bottom:-7px;border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>属性</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい属性を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_dark.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												闇属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_light.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												光属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_earth.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												地属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_water.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												水属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_fire.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												炎属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_wind.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												風属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_divine.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												神属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="17">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attribute-->
+
+
+
+					<div id="search_by_effect" style="border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body" style="padding-top: 2px;">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>効果</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい効果を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_1_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_equip.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												装備
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_2_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_field.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												フィールド
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_3_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_quickplay.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												速攻
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="25">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_4_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_ritual.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												儀式
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_5_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_continuous.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												永続
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="24">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_6_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_counter.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												カウンター
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_7_ja">
+		
+		
+										<span style="padding-left:18px;">
+											通常
+										</span>
+		
+										<input type="checkbox" name="effe" class="none" value="20">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_effect-->
+
+
+
+					<div id="search_by_species" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>種族</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい種族を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="species button_off species_1_ja">
+										魔法使い族
+										<input type="checkbox" name="species" class="none" value="18">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_2_ja">
+										ドラゴン族
+										<input type="checkbox" name="species" class="none" value="1">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_3_ja">
+										アンデット族
+										<input type="checkbox" name="species" class="none" value="2">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_4_ja">
+										戦士族
+										<input type="checkbox" name="species" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_5_ja">
+										獣戦士族
+										<input type="checkbox" name="species" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_6_ja">
+										獣族
+										<input type="checkbox" name="species" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_7_ja">
+										鳥獣族
+										<input type="checkbox" name="species" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_8_ja">
+										悪魔族
+										<input type="checkbox" name="species" class="none" value="3">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_9_ja">
+										天使族
+										<input type="checkbox" name="species" class="none" value="17">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_10_ja">
+										昆虫族
+										<input type="checkbox" name="species" class="none" value="10">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_11_ja">
+										恐竜族
+										<input type="checkbox" name="species" class="none" value="9">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_12_ja">
+										爬虫類族
+										<input type="checkbox" name="species" class="none" value="20">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_13_ja">
+										魚族
+										<input type="checkbox" name="species" class="none" value="8">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_14_ja">
+										海竜族
+										<input type="checkbox" name="species" class="none" value="5">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_15_ja">
+										水族
+										<input type="checkbox" name="species" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_16_ja">
+										炎族
+										<input type="checkbox" name="species" class="none" value="4">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_17_ja">
+										雷族
+										<input type="checkbox" name="species" class="none" value="19">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_18_ja">
+										岩石族
+										<input type="checkbox" name="species" class="none" value="6">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_19_ja">
+										植物族
+										<input type="checkbox" name="species" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_20_ja">
+										機械族
+										<input type="checkbox" name="species" class="none" value="7">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_21_ja">
+										サイキック族
+										<input type="checkbox" name="species" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_22_ja">
+										幻神獣族
+										<input type="checkbox" name="species" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_23_ja">
+										創造神族
+										<input type="checkbox" name="species" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_24_ja">
+										幻竜族
+										<input type="checkbox" name="species" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_25_ja">
+										サイバース族
+										<input type="checkbox" name="species" class="none" value="27">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_species-->
+
+
+
+					<div id="search_by_other" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>その他項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたいその他の項目を選択してください、AndあるいはOrで絞り込みます">
+									<div id="and_or">
+										<a href="javascript:void(0);" class="othercon_left radio_off_left">
+											<img alt="">
+											<b>and</b>
+											<input type="radio" id="othercon_and" name="othercon" value="1" class="none">
+										</a>
+										<a href="javascript:void(0);" class="othercon_right radio_off_right" style="padding-left:5px;">
+											<img alt="">
+											<b>or</b>
+											<input type="radio" id="othercon_or"  name="othercon" value="2" class="none">
+										</a>
+									</div>
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_other-->
+
+
+
+					<div id="search_by_jogai" style="border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>除外項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="除外したい項目を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_jogai-->
+
+
+				</div><!--#search_box-->
+
+			</form><!--#form_search-->
+
+
+		</div><!--#article_body-->
+	</article>
+
+
+
+
+
+
+	<div id="cdb_link_set"><a class="link_ocg" href="//www.yugioh-card.com/japan/" target="_blank">遊戯王公式サイト</a> <a class="link_neuron" href="//www.konami.com/yugioh/neuron/ja/" target="_blank">遊戯王ニューロン</a> <a class="link_cgn" href="//cardgame-network.konami.net/" target="_blank">KONAMI CARD GAME NETWORK</a> <a class="link_kst" href="http://www.konamistyle.jp/" target="_blank">コナミスタイル</a> <a class="link_kfs" href="https://www.konami.com/games/card/friendly_shop/" target="_blank">コナミ フレンドリーショップ</a> <a class="link_rushdb" href="https://www.db.yugioh-card.com/rushdb/" target="_blank">遊戯王ラッシュデュエルカードデータベース</a> </div>
+
+	<footer id="footer">
+		<div id="content_copyright">&copy;スタジオ・ダイス／集英社・テレビ東京・KONAMI</div>
+		<div id="footer_meta">
+			<nav>
+				<ul>
+					<li><a href="http://www.yugioh-card.com/japan/support/" target="_blank">お問い合わせ</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://www.konami.com/siteinfo/ja/" target="_blank">サイトポリシー</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://legal.konami.com/games/privacy/ja/" target="_blank">個人情報等保護方針</a></li><!--
+				 --><li>|</li><!--
+				 --><li></li>
+				</ul>
+			</nav>
+			<small>&copy;2021 Konami Digital Entertainment</small>
+		</div>
+	</footer>
+</div><!--wrapper-->
+<noscript>JavaScript を有効にしてください</noscript>
+
+</body>
+</html>
+

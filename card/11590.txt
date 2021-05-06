@@ -1,0 +1,4635 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	<meta name="keywords" content="RR－レディネス,遊戯王,デッキ,デュエルモンスターズ,VRAINS,ヴレインズ,禁止,制限,パック,禁止カード,カード,カードリスト,ルール,OCG,コナミ,KONAMI"/>
+	<meta name="description" content="「RR－レディネス」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+	<meta name="title" content="RR－レディネス | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:title" content="RR－レディネス | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:description" content="「RR－レディネス」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。" />
+	<meta name="twitter:title" content="RR－レディネス | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta name="twitter:description" content="「RR－レディネス」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11590%26request_locale%3Dja%26a%3D202105062204"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11590%26request_locale%3Dja%26a%3D202105062204"/>
+
+	<meta http-equiv="x-ua-compatible" content="IE=10" >
+	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="ja">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="imagetoolbar" content="no">
+
+	<meta property="og:site_name" content="遊戯王OCGカードデータベース">
+
+	<meta property="og:type" content="product" />
+	<meta property="og:locale" content="ja_JP" />
+
+	<meta name="twitter:card" content="summary"/>
+
+	<script type="text/javascript" src="/yugiohdb/ga.js"></script>
+	<meta name="copyright" content="KONAMI">
+	<link rel="shortcut icon" href="external/image/yugioh.ico">
+	<link rel="apple-touch-icon" href="external/image/apple-touch-icon.png">
+
+
+
+	<meta property='og:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=11590&ciid=1&enc=yvdL7ygmA_cvEN1AoXbgzA&app=tournament&request_locale=ja" />
+	<meta name='twitter:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=11590&ciid=1&enc=yvdL7ygmA_cvEN1AoXbgzA&app=tournament&request_locale=ja" />
+
+
+
+
+	
+
+
+	
+		<title>RR－レディネス | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</title>
+	
+	
+
+
+
+
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="external/html5/js/html5shiv.js"></script>
+<![endif]-->
+	<script type="text/javascript" src="external/jquery/jquery-1.7.2.js"></script>
+	<script type="text/javascript" src="external/jquery/jquery-ui-1.8.16.custom/js/jquery-ui-1.8.16.custom.min.js"></script>
+ 	<script type="text/javascript" src="external/jquery/jquery.dropkick/js/jquery.dropkick-1.0.0.js"></script>
+	<script type="text/javascript" src="external/js/common.js"></script>
+
+	<script type="text/javascript" src="external/jquery/scrolltopcontrol.js"></script>
+
+
+
+
+
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery-ui-1.8.16.custom/css/ui-lightness/jquery-ui-1.8.16.custom.css">
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery.dropkick/css/dropkick.css">
+	<link type="text/css" rel="stylesheet" href="external/css/common.css?20171030">
+
+	<link rel="stylesheet" type="text/css" href="external/css/CardDetail.css">
+
+	<script type="text/javascript">
+	<!--
+
+	$(function() {
+		$('a[href^=#]').click(function(){
+			$('html,body').animate({scrollTop:$($(this).attr("href")).offset().top},'slow','swing');
+			return false;
+		})
+
+		$('#message').hide();
+		
+		$('#keyword').val('');
+		$('#stype').val('1');
+		$('#ctype').val('');
+		$('input:checkbox').prop('checked', false);
+ 		$('#othercon_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#othercon_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+		$('#link_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#link_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+
+		
+		$('#stype').dropkick({
+			theme: 'stype_ja'
+		});
+		$('#ctype').dropkick({
+			change: function (value, label) {
+				ChangeCtype(value, label);
+			}
+		});
+
+	   
+
+		
+	   
+		$('#card_image_1').attr('src', '/yugiohdb/get_image.action?type=2&cid=11590&ciid=1&enc=yvdL7ygmA_cvEN1AoXbgzA').show();
+		$('#thumbnail_card_image_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11590&ciid=1&enc=yvdL7ygmA_cvEN1AoXbgzA').addClass('current').show();
+	   
+		
+		$('#thumbnail img').click(function(){
+			
+			var setImgId = $(this).attr('alt');
+			var setContent = 'https://www.db.yugioh-card.com'
+			         + '/yugiohdb/get_image.action'
+			         + '?type=1&osplang=1&cid=11590'
+			         + '&ciid=' + setImgId
+			         + '&enc=yvdL7ygmA_cvEN1AoXbgzA'
+			         + '&app=tournament'
+			         + '&request_locale=ja'
+			         ;
+			$("meta[property='og:image']").attr('content',setContent); 
+			$("meta[name='twitter:image']").attr('content',setContent);
+
+			$('[id^=card_image]').hide();
+			$('#card_image_' + $(this).attr('alt')).show();
+			$('[id^=thumbnail_card_image]').removeClass('current');
+			$(this).addClass('current');
+		});
+
+		
+		$('#pack_list table tr.row').click(function() {
+			location.href = $('.link_value', this).val();
+		});
+		
+		
+			
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11999&ciid=1&enc=6tUPfTMjaibBMHM0wOdHsw').show();
+			
+		
+			
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11854&ciid=1&enc=UUAjJM1-NO27qHIJyPwIsg').show();
+			
+		
+			
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12330&ciid=1&enc=bvwlK0z8UkmSnjCSDA1X2w').show();
+			
+		
+			
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12214&ciid=1&enc=kSHLzIcfg3p5wt4CA-htQw').show();
+			
+		
+			
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12213&ciid=1&enc=TaxFAbJNvihBrFezxcg2eA').show();
+			
+		
+			
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15530&ciid=1&enc=X8dOuO_YUsnXKgl0EoU8mQ').show();
+			
+		
+			
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11841&ciid=1&enc=YzqKmh0KZpgWZRd1nOIUGg').show();
+			
+		
+			
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11998&ciid=1&enc=TWQFswmpEkUHaJKMGfOayw').show();
+			
+		
+			
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11732&ciid=1&enc=ojW0dPHlJYaVcs2OwXabOA').show();
+			
+		
+			
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15547&ciid=1&enc=plSvjarlNQi15M0hcl-IOw').show();
+			
+		
+			
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15480&ciid=1&enc=GkJIcESMlB_AOAXdHkhp-A').show();
+			
+		
+			
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15519&ciid=1&enc=ZRoBJLT_A96gMvHepGy-BA').show();
+			
+		
+			
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12286&ciid=1&enc=xNzKcTYLSXJrjCnDKCo9lQ').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12325&ciid=1&enc=A197seVmfyfKb1bZnW9WEw').show();
+			
+		
+			
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12868&ciid=1&enc=uZ3hFOC3frfjzmAoK7ii7A').show();
+			
+		
+			
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11691&ciid=1&enc=aOf2GgaqxCuEuGgGl4BYYA').show();
+			
+		
+			
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12958&ciid=1&enc=m34SDLoIQvQyRTA1SZjMJg').show();
+			
+		
+			
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12212&ciid=1&enc=uRDjUJd_0Eq4fEb_9aJGyQ').show();
+			
+		
+			
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12211&ciid=1&enc=ppHXy9suzbjG7T66-4f7VA').show();
+			
+		
+			
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11798&ciid=1&enc=XdBAPyyN4BBY0gBCof88Vg').show();
+			
+		
+			
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11958&ciid=1&enc=aF0GOeIH8fXVYBmNTHwHhw').show();
+			
+		
+			
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15484&ciid=1&enc=dWt-xiCNH0qt-4KPr-5zFw').show();
+			
+		
+			
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11995&ciid=1&enc=6eMnYuR9YyGXfXmJxeeCmQ').show();
+			
+		
+			
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11767&ciid=1&enc=iKVfykFsBvuhahLM7rG7LQ').show();
+			
+		
+			
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12532&ciid=1&enc=5RqUJAkSHw3fyPWC2LXh7Q').show();
+			
+		
+			
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12209&ciid=1&enc=k6wizsLvjrxUQ3DNl7GtbQ').show();
+			
+		
+			
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11574&ciid=1&enc=It9zp-2pIvX8_SbqHAYVBA').show();
+			
+		
+			
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11531&ciid=1&enc=7VGxKVwQBx6l6tEA9nz_4Q').show();
+			
+		
+			
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15483&ciid=1&enc=XElhd8qrriXSCQASmulH6g').show();
+			
+		
+			
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13140&ciid=1&enc=1iB0zD0KX--8mXZ7jtYg4w').show();
+			
+		
+			
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11797&ciid=1&enc=PiU2Ca6cMTaqgZcjZfe3wA').show();
+			
+		
+			
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15548&ciid=1&enc=M8yxx8zPnskM6cs042Rc8g').show();
+			
+		
+			
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11619&ciid=1&enc=8ESxsr9yztIszmUTYEpe0w').show();
+			
+		
+			
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11723&ciid=1&enc=HDPIyZoqhYDWgAYh2HMP1g').show();
+			
+		
+			
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12533&ciid=1&enc=IeBPuDw8gGeca8VbMeRsKA').show();
+			
+		
+			
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12288&ciid=1&enc=8tKwr2fiK0qO1jN4qearQA').show();
+			
+		
+			
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12287&ciid=1&enc=89snCqUPCJFxwzzBpYjW_g').show();
+			
+		
+			
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11692&ciid=1&enc=arYfe_Aj9FZLHmgF-f3Mxg').show();
+			
+		
+			
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11570&ciid=1&enc=eIpvbiMJeOrERBjwgSWDmQ').show();
+			
+		
+			
+				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12210&ciid=1&enc=RmWcgviVRQe2zoOlJCv4mQ').show();
+			
+		
+			
+				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13139&ciid=1&enc=AtSM2W3J_K3K6hLcZEQqKw').show();
+			
+		
+			
+				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11853&ciid=1&enc=XrkWOOtAeHrTG1lCkQqC_A').show();
+			
+		
+			
+				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11724&ciid=1&enc=dn6_YbI2boUZy0mUblkiOw').show();
+			
+		
+			
+				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13018&ciid=1&enc=SpGtQPq1lSOV9-cjVIjTxQ').show();
+			
+		
+			
+				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12887&ciid=1&enc=Ze0O3MgJoaW-Am8tWeU2-w').show();
+			
+		
+			
+				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14205&ciid=1&enc=C_0ZmuqcU7wLvm9EC3LRaQ').show();
+			
+		
+			
+				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11957&ciid=1&enc=dfVOmqAKVig8h0L-FaHqjQ').show();
+			
+		
+
+		
+		$('.list_style ul li').click(function() {
+			var li_class = $(this).attr('class');
+			if(!(li_class == "li_top")){
+				location.href = $('.link_value_detail', this).val();
+			}
+		});
+
+		$('#sort').val('1');
+		$('#rp').val('100');
+		$('#mode').val('1');
+
+		$('#sort').dropkick({
+			theme: 'sort_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=11590'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#rp').dropkick({
+			theme: 'rp_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=11590'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#mode').dropkick({
+			theme: 'mode_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+							+ '?ope=2'
+							+ '&cid=11590'
+							+ '&sess=4'
+							+ '&mode=' + value;
+			}
+		});
+
+		
+		$('.box_card_linkmarker').load(function(){});
+	});
+
+	
+	function ChangePage(page) {
+		location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=11590'
+					+ '&sess=3'
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=' + page;
+	}
+
+	
+
+	//-->
+	</script>
+</head>
+
+
+
+
+<body>
+
+<div id="wrapper">
+	<header>
+		<div class="h1_set">遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</div>
+		<div id="header_meta">
+			<a href="https://www.konami.com/games/jp/ja/" target="_blank"><img src="external/image/logo_konami.png" alt="KONAMI" id="konami" class="ui-draggable"></a>
+
+
+	
+			<nav id="language">
+				<span>
+		日本語
+		
+		
+		
+		
+		
+		
+		
+				</span>
+				<ul>
+					<li><a href="javascript:ChangeLanguage('ja')" class="current">日本語</a></li>
+					<li><a href="javascript:ChangeLanguage('en')" >English</a></li>
+					<li><a href="javascript:ChangeLanguage('de')" >Deutsch</a></li>
+					<li><a href="javascript:ChangeLanguage('fr')" >Fran&ccedil;ais</a></li>
+					<li><a href="javascript:ChangeLanguage('it')" >Italiano</a></li>
+					<li><a href="javascript:ChangeLanguage('es')" >Espa&ntilde;ol</a></li>
+					<li><a href="javascript:ChangeLanguage('pt')" >Portugues</a></li>
+					<li><a href="javascript:ChangeLanguage('ko')" >한글</a></li>
+				</ul>
+			</nav>
+	
+
+		</div><!--#header_meta-->
+		<div id="header_menu">
+			<div id="main_logo">
+				<a href="/yugiohdb/"><img src="external/image/ja/logo_ocg.png" alt="遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース" title="TOP"></a>
+			</div>
+			<nav>
+				<div id="menber_menu">
+				
+				</div><!--#menber_menu-->
+				<ul id="main_menu">
+					<li><a href="/yugiohdb/card_search.action"><img src="external/image/ja/menu_btn_home.png" alt="カード検索"></a></li>
+					<li><a href="/yugiohdb/card_list.action"><img src="external/image/ja/menu_btn_cardlist.png" alt="カードリスト"></a></li>
+					<li><a href="/yugiohdb/forbidden_limited.action"><img src="external/image/ja/menu_btn_limitr.png" alt="リミットレギュレーション"></a></li>
+					<li><a href="/yugiohdb/faq_search.action"><img src="external/image/ja/menu_btn_q_a.png" alt="Ｑ＆Ａ"></a></li>
+					<li><a href="/yugiohdb/deck_search.action"><img src="external/image/ja/menu_btn_decks.png" alt="デッキ検索"></a></li>
+	
+					<li class="last"><a href="/yugiohdb/member_login.action"><img src="external/image/ja/menu_btn_login.png" alt="ログイン"></a></li>
+	
+	
+				</ul><!--#main_menu-->
+			</nav>
+		</div><!-- #header_menu-->
+	</header>
+
+	<nav id="pan_nav">
+		<ul>
+			<li><a href="/yugiohdb/">ホーム</a></li>
+			<li>&raquo;</li>
+
+			<li>RR－レディネス</li>
+
+
+		</ul>
+	</nav><!--#pan_nav-->
+
+
+	 
+		<nav id="title_msg">
+			遊戯王OCGカード「RR－レディネス」のカード詳細です。<br>「RR－レディネス」の遊戯王OCG公式ルールはこちらのページで確認してください。<br>「RR－レディネス」の使い方に関する質問等は「<a href="faq_search.action?ope=4&cid=11590" target=_blank>このカードのQ&Aを表示</a>」より確認ができます。<br>「RR－レディネス」を使用したデッキを検索したい場合は「<a href="deck_search.action?cardid=11590" target=_blank>このカードを使用したデッキを検索</a>」より確認ができます。
+		</nav>
+	
+
+	<article>
+
+
+		<header id="broad_title">
+			<div>
+				<h1>
+	
+					<span class="ruby">レイド・ラプターズ－レディネス</span>
+	
+					RR－レディネス
+	
+					<span>Raidraptor - Readiness</span>
+	
+				</h1>
+			</div>
+		</header>
+
+
+		<div id="article_body">
+
+
+			<table style="margin:0 8px 10px 8px;">
+				<tr>
+				<td valign="top" style="padding-right:8px;">
+					<div id="card_frame">
+	
+		
+						<img id="card_image_1" alt="RR－レディネス" title="RR－レディネス" class="none">
+		
+	
+	
+					</div>
+	
+					<div id="thumbnail">
+		
+						<img id="thumbnail_card_image_1" alt="1" class="none">
+		
+					</div>
+	
+				</td>
+
+				<td valign="top">
+
+	
+	
+					<table id="details">
+						<tr>
+							<td>
+								<div class="item_box t_center">
+									<span class="item_box_title">
+										<b>効果</b>
+									</span>
+		
+									通常罠
+		
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<div class="item_box_text" style="margin-top:10px;">
+									<div class="item_box_title">
+										<b>カードテキスト</b>
+									</div>
+									①：このターン、自分フィールドの「RR」モンスターは戦闘では破壊されない。②：自分の墓地に「RR」モンスターが存在する場合に墓地のこのカードを除外して発動できる。このターン、自分が受ける全てのダメージは０になる。
+									
+		
+								</div>
+							</td>
+						</tr>
+					</table><!--#details-->
+	
+
+<!--シェア追加-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!--シェア追加-->
+					<table style="margin-top:5px;width:100%;text-align: center;">
+						<tr>
+							<td>
+								
+								<iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=11590&amp;sess=2&amp;sort=1&amp;rp=100&amp;page=1&amp;lang=ja&amp;count=horizontal&amp;hashtags=YugiohDB_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td>
+								
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11590%26request_locale%3Dja%26a%3D202105062204&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td style="display: block;margin:0 10px 0 0;">
+								
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11590&request_locale=ja&a=202105062204" data-layout="button_count" data-size="small" ></div>
+							</td>
+							<td>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11590&request_locale=ja&a=202105062204"></div>
+								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+							</td>
+						</tr>
+					</table>
+				
+				
+					<div id="relationCard_a">
+						<a href="#relationCard">このカードの関連カードを見る</a>
+					</div>
+				
+				</td>
+				<td valign="top" style="padding-left:8px;">
+
+	
+	
+					<div style="">
+						<a href="/yugiohdb/faq_search.action?ope=4&cid=11590" id="to_QandA" class="CD_a_btn" target="_blank"><b>このカードの<br>Ｑ＆Ａを表示</b></a>
+					</div>
+	
+	
+	
+					<div style="">
+						<a href="/yugiohdb/deck_search.action?cardid=11590" id="to_MyD" class="CD_a_btn" target="_blank"><b>このカードを<br>使用したデッキを検索</b></a>
+					</div>
+	
+	
+	
+	
+				</td>
+				</tr>
+			</table>
+
+
+
+
+
+			<div id="pack_list" class="radius_top">
+				<table>
+					<col width="100">
+					<col width="100">
+					<col width="*">
+					<col width="50">
+					<tr>
+						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2015-11-14</td>
+		
+		
+		
+						<td>SPWR-JP029</td>
+		
+		
+						<td>
+							<b>ブースターSP - ウィング・レイダーズ -</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=3317003&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2015-11-14</td>
+		
+		
+		
+						<td>SPWR-JP029</td>
+		
+		
+						<td>
+							<b>ブースターSP - ウィング・レイダーズ -</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=3317003&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_p.png" class="icon_info rid_9" alt="パラレル仕様" style="margin-right: 7px;">
+		
+		
+						</td>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2014-11-15</td>
+		
+		
+		
+						<td>SECE-JP070</td>
+		
+		
+						<td>
+							<b>ザ・シークレット・オブ・エボリューション [ THE SECRET OF EVOLUTION ]</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=1117002&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
+					</tr>
+	
+				</table>
+			</div><!--#pack_list-->
+
+
+
+
+
+
+
+
+
+	<div class="list_style" id="relationCard">
+		<div class="li_top">関連カード</div>
+
+
+
+			<table style="margin:0 auto;width:100%;border-spacing: 0px;">
+				<tr>
+				<td valign="top" style="padding: 0px;">
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="mode" style="width:110px;">
+							<option value="1">画像表示</option>
+							<option value="2">テキスト表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="rp" style="width:170px;">
+							<option value="10">10件ずつ表示</option>
+							<option value="50">50件ずつ表示</option>
+							<option value="100">100件ずつ表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right">
+						<select id="sort" style="width:260px;">
+							<option value="1">50音順</option>
+							<option value="2">レベル／ランク順（大きい順）</option>
+							<option value="3">レベル／ランク順（小さい順）</option>
+							<option value="4">攻撃力順（大きい順）</option>
+							<option value="5">攻撃力順（小さい順）</option>
+							<option value="6">守備力順（大きい順）</option>
+							<option value="7">守備力順（小さい順）</option>
+							<option value="8">ペンデュラムスケール順（大きい順）</option>
+							<option value="9">ペンデュラムスケール順（小さい順）</option>
+							<option value="11">リンク数（多い順）</option>
+							<option value="12">リンク数（少ない順）</option>
+						</select>
+					</span>
+
+					
+					<div class="page_num_title">
+						<div>
+							<strong>
+
+								検索結果 47件中 1～47件を表示
+							</strong>
+						</div>
+					</div>
+					<br class="f_del">
+				</td>
+				</tr>
+			</table>
+
+
+
+
+		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラプターズ・アルティメット・メイス</span>
+						<span class="card_status">
+						<strong>ラプターズ・アルティメット・メイス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_equip.png" alt="装備" title="装備">
+							<span>装備</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「RR」モンスターにのみ装備可能。①：装備モンスターの攻撃力は１０００アップする。②：装備モンスターが、装備モンスターより攻撃力が高いモンスターの攻撃対象に選択された時に発動できる。デッキから「RUM」魔法カード１枚を手札に加え、その戦闘で発生する自分への戦闘ダメージは０になる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="ラプターズ・アルティメット・メイス" title="ラプターズ・アルティメット・メイス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11999">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラプターズ・ガスト</span>
+						<span class="card_status">
+						<strong>ラプターズ・ガスト</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_counter.png" alt="カウンター" title="カウンター">
+							<span>カウンター</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドに「RR」カードが存在し、魔法・罠カードが発動した時に発動できる。その発動を無効にし破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="ラプターズ・ガスト" title="ラプターズ・ガスト" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11854">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ランクアップマジック－スキップ・フォース</span>
+						<span class="card_status">
+						<strong>RUM－スキップ・フォース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドの「RR」Xモンスター１体を対象として発動できる。そのモンスターよりランクが２つ高い「RR」モンスター１体を、対象の自分のモンスターの上に重ねてX召喚扱いとしてエクストラデッキから特殊召喚する。②：自分の墓地からこのカードと「RR」モンスター１体を除外し、自分の墓地の「RR」Xモンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果はこのカードが墓地へ送られたターンには発動できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="RUM－スキップ・フォース" title="RUM－スキップ・フォース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12330">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ランクアップマジック－ソウル・シェイブ・フォース</span>
+						<span class="card_status">
+						<strong>RUM－ソウル・シェイブ・フォース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：LPを半分払い、自分の墓地の「RR」Xモンスター１体を対象として発動できる。そのモンスターを特殊召喚し、そのモンスターよりランクが２つ高いXモンスター１体を、対象のモンスターの上に重ねてX召喚扱いとしてEXデッキから特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="RUM－ソウル・シェイブ・フォース" title="RUM－ソウル・シェイブ・フォース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12214">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ランクアップマジック－デス・ダブル・フォース</span>
+						<span class="card_status">
+						<strong>RUM－デス・ダブル・フォース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このターンに戦闘で破壊され自分の墓地へ送られた「RR」Xモンスター１体を対象として発動できる。そのモンスターを特殊召喚し、そのモンスターの倍のランクのXモンスター１体を、対象のモンスターの上に重ねてX召喚扱いとしてエクストラデッキから特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_4_1" alt="RUM－デス・ダブル・フォース" title="RUM－デス・ダブル・フォース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12213">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ランクアップマジック－ファントム・フォース</span>
+						<span class="card_status">
+						<strong>RUM－ファントム・フォース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：自分・相手のメインフェイズに、自分の墓地から闇属性モンスターを任意の数だけ除外し、自分フィールドの闇属性Xモンスター１体を対象として発動できる。除外した数だけ、その自分のモンスターよりランクが高い、「幻影騎士団」、「RR」、「エクシーズ・ドラゴン」Xモンスター１体を、対象のモンスターの上に重ねてX召喚扱いとしてEXデッキから特殊召喚する。このカードの発動後、ターン終了時まで自分はXモンスターしかEXデッキから特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="RUM－ファントム・フォース" title="RUM－ファントム・フォース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15530">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ランクアップマジック－ラプターズ・フォース</span>
+						<span class="card_status">
+						<strong>RUM－ラプターズ・フォース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドの「RR」Xモンスターが破壊され墓地へ送られたターン、自分の墓地の「RR」Xモンスター１体を対象として発動できる。そのモンスターを特殊召喚し、そのモンスターよりランクが１つ高い「RR」モンスター１体を、対象のモンスターの上に重ねてX召喚扱いとしてエクストラデッキから特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="RUM－ラプターズ・フォース" title="RUM－ラプターズ・フォース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11841">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ランクアップマジック－レイド・フォース</span>
+						<span class="card_status">
+						<strong>RUM－レイド・フォース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドのXモンスター１体を対象として発動できる。そのモンスターよりランクが１つ高い「RR」モンスター１体を、対象の自分のモンスターの上に重ねてX召喚扱いとしてエクストラデッキから特殊召喚する。②：墓地のこのカードと手札の「RR」カード１枚を除外し、「RUM－レイド・フォース」以外の自分の墓地の「RUM」魔法カード１枚を対象として発動できる。そのカードを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="RUM－レイド・フォース" title="RUM－レイド・フォース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11998">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ランクアップマジック－レヴォリューション・フォース</span>
+						<span class="card_status">
+						<strong>RUM－レヴォリューション・フォース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：発動ターンによって以下の効果を発動できる。●自分ターン：自分フィールドの「RR」Xモンスター１体を対象として発動できる。ランクが１つ高い「RR」モンスター１体を、対象の自分のモンスターの上に重ねてX召喚扱いとしてエクストラデッキから特殊召喚する。●相手ターン：相手フィールドのX素材の無いXモンスター１体を対象として発動できる。そのXモンスターのコントロールを得る。その後、ランクが１つ高い「RR」モンスター１体を、対象のモンスターの上に重ねてX召喚扱いとしてエクストラデッキから特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_8_1" alt="RUM－レヴォリューション・フォース" title="RUM－レヴォリューション・フォース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11732">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイダーズ・アンブレイカブル・マインド</span>
+						<span class="card_status">
+						<strong>レイダーズ・アンブレイカブル・マインド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「幻影騎士団」カード、「RR」カードとしても扱う。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分が闇属性Xモンスターを素材としたX召喚に成功した場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。②：魔法＆罠ゾーンの表側表示のこのカードが効果で破壊された場合に発動できる。自分のデッキ・墓地から「RUM」魔法カード１枚を選んで自分フィールドにセットする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_9_1" alt="レイダーズ・アンブレイカブル・マインド" title="レイダーズ・アンブレイカブル・マインド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15547">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイダーズ・ウィング</span>
+						<span class="card_status">
+						<strong>レイダーズ・ウィング</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「幻影騎士団」カード、「RR」カードとしても扱う。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが手札・墓地に存在する場合、自分フィールドの闇属性XモンスターのX素材を１つ取り除いて発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。②：このカードを素材として持っている、元々の属性が闇属性のXモンスターは以下の効果を得る。●このカードは相手の効果の対象にならない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_10_1" alt="レイダーズ・ウィング" title="レイダーズ・ウィング" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15480">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイダーズ・ナイト</span>
+						<span class="card_status">
+						<strong>レイダーズ・ナイト</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						闇属性レベル４モンスター×２<br>このカード名はルール上「幻影騎士団」カード、「RR」カードとしても扱う。このカード名の効果は１ターンに１度しか使用できない。①：このカードのX素材を１つ取り除いて発動できる。このカードよりランクが１つ高い、またはランクが１つ低い「幻影騎士団」、「RR」、「エクシーズ・ドラゴン」Xモンスター１体を、自分フィールドのこのカードの上に重ねてX召喚扱いとしてEXデッキから特殊召喚する。この効果で特殊召喚したモンスターは次の相手エンドフェイズに破壊される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_11_1" alt="レイダーズ・ナイト" title="レイダーズ・ナイト" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15519">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－アベンジ・ヴァルチャー</span>
+						<span class="card_status">
+						<strong>RR－アベンジ・ヴァルチャー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1700</span>
+						
+						
+							<span class="def_power">守備力 100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分が戦闘・効果でダメージを受けた場合に発動できる。このカードを手札から特殊召喚する。この効果の発動後、ターン終了時まで自分は「RR」モンスターしかエクストラデッキから特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_12_1" alt="RR－アベンジ・ヴァルチャー" title="RR－アベンジ・ヴァルチャー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12286">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－アルティメット・ファルコン</span>
+						<span class="card_status">
+						<strong>RR－アルティメット・ファルコン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 10</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						鳥獣族レベル１０モンスター×３<br>①：このカードは他のカードの効果を受けない。②：このカードのX素材を１つ取り除いて発動できる。このターン、相手フィールドのモンスターの攻撃力は１０００ダウンし、相手はカードの効果を発動できない。③：このカードが「RR」モンスターをX素材としている場合、以下の効果を得る。●お互いのエンドフェイズ毎に発動できる。相手フィールドの全てのモンスターの攻撃力は１０００ダウンする。相手フィールドに表側表示モンスターが存在しない場合、相手に１０００ダメージを与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_13_1" alt="RR－アルティメット・ファルコン" title="RR－アルティメット・ファルコン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12325">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－アーセナル・ファルコン</span>
+						<span class="card_status">
+						<strong>RR－アーセナル・ファルコン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 7</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル７モンスター×２<br>①：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。デッキから鳥獣族・レベル４モンスター１体を特殊召喚する。②：「RR」モンスターをX素材として持っているこのカードは、その数まで１度のバトルフェイズ中に攻撃できる。③：「RR」モンスターをX素材として持っているこのカードが墓地へ送られた場合に発動できる。エクストラデッキから「RR－アーセナル・ファルコン」以外の「RR」Xモンスター１体を特殊召喚し、墓地のこのカードをそのXモンスターの下に重ねてX素材とする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_14_1" alt="RR－アーセナル・ファルコン" title="RR－アーセナル・ファルコン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12868">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－インペイル・レイニアス</span>
+						<span class="card_status">
+						<strong>RR－インペイル・レイニアス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1700</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「RR－インペイル・レイニアス」の②の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功したターンの自分メインフェイズに１度だけ、フィールドの表側攻撃表示モンスター１体を対象として発動できる。そのモンスターを表側守備表示にする。②：このカードが攻撃したターンの自分メインフェイズ２に、自分の墓地の「RR」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_15_1" alt="RR－インペイル・レイニアス" title="RR－インペイル・レイニアス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11691">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－エトランゼ・ファルコン</span>
+						<span class="card_status">
+						<strong>RR－エトランゼ・ファルコン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 5</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル５モンスター×２<br>①：このカードがXモンスターをX素材としている場合、以下の効果を得る。●１ターンに１度、このカードのX素材を１つ取り除き、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊し、その元々の攻撃力分のダメージを相手に与える。②：このカードが相手によって破壊され墓地へ送られた場合、「RR－エトランゼ・ファルコン」以外の自分の墓地の「RR」Xモンスター１体を対象として発動できる。そのモンスターを特殊召喚し、このカードをそのカードの下に重ねてX素材とする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_16_1" alt="RR－エトランゼ・ファルコン" title="RR－エトランゼ・ファルコン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12958">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－コール</span>
+						<span class="card_status">
+						<strong>RR－コール</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「RR－コール」は１ターンに１枚しか発動できず、このカードを発動するターン、自分は「RR」モンスターしか特殊召喚できない。①：自分フィールドの「RR」モンスター１体を対象として発動できる。その同名モンスター１体を手札・デッキから守備表示で特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_17_1" alt="RR－コール" title="RR－コール" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12212">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－サテライト・キャノン・ファルコン</span>
+						<span class="card_status">
+						<strong>RR－サテライト・キャノン・ファルコン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 8</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						鳥獣族レベル８モンスター×２<br>①：このカードが「RR」モンスターを素材としてX召喚に成功した場合に発動できる。相手フィールドの魔法・罠カードを全て破壊する。この効果の発動に対して、相手は魔法・罠・モンスターの効果を発動できない。②：このカードのX素材を１つ取り除き、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力は自分の墓地の「RR」モンスターの数×８００ダウンする。この効果は相手ターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_18_1" alt="RR－サテライト・キャノン・ファルコン" title="RR－サテライト・キャノン・ファルコン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12211">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－シンギング・レイニアス</span>
+						<span class="card_status">
+						<strong>RR－シンギング・レイニアス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「RR－シンギング・レイニアス」の①の方法による特殊召喚は１ターンに１度しかできない。①：自分フィールドにXモンスターが存在する場合、このカードは手札から特殊召喚できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_19_1" alt="RR－シンギング・レイニアス" title="RR－シンギング・レイニアス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11798">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－スカル・イーグル</span>
+						<span class="card_status">
+						<strong>RR－スカル・イーグル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「RR－スカル・イーグル」の①の効果は１ターンに１度しか使用できない。①：X素材のこのカードがXモンスターの効果を発動するために取り除かれ墓地へ送られた場合、墓地のこのカードを除外し、自分の墓地の「RR」カード１枚を対象として発動できる。そのカードを手札に加える。②：フィールドのこのカードを素材としてX召喚したモンスターは以下の効果を得る。●このX召喚に成功した場合に発動する。このカードの攻撃力は３００アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_20_1" alt="RR－スカル・イーグル" title="RR－スカル・イーグル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11958">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ストラングル・レイニアス</span>
+						<span class="card_status">
+						<strong>RR－ストラングル・レイニアス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 1100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに闇属性モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。この効果の発動後、ターン終了時まで自分は闇属性モンスターしか特殊召喚できない。②：自分フィールドに闇属性XモンスターをX素材としているXモンスターが存在する場合、自分の墓地のレベル４以下の「RR」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_21_1" alt="RR－ストラングル・レイニアス" title="RR－ストラングル・レイニアス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15484">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－デビル・イーグル</span>
+						<span class="card_status">
+						<strong>RR－デビル・イーグル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 3</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル３「RR」モンスター×２<br>「RR－デビル・イーグル」の効果は１ターンに１度しか使用できない。①：このカードのX素材を１つ取り除き、相手フィールドの特殊召喚された表側表示モンスター１体を対象として発動できる。そのモンスターの元々の攻撃力分のダメージを相手に与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_22_1" alt="RR－デビル・イーグル" title="RR－デビル・イーグル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11995">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－トリビュート・レイニアス</span>
+						<span class="card_status">
+						<strong>RR－トリビュート・レイニアス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功したターンの自分メインフェイズに発動できる。デッキから「RR」カード１枚を墓地へ送る。②：このカードが戦闘で相手モンスターを破壊したターンの自分メインフェイズ２に発動できる。デッキから「RUM」速攻魔法カード１枚を手札に加える。この効果の発動後、ターン終了時まで自分は「RR」モンスターしか特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_23_1" alt="RR－トリビュート・レイニアス" title="RR－トリビュート・レイニアス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11767">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ナパーム・ドラゴニアス</span>
+						<span class="card_status">
+						<strong>RR－ナパーム・ドラゴニアス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：１ターンに１度、自分メインフェイズに発動できる。相手に６００ダメージを与える。この効果の発動後、ターン終了時まで自分は「RR」モンスター以外のモンスターの効果を発動できない。②：このカードが戦闘で破壊され墓地へ送られた時に発動できる。デッキから「RR」モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_24_1" alt="RR－ナパーム・ドラゴニアス" title="RR－ナパーム・ドラゴニアス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12532">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ネクロ・ヴァルチャー</span>
+						<span class="card_status">
+						<strong>RR－ネクロ・ヴァルチャー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：１ターンに１度、自分フィールドの「RR」モンスター１体をリリースし、自分の墓地の「RUM」魔法カード１枚を対象として発動できる。そのカードを手札に加える。この効果の発動後、ターン終了時まで自分は「RUM」魔法カードの効果でしかモンスターをX召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_25_1" alt="RR－ネクロ・ヴァルチャー" title="RR－ネクロ・ヴァルチャー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12209">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ネスト</span>
+						<span class="card_status">
+						<strong>RR－ネスト</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「RR－ネスト」の効果は１ターンに１度しか使用できない。①：自分フィールドに「RR」モンスターが２体以上存在する場合にこの効果を発動できる。自分のデッキ・墓地の「RR」モンスター１体を選んで手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_26_1" alt="RR－ネスト" title="RR－ネスト" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11574">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－バニシング・レイニアス</span>
+						<span class="card_status">
+						<strong>RR－バニシング・レイニアス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1300</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚・特殊召喚に成功したターンの自分メインフェイズに１度だけ発動できる。手札からレベル４以下の「RR」モンスター１体を特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_27_1" alt="RR－バニシング・レイニアス" title="RR－バニシング・レイニアス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11531">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ヒール・イーグル</span>
+						<span class="card_status">
+						<strong>RR－ヒール・イーグル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 700</span>
+						
+						
+							<span class="def_power">守備力 700</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのモンスターが「RR」モンスターのみの場合に発動できる。このカードを手札から特殊召喚する。②：墓地のこのカードを除外し、自分の墓地の「RR」魔法・罠カード１枚を対象として発動できる。そのカードを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_28_1" alt="RR－ヒール・イーグル" title="RR－ヒール・イーグル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15483">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ファイナル・フォートレス・ファルコン</span>
+						<span class="card_status">
+						<strong>RR－ファイナル・フォートレス・ファルコン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 12</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3800</span>
+						
+						
+							<span class="def_power">守備力 2800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル１２モンスター×３<br>①：「RR」XモンスターをX素材としているこのカードは他のカードの効果を受けない。②：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。除外されている自分の「RR」モンスターを全て墓地に戻す。③：このカードの攻撃でモンスターを破壊した時、自分の墓地の「RR」Xモンスター１体を除外して発動できる。このカードは続けて攻撃できる。この効果は１ターンに２度まで使用できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_29_1" alt="RR－ファイナル・フォートレス・ファルコン" title="RR－ファイナル・フォートレス・ファルコン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13140">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ファジー・レイニアス</span>
+						<span class="card_status">
+						<strong>RR－ファジー・レイニアス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 500</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「RR－ファジー・レイニアス」の①②の効果はそれぞれ１ターンに１度しか使用できず、このカードの効果を発動するターン、自分は「RR」モンスターしか特殊召喚できない。①：自分フィールドに「RR－ファジー・レイニアス」以外の「RR」モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。②：このカードが墓地へ送られた場合に発動できる。デッキから「RR－ファジー・レイニアス」１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_30_1" alt="RR－ファジー・レイニアス" title="RR－ファジー・レイニアス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11797">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ファントム・クロー</span>
+						<span class="card_status">
+						<strong>RR－ファントム・クロー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_counter.png" alt="カウンター" title="カウンター">
+							<span>カウンター</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：モンスターの効果が発動した時、自分フィールドの闇属性XモンスターのX素材を１つ取り除いて発動できる。その発動を無効にし破壊する。このカードを発動するために取り除いたX素材が「幻影騎士団」、「RR」、「エクシーズ・ドラゴン」カードだった場合、さらに自分フィールドの「RR」Xモンスター１体を選び、その攻撃力をこの効果で破壊したモンスターの元々の攻撃力分アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_31_1" alt="RR－ファントム・クロー" title="RR－ファントム・クロー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15548">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－フォース・ストリクス</span>
+						<span class="card_status">
+						<strong>RR－フォース・ストリクス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル４モンスター×２<br>①：このカードの攻撃力・守備力は、このカード以外の自分フィールドの鳥獣族モンスターの数×５００アップする。②：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。デッキから鳥獣族・闇属性・レベル４モンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_32_1" alt="RR－フォース・ストリクス" title="RR－フォース・ストリクス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11619">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ブレイズ・ファルコン</span>
+						<span class="card_status">
+						<strong>RR－ブレイズ・ファルコン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 5</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						鳥獣族レベル５モンスター×３<br>①：X素材を持っているこのカードは直接攻撃できる。②：このカードが相手に戦闘ダメージを与えた時、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。③：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。相手フィールドの特殊召喚されたモンスターを全て破壊し、破壊したモンスターの数×５００ダメージを相手に与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_33_1" alt="RR－ブレイズ・ファルコン" title="RR－ブレイズ・ファルコン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11723">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ブレード・バーナー・ファルコン</span>
+						<span class="card_status">
+						<strong>RR－ブレード・バーナー・ファルコン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						鳥獣族レベル４モンスター×２<br>①：自分のLPが相手より３０００以上少なく、このカードがX召喚に成功した場合に発動できる。このカードの攻撃力は３０００アップする。②：このカードが戦闘で相手モンスターを破壊した時、このカードのX素材を任意の数だけ取り除いて発動できる。取り除いたX素材の数だけ、相手フィールドのモンスターを選んで破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_34_1" alt="RR－ブレード・バーナー・ファルコン" title="RR－ブレード・バーナー・ファルコン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12533">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ブースター・ストリクス</span>
+						<span class="card_status">
+						<strong>RR－ブースター・ストリクス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 1700</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分の「RR」モンスターが相手モンスターの攻撃対象に選択された時、このカードを手札から除外して発動できる。その攻撃モンスターを破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_35_1" alt="RR－ブースター・ストリクス" title="RR－ブースター・ストリクス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12288">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ペイン・レイニアス</span>
+						<span class="card_status">
+						<strong>RR－ペイン・レイニアス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「RR－ペイン・レイニアス」の効果は１ターンに１度しか使用できず、このカードをX召喚の素材とする場合、鳥獣族モンスターのX召喚にしか使用できない。①：このカードが手札に存在する場合、自分フィールドの「RR」モンスター１体を対象として発動できる。自分はそのモンスターの攻撃力か守備力の内、低い方の数値分のダメージを受け、このカードを手札から特殊召喚する。この効果で特殊召喚したこのカードのレベルは、対象のモンスターのレベルと同じになる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_36_1" alt="RR－ペイン・レイニアス" title="RR－ペイン・レイニアス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12287">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ミミクリー・レイニアス</span>
+						<span class="card_status">
+						<strong>RR－ミミクリー・レイニアス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1100</span>
+						
+						
+							<span class="def_power">守備力 1900</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「RR－ミミクリー・レイニアス」の②の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功したターンの自分メインフェイズに１度だけ発動できる。自分フィールドの全ての「RR」モンスターのレベルを１つ上げる。②：このカードが墓地へ送られたターンの自分メインフェイズに、墓地のこのカードを除外して発動できる。デッキから「RR－ミミクリー・レイニアス」以外の「RR」カード１枚を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_37_1" alt="RR－ミミクリー・レイニアス" title="RR－ミミクリー・レイニアス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11692">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ライズ・ファルコン</span>
+						<span class="card_status">
+						<strong>RR－ライズ・ファルコン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						鳥獣族レベル４モンスター×３<br>①：このカードは特殊召喚された相手モンスター全てに１回ずつ攻撃できる。②：１ターンに１度、このカードのX素材を１つ取り除き、相手フィールドの特殊召喚されたモンスター１体を対象として発動できる。このカードの攻撃力は、対象のモンスターの攻撃力分アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_38_1" alt="RR－ライズ・ファルコン" title="RR－ライズ・ファルコン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11570">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ラスト・ストリクス</span>
+						<span class="card_status">
+						<strong>RR－ラスト・ストリクス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「RR－ラスト・ストリクス」の②の効果は１ターンに１度しか使用できない。①：自分の「RR」モンスターが戦闘を行うダメージ計算時に発動できる。このカードを手札から特殊召喚する。その後、自分は自分のフィールド・墓地の魔法・罠カードの数×１００LP回復する。②：このカードをリリースして発動できる。エクストラデッキから「RR」Xモンスター１体を守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、エンドフェイズにエクストラデッキに戻る。このターン相手が受ける戦闘ダメージは０になる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_39_1" alt="RR－ラスト・ストリクス" title="RR－ラスト・ストリクス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12210">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ラダー・ストリクス</span>
+						<span class="card_status">
+						<strong>RR－ラダー・ストリクス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚に成功した場合、または「RR」カードの効果で手札から特殊召喚に成功した場合に発動できる。相手に６００ダメージを与える。②：このカードを攻撃対象とした相手モンスターの攻撃宣言時に発動できる。手札から「RR」モンスターを２体まで特殊召喚する。このターン、相手はこの効果で特殊召喚したモンスターを攻撃対象に選択できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_40_1" alt="RR－ラダー・ストリクス" title="RR－ラダー・ストリクス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13139">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－リターン</span>
+						<span class="card_status">
+						<strong>RR－リターン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「RR－リターン」の②の効果は１ターンに１度しか使用できない。①：自分フィールドの「RR」モンスターが戦闘で破壊された場合、自分の墓地の「RR」モンスター１体を対象として発動できる。そのモンスターを手札に加える。②：自分フィールドの「RR」モンスターが効果で破壊された場合、墓地のこのカードを除外して発動できる。デッキから「RR」カード１枚を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_41_1" alt="RR－リターン" title="RR－リターン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11853">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－レヴォリューション・ファルコン</span>
+						<span class="card_status">
+						<strong>RR－レヴォリューション・ファルコン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 6</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 3000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						鳥獣族レベル６モンスター×３<br>①：このカードのX素材を１つ取り除いて発動できる。このターン、このカードは相手モンスター全てに１回ずつ攻撃できる。②：このカードが特殊召喚された表側表示モンスターと戦闘を行うダメージステップ開始時に発動する。そのモンスターの攻撃力・守備力を０にする。③：このカードが「RR」XモンスターをX素材としている場合、以下の効果を得る。●１ターンに１度、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊し、その攻撃力の半分のダメージを相手に与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_42_1" alt="RR－レヴォリューション・ファルコン" title="RR－レヴォリューション・ファルコン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11724">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－レヴォリューション・ファルコン－エアレイド</span>
+						<span class="card_status">
+						<strong>RR－レヴォリューション・ファルコン－エアレイド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 6</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 3000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						鳥獣族レベル６モンスター×３<br>このカードは手札の「RUM」魔法カード１枚を捨て、自分フィールドのランク５以下の「RR」Xモンスターの上に重ねてX召喚する事もできる。①：このカードがX召喚に成功した場合、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊し、その攻撃力分のダメージを相手に与える。②：このカードが相手によって破壊され墓地へ送られた場合に発動できる。エクストラデッキから「RR－レヴォリューション・ファルコン」１体を特殊召喚し、このカードを下に重ねてX素材とする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_43_1" alt="RR－レヴォリューション・ファルコン－エアレイド" title="RR－レヴォリューション・ファルコン－エアレイド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13018">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ・レプリカ</span>
+						<span class="card_status">
+						<strong>R・R・R</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードはルール上「RR」カードとしても扱う。①：自分フィールドの「RR」モンスター１体を対象として発動できる。その同名モンスター１体をデッキから特殊召喚する。この効果で特殊召喚したモンスターが自分フィールドに表側表示で存在する限り、相手は対象のモンスターを攻撃対象にできず、効果の対象にもできない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_44_1" alt="R・R・R" title="R・R・R" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12887">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ワイズ・ストリクス</span>
+						<span class="card_status">
+						<strong>RR－ワイズ・ストリクス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+						<span class="box_card_linkmarker">
+							<img class="icon_img" src="external/image/parts/link_pc/link13.png" alt="リンク" title="リンク">
+							<span>リンク 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							リンク
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1400</span>
+						
+							<span class="def_power">守備力 - </span>
+						
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						鳥獣族・闇属性モンスター２体<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがリンク召喚に成功した場合に発動できる。デッキから鳥獣族・闇属性・レベル４モンスター１体を守備表示で特殊召喚する。この効果で特殊召喚したモンスターはリンク素材にできず、効果は無効化される。②：自分の「RR」Xモンスターの効果が発動した場合に発動する。デッキから「RUM」魔法カード１枚を自分フィールドにセットする。速攻魔法カードをセットした場合、そのカードはセットしたターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_45_1" alt="RR－ワイズ・ストリクス" title="RR－ワイズ・ストリクス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14205">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レイド・ラプターズ－ワイルド・ヴァルチャー</span>
+						<span class="card_status">
+						<strong>RR－ワイルド・ヴァルチャー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚・特殊召喚に成功したターンの自分メインフェイズにこのカードをリリースして発動できる。レベルの合計が６になるように、自分の手札・墓地から「RR」モンスター２体を選んで特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_46_1" alt="RR－ワイルド・ヴァルチャー" title="RR－ワイルド・ヴァルチャー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11957">
+			</li>
+		  
+		</ul><!--.box_list-->
+	</div><!--.list_style-->
+
+	<div class="page_num">
+		<span>
+			
+			
+			  
+				<a class="nowpage">1</a>
+			  
+			  
+			
+			
+		</span>
+	</div>
+
+
+
+
+
+
+
+
+	
+
+			<script type="text/javascript">
+			<!--
+
+			$(function(){
+
+				
+				$('#keyword[value=]').css('color', '#bbb').val('キーワードを入力');
+				$('#keyword').focus(function(){
+					if ($(this).val() == 'キーワードを入力') {
+						$(this).val('').css('color', '#555');
+					}
+				}).blur(function(){
+					if ($(this).val() == ''){
+						$(this).css('color', '#bbb').val('キーワードを入力');
+					}
+					if ($(this).val() != 'キーワードを入力') {
+						$(this).css('color', '#555');
+					}
+				});
+
+
+				
+				$('.search_box_tips').hover(
+					function(e){
+
+						if (($(this).closest('.search_body').css('opacity') != 1)) {
+							return false;
+						}
+
+						var tips_txt = $(this).attr('alt');
+						$(this).after('<span id="search_box_tips"><span></span></span>');
+						$('#search_box_tips span').text(tips_txt);
+
+						var offset = $(this).offset();
+						var pos_x = offset.left - 30;
+						var pos_y = offset.top - 34;
+
+						$('#search_box_tips').css({
+							'position': 'absolute',
+							'top': pos_y,
+							'left': pos_x,
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) right bottom no-repeat',
+							'height': '35px',
+							'padding-right': '4px'
+						});
+
+						$('#search_box_tips span').css({
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) left top no-repeat',
+							'line-height': '23px',
+							'height': '35px',
+							'padding': '0 5px 0 20px',
+							'font-weight': 'bold',
+							'font-size': '12px',
+							'color': '#6a3807'
+						});
+					},
+					function(e){
+						if ($(this).closest('.search_body').css('opacity') != 1) {
+							return false;
+						}
+						$('#search_box_tips').remove();
+					}
+				);
+
+				
+				$('.attreffe, .species, .other, .jogai').click(function(){
+					if ($(this).hasClass('button_off')) {
+						$(this).addClass('button_on').removeClass('button_off');
+						$(':checkbox', this).prop('checked', true);
+					} else {
+						$(this).addClass('button_off').removeClass('button_on');
+						$(':checkbox', this).prop('checked', false);
+					}
+				});
+				
+				$('.othercon_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.othercon_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('.link_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.link_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('#condition_toggle').click(function(){
+					$('#search_by_attack_and_defense_and_level, #search_by_attribute, #search_by_effect, #search_by_species, #search_by_other, #search_by_jogai').toggle();
+				});
+
+				
+				$('#form_search input:text').keypress(function(e){
+					if (e.keyCode == 13) {
+						Search();
+					}
+				});
+
+			});
+
+			
+			function ChangeCtype(value, label) {
+				switch (value) {
+
+				case '':
+				case '1':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', false);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					if (value == '') {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					} else {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					break;
+
+				case '2':
+				case '3':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', true);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					if (value == '2') {
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					} else {
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					break;
+
+				default:
+					break;
+				}
+			}
+
+			
+			function Search() {
+				if ($('#keyword').css('color') == '#bbb' || $('#keyword').css('color') == 'rgb(187, 187, 187)') {
+					$('#keyword').val('');
+				}
+				$('#form_search').get(0).submit();
+			}
+
+			//-->
+			</script>
+
+			<form id="form_search" action="/yugiohdb/card_search.action" method="GET">
+				<input type="hidden" name="ope" value="1">
+				<input type="hidden" name="sess" value="1">
+
+				<div id="search_box">
+
+					<div id="search_by_keyword_and_type" style="padding:5px 8px;">
+						<table style="width:100%;">
+							<col width="36">
+							<col width="325">
+							<col width="249">
+							<col width="176">
+							<col width="*">
+							<tr valign="middle">
+								<td>
+									<img src="external/image/parts/icon_search.png" alt="Search">
+								</td>
+								<td valign="top">
+									<input type="text" id="keyword" name="keyword" style="width:300px;" maxlength="50">
+								</td>
+								<td valign="top">
+									<select id="stype" name="stype" style="width:218px;">
+										<option value="1">カード名で検索</option>
+										<option value="2">カードテキストで検索</option>
+										<option value="3">ペンデュラム効果で検索</option>
+										<option value="4">カードNoで検索</option>
+									</select>
+								</td>
+								<td valign="top">
+									<select id="ctype" name="ctype" style="width:145px;">
+										<option value="">すべてのカード</option>
+
+										<option value="1">モンスターカード</option>
+
+										<option value="2">魔法カード</option>
+
+										<option value="3">罠カード</option>
+
+									</select>
+								</td>
+								<td>
+									<a href="javascript:Search();" class="black_btn"><b>検　索</b></a>
+								</td>
+							</tr>
+						</table>
+					</div>
+
+					<div id="condition_toggle">
+						さらに条件を絞って検索
+					</div><!--#condition_toggle-->
+
+					<div id="search_by_attack_and_defense_and_level" class="none">
+						<div class="search_body" style="border-bottom:solid 1px #414a56;padding-bottom: 5px;">
+							<div id="search_set">
+								<div class="search_l">
+									<div class="search_top">
+										<span id="level_rank_title">
+											<b>レベル／ランク</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="0から13までのレベルあるいはランクを絞り込みます">
+										</span>
+										<span id="level_rank_input">
+											<input type="text" id="starfr" name="starfr" maxlength="2">
+											<input type="text" id="starto" name="starto" maxlength="2">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="pen_scale_title">
+											<b>ペンデュラム</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="ペンデュラムスケールで絞り込みます">
+										</span>
+										<span id="pen_scale_input">
+											<input type="text" id="pscalefr" name="pscalefr" maxlength="2">
+											<input type="text" id="pscaleto" name="pscaleto" maxlength="2">
+										</span>
+									</div>
+								</div>
+								<div class="search_m">
+									<div class="search_m_l">
+										<div class="search_top">
+											<span id="link_title">
+												<b>リンク</b>
+												<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="リンクを数値またはマーカーの位置で絞り込みます。">
+											</span>
+										</div>
+										<div class="search_bottom">
+											<span id="link_input">
+												<input type="text" id="linkmarkerfr" name="linkmarkerfr" maxlength="2">
+												<input type="text" id="linkmarkerto" name="linkmarkerto" maxlength="2">
+											</span>
+										</div>
+									</div>
+									<div class="search_m_r">
+										<div class="link_m_set">
+											<form>
+												<input type="checkbox" id="linkbtn7" name="linkbtn7" value="7"><label class="linkbtn7" for="linkbtn7"></label>
+												<input type="checkbox" id="linkbtn8" name="linkbtn8" value="8"><label class="linkbtn8" for="linkbtn8"></label>
+												<input type="checkbox" id="linkbtn9" name="linkbtn9" value="9"><label class="linkbtn9" for="linkbtn9"></label>
+												<input type="checkbox" id="linkbtn4" name="linkbtn4" value="4"><label class="linkbtn4" for="linkbtn4"></label>
+												<input type="checkbox" id="linkbtn6" name="linkbtn6" value="6"><label class="linkbtn6" for="linkbtn6"></label>
+												<input type="checkbox" id="linkbtn1" name="linkbtn1" value="1"><label class="linkbtn1" for="linkbtn1"></label>
+												<input type="checkbox" id="linkbtn2" name="linkbtn2" value="2"><label class="linkbtn2" for="linkbtn2"></label>
+												<input type="checkbox" id="linkbtn3" name="linkbtn3" value="3"><label class="linkbtn3" for="linkbtn3"></label>
+											</form>
+										</div>
+										<div id="and_or2">
+											<a href="javascript:void(0);" class="link_left radio_off_left">
+												<img alt="">
+												<b>and</b>
+												<input type="radio" id="link_and" name="link_m" value="1" class="none">
+											</a>
+											<a href="javascript:void(0);" class="link_right radio_off_right" style="">
+												<img alt="">
+												<b>or</b>
+												<input type="radio" id="link_or"  name="link_m" value="2" class="none">
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="search_r">
+									<div class="search_top">
+										<span id="attack_title">
+											<b>攻撃力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="攻撃力で絞り込みます、最大は5000です">
+										</span>
+										<span id="attack_input">
+											<input type="text" id="atkfr" name="atkfr" maxlength="4">
+											<input type="text" id="atkto" name="atkto" maxlength="4">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="defense_title">
+											<b>守備力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="守備力で絞り込みます、最大は5000です">
+										</span>
+										<span id="defense_input">
+											<input type="text" id="deffr" name="deffr" maxlength="4">
+											<input type="text" id="defto" name="defto" maxlength="4">
+										</span>
+									</div>
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attack_and_defense_and_level-->
+
+
+					<div id="search_by_attribute" style="margin-bottom:-7px;border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>属性</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい属性を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_dark.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												闇属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_light.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												光属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_earth.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												地属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_water.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												水属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_fire.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												炎属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_wind.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												風属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_divine.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												神属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="17">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attribute-->
+
+
+
+					<div id="search_by_effect" style="border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body" style="padding-top: 2px;">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>効果</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい効果を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_1_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_equip.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												装備
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_2_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_field.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												フィールド
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_3_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_quickplay.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												速攻
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="25">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_4_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_ritual.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												儀式
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_5_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_continuous.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												永続
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="24">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_6_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_counter.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												カウンター
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_7_ja">
+		
+		
+										<span style="padding-left:18px;">
+											通常
+										</span>
+		
+										<input type="checkbox" name="effe" class="none" value="20">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_effect-->
+
+
+
+					<div id="search_by_species" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>種族</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい種族を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="species button_off species_1_ja">
+										魔法使い族
+										<input type="checkbox" name="species" class="none" value="18">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_2_ja">
+										ドラゴン族
+										<input type="checkbox" name="species" class="none" value="1">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_3_ja">
+										アンデット族
+										<input type="checkbox" name="species" class="none" value="2">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_4_ja">
+										戦士族
+										<input type="checkbox" name="species" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_5_ja">
+										獣戦士族
+										<input type="checkbox" name="species" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_6_ja">
+										獣族
+										<input type="checkbox" name="species" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_7_ja">
+										鳥獣族
+										<input type="checkbox" name="species" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_8_ja">
+										悪魔族
+										<input type="checkbox" name="species" class="none" value="3">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_9_ja">
+										天使族
+										<input type="checkbox" name="species" class="none" value="17">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_10_ja">
+										昆虫族
+										<input type="checkbox" name="species" class="none" value="10">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_11_ja">
+										恐竜族
+										<input type="checkbox" name="species" class="none" value="9">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_12_ja">
+										爬虫類族
+										<input type="checkbox" name="species" class="none" value="20">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_13_ja">
+										魚族
+										<input type="checkbox" name="species" class="none" value="8">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_14_ja">
+										海竜族
+										<input type="checkbox" name="species" class="none" value="5">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_15_ja">
+										水族
+										<input type="checkbox" name="species" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_16_ja">
+										炎族
+										<input type="checkbox" name="species" class="none" value="4">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_17_ja">
+										雷族
+										<input type="checkbox" name="species" class="none" value="19">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_18_ja">
+										岩石族
+										<input type="checkbox" name="species" class="none" value="6">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_19_ja">
+										植物族
+										<input type="checkbox" name="species" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_20_ja">
+										機械族
+										<input type="checkbox" name="species" class="none" value="7">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_21_ja">
+										サイキック族
+										<input type="checkbox" name="species" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_22_ja">
+										幻神獣族
+										<input type="checkbox" name="species" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_23_ja">
+										創造神族
+										<input type="checkbox" name="species" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_24_ja">
+										幻竜族
+										<input type="checkbox" name="species" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_25_ja">
+										サイバース族
+										<input type="checkbox" name="species" class="none" value="27">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_species-->
+
+
+
+					<div id="search_by_other" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>その他項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたいその他の項目を選択してください、AndあるいはOrで絞り込みます">
+									<div id="and_or">
+										<a href="javascript:void(0);" class="othercon_left radio_off_left">
+											<img alt="">
+											<b>and</b>
+											<input type="radio" id="othercon_and" name="othercon" value="1" class="none">
+										</a>
+										<a href="javascript:void(0);" class="othercon_right radio_off_right" style="padding-left:5px;">
+											<img alt="">
+											<b>or</b>
+											<input type="radio" id="othercon_or"  name="othercon" value="2" class="none">
+										</a>
+									</div>
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_other-->
+
+
+
+					<div id="search_by_jogai" style="border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>除外項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="除外したい項目を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_jogai-->
+
+
+				</div><!--#search_box-->
+
+			</form><!--#form_search-->
+
+
+		</div><!--#article_body-->
+	</article>
+
+
+
+
+
+
+	<div id="cdb_link_set"><a class="link_ocg" href="//www.yugioh-card.com/japan/" target="_blank">遊戯王公式サイト</a> <a class="link_neuron" href="//www.konami.com/yugioh/neuron/ja/" target="_blank">遊戯王ニューロン</a> <a class="link_cgn" href="//cardgame-network.konami.net/" target="_blank">KONAMI CARD GAME NETWORK</a> <a class="link_kst" href="http://www.konamistyle.jp/" target="_blank">コナミスタイル</a> <a class="link_kfs" href="https://www.konami.com/games/card/friendly_shop/" target="_blank">コナミ フレンドリーショップ</a> <a class="link_rushdb" href="https://www.db.yugioh-card.com/rushdb/" target="_blank">遊戯王ラッシュデュエルカードデータベース</a> </div>
+
+	<footer id="footer">
+		<div id="content_copyright">&copy;スタジオ・ダイス／集英社・テレビ東京・KONAMI</div>
+		<div id="footer_meta">
+			<nav>
+				<ul>
+					<li><a href="http://www.yugioh-card.com/japan/support/" target="_blank">お問い合わせ</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://www.konami.com/siteinfo/ja/" target="_blank">サイトポリシー</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://legal.konami.com/games/privacy/ja/" target="_blank">個人情報等保護方針</a></li><!--
+				 --><li>|</li><!--
+				 --><li></li>
+				</ul>
+			</nav>
+			<small>&copy;2021 Konami Digital Entertainment</small>
+		</div>
+	</footer>
+</div><!--wrapper-->
+<noscript>JavaScript を有効にしてください</noscript>
+
+</body>
+</html>
+

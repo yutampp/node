@@ -1,0 +1,3687 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	<meta name="keywords" content="ラヴァル・コアトル,遊戯王,デッキ,デュエルモンスターズ,VRAINS,ヴレインズ,禁止,制限,パック,禁止カード,カード,カードリスト,ルール,OCG,コナミ,KONAMI"/>
+	<meta name="description" content="「ラヴァル・コアトル」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+	<meta name="title" content="ラヴァル・コアトル | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:title" content="ラヴァル・コアトル | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:description" content="「ラヴァル・コアトル」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。" />
+	<meta name="twitter:title" content="ラヴァル・コアトル | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta name="twitter:description" content="「ラヴァル・コアトル」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9586%26request_locale%3Dja%26a%3D202105070033"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9586%26request_locale%3Dja%26a%3D202105070033"/>
+
+	<meta http-equiv="x-ua-compatible" content="IE=10" >
+	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="ja">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="imagetoolbar" content="no">
+
+	<meta property="og:site_name" content="遊戯王OCGカードデータベース">
+
+	<meta property="og:type" content="product" />
+	<meta property="og:locale" content="ja_JP" />
+
+	<meta name="twitter:card" content="summary"/>
+
+	<script type="text/javascript" src="/yugiohdb/ga.js"></script>
+	<meta name="copyright" content="KONAMI">
+	<link rel="shortcut icon" href="external/image/yugioh.ico">
+	<link rel="apple-touch-icon" href="external/image/apple-touch-icon.png">
+
+
+
+	<meta property='og:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=9586&ciid=1&enc=yLxn_jZNk_v0MY3IHRfb0g&app=tournament&request_locale=ja" />
+	<meta name='twitter:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=9586&ciid=1&enc=yLxn_jZNk_v0MY3IHRfb0g&app=tournament&request_locale=ja" />
+
+
+
+
+	
+
+
+	
+		<title>ラヴァル・コアトル | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</title>
+	
+	
+
+
+
+
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="external/html5/js/html5shiv.js"></script>
+<![endif]-->
+	<script type="text/javascript" src="external/jquery/jquery-1.7.2.js"></script>
+	<script type="text/javascript" src="external/jquery/jquery-ui-1.8.16.custom/js/jquery-ui-1.8.16.custom.min.js"></script>
+ 	<script type="text/javascript" src="external/jquery/jquery.dropkick/js/jquery.dropkick-1.0.0.js"></script>
+	<script type="text/javascript" src="external/js/common.js"></script>
+
+	<script type="text/javascript" src="external/jquery/scrolltopcontrol.js"></script>
+
+
+
+
+
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery-ui-1.8.16.custom/css/ui-lightness/jquery-ui-1.8.16.custom.css">
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery.dropkick/css/dropkick.css">
+	<link type="text/css" rel="stylesheet" href="external/css/common.css?20171030">
+
+	<link rel="stylesheet" type="text/css" href="external/css/CardDetail.css">
+
+	<script type="text/javascript">
+	<!--
+
+	$(function() {
+		$('a[href^=#]').click(function(){
+			$('html,body').animate({scrollTop:$($(this).attr("href")).offset().top},'slow','swing');
+			return false;
+		})
+
+		$('#message').hide();
+		
+		$('#keyword').val('');
+		$('#stype').val('1');
+		$('#ctype').val('');
+		$('input:checkbox').prop('checked', false);
+ 		$('#othercon_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#othercon_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+		$('#link_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#link_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+
+		
+		$('#stype').dropkick({
+			theme: 'stype_ja'
+		});
+		$('#ctype').dropkick({
+			change: function (value, label) {
+				ChangeCtype(value, label);
+			}
+		});
+
+	   
+
+		
+	   
+		$('#card_image_1').attr('src', '/yugiohdb/get_image.action?type=2&cid=9586&ciid=1&enc=yLxn_jZNk_v0MY3IHRfb0g').show();
+		$('#thumbnail_card_image_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9586&ciid=1&enc=yLxn_jZNk_v0MY3IHRfb0g').addClass('current').show();
+	   
+		
+		$('#thumbnail img').click(function(){
+			
+			var setImgId = $(this).attr('alt');
+			var setContent = 'https://www.db.yugioh-card.com'
+			         + '/yugiohdb/get_image.action'
+			         + '?type=1&osplang=1&cid=9586'
+			         + '&ciid=' + setImgId
+			         + '&enc=yLxn_jZNk_v0MY3IHRfb0g'
+			         + '&app=tournament'
+			         + '&request_locale=ja'
+			         ;
+			$("meta[property='og:image']").attr('content',setContent); 
+			$("meta[name='twitter:image']").attr('content',setContent);
+
+			$('[id^=card_image]').hide();
+			$('#card_image_' + $(this).attr('alt')).show();
+			$('[id^=thumbnail_card_image]').removeClass('current');
+			$(this).addClass('current');
+		});
+
+		
+		$('#pack_list table tr.row').click(function() {
+			location.href = $('.link_value', this).val();
+		});
+		
+		
+			
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9689&ciid=1&enc=tv0AfsbbdNM83QCHXkA9gA').show();
+			
+		
+			
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9609&ciid=1&enc=Ua1YYAYPqK5rbWyuSLWP6A').show();
+			
+		
+			
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8922&ciid=1&enc=fDrC0KPt2QDKphC05rxFCw').show();
+			
+		
+			
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9827&ciid=1&enc=xJcsB6S0f6vEmfebbzWqXQ').show();
+			
+		
+			
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8902&ciid=1&enc=lLSQAiduLBQLI8c0qHBkyg').show();
+			
+		
+			
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8900&ciid=1&enc=9eZw30vCroRZHP9M3qKkGw').show();
+			
+		
+			
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8919&ciid=1&enc=PS1W4W5EfujYA-kFTEbuVw').show();
+			
+		
+			
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8904&ciid=1&enc=mIBXTqUDI45S7NA7LuonRw').show();
+			
+		
+			
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15845&ciid=1&enc=FzhwmT_rgGvBPP7lvXXNZA').show();
+			
+		
+			
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8901&ciid=1&enc=RxWvbu1MAN80KYwR9DdvEw').show();
+			
+		
+			
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9373&ciid=1&enc=kQhbWYMR9lMW0dJW1AOviw').show();
+			
+		
+			
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9585&ciid=1&enc=6aytUleSlH5QkvcKpAVOxA').show();
+			
+		
+			
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8903&ciid=1&enc=-KWGz8XXFncLeyuudjgZ_A').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9587&ciid=1&enc=FuW0ciwZbst_x-jlRLyHgg').show();
+			
+		
+			
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9374&ciid=1&enc=O8MCWOkjOK7LZr77c60X-g').show();
+			
+		
+			
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8915&ciid=1&enc=DjYcwkuqnQVmyF0rTAtGZg').show();
+			
+		
+			
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9392&ciid=1&enc=niE7WVYA-1fqL95sSjT41g').show();
+			
+		
+			
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9214&ciid=1&enc=mjw45js5lbkv8GeoeDyEPA').show();
+			
+		
+			
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8899&ciid=1&enc=PAmFOUtvE6oK7edupYsREQ').show();
+			
+		
+			
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9643&ciid=1&enc=F36N0As3Ku88hPhmep33WA').show();
+			
+		
+			
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9602&ciid=1&enc=8gUEEHuP3f6BI_tuUlwwOQ').show();
+			
+		
+			
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15998&ciid=1&enc=-O-Rk1HpeoPGft2LhwXDKw').show();
+			
+		
+			
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15846&ciid=1&enc=YJoT8LuoTKO1lnPr_omIDA').show();
+			
+		
+			
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9821&ciid=1&enc=p7XAUB7pj6iPouhOi6Nnkw').show();
+			
+		
+			
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9599&ciid=1&enc=vX8wE_79svG0XLGJ8LsnGA').show();
+			
+		
+			
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8914&ciid=1&enc=iOSWJU0KQtTGlj8ATHY3yg').show();
+			
+		
+			
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8905&ciid=1&enc=cUjNsZXmNDBVSjuYwbnl3w').show();
+			
+		
+			
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9804&ciid=1&enc=BiwvwPFl716-8LuLKFszog').show();
+			
+		
+			
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9442&ciid=1&enc=a4Cgo8LgwrTrgQr_De6E1A').show();
+			
+		
+			
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8906&ciid=1&enc=GFWY3xcVVp9MY-T27ge9FQ').show();
+			
+		
+
+		
+		$('.list_style ul li').click(function() {
+			var li_class = $(this).attr('class');
+			if(!(li_class == "li_top")){
+				location.href = $('.link_value_detail', this).val();
+			}
+		});
+
+		$('#sort').val('1');
+		$('#rp').val('100');
+		$('#mode').val('1');
+
+		$('#sort').dropkick({
+			theme: 'sort_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=9586'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#rp').dropkick({
+			theme: 'rp_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=9586'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#mode').dropkick({
+			theme: 'mode_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+							+ '?ope=2'
+							+ '&cid=9586'
+							+ '&sess=4'
+							+ '&mode=' + value;
+			}
+		});
+
+		
+		$('.box_card_linkmarker').load(function(){});
+	});
+
+	
+	function ChangePage(page) {
+		location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=9586'
+					+ '&sess=3'
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=' + page;
+	}
+
+	
+
+	//-->
+	</script>
+</head>
+
+
+
+
+<body>
+
+<div id="wrapper">
+	<header>
+		<div class="h1_set">遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</div>
+		<div id="header_meta">
+			<a href="https://www.konami.com/games/jp/ja/" target="_blank"><img src="external/image/logo_konami.png" alt="KONAMI" id="konami" class="ui-draggable"></a>
+
+
+	
+			<nav id="language">
+				<span>
+		日本語
+		
+		
+		
+		
+		
+		
+		
+				</span>
+				<ul>
+					<li><a href="javascript:ChangeLanguage('ja')" class="current">日本語</a></li>
+					<li><a href="javascript:ChangeLanguage('en')" >English</a></li>
+					<li><a href="javascript:ChangeLanguage('de')" >Deutsch</a></li>
+					<li><a href="javascript:ChangeLanguage('fr')" >Fran&ccedil;ais</a></li>
+					<li><a href="javascript:ChangeLanguage('it')" >Italiano</a></li>
+					<li><a href="javascript:ChangeLanguage('es')" >Espa&ntilde;ol</a></li>
+					<li><a href="javascript:ChangeLanguage('pt')" >Portugues</a></li>
+					<li><a href="javascript:ChangeLanguage('ko')" >한글</a></li>
+				</ul>
+			</nav>
+	
+
+		</div><!--#header_meta-->
+		<div id="header_menu">
+			<div id="main_logo">
+				<a href="/yugiohdb/"><img src="external/image/ja/logo_ocg.png" alt="遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース" title="TOP"></a>
+			</div>
+			<nav>
+				<div id="menber_menu">
+				
+				</div><!--#menber_menu-->
+				<ul id="main_menu">
+					<li><a href="/yugiohdb/card_search.action"><img src="external/image/ja/menu_btn_home.png" alt="カード検索"></a></li>
+					<li><a href="/yugiohdb/card_list.action"><img src="external/image/ja/menu_btn_cardlist.png" alt="カードリスト"></a></li>
+					<li><a href="/yugiohdb/forbidden_limited.action"><img src="external/image/ja/menu_btn_limitr.png" alt="リミットレギュレーション"></a></li>
+					<li><a href="/yugiohdb/faq_search.action"><img src="external/image/ja/menu_btn_q_a.png" alt="Ｑ＆Ａ"></a></li>
+					<li><a href="/yugiohdb/deck_search.action"><img src="external/image/ja/menu_btn_decks.png" alt="デッキ検索"></a></li>
+	
+					<li class="last"><a href="/yugiohdb/member_login.action"><img src="external/image/ja/menu_btn_login.png" alt="ログイン"></a></li>
+	
+	
+				</ul><!--#main_menu-->
+			</nav>
+		</div><!-- #header_menu-->
+	</header>
+
+	<nav id="pan_nav">
+		<ul>
+			<li><a href="/yugiohdb/">ホーム</a></li>
+			<li>&raquo;</li>
+
+			<li>ラヴァル・コアトル</li>
+
+
+		</ul>
+	</nav><!--#pan_nav-->
+
+
+	 
+		<nav id="title_msg">
+			遊戯王OCGカード「ラヴァル・コアトル」のカード詳細です。<br>「ラヴァル・コアトル」の遊戯王OCG公式ルールはこちらのページで確認してください。<br>「ラヴァル・コアトル」の使い方に関する質問等は「<a href="faq_search.action?ope=4&cid=9586" target=_blank>このカードのQ&Aを表示</a>」より確認ができます。<br>「ラヴァル・コアトル」を使用したデッキを検索したい場合は「<a href="deck_search.action?cardid=9586" target=_blank>このカードを使用したデッキを検索</a>」より確認ができます。
+		</nav>
+	
+
+	<article>
+
+
+		<header id="broad_title">
+			<div>
+				<h1>
+	
+					<span class="ruby">ラヴァル・コアトル</span>
+	
+					ラヴァル・コアトル
+	
+					<span>Laval Coatl</span>
+	
+				</h1>
+			</div>
+		</header>
+
+
+		<div id="article_body">
+
+
+			<table style="margin:0 8px 10px 8px;">
+				<tr>
+				<td valign="top" style="padding-right:8px;">
+					<div id="card_frame">
+	
+		
+						<img id="card_image_1" alt="ラヴァル・コアトル" title="ラヴァル・コアトル" class="none">
+		
+	
+	
+					</div>
+	
+					<div id="thumbnail">
+		
+						<img id="thumbnail_card_image_1" alt="1" class="none">
+		
+					</div>
+	
+				</td>
+
+				<td valign="top">
+
+	
+					<table id="details">
+						<col width="50%">
+						<col width="50%">
+						<tr>
+							<td>
+								<div class="item_box" style="margin-right:5px;">
+									<span class="item_box_title">
+										<b>属性</b>
+									</span>
+									<span class="item_box_value">
+		
+										炎属性
+		
+									</span>
+								</div>
+							</td>
+							<td>
+								<div class="item_box" style="margin-left:5px;">
+		
+		
+		
+									<span class="item_box_title">
+										<b>レベル</b>
+									</span>
+									<span class="item_box_value">
+										2
+									</span>
+		
+								</div>
+							</td>
+						</tr>
+
+		
+						<tr>
+							<td colspan="2">
+								<div class="item_box t_center" style="margin-top:10px;">
+									<span class="item_box_title">
+										<b>種族</b>
+									</span>
+		
+									炎族
+		
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="item_box t_center" style="margin-top:10px;">
+									<span class="item_box_title">
+										<b>その他項目</b>
+									</span>
+		
+									 	チューナー
+		
+		
+							
+										／
+							
+									効果
+		
+		
+		
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<div class="item_box" style="margin-top:10px;margin-right:5px;">
+									<span class="item_box_title">
+										<b>攻撃力</b>
+									</span>
+									<span class="item_box_value">
+										1300
+									</span>
+								</div>
+							</td>
+							<td>
+								<div class="item_box" style="margin-top:10px;margin-left:5px;">
+									<span class="item_box_title">
+										<b>守備力</b>
+									</span>
+									<span class="item_box_value">
+										
+										
+											700
+										
+									</span>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="item_box_text" style="margin-top:10px;">
+									<div class="item_box_title">
+										<b>カードテキスト</b>
+									</div>
+									自分の墓地の「ラヴァル」と名のついたモンスターが３種類以上の場合、このカードは手札から特殊召喚できる。
+									
+			
+								</div>
+							</td>
+						</tr>
+					</table><!--#details-->
+	
+	
+
+<!--シェア追加-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!--シェア追加-->
+					<table style="margin-top:5px;width:100%;text-align: center;">
+						<tr>
+							<td>
+								
+								<iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=9586&amp;sess=2&amp;sort=1&amp;rp=100&amp;page=1&amp;lang=ja&amp;count=horizontal&amp;hashtags=YugiohDB_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td>
+								
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9586%26request_locale%3Dja%26a%3D202105070033&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td style="display: block;margin:0 10px 0 0;">
+								
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9586&request_locale=ja&a=202105070033" data-layout="button_count" data-size="small" ></div>
+							</td>
+							<td>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9586&request_locale=ja&a=202105070033"></div>
+								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+							</td>
+						</tr>
+					</table>
+				
+				
+					<div id="relationCard_a">
+						<a href="#relationCard">このカードの関連カードを見る</a>
+					</div>
+				
+				</td>
+				<td valign="top" style="padding-left:8px;">
+
+	
+	
+					<div style="">
+						<a href="/yugiohdb/faq_search.action?ope=4&cid=9586" id="to_QandA" class="CD_a_btn" target="_blank"><b>このカードの<br>Ｑ＆Ａを表示</b></a>
+					</div>
+	
+	
+	
+					<div style="">
+						<a href="/yugiohdb/deck_search.action?cardid=9586" id="to_MyD" class="CD_a_btn" target="_blank"><b>このカードを<br>使用したデッキを検索</b></a>
+					</div>
+	
+	
+	
+	
+				</td>
+				</tr>
+			</table>
+
+
+
+
+
+			<div id="pack_list" class="radius_top">
+				<table>
+					<col width="100">
+					<col width="100">
+					<col width="*">
+					<col width="50">
+					<tr>
+						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2012-06-01</td>
+		
+		
+		
+						<td>DTC1-JP091</td>
+		
+		
+						<td>
+							<b>デュエルターミナル クロニクルⅠ 「覚醒の章」</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=4401014&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_r.png" class="icon_info rid_2" alt="レア仕様" style="margin-right: 7px;">
+		
+		
+						</td>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2011-04-26</td>
+		
+		
+		
+						<td>DT12-JP021</td>
+		
+		
+						<td>
+							<b>デュエルターミナル 「エクシーズ始動！！」</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=4401011&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_r.png" class="icon_info rid_2" alt="レア仕様" style="margin-right: 7px;">
+		
+		
+						</td>
+					</tr>
+	
+				</table>
+			</div><!--#pack_list-->
+
+
+
+
+
+
+
+
+
+	<div class="list_style" id="relationCard">
+		<div class="li_top">関連カード</div>
+
+
+
+			<table style="margin:0 auto;width:100%;border-spacing: 0px;">
+				<tr>
+				<td valign="top" style="padding: 0px;">
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="mode" style="width:110px;">
+							<option value="1">画像表示</option>
+							<option value="2">テキスト表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="rp" style="width:170px;">
+							<option value="10">10件ずつ表示</option>
+							<option value="50">50件ずつ表示</option>
+							<option value="100">100件ずつ表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right">
+						<select id="sort" style="width:260px;">
+							<option value="1">50音順</option>
+							<option value="2">レベル／ランク順（大きい順）</option>
+							<option value="3">レベル／ランク順（小さい順）</option>
+							<option value="4">攻撃力順（大きい順）</option>
+							<option value="5">攻撃力順（小さい順）</option>
+							<option value="6">守備力順（大きい順）</option>
+							<option value="7">守備力順（小さい順）</option>
+							<option value="8">ペンデュラムスケール順（大きい順）</option>
+							<option value="9">ペンデュラムスケール順（小さい順）</option>
+							<option value="11">リンク数（多い順）</option>
+							<option value="12">リンク数（少ない順）</option>
+						</select>
+					</span>
+
+					
+					<div class="page_num_title">
+						<div>
+							<strong>
+
+								検索結果 30件中 1～30件を表示
+							</strong>
+						</div>
+					</div>
+					<br class="f_del">
+				</td>
+				</tr>
+			</table>
+
+
+
+
+		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんかのたいどう</span>
+						<span class="card_status">
+						<strong>炎渦の胎動</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_counter.png" alt="カウンター" title="カウンター">
+							<span>カウンター</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						手札から「ラヴァル」と名のついたモンスター１体を墓地へ送って発動する。罠カードの発動を無効にし破壊する。また、このカードが墓地に存在する場合、自分の墓地に存在する炎属性モンスター２体をゲームから除外する事で、このカードを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="炎渦の胎動" title="炎渦の胎動" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9689">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんじんばくはつ</span>
+						<span class="card_status">
+						<strong>炎塵爆発</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分の墓地の「ラヴァル」と名のついたモンスターを全てゲームから除外して発動できる。このカードを発動するために除外したモンスターの数まで、フィールド上のカードを選んで破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="炎塵爆発" title="炎塵爆発" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9609">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんねつせんぷうへき</span>
+						<span class="card_status">
+						<strong>炎熱旋風壁</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上の「ラヴァル」と名のついたモンスターの攻撃力は、自分の墓地の「ラヴァル」と名のついたモンスターの数×１００ポイントアップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="炎熱旋風壁" title="炎熱旋風壁" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8922">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんねつでんどうば</span>
+						<span class="card_status">
+						<strong>炎熱伝導場</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：デッキから「ラヴァル」モンスター２体を墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="炎熱伝導場" title="炎熱伝導場" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9827">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>えんねつとうプロミネンス</span>
+						<span class="card_status">
+						<strong>炎熱刀プロミネンス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							獣戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						１ターンに１度、自分の墓地の「ラヴァル」と名のついたモンスター１体をゲームから除外して発動できる。このカードの攻撃力はエンドフェイズ時まで３００ポイントアップする。この効果は相手ターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_4_1" alt="炎熱刀プロミネンス" title="炎熱刀プロミネンス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8902">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ぐれんちたいをとぶたか</span>
+						<span class="card_status">
+						<strong>紅蓮地帯を飛ぶ鷹</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードがシンクロモンスターのシンクロ召喚に使用され墓地へ送られた場合に自分の墓地の「ラヴァル」と名のついたモンスターが３種類以上の場合、このカードを墓地から特殊召喚できる。この効果で特殊召喚したこのカードは、フィールド上から離れた場合ゲームから除外される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="紅蓮地帯を飛ぶ鷹" title="紅蓮地帯を飛ぶ鷹" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8900">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ぐれんのえんぺき</span>
+						<span class="card_status">
+						<strong>紅蓮の炎壁</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分の墓地の「ラヴァル」と名のついたモンスターを任意の枚数ゲームから除外して発動できる。このカードを発動するために除外したモンスターの数だけ自分フィールド上に「ラヴァルトークン」（炎族・炎・星１・攻／守０）を守備表示で特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="紅蓮の炎壁" title="紅蓮の炎壁" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8919">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>しゃくねつこうのきょしょうカエン</span>
+						<span class="card_status">
+						<strong>灼熱工の巨匠カエン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							岩石族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分のメインフェイズ時、墓地のこのカードをゲームから除外して発動できる。自分フィールド上の全ての「ラヴァル」と名のついたモンスターの攻撃力は４００ポイントアップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="灼熱工の巨匠カエン" title="灼熱工の巨匠カエン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8904">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァル・アーチャー</span>
+						<span class="card_status">
+						<strong>ラヴァル・アーチャー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							炎族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した場合に発動する。このターン、自分は通常召喚に加えて１度だけ、自分メインフェイズに「ラヴァル」モンスター１体を召喚できる。②：このカードが墓地に存在する場合、自分フィールドの炎属性モンスター１体を対象として発動できる。そのモンスターを破壊し、このカードを守備表示で特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。このターン、自分は炎属性モンスターしか特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_8_1" alt="ラヴァル・アーチャー" title="ラヴァル・アーチャー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15845">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァル・ウォリアー</span>
+						<span class="card_status">
+						<strong>ラヴァル・ウォリアー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードが戦闘によって相手モンスターを破壊した場合に自分の墓地の「ラヴァル」と名のついたモンスターが４種類以上の場合、その戦闘で破壊したモンスターの元々の攻撃力分のダメージを相手ライフに与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_9_1" alt="ラヴァル・ウォリアー" title="ラヴァル・ウォリアー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8901">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルえんかざんのじじょ</span>
+						<span class="card_status">
+						<strong>ラヴァル炎火山の侍女</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							炎族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが墓地へ送られた時、自分の墓地に「ラヴァル炎火山の侍女」以外の「ラヴァル」モンスターが存在する場合に発動できる。デッキから「ラヴァル」モンスター１体を墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_10_1" alt="ラヴァル炎火山の侍女" title="ラヴァル炎火山の侍女" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9373">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルえんこはんのしゅくじょ</span>
+						<span class="card_status">
+						<strong>ラヴァル炎湖畔の淑女</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							炎族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 200</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分の墓地の「ラヴァル」と名のついたモンスターが３種類以上の場合、自分の墓地のこのカードと「ラヴァル」と名のついたモンスター１体をゲームから除外して発動できる。相手フィールド上にセットされたカード１枚を選択して破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_11_1" alt="ラヴァル炎湖畔の淑女" title="ラヴァル炎湖畔の淑女" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9585">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルえんじゅかいのようじょ</span>
+						<span class="card_status">
+						<strong>ラヴァル炎樹海の妖女</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							炎族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 300</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードがフィールド上から墓地へ送られた時、自分フィールド上の全ての「ラヴァル」と名のついたモンスターの攻撃力はエンドフェイズ時まで、自分の墓地の「ラヴァル」と名のついたモンスターの数×２００ポイントアップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_12_1" alt="ラヴァル炎樹海の妖女" title="ラヴァル炎樹海の妖女" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8903">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァル・ガンナー</span>
+						<span class="card_status">
+						<strong>ラヴァル・ガンナー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードが召喚に成功した時、自分の墓地に「ラヴァル・ガンナー」以外の「ラヴァル」と名のついたモンスターが存在する場合、デッキの上からカードを５枚まで墓地へ送って発動できる。このカードの攻撃力は、この効果を発動するために墓地へ送った「ラヴァル」と名のついたモンスターの数×２００ポイントアップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_13_1" alt="ラヴァル・ガンナー" title="ラヴァル・ガンナー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9587">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァル・キャノン</span>
+						<span class="card_status">
+						<strong>ラヴァル・キャノン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 900</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードが召喚・反転召喚に成功した時、ゲームから除外されている自分の「ラヴァル」と名のついたモンスター１体を選択して特殊召喚できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_14_1" alt="ラヴァル・キャノン" title="ラヴァル・キャノン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9374">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァル・グレイター</span>
+						<span class="card_status">
+						<strong>ラヴァル・グレイター</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2400</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外の炎属性モンスター１体以上<br>このカードがシンクロ召喚に成功した時、自分は手札を１枚墓地へ送る。このカードがカードの効果によって破壊される場合、代わりに自分の墓地の「ラヴァル」と名のついたモンスター１体をゲームから除外できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_15_1" alt="ラヴァル・グレイター" title="ラヴァル・グレイター" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8915">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァル・ステライド</span>
+						<span class="card_status">
+						<strong>ラヴァル・ステライド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							炎族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2700</span>
+						
+						
+							<span class="def_power">守備力 1800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外の炎属性モンスター１体以上<br>このカードがシンクロ召喚に成功した時、自分は手札を１枚墓地へ送る。このカードがカードの効果の対象になった時、自分の墓地の「ラヴァル」と名のついたモンスター１体をゲームから除外する事で、その発動を無効にし破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_16_1" alt="ラヴァル・ステライド" title="ラヴァル・ステライド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9392">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァル・ツインスレイヤー</span>
+						<span class="card_status">
+						<strong>ラヴァル・ツインスレイヤー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2400</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外の炎属性モンスター１体以上<br>自分の墓地に存在する「ラヴァル」と名のついたモンスターの数によって、このカードは以下の効果を得る。●２体以上：このカードが守備表示モンスターを攻撃した場合、もう１度だけ続けて攻撃する事ができる。●３体以上：このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_17_1" alt="ラヴァル・ツインスレイヤー" title="ラヴァル・ツインスレイヤー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9214">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルのえんしゃまわし</span>
+						<span class="card_status">
+						<strong>ラヴァルの炎車回し</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							炎族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 300</span>
+						
+						
+							<span class="def_power">守備力 400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードが戦闘によって破壊され墓地へ送られた時、デッキから「ラヴァル」と名のついたモンスター２体を墓地へ送る事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_18_1" alt="ラヴァルの炎車回し" title="ラヴァルの炎車回し" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8899">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルのマグマほうへい</span>
+						<span class="card_status">
+						<strong>ラヴァルのマグマ砲兵</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							炎族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1700</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						手札から炎属性モンスター１体を墓地へ送って発動する。相手ライフに５００ポイントダメージを与える。この効果は１ターンに２度まで使用できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_19_1" alt="ラヴァルのマグマ砲兵" title="ラヴァルのマグマ砲兵" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9643">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルバル・イグニス</span>
+						<span class="card_status">
+						<strong>ラヴァルバル・イグニス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 3</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 1400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル３モンスター×２<br>このカードが戦闘を行うダメージステップ時に１度だけ、このカードのエクシーズ素材を１つ取り除いて発動できる。このカードの攻撃力はエンドフェイズ時まで５００ポイントアップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_20_1" alt="ラヴァルバル・イグニス" title="ラヴァルバル・イグニス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9602">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルバル・エクスロード</span>
+						<span class="card_status">
+						<strong>ラヴァルバル・エクスロード</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2900</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外の炎属性モンスター１体以上<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札・フィールドのモンスターの効果を相手が発動した時に発動できる。そのモンスターを破壊し、相手に１０００ダメージを与える。②：S召喚したこのカードが相手によって破壊された場合に発動できる。自分の墓地からSモンスター以外の守備力２００の炎属性モンスターを３体まで選んで守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_21_1" alt="ラヴァルバル・エクスロード" title="ラヴァルバル・エクスロード" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15998">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルバル・サラマンダー</span>
+						<span class="card_status">
+						<strong>ラヴァルバル・サラマンダー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2600</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外の炎属性モンスター１体以上<br>このカード名の①の効果は１ターンに１度しか使用できない。①：このカードがS召喚に成功した場合に発動できる。自分はデッキから２枚ドローし、その後手札から炎属性モンスターを含むカード２枚を墓地へ送る。手札に炎属性モンスターが無い場合、手札を全て公開し、デッキに戻す。②：１ターンに１度、自分の墓地から炎属性モンスター１体を除外して発動できる。自分フィールドの「ラヴァル」モンスターの数まで相手フィールドの表側表示モンスターを選んで裏側守備表示にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_22_1" alt="ラヴァルバル・サラマンダー" title="ラヴァルバル・サラマンダー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15846">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルバル・チェイン</span>
+						<span class="card_status">
+						<strong>ラヴァルバル・チェイン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							海竜族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル４モンスター×２<br>①：１ターンに１度、このカードのX素材を１つ取り除き、以下の効果から１つを選択して発動できる。●デッキからカード１枚を選んで墓地へ送る。●デッキからモンスター１体を選んでデッキの一番上に置く。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_23_1" alt="ラヴァルバル・チェイン" title="ラヴァルバル・チェイン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9821">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルバル・ドラグーン</span>
+						<span class="card_status">
+						<strong>ラヴァルバル・ドラグーン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 1200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外の炎属性モンスター１体以上<br>①：１ターンに１度、自分メインフェイズに発動できる。デッキから「ラヴァル」モンスター１体を手札に加える。その後、手札から「ラヴァル」モンスター１体を選んで墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_24_1" alt="ラヴァルバル・ドラグーン" title="ラヴァルバル・ドラグーン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9599">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルバル・ドラゴン</span>
+						<span class="card_status">
+						<strong>ラヴァルバル・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 1100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外の炎属性モンスター１体以上<br>①：自分の墓地の「ラヴァル」モンスター２体をデッキに戻し、相手フィールドのカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_25_1" alt="ラヴァルバル・ドラゴン" title="ラヴァルバル・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8914">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルバーナー</span>
+						<span class="card_status">
+						<strong>ラヴァルバーナー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							炎族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2100</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分の墓地の「ラヴァル」と名のついたモンスターが３種類以上の場合、このカードは手札から特殊召喚できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_26_1" alt="ラヴァルバーナー" title="ラヴァルバーナー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8905">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァル・フロギス</span>
+						<span class="card_status">
+						<strong>ラヴァル・フロギス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							炎族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1700</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードが墓地へ送られた時、自分フィールド上の全ての「ラヴァル」と名のついたモンスターの攻撃力は３００ポイントアップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_27_1" alt="ラヴァル・フロギス" title="ラヴァル・フロギス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9804">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァル・ランスロッド</span>
+						<span class="card_status">
+						<strong>ラヴァル・ランスロッド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2100</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードはリリースなしで召喚できる。この方法で召喚したこのカードは、エンドフェイズ時に墓地へ送られる。フィールド上のこのカードが破壊され墓地へ送られた時、ゲームから除外されている自分の炎属性モンスター１体を選択して手札に加える事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_28_1" alt="ラヴァル・ランスロッド" title="ラヴァル・ランスロッド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9442">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ラヴァルロード・ジャッジメント</span>
+						<span class="card_status">
+						<strong>ラヴァルロード・ジャッジメント</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2700</span>
+						
+						
+							<span class="def_power">守備力 1800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						１ターンに１度、自分の墓地の「ラヴァル」と名のついたモンスター１体をゲームから除外して発動できる。相手ライフに１０００ポイントダメージを与える。この効果を発動するターン、「ラヴァルロード・ジャッジメント」は攻撃宣言できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_29_1" alt="ラヴァルロード・ジャッジメント" title="ラヴァルロード・ジャッジメント" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8906">
+			</li>
+		  
+		</ul><!--.box_list-->
+	</div><!--.list_style-->
+
+	<div class="page_num">
+		<span>
+			
+			
+			  
+				<a class="nowpage">1</a>
+			  
+			  
+			
+			
+		</span>
+	</div>
+
+
+
+
+
+
+
+
+	
+
+			<script type="text/javascript">
+			<!--
+
+			$(function(){
+
+				
+				$('#keyword[value=]').css('color', '#bbb').val('キーワードを入力');
+				$('#keyword').focus(function(){
+					if ($(this).val() == 'キーワードを入力') {
+						$(this).val('').css('color', '#555');
+					}
+				}).blur(function(){
+					if ($(this).val() == ''){
+						$(this).css('color', '#bbb').val('キーワードを入力');
+					}
+					if ($(this).val() != 'キーワードを入力') {
+						$(this).css('color', '#555');
+					}
+				});
+
+
+				
+				$('.search_box_tips').hover(
+					function(e){
+
+						if (($(this).closest('.search_body').css('opacity') != 1)) {
+							return false;
+						}
+
+						var tips_txt = $(this).attr('alt');
+						$(this).after('<span id="search_box_tips"><span></span></span>');
+						$('#search_box_tips span').text(tips_txt);
+
+						var offset = $(this).offset();
+						var pos_x = offset.left - 30;
+						var pos_y = offset.top - 34;
+
+						$('#search_box_tips').css({
+							'position': 'absolute',
+							'top': pos_y,
+							'left': pos_x,
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) right bottom no-repeat',
+							'height': '35px',
+							'padding-right': '4px'
+						});
+
+						$('#search_box_tips span').css({
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) left top no-repeat',
+							'line-height': '23px',
+							'height': '35px',
+							'padding': '0 5px 0 20px',
+							'font-weight': 'bold',
+							'font-size': '12px',
+							'color': '#6a3807'
+						});
+					},
+					function(e){
+						if ($(this).closest('.search_body').css('opacity') != 1) {
+							return false;
+						}
+						$('#search_box_tips').remove();
+					}
+				);
+
+				
+				$('.attreffe, .species, .other, .jogai').click(function(){
+					if ($(this).hasClass('button_off')) {
+						$(this).addClass('button_on').removeClass('button_off');
+						$(':checkbox', this).prop('checked', true);
+					} else {
+						$(this).addClass('button_off').removeClass('button_on');
+						$(':checkbox', this).prop('checked', false);
+					}
+				});
+				
+				$('.othercon_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.othercon_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('.link_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.link_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('#condition_toggle').click(function(){
+					$('#search_by_attack_and_defense_and_level, #search_by_attribute, #search_by_effect, #search_by_species, #search_by_other, #search_by_jogai').toggle();
+				});
+
+				
+				$('#form_search input:text').keypress(function(e){
+					if (e.keyCode == 13) {
+						Search();
+					}
+				});
+
+			});
+
+			
+			function ChangeCtype(value, label) {
+				switch (value) {
+
+				case '':
+				case '1':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', false);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					if (value == '') {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					} else {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					break;
+
+				case '2':
+				case '3':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', true);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					if (value == '2') {
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					} else {
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					break;
+
+				default:
+					break;
+				}
+			}
+
+			
+			function Search() {
+				if ($('#keyword').css('color') == '#bbb' || $('#keyword').css('color') == 'rgb(187, 187, 187)') {
+					$('#keyword').val('');
+				}
+				$('#form_search').get(0).submit();
+			}
+
+			//-->
+			</script>
+
+			<form id="form_search" action="/yugiohdb/card_search.action" method="GET">
+				<input type="hidden" name="ope" value="1">
+				<input type="hidden" name="sess" value="1">
+
+				<div id="search_box">
+
+					<div id="search_by_keyword_and_type" style="padding:5px 8px;">
+						<table style="width:100%;">
+							<col width="36">
+							<col width="325">
+							<col width="249">
+							<col width="176">
+							<col width="*">
+							<tr valign="middle">
+								<td>
+									<img src="external/image/parts/icon_search.png" alt="Search">
+								</td>
+								<td valign="top">
+									<input type="text" id="keyword" name="keyword" style="width:300px;" maxlength="50">
+								</td>
+								<td valign="top">
+									<select id="stype" name="stype" style="width:218px;">
+										<option value="1">カード名で検索</option>
+										<option value="2">カードテキストで検索</option>
+										<option value="3">ペンデュラム効果で検索</option>
+										<option value="4">カードNoで検索</option>
+									</select>
+								</td>
+								<td valign="top">
+									<select id="ctype" name="ctype" style="width:145px;">
+										<option value="">すべてのカード</option>
+
+										<option value="1">モンスターカード</option>
+
+										<option value="2">魔法カード</option>
+
+										<option value="3">罠カード</option>
+
+									</select>
+								</td>
+								<td>
+									<a href="javascript:Search();" class="black_btn"><b>検　索</b></a>
+								</td>
+							</tr>
+						</table>
+					</div>
+
+					<div id="condition_toggle">
+						さらに条件を絞って検索
+					</div><!--#condition_toggle-->
+
+					<div id="search_by_attack_and_defense_and_level" class="none">
+						<div class="search_body" style="border-bottom:solid 1px #414a56;padding-bottom: 5px;">
+							<div id="search_set">
+								<div class="search_l">
+									<div class="search_top">
+										<span id="level_rank_title">
+											<b>レベル／ランク</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="0から13までのレベルあるいはランクを絞り込みます">
+										</span>
+										<span id="level_rank_input">
+											<input type="text" id="starfr" name="starfr" maxlength="2">
+											<input type="text" id="starto" name="starto" maxlength="2">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="pen_scale_title">
+											<b>ペンデュラム</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="ペンデュラムスケールで絞り込みます">
+										</span>
+										<span id="pen_scale_input">
+											<input type="text" id="pscalefr" name="pscalefr" maxlength="2">
+											<input type="text" id="pscaleto" name="pscaleto" maxlength="2">
+										</span>
+									</div>
+								</div>
+								<div class="search_m">
+									<div class="search_m_l">
+										<div class="search_top">
+											<span id="link_title">
+												<b>リンク</b>
+												<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="リンクを数値またはマーカーの位置で絞り込みます。">
+											</span>
+										</div>
+										<div class="search_bottom">
+											<span id="link_input">
+												<input type="text" id="linkmarkerfr" name="linkmarkerfr" maxlength="2">
+												<input type="text" id="linkmarkerto" name="linkmarkerto" maxlength="2">
+											</span>
+										</div>
+									</div>
+									<div class="search_m_r">
+										<div class="link_m_set">
+											<form>
+												<input type="checkbox" id="linkbtn7" name="linkbtn7" value="7"><label class="linkbtn7" for="linkbtn7"></label>
+												<input type="checkbox" id="linkbtn8" name="linkbtn8" value="8"><label class="linkbtn8" for="linkbtn8"></label>
+												<input type="checkbox" id="linkbtn9" name="linkbtn9" value="9"><label class="linkbtn9" for="linkbtn9"></label>
+												<input type="checkbox" id="linkbtn4" name="linkbtn4" value="4"><label class="linkbtn4" for="linkbtn4"></label>
+												<input type="checkbox" id="linkbtn6" name="linkbtn6" value="6"><label class="linkbtn6" for="linkbtn6"></label>
+												<input type="checkbox" id="linkbtn1" name="linkbtn1" value="1"><label class="linkbtn1" for="linkbtn1"></label>
+												<input type="checkbox" id="linkbtn2" name="linkbtn2" value="2"><label class="linkbtn2" for="linkbtn2"></label>
+												<input type="checkbox" id="linkbtn3" name="linkbtn3" value="3"><label class="linkbtn3" for="linkbtn3"></label>
+											</form>
+										</div>
+										<div id="and_or2">
+											<a href="javascript:void(0);" class="link_left radio_off_left">
+												<img alt="">
+												<b>and</b>
+												<input type="radio" id="link_and" name="link_m" value="1" class="none">
+											</a>
+											<a href="javascript:void(0);" class="link_right radio_off_right" style="">
+												<img alt="">
+												<b>or</b>
+												<input type="radio" id="link_or"  name="link_m" value="2" class="none">
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="search_r">
+									<div class="search_top">
+										<span id="attack_title">
+											<b>攻撃力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="攻撃力で絞り込みます、最大は5000です">
+										</span>
+										<span id="attack_input">
+											<input type="text" id="atkfr" name="atkfr" maxlength="4">
+											<input type="text" id="atkto" name="atkto" maxlength="4">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="defense_title">
+											<b>守備力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="守備力で絞り込みます、最大は5000です">
+										</span>
+										<span id="defense_input">
+											<input type="text" id="deffr" name="deffr" maxlength="4">
+											<input type="text" id="defto" name="defto" maxlength="4">
+										</span>
+									</div>
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attack_and_defense_and_level-->
+
+
+					<div id="search_by_attribute" style="margin-bottom:-7px;border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>属性</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい属性を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_dark.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												闇属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_light.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												光属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_earth.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												地属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_water.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												水属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_fire.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												炎属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_wind.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												風属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_divine.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												神属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="17">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attribute-->
+
+
+
+					<div id="search_by_effect" style="border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body" style="padding-top: 2px;">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>効果</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい効果を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_1_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_equip.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												装備
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_2_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_field.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												フィールド
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_3_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_quickplay.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												速攻
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="25">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_4_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_ritual.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												儀式
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_5_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_continuous.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												永続
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="24">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_6_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_counter.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												カウンター
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_7_ja">
+		
+		
+										<span style="padding-left:18px;">
+											通常
+										</span>
+		
+										<input type="checkbox" name="effe" class="none" value="20">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_effect-->
+
+
+
+					<div id="search_by_species" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>種族</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい種族を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="species button_off species_1_ja">
+										魔法使い族
+										<input type="checkbox" name="species" class="none" value="18">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_2_ja">
+										ドラゴン族
+										<input type="checkbox" name="species" class="none" value="1">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_3_ja">
+										アンデット族
+										<input type="checkbox" name="species" class="none" value="2">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_4_ja">
+										戦士族
+										<input type="checkbox" name="species" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_5_ja">
+										獣戦士族
+										<input type="checkbox" name="species" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_6_ja">
+										獣族
+										<input type="checkbox" name="species" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_7_ja">
+										鳥獣族
+										<input type="checkbox" name="species" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_8_ja">
+										悪魔族
+										<input type="checkbox" name="species" class="none" value="3">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_9_ja">
+										天使族
+										<input type="checkbox" name="species" class="none" value="17">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_10_ja">
+										昆虫族
+										<input type="checkbox" name="species" class="none" value="10">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_11_ja">
+										恐竜族
+										<input type="checkbox" name="species" class="none" value="9">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_12_ja">
+										爬虫類族
+										<input type="checkbox" name="species" class="none" value="20">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_13_ja">
+										魚族
+										<input type="checkbox" name="species" class="none" value="8">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_14_ja">
+										海竜族
+										<input type="checkbox" name="species" class="none" value="5">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_15_ja">
+										水族
+										<input type="checkbox" name="species" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_16_ja">
+										炎族
+										<input type="checkbox" name="species" class="none" value="4">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_17_ja">
+										雷族
+										<input type="checkbox" name="species" class="none" value="19">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_18_ja">
+										岩石族
+										<input type="checkbox" name="species" class="none" value="6">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_19_ja">
+										植物族
+										<input type="checkbox" name="species" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_20_ja">
+										機械族
+										<input type="checkbox" name="species" class="none" value="7">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_21_ja">
+										サイキック族
+										<input type="checkbox" name="species" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_22_ja">
+										幻神獣族
+										<input type="checkbox" name="species" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_23_ja">
+										創造神族
+										<input type="checkbox" name="species" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_24_ja">
+										幻竜族
+										<input type="checkbox" name="species" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_25_ja">
+										サイバース族
+										<input type="checkbox" name="species" class="none" value="27">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_species-->
+
+
+
+					<div id="search_by_other" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>その他項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたいその他の項目を選択してください、AndあるいはOrで絞り込みます">
+									<div id="and_or">
+										<a href="javascript:void(0);" class="othercon_left radio_off_left">
+											<img alt="">
+											<b>and</b>
+											<input type="radio" id="othercon_and" name="othercon" value="1" class="none">
+										</a>
+										<a href="javascript:void(0);" class="othercon_right radio_off_right" style="padding-left:5px;">
+											<img alt="">
+											<b>or</b>
+											<input type="radio" id="othercon_or"  name="othercon" value="2" class="none">
+										</a>
+									</div>
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_other-->
+
+
+
+					<div id="search_by_jogai" style="border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>除外項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="除外したい項目を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_jogai-->
+
+
+				</div><!--#search_box-->
+
+			</form><!--#form_search-->
+
+
+		</div><!--#article_body-->
+	</article>
+
+
+
+
+
+
+	<div id="cdb_link_set"><a class="link_ocg" href="//www.yugioh-card.com/japan/" target="_blank">遊戯王公式サイト</a> <a class="link_neuron" href="//www.konami.com/yugioh/neuron/ja/" target="_blank">遊戯王ニューロン</a> <a class="link_cgn" href="//cardgame-network.konami.net/" target="_blank">KONAMI CARD GAME NETWORK</a> <a class="link_kst" href="http://www.konamistyle.jp/" target="_blank">コナミスタイル</a> <a class="link_kfs" href="https://www.konami.com/games/card/friendly_shop/" target="_blank">コナミ フレンドリーショップ</a> <a class="link_rushdb" href="https://www.db.yugioh-card.com/rushdb/" target="_blank">遊戯王ラッシュデュエルカードデータベース</a> </div>
+
+	<footer id="footer">
+		<div id="content_copyright">&copy;スタジオ・ダイス／集英社・テレビ東京・KONAMI</div>
+		<div id="footer_meta">
+			<nav>
+				<ul>
+					<li><a href="http://www.yugioh-card.com/japan/support/" target="_blank">お問い合わせ</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://www.konami.com/siteinfo/ja/" target="_blank">サイトポリシー</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://legal.konami.com/games/privacy/ja/" target="_blank">個人情報等保護方針</a></li><!--
+				 --><li>|</li><!--
+				 --><li></li>
+				</ul>
+			</nav>
+			<small>&copy;2021 Konami Digital Entertainment</small>
+		</div>
+	</footer>
+</div><!--wrapper-->
+<noscript>JavaScript を有効にしてください</noscript>
+
+</body>
+</html>
+

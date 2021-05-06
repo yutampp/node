@@ -1,0 +1,6779 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	<meta name="keywords" content="星読みの魔術師,遊戯王,デッキ,デュエルモンスターズ,VRAINS,ヴレインズ,禁止,制限,パック,禁止カード,カード,カードリスト,ルール,OCG,コナミ,KONAMI"/>
+	<meta name="description" content="「星読みの魔術師」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+	<meta name="title" content="星読みの魔術師 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:title" content="星読みの魔術師 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta property="og:description" content="「星読みの魔術師」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。" />
+	<meta name="twitter:title" content="星読みの魔術師 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
+	<meta name="twitter:description" content="「星読みの魔術師」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
+
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11134%26request_locale%3Dja%26a%3D202105062324"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11134%26request_locale%3Dja%26a%3D202105062324"/>
+
+	<meta http-equiv="x-ua-compatible" content="IE=10" >
+	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="ja">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="imagetoolbar" content="no">
+
+	<meta property="og:site_name" content="遊戯王OCGカードデータベース">
+
+	<meta property="og:type" content="product" />
+	<meta property="og:locale" content="ja_JP" />
+
+	<meta name="twitter:card" content="summary"/>
+
+	<script type="text/javascript" src="/yugiohdb/ga.js"></script>
+	<meta name="copyright" content="KONAMI">
+	<link rel="shortcut icon" href="external/image/yugioh.ico">
+	<link rel="apple-touch-icon" href="external/image/apple-touch-icon.png">
+
+
+
+	<meta property='og:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=11134&ciid=1&enc=q-Q4qzO73fDNNDC827Y9KQ&app=tournament&request_locale=ja" />
+	<meta name='twitter:image' content="https://www.db.yugioh-card.com/yugiohdb/get_image.action?type=1&osplang=1&cid=11134&ciid=1&enc=q-Q4qzO73fDNNDC827Y9KQ&app=tournament&request_locale=ja" />
+
+
+
+
+	
+
+
+	
+		<title>星読みの魔術師 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</title>
+	
+	
+
+
+
+
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="external/html5/js/html5shiv.js"></script>
+<![endif]-->
+	<script type="text/javascript" src="external/jquery/jquery-1.7.2.js"></script>
+	<script type="text/javascript" src="external/jquery/jquery-ui-1.8.16.custom/js/jquery-ui-1.8.16.custom.min.js"></script>
+ 	<script type="text/javascript" src="external/jquery/jquery.dropkick/js/jquery.dropkick-1.0.0.js"></script>
+	<script type="text/javascript" src="external/js/common.js"></script>
+
+	<script type="text/javascript" src="external/jquery/scrolltopcontrol.js"></script>
+
+
+
+
+
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery-ui-1.8.16.custom/css/ui-lightness/jquery-ui-1.8.16.custom.css">
+	<link type="text/css" rel="stylesheet" href="external/jquery/jquery.dropkick/css/dropkick.css">
+	<link type="text/css" rel="stylesheet" href="external/css/common.css?20171030">
+
+	<link rel="stylesheet" type="text/css" href="external/css/CardDetail.css">
+
+	<script type="text/javascript">
+	<!--
+
+	$(function() {
+		$('a[href^=#]').click(function(){
+			$('html,body').animate({scrollTop:$($(this).attr("href")).offset().top},'slow','swing');
+			return false;
+		})
+
+		$('#message').hide();
+		
+		$('#keyword').val('');
+		$('#stype').val('1');
+		$('#ctype').val('');
+		$('input:checkbox').prop('checked', false);
+ 		$('#othercon_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#othercon_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+		$('#link_and').prop('checked', false).closest('a').addClass('radio_off_left').removeClass('radio_on_left').find('img').attr('src', 'external/image/parts/check_off.png');
+		$('#link_or').prop('checked', true).closest('a').addClass('radio_on_right').removeClass('radio_off_right').find('img').attr('src', 'external/image/parts/check_on.png');
+
+		
+		$('#stype').dropkick({
+			theme: 'stype_ja'
+		});
+		$('#ctype').dropkick({
+			change: function (value, label) {
+				ChangeCtype(value, label);
+			}
+		});
+
+	   
+
+		
+	   
+		$('#card_image_1').attr('src', '/yugiohdb/get_image.action?type=2&cid=11134&ciid=1&enc=q-Q4qzO73fDNNDC827Y9KQ').show();
+		$('#thumbnail_card_image_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11134&ciid=1&enc=q-Q4qzO73fDNNDC827Y9KQ').addClass('current').show();
+	   
+		
+		$('#thumbnail img').click(function(){
+			
+			var setImgId = $(this).attr('alt');
+			var setContent = 'https://www.db.yugioh-card.com'
+			         + '/yugiohdb/get_image.action'
+			         + '?type=1&osplang=1&cid=11134'
+			         + '&ciid=' + setImgId
+			         + '&enc=q-Q4qzO73fDNNDC827Y9KQ'
+			         + '&app=tournament'
+			         + '&request_locale=ja'
+			         ;
+			$("meta[property='og:image']").attr('content',setContent); 
+			$("meta[name='twitter:image']").attr('content',setContent);
+
+			$('[id^=card_image]').hide();
+			$('#card_image_' + $(this).attr('alt')).show();
+			$('[id^=thumbnail_card_image]').removeClass('current');
+			$(this).addClass('current');
+		});
+
+		
+		$('#pack_list table tr.row').click(function() {
+			location.href = $('.link_value', this).val();
+		});
+		
+		
+			
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12906&ciid=1&enc=VA8kjHnV4aBfjuU1HUxvaw').show();
+			
+		
+			
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12643&ciid=1&enc=tb-G7eGJH7tWg78qOhif9g').show();
+			
+		
+			
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12375&ciid=1&enc=lxIMcjTGRF_jtX4Z4gUlsA').show();
+			
+		
+			
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13129&ciid=1&enc=XKUhDmsSXj10t5h7sve0eg').show();
+			
+		
+			
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13128&ciid=1&enc=HuGTlrQBbgYVDJs2Yi28lA').show();
+			
+		
+			
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13127&ciid=1&enc=vnHuQBj7eo2-ojhaMME1bw').show();
+			
+		
+			
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12698&ciid=1&enc=y1473oNuvymybS1hrR7A7A').show();
+			
+		
+			
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12276&ciid=1&enc=ZCNskqV8AIyiTYCyZAHMlw').show();
+			
+		
+			
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12275&ciid=1&enc=4ZafQzyP0pB1yvMZTNWK6A').show();
+			
+		
+			
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13130&ciid=1&enc=Ji8BTU2jzzk14KWaK3mmeg').show();
+			
+		
+			
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11680&ciid=1&enc=3_3_i1IOuZtPbU-20mcddQ').show();
+			
+		
+			
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14224&ciid=1&enc=o5PWV1g-VpV_5qySRZRCsg').show();
+			
+		
+			
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14925&ciid=1&enc=KMWCQ-XZj2CegUszPQWamQ').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11938&ciid=1&enc=FZTIT7z6Syt7kZH7wDwaKA').show();
+			
+		
+			
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14927&ciid=1&enc=9TsSbyHYmKO-3dvutOp-9Q').show();
+			
+		
+			
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12918&ciid=1&enc=rsrBMFf6U-f3pI0Qm1mCMg').show();
+			
+		
+			
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12155&ciid=1&enc=YfSSZxOzVbdh7SBQbxUhGQ').show();
+			
+		
+			
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14223&ciid=1&enc=RSjNo22WqzRZr8wUyUhSVA').show();
+			
+		
+			
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12174&ciid=1&enc=X-j-JIXV5UdV9TTh4lDA5g').show();
+			
+		
+			
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11942&ciid=1&enc=Z388LfxDz108fPUi93AiOw').show();
+			
+		
+			
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13359&ciid=1&enc=9RCNkLbnIqP7_XiK-rwwBw').show();
+			
+		
+			
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14926&ciid=1&enc=Kk35MgufptlRsBrQ_GWBpA').show();
+			
+		
+			
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12151&ciid=1&enc=jT_EtGbwJigko6YBhsZ8yw').show();
+			
+		
+			
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11768&ciid=1&enc=svdQ39qv1Ad7XwWqC96EvA').show();
+			
+		
+			
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11148&ciid=1&enc=h1WIFhnQzDx0tOuaHN3hDg').show();
+			
+		
+			
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13839&ciid=1&enc=M-slxg54YU_UZUYietPPfw').show();
+			
+		
+			
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12482&ciid=1&enc=QoPtDcF9fjC2YA5Zp_tDRw').show();
+			
+		
+			
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12007&ciid=1&enc=aXfPRVx12h8Asm1pRTI-VA').show();
+			
+		
+			
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12480&ciid=1&enc=oO5epg9DVa0IQsOplT3OGw').show();
+			
+		
+			
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11213&ciid=1&enc=Ceql3-3OngiVawsUrZ4xCw').show();
+			
+		
+			
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11989&ciid=1&enc=mfj_uHEW9JXchMjHd5wO-w').show();
+			
+		
+			
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12481&ciid=1&enc=ySSr4x_5V7kdb6AS80eWDg').show();
+			
+		
+			
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11941&ciid=1&enc=JFLtZx0c14xd8gmAPPdkdw').show();
+			
+		
+			
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13126&ciid=1&enc=jYqlBxqYO4JnHLI3fWUpuw').show();
+			
+		
+			
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13840&ciid=1&enc=D-s2xSDcb_9VUiLzqZXI2Q').show();
+			
+		
+			
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12408&ciid=1&enc=4QxmAPjioLEappi6Yc5OBg').show();
+			
+		
+			
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11936&ciid=1&enc=Xo4gROuxNYwepeVzKE7s9A').show();
+			
+		
+			
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11784&ciid=1&enc=4lYlEH4fXj65yFXTtKcJfQ').show();
+			
+		
+			
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12908&ciid=1&enc=HCXdArfYOFWOo_5m-B5Osg').show();
+			
+		
+			
+				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12736&ciid=1&enc=oGmePpOE1x0GRs5hoscMCQ').show();
+			
+		
+			
+				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12909&ciid=1&enc=ajXL7IXg26RoshuYpCC-0g').show();
+			
+		
+			
+				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12110&ciid=1&enc=uxPcxKHt59INXRDssDSPFQ').show();
+			
+		
+			
+				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12911&ciid=1&enc=U1yd4X1jXs8wICO2IgeahQ').show();
+			
+		
+			
+				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12913&ciid=1&enc=SZ3PhVaqzl7hrpLn8FiBwA').show();
+			
+		
+			
+				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12914&ciid=1&enc=vr5XaybwAE4bBV3x1qEGRg').show();
+			
+		
+			
+				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12912&ciid=1&enc=5vpMrtol8v1-VS_AVZa9Wg').show();
+			
+		
+			
+				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11937&ciid=1&enc=RDScm_8US0A9bAbM_GY8_A').show();
+			
+		
+			
+				$('#card_image_47_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11787&ciid=1&enc=FCoVT4rY2xdGa2eC78M46w').show();
+			
+		
+			
+				$('#card_image_48_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11788&ciid=1&enc=3fgSDCNAvgD8dp9yu_306Q').show();
+			
+		
+			
+				$('#card_image_49_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12855&ciid=1&enc=M97lADNJfrn3OTy1PrYOZA').show();
+			
+		
+			
+				$('#card_image_50_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13462&ciid=1&enc=f3-p54JPMhbpyTp8gpF3FQ').show();
+			
+		
+			
+				$('#card_image_51_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12109&ciid=1&enc=WrpBHl-OwArjrYveUPS10A').show();
+			
+		
+			
+				$('#card_image_52_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11939&ciid=1&enc=oZ8Hw2uerqUhEpoTLA8Qig').show();
+			
+		
+			
+				$('#card_image_53_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11135&ciid=1&enc=d59fj82BT9gb8hnvNnY1Gw').show();
+			
+		
+			
+				$('#card_image_54_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13054&ciid=1&enc=isogOV4KlMBev7Wy7QGeKg').show();
+			
+		
+			
+				$('#card_image_55_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11835&ciid=1&enc=3uwNq50tC9uj7kXOgbigdw').show();
+			
+		
+			
+				$('#card_image_56_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14960&ciid=1&enc=CG9niJmq6FcLEOtKE92Hww').show();
+			
+		
+			
+				$('#card_image_57_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13131&ciid=1&enc=4gvtDnMwl0H8P64SvsMD_Q').show();
+			
+		
+			
+				$('#card_image_58_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13122&ciid=1&enc=s55sO6-1Ihpr0SPuldkW-g').show();
+			
+		
+			
+				$('#card_image_59_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12783&ciid=1&enc=ibjbjF9FcJdxxHWPuQcFkQ').show();
+			
+		
+			
+				$('#card_image_60_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12910&ciid=1&enc=Whv0ZKOkJOxqG50ko2P4UA').show();
+			
+		
+			
+				$('#card_image_61_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11940&ciid=1&enc=olR5339-Gpf0bLkB7AU-4A').show();
+			
+		
+			
+				$('#card_image_62_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11933&ciid=1&enc=WAcUAdtpBLy8NiU0T9tZYA').show();
+			
+		
+			
+				$('#card_image_63_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11935&ciid=1&enc=vC_SQs0NjmjUFbJyvlHxXg').show();
+			
+		
+			
+				$('#card_image_64_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11934&ciid=1&enc=Zn7SkOV98HmBNtrTOn_qqQ').show();
+			
+		
+
+		
+		$('.list_style ul li').click(function() {
+			var li_class = $(this).attr('class');
+			if(!(li_class == "li_top")){
+				location.href = $('.link_value_detail', this).val();
+			}
+		});
+
+		$('#sort').val('1');
+		$('#rp').val('100');
+		$('#mode').val('1');
+
+		$('#sort').dropkick({
+			theme: 'sort_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=11134'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#rp').dropkick({
+			theme: 'rp_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=11134'
+					+ '&sess=2'
+					+ '&sort=' + encodeURIComponent($('#sort').val())
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=1';
+			}
+		});
+		
+		$('#mode').dropkick({
+			theme: 'mode_ja',
+			change: function (value, label) {
+				
+				location.href = '/yugiohdb/card_search.action'
+							+ '?ope=2'
+							+ '&cid=11134'
+							+ '&sess=4'
+							+ '&mode=' + value;
+			}
+		});
+
+		
+		$('.box_card_linkmarker').load(function(){});
+	});
+
+	
+	function ChangePage(page) {
+		location.href = '/yugiohdb/card_search.action'
+					+ '?ope=2'
+					+ '&cid=11134'
+					+ '&sess=3'
+					+ '&rp=' + encodeURIComponent($('#rp').val())
+					+ '&page=' + page;
+	}
+
+	
+
+	//-->
+	</script>
+</head>
+
+
+
+
+<body>
+
+<div id="wrapper">
+	<header>
+		<div class="h1_set">遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース</div>
+		<div id="header_meta">
+			<a href="https://www.konami.com/games/jp/ja/" target="_blank"><img src="external/image/logo_konami.png" alt="KONAMI" id="konami" class="ui-draggable"></a>
+
+
+	
+			<nav id="language">
+				<span>
+		日本語
+		
+		
+		
+		
+		
+		
+		
+				</span>
+				<ul>
+					<li><a href="javascript:ChangeLanguage('ja')" class="current">日本語</a></li>
+					<li><a href="javascript:ChangeLanguage('en')" >English</a></li>
+					<li><a href="javascript:ChangeLanguage('de')" >Deutsch</a></li>
+					<li><a href="javascript:ChangeLanguage('fr')" >Fran&ccedil;ais</a></li>
+					<li><a href="javascript:ChangeLanguage('it')" >Italiano</a></li>
+					<li><a href="javascript:ChangeLanguage('es')" >Espa&ntilde;ol</a></li>
+					<li><a href="javascript:ChangeLanguage('pt')" >Portugues</a></li>
+					<li><a href="javascript:ChangeLanguage('ko')" >한글</a></li>
+				</ul>
+			</nav>
+	
+
+		</div><!--#header_meta-->
+		<div id="header_menu">
+			<div id="main_logo">
+				<a href="/yugiohdb/"><img src="external/image/ja/logo_ocg.png" alt="遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース" title="TOP"></a>
+			</div>
+			<nav>
+				<div id="menber_menu">
+				
+				</div><!--#menber_menu-->
+				<ul id="main_menu">
+					<li><a href="/yugiohdb/card_search.action"><img src="external/image/ja/menu_btn_home.png" alt="カード検索"></a></li>
+					<li><a href="/yugiohdb/card_list.action"><img src="external/image/ja/menu_btn_cardlist.png" alt="カードリスト"></a></li>
+					<li><a href="/yugiohdb/forbidden_limited.action"><img src="external/image/ja/menu_btn_limitr.png" alt="リミットレギュレーション"></a></li>
+					<li><a href="/yugiohdb/faq_search.action"><img src="external/image/ja/menu_btn_q_a.png" alt="Ｑ＆Ａ"></a></li>
+					<li><a href="/yugiohdb/deck_search.action"><img src="external/image/ja/menu_btn_decks.png" alt="デッキ検索"></a></li>
+	
+					<li class="last"><a href="/yugiohdb/member_login.action"><img src="external/image/ja/menu_btn_login.png" alt="ログイン"></a></li>
+	
+	
+				</ul><!--#main_menu-->
+			</nav>
+		</div><!-- #header_menu-->
+	</header>
+
+	<nav id="pan_nav">
+		<ul>
+			<li><a href="/yugiohdb/">ホーム</a></li>
+			<li>&raquo;</li>
+
+			<li>星読みの魔術師</li>
+
+
+		</ul>
+	</nav><!--#pan_nav-->
+
+
+	 
+		<nav id="title_msg">
+			遊戯王OCGカード「星読みの魔術師」のカード詳細です。<br>「星読みの魔術師」の遊戯王OCG公式ルールはこちらのページで確認してください。<br>「星読みの魔術師」の使い方に関する質問等は「<a href="faq_search.action?ope=4&cid=11134" target=_blank>このカードのQ&Aを表示</a>」より確認ができます。<br>「星読みの魔術師」を使用したデッキを検索したい場合は「<a href="deck_search.action?cardid=11134" target=_blank>このカードを使用したデッキを検索</a>」より確認ができます。
+		</nav>
+	
+
+	<article>
+
+
+		<header id="broad_title">
+			<div>
+				<h1>
+	
+					<span class="ruby">ほしよみのまじゅつし</span>
+	
+					星読みの魔術師
+	
+					<span>Stargazer Magician</span>
+	
+				</h1>
+			</div>
+		</header>
+
+
+		<div id="article_body">
+
+
+			<table style="margin:0 8px 10px 8px;">
+				<tr>
+				<td valign="top" style="padding-right:8px;">
+					<div id="card_frame">
+	
+		
+						<img id="card_image_1" alt="星読みの魔術師" title="星読みの魔術師" class="none">
+		
+	
+	
+					</div>
+	
+					<div id="thumbnail">
+		
+						<img id="thumbnail_card_image_1" alt="1" class="none">
+		
+					</div>
+	
+				</td>
+
+				<td valign="top">
+
+	
+					<table id="details">
+						<col width="50%">
+						<col width="50%">
+						<tr>
+							<td>
+								<div class="item_box" style="margin-right:5px;">
+									<span class="item_box_title">
+										<b>属性</b>
+									</span>
+									<span class="item_box_value">
+		
+										闇属性
+		
+									</span>
+								</div>
+							</td>
+							<td>
+								<div class="item_box" style="margin-left:5px;">
+		
+		
+		
+									<span class="item_box_title">
+										<b>レベル</b>
+									</span>
+									<span class="item_box_value">
+										5
+									</span>
+		
+								</div>
+							</td>
+						</tr>
+
+		
+						<tr>
+							<td colspan="2">
+								<div class="item_box t_center" style="margin-top:10px;">
+									<span class="item_box_title">
+										<b>ペンデュラムスケール</b>
+									</span>
+									1
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="item_box_text" style="margin-top:10px;">
+									<div class="item_box_title">
+										<b>ペンデュラム効果</b>
+									</div>
+			
+										①：自分のPモンスターが戦闘を行う場合、相手はダメージステップ終了時まで魔法カードを発動できない。②：もう片方の自分のPゾーンに「魔術師」カードまたは「オッドアイズ」カードが存在しない場合、このカードのPスケールは４になる。
+			
+								</div>
+							</td>
+						</tr>
+		
+						<tr>
+							<td colspan="2">
+								<div class="item_box t_center" style="margin-top:10px;">
+									<span class="item_box_title">
+										<b>種族</b>
+									</span>
+		
+									魔法使い族
+		
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="item_box t_center" style="margin-top:10px;">
+									<span class="item_box_title">
+										<b>その他項目</b>
+									</span>
+		
+									 	ペンデュラム
+		
+		
+							
+										／
+							
+									効果
+		
+		
+		
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<div class="item_box" style="margin-top:10px;margin-right:5px;">
+									<span class="item_box_title">
+										<b>攻撃力</b>
+									</span>
+									<span class="item_box_value">
+										1200
+									</span>
+								</div>
+							</td>
+							<td>
+								<div class="item_box" style="margin-top:10px;margin-left:5px;">
+									<span class="item_box_title">
+										<b>守備力</b>
+									</span>
+									<span class="item_box_value">
+										
+										
+											2400
+										
+									</span>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<div class="item_box_text" style="margin-top:10px;">
+									<div class="item_box_title">
+										<b>カードテキスト</b>
+									</div>
+									①：１ターンに１度、自分フィールドのPモンスター１体のみが相手の効果で自分の手札に戻った時に発動できる。その同名モンスター１体を手札から特殊召喚する。
+									
+			
+								</div>
+							</td>
+						</tr>
+					</table><!--#details-->
+	
+	
+
+<!--シェア追加-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<!--シェア追加-->
+					<table style="margin-top:5px;width:100%;text-align: center;">
+						<tr>
+							<td>
+								
+								<iframe src="//platform.twitter.com/widgets/tweet_button.html?url=http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&amp;cid=11134&amp;sess=2&amp;sort=1&amp;rp=100&amp;page=1&amp;lang=ja&amp;count=horizontal&amp;hashtags=YugiohDB_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td>
+								
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11134%26request_locale%3Dja%26a%3D202105062324&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+							</td>
+							<td style="display: block;margin:0 10px 0 0;">
+								
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11134&request_locale=ja&a=202105062324" data-layout="button_count" data-size="small" ></div>
+							</td>
+							<td>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11134&request_locale=ja&a=202105062324"></div>
+								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+							</td>
+						</tr>
+					</table>
+				
+				
+					<div id="relationCard_a">
+						<a href="#relationCard">このカードの関連カードを見る</a>
+					</div>
+				
+				</td>
+				<td valign="top" style="padding-left:8px;">
+
+	
+	
+					<div style="">
+						<a href="/yugiohdb/faq_search.action?ope=4&cid=11134" id="to_QandA" class="CD_a_btn" target="_blank"><b>このカードの<br>Ｑ＆Ａを表示</b></a>
+					</div>
+	
+	
+	
+					<div style="">
+						<a href="/yugiohdb/deck_search.action?cardid=11134" id="to_MyD" class="CD_a_btn" target="_blank"><b>このカードを<br>使用したデッキを検索</b></a>
+					</div>
+	
+	
+	
+	
+				</td>
+				</tr>
+			</table>
+
+
+
+
+
+			<div id="pack_list" class="radius_top">
+				<table>
+					<col width="100">
+					<col width="100">
+					<col width="*">
+					<col width="50">
+					<tr>
+						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2016-12-23</td>
+		
+		
+		
+						<td>SD31-JP007</td>
+		
+		
+						<td>
+							<b>ストラクチャーデッキ － ペンデュラム・エボリューション －</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=2201047&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2016-03-19</td>
+		
+		
+		
+						<td>ST16-JP009</td>
+		
+		
+						<td>
+							<b>STARTER DECK 2016</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=2202011&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2015-06-20</td>
+		
+		
+		
+						<td>SD29-JP006</td>
+		
+		
+						<td>
+							<b>ストラクチャーデッキ － マスター・オブ・ペンデュラム －</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=2201040&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2014-03-21</td>
+		
+		
+		
+						<td>ST14-JP009</td>
+		
+		
+						<td>
+							<b>STARTER DECK 2014</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=2202008&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_sr.png" class="icon_info rid_3" alt="スーパーレア仕様" style="margin-right: 7px;">
+		
+		
+						</td>
+					</tr>
+	
+				</table>
+			</div><!--#pack_list-->
+
+
+
+
+
+
+
+
+
+	<div class="list_style" id="relationCard">
+		<div class="li_top">関連カード</div>
+
+
+
+			<table style="margin:0 auto;width:100%;border-spacing: 0px;">
+				<tr>
+				<td valign="top" style="padding: 0px;">
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="mode" style="width:110px;">
+							<option value="1">画像表示</option>
+							<option value="2">テキスト表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="rp" style="width:170px;">
+							<option value="10">10件ずつ表示</option>
+							<option value="50">50件ずつ表示</option>
+							<option value="100">100件ずつ表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right">
+						<select id="sort" style="width:260px;">
+							<option value="1">50音順</option>
+							<option value="2">レベル／ランク順（大きい順）</option>
+							<option value="3">レベル／ランク順（小さい順）</option>
+							<option value="4">攻撃力順（大きい順）</option>
+							<option value="5">攻撃力順（小さい順）</option>
+							<option value="6">守備力順（大きい順）</option>
+							<option value="7">守備力順（小さい順）</option>
+							<option value="8">ペンデュラムスケール順（大きい順）</option>
+							<option value="9">ペンデュラムスケール順（小さい順）</option>
+							<option value="11">リンク数（多い順）</option>
+							<option value="12">リンク数（少ない順）</option>
+						</select>
+					</span>
+
+					
+					<div class="page_num_title">
+						<div>
+							<strong>
+
+								検索結果 65件中 1～65件を表示
+							</strong>
+						</div>
+					</div>
+					<br class="f_del">
+				</td>
+				</tr>
+			</table>
+
+
+
+
+		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アストログラフ・マジシャン</span>
+						<span class="card_status">
+						<strong>アストログラフ・マジシャン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							1
+						</span>
+						<span class="box_card_pen_effect">
+							このカード名のP効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカードを破壊し、手札・デッキから「星読みの魔術師」１体を選び、自分のPゾーンに置くか特殊召喚する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドのカードが戦闘・効果で破壊された場合に発動できる。このカードを手札から特殊召喚する。その後、このターンに破壊された自分または相手のモンスター１体を選び、その同名モンスター１体をデッキから手札に加える事ができる。②：自分の手札・フィールド・墓地の、「ペンデュラム・ドラゴン」「エクシーズ・ドラゴン」「シンクロ・ドラゴン」「フュージョン・ドラゴン」モンスター１体ずつと、フィールドのこのカードを除外して発動できる。「覇王龍ズァーク」１体を融合召喚扱いとしてEXデッキから特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="アストログラフ・マジシャン" title="アストログラフ・マジシャン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12906">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アメイジング・ペンデュラム</span>
+						<span class="card_status">
+						<strong>アメイジング・ペンデュラム</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「アメイジング・ペンデュラム」は１ターンに１枚しか発動できない。①：自分のPゾーンにカードが存在しない場合に発動できる。自分のエクストラデッキから、カード名が異なる表側表示の「魔術師」Pモンスター２体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="アメイジング・ペンデュラム" title="アメイジング・ペンデュラム" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12643">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトインコーラス</span>
+						<span class="card_status">
+						<strong>EMインコーラス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 500</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							2
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、もう片方の自分のPゾーンに「EMインコーラス」以外の「EM」カード、「魔術師」カード、「オッドアイズ」カードの内、いずれかが存在する場合に発動できる。このカードのPスケールはターン終了時まで７になる。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが戦闘で破壊された時に発動できる。デッキからPモンスター以外の「EM」モンスター１体を特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="EMインコーラス" title="EMインコーラス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12375">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトオッドアイズ・シンクロン</span>
+						<span class="card_status">
+						<strong>EMオッドアイズ・シンクロン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 200</span>
+						
+						
+							<span class="def_power">守備力 600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							6
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分フィールドの「EM」モンスターまたは「オッドアイズ」モンスター１体を対象として発動できる。このターン、その表側表示モンスターをチューナーとして扱い、レベルは１になる。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						EXデッキから特殊召喚したこのカードは、S召喚に使用された場合に除外される。①：このカードが召喚に成功した時、自分の墓地のレベル３以下の、「EM」モンスターまたは「オッドアイズ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。②：１ターンに１度、自分のPゾーンのカード１枚を対象として発動できる。そのカードを効果を無効にして特殊召喚し、そのカードとこのカードのみを素材としてSモンスター１体をS召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="EMオッドアイズ・シンクロン" title="EMオッドアイズ・シンクロン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13129">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトオッドアイズ・ディゾルヴァー</span>
+						<span class="card_status">
+						<strong>EMオッドアイズ・ディゾルヴァー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 2600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							4
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分メインフェイズに発動できる。自分の手札・フィールドから、ドラゴン族の融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体をEXデッキから融合召喚する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：自分のPモンスターが相手モンスターと戦闘を行うダメージステップ開始時に発動できる。このカードを手札から特殊召喚し、その自分のモンスターはその戦闘では破壊されない。②：自分メインフェイズに発動できる。融合モンスターカードによって決められた、このカードを含む融合素材モンスターを自分フィールドから墓地へ送り、その融合モンスター１体をEXデッキから融合召喚する。その際、自分のPゾーンに存在する融合素材モンスターも融合素材に使用できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_4_1" alt="EMオッドアイズ・ディゾルヴァー" title="EMオッドアイズ・ディゾルヴァー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13128">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトオッドアイズ・ミノタウロス</span>
+						<span class="card_status">
+						<strong>EMオッドアイズ・ミノタウロス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							獣戦士族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							6
+						</span>
+						<span class="box_card_pen_effect">
+							①：自分の「EM」モンスターまたは「オッドアイズ」モンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分のPモンスターが相手モンスターに攻撃するダメージ計算時に発動できる。その相手モンスターの攻撃力はそのダメージ計算時のみ、自分フィールドの「EM」カード及び「オッドアイズ」カードの数×１００ダウンする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="EMオッドアイズ・ミノタウロス" title="EMオッドアイズ・ミノタウロス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13127">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトオッドアイズ・メタル・クロウ</span>
+						<span class="card_status">
+						<strong>EMオッドアイズ・メタル・クロウ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							融合
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「オッドアイズ」モンスター＋「EM」モンスター<br>このカードは融合素材にできない。①：「融合」の効果で融合召喚したこのカードは他のカードの効果を受けない。②：このカードの攻撃宣言時に発動する。自分フィールドの全てのモンスターの攻撃力はバトルフェイズ終了時まで３００アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="EMオッドアイズ・メタル・クロウ" title="EMオッドアイズ・メタル・クロウ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12698">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトオッドアイズ・ユニコーン</span>
+						<span class="card_status">
+						<strong>EMオッドアイズ・ユニコーン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							獣族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							①：このカードがPゾーンに存在する限り１度だけ、自分の「オッドアイズ」モンスターの攻撃宣言時、そのモンスター以外の自分フィールドの「EM」モンスター１体を対象として発動できる。その攻撃モンスターの攻撃力はバトルフェイズ終了時まで、対象のモンスターの元々の攻撃力分アップする。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚・特殊召喚に成功した時、自分の墓地の「EM」モンスター１体を対象として発動できる。そのモンスターの攻撃力分だけ自分はLPを回復する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="EMオッドアイズ・ユニコーン" title="EMオッドアイズ・ユニコーン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12276">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトオッドアイズ・ライトフェニックス</span>
+						<span class="card_status">
+						<strong>EMオッドアイズ・ライトフェニックス</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							3
+						</span>
+						<span class="box_card_pen_effect">
+							①：もう片方の自分のPゾーンにカードが存在する場合、相手モンスターの直接攻撃宣言時に発動できる。もう片方の自分のPゾーンのカードを破壊し、このカードを特殊召喚する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードをリリースし、自分フィールドの「EM」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで１０００アップする。この効果は相手ターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_8_1" alt="EMオッドアイズ・ライトフェニックス" title="EMオッドアイズ・ライトフェニックス" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12275">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトごこうのまじゅつし</span>
+						<span class="card_status">
+						<strong>EM五虹の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							12
+						</span>
+						<span class="box_card_pen_effect">
+							①：自分はEXデッキからしかP召喚できない。この効果は無効化されない。②：お互いは自身の魔法＆罠ゾーンにセットされているカードの数により以下を適用する。●０枚：自分フィールドのモンスターは、攻撃できず、効果を発動できない。●４枚以上：自分フィールドのモンスターの攻撃力は元々の数値の倍になる。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが墓地に存在し、自分フィールドに魔法・罠カードがセットされた場合に発動できる。墓地のこのカードを自分のPゾーンに置く。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_9_1" alt="EM五虹の魔術師" title="EM五虹の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13130">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトスプリングース</span>
+						<span class="card_status">
+						<strong>EMスプリングース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1100</span>
+						
+						
+							<span class="def_power">守備力 2400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「EMスプリングース」の効果は１ターンに１度しか使用できない。①：自分メインフェイズに墓地のこのカードを除外し、自分のPゾーンの「魔術師」カード、「EM」カード及び自分フィールドのPモンスターの中から２枚を対象として発動できる。そのカード２枚を持ち主の手札に戻す。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_10_1" alt="EMスプリングース" title="EMスプリングース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11680">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトスマイル・マジシャン</span>
+						<span class="card_status">
+						<strong>EMスマイル・マジシャン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							1
+						</span>
+						<span class="box_card_pen_effect">
+							このカード名のP効果は１ターンに１度しか使用できない。①：元々の攻撃力より高い攻撃力を持つ自分フィールドのモンスターが戦闘・効果で破壊された場合に発動できる。Pゾーンのこのカードを特殊召喚する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「スマイル」魔法・罠カード１枚を手札に加える。②：自分フィールドのモンスターが「EM」モンスター、「魔術師」Pモンスター、「オッドアイズ」モンスターのみで、このカードの攻撃力が元々の攻撃力より高い場合に発動できる。元々の攻撃力より高い攻撃力を持つ自分フィールドのモンスターの数だけ自分はデッキからドローする。このターン、自分はモンスターを特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_11_1" alt="EMスマイル・マジシャン" title="EMスマイル・マジシャン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14224">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトてんくうのまじゅつし</span>
+						<span class="card_status">
+						<strong>EM天空の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1500</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							このカード名のP効果は１ターンに１度しか使用できない。①：EXデッキから特殊召喚された自分フィールドの融合・S・Xモンスター１体のみが戦闘または相手の効果で破壊された時に発動できる。その破壊されたモンスターを特殊召喚する。その後、このカードを破壊する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功したターンの自分メインフェイズに発動できる。このカード以外の自分フィールドのモンスターの種類によって、このターン、以下の効果を適用する。<br>●融合：このカードは直接攻撃できる。<br>●S：相手はモンスターの効果を発動できない。<br>●X：このカードの攻撃力は元々の攻撃力の倍になる。<br>●P：エンドフェイズにデッキからPモンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_12_1" alt="EM天空の魔術師" title="EM天空の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14925">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトドクロバット・ジョーカー</span>
+						<span class="card_status">
+						<strong>EMドクロバット・ジョーカー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							①：自分は「EM」モンスター、「魔術師」Pモンスター、「オッドアイズ」モンスターしかP召喚できない。この効果は無効化されない。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚に成功した時に発動できる。デッキから「EMドクロバット・ジョーカー」以外の「EM」モンスター、「魔術師」Pモンスター、「オッドアイズ」モンスターの内、いずれか１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_13_1" alt="EMドクロバット・ジョーカー" title="EMドクロバット・ジョーカー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11938">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトポップアップ</span>
+						<span class="card_status">
+						<strong>EMポップアップ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：手札を３枚まで墓地へ送って発動できる。自分はその数だけデッキからドローする。その後、この効果でドローした数まで、自分のPゾーンのカード２枚のPスケールでP召喚可能なレベルを持つ、「EM」モンスター、「魔術師」Pモンスター、「オッドアイズ」モンスターを手札から特殊召喚できる（同名カードは１枚まで）。このカードの効果で特殊召喚しなかった場合、自分は自分の手札の数×１０００LPを失う。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_14_1" alt="EMポップアップ" title="EMポップアップ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14927">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンタメイトユーゴーレム</span>
+						<span class="card_status">
+						<strong>EMユーゴーレム</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							悪魔族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							1
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分フィールドにモンスターが融合召喚された場合に発動できる。自分の墓地のPモンスター及び自分のエクストラデッキの表側表示のPモンスターの中から、「EM」モンスター、「オッドアイズ」モンスター、「魔術師」モンスターの内、いずれか１体を選んで手札に加える。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードがP召喚に成功したターンの自分メインフェイズに１度だけ発動できる。融合モンスターカードによって決められた、このカードを含む融合素材モンスターを自分フィールドから墓地へ送り、その融合モンスター１体をエクストラデッキから融合召喚する。その際、他の融合素材モンスターは全てドラゴン族モンスターでなければならない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_15_1" alt="EMユーゴーレム" title="EMユーゴーレム" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12918">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エンライトメント・パラディン</span>
+						<span class="card_status">
+						<strong>覚醒の魔導剣士</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>「覚醒の魔導剣士」の①の効果は１ターンに１度しか使用できない。①：「魔術師」Pモンスターを素材としてこのカードがS召喚に成功した場合、自分の墓地の魔法カード１枚を対象として発動できる。そのカードを手札に加える。②：このカードが戦闘で相手モンスターを破壊した時に発動できる。そのモンスターの元々の攻撃力分のダメージを相手に与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_16_1" alt="覚醒の魔導剣士" title="覚醒の魔導剣士" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12155">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・アドバンス・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・アドバンス・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードはレベル５以上のモンスター１体をリリースしてアドバンス召喚できる。このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがアドバンス召喚に成功した場合に発動できる。相手フィールドのモンスター１体を選んで破壊し、そのモンスターの元々の攻撃力分のダメージを相手に与える。②：このカードが戦闘でモンスターを破壊した時に発動できる。自分の手札・墓地から「オッドアイズ・アドバンス・ドラゴン」以外のレベル５以上のモンスター１体を選んで守備表示で特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_17_1" alt="オッドアイズ・アドバンス・ドラゴン" title="オッドアイズ・アドバンス・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14223">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・アドベント</span>
+						<span class="card_status">
+						<strong>オッドアイズ・アドベント</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_ritual.png" alt="儀式" title="儀式">
+							<span>儀式</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						ドラゴン族の儀式モンスターの降臨に必要。「オッドアイズ・アドベント」は１ターンに１枚しか発動できない。①：レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドのPモンスターをリリースし、自分の手札・墓地からドラゴン族の儀式モンスター１体を儀式召喚する。相手フィールドにモンスターが２体以上存在し、自分フィールドにモンスターが存在しない場合、自分のエクストラデッキの「オッドアイズ」モンスターもリリースの代わりに墓地へ送る事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_18_1" alt="オッドアイズ・アドベント" title="オッドアイズ・アドベント" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12174">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・アブソリュート・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・アブソリュート・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_water.png" alt="水属性" title="水属性">
+							<span>水属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 7</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2800</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル７モンスター×２<br>「オッドアイズ・アブソリュート・ドラゴン」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分または相手のモンスターの攻撃宣言時に、このカードのX素材を１つ取り除いて発動できる。その攻撃を無効にする。その後、自分の手札・墓地から「オッドアイズ」モンスター１体を選んで特殊召喚できる。②：X召喚されたこのカードが墓地へ送られた場合に発動できる。エクストラデッキから「オッドアイズ・アブソリュート・ドラゴン」以外の「オッドアイズ」モンスター１体を特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_19_1" alt="オッドアイズ・アブソリュート・ドラゴン" title="オッドアイズ・アブソリュート・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11942">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・アークペンデュラム・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・アークペンデュラム・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							通常
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2700</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							このカード名のP効果は１ターンに１度しか使用できない。①：自分フィールドの表側表示の「オッドアイズ」カードが戦闘・効果で破壊された場合に発動できる。自分の手札・デッキ・墓地から「オッドアイズ」モンスター１体を選んで特殊召喚する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						雄々しくも美しき、神秘の眼を持つ奇跡の龍。<br>その二色に輝く眼は、天空に描かれし軌跡を映す。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_20_1" alt="オッドアイズ・アークペンデュラム・ドラゴン" title="オッドアイズ・アークペンデュラム・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13359">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・ウィザード・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・ウィザード・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが手札にある場合、自分フィールドの闇属性モンスター１体をリリースして発動できる。手札・デッキ及び自分フィールドの表側表示モンスターの中から、「オッドアイズ・ドラゴン」１体を選んで墓地へ送り、このカードを特殊召喚する。②：このカードが相手によって破壊され墓地へ送られた場合に発動できる。自分のデッキ・墓地から「オッドアイズ・ウィザード・ドラゴン」以外の「オッドアイズ」モンスター１体を選んで特殊召喚する。その後、デッキから「螺旋のストライクバースト」１枚を手札に加える事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_21_1" alt="オッドアイズ・ウィザード・ドラゴン" title="オッドアイズ・ウィザード・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14926">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・グラビティ・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・グラビティ・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_earth.png" alt="地属性" title="地属性">
+							<span>地属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							儀式
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2800</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「オッドアイズ・アドベント」により降臨。「オッドアイズ・グラビティ・ドラゴン」の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した時に発動できる。相手フィールドの魔法・罠カードを全て持ち主の手札に戻す。この効果の発動に対して、相手は魔法・罠・モンスターの効果を発動できない。②：このカードがモンスターゾーンに存在する限り、相手は５００LPを払わなければ、カードの効果を発動できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_22_1" alt="オッドアイズ・グラビティ・ドラゴン" title="オッドアイズ・グラビティ・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12151">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・セイバー・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・セイバー・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2800</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが手札にある場合、自分フィールドの光属性モンスター１体をリリースして発動できる。手札・デッキ及び自分フィールドの表側表示モンスターの中から、「オッドアイズ・ドラゴン」１体を選んで墓地へ送り、このカードを特殊召喚する。②：このカードが戦闘でモンスターを破壊し墓地へ送った時に発動できる。相手フィールドのモンスター１体を選んで破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_23_1" alt="オッドアイズ・セイバー・ドラゴン" title="オッドアイズ・セイバー・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11768">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが戦闘で相手モンスターを破壊し墓地へ送った場合に発動する。そのモンスターの元々の攻撃力の半分のダメージを相手に与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_24_1" alt="オッドアイズ・ドラゴン" title="オッドアイズ・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11148">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・ファンタズマ・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・ファンタズマ・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							0
+						</span>
+						<span class="box_card_pen_effect">
+							このカード名のP効果は１ターンに１度しか使用できない。①：手札を１枚捨てて発動できる。自分のEXデッキから表側表示のドラゴン族Pモンスター１体を手札に加える。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：自分のPゾーンにカードが２枚存在し、自分のEXデッキに表側表示の「オッドアイズ」Pモンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。この効果を発動するターン、自分はP召喚できない。②：このカードが相手モンスターに攻撃するダメージ計算時に発動できる。その相手モンスターの攻撃力はそのダメージ計算時のみ、自分のEXデッキの表側表示のPモンスターの数×１０００ダウンする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_25_1" alt="オッドアイズ・ファンタズマ・ドラゴン" title="オッドアイズ・ファンタズマ・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13839">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・ファントム・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・ファントム・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							4
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、もう片方の自分のPゾーンに「オッドアイズ」カードが存在する場合、自分の表側表示モンスターが相手モンスターと戦闘を行う攻撃宣言時に発動できる。その自分のモンスターの攻撃力はバトルフェイズ終了時まで１２００アップする。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「オッドアイズ・ファントム・ドラゴン」のモンスター効果は１ターンに１度しか使用できない。①：P召喚したこのカードの攻撃で相手に戦闘ダメージを与えた時に発動できる。自分のPゾーンの「オッドアイズ」カードの数×１２００ダメージを相手に与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_26_1" alt="オッドアイズ・ファントム・ドラゴン" title="オッドアイズ・ファントム・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12482">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・フュージョン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・フュージョン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「オッドアイズ・フュージョン」は１ターンに１枚しか発動できない。①：自分の手札・フィールドから、ドラゴン族の融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体をエクストラデッキから融合召喚する。相手フィールドにモンスターが２体以上存在し、自分フィールドにモンスターが存在しない場合、自分のエクストラデッキの「オッドアイズ」モンスターも２体まで融合素材とする事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_27_1" alt="オッドアイズ・フュージョン" title="オッドアイズ・フュージョン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12007">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・ペルソナ・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・ペルソナ・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 2400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							1
+						</span>
+						<span class="box_card_pen_effect">
+							①：自分フィールドの「オッドアイズ」Pモンスター１体を対象とした相手の効果が発動した場合、そのターンのエンドフェイズに発動する。Pゾーンのこのカードを特殊召喚し、自分のエクストラデッキから「オッドアイズ・ペルソナ・ドラゴン」以外の表側表示の「オッドアイズ」Pモンスター１体を選び、自分のPゾーンに置く。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：１ターンに１度、エクストラデッキから特殊召喚された表側表示モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。この効果は相手ターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_28_1" alt="オッドアイズ・ペルソナ・ドラゴン" title="オッドアイズ・ペルソナ・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12480">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・ペンデュラム・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・ペンデュラム・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							4
+						</span>
+						<span class="box_card_pen_effect">
+							このカード名の①②のP効果はそれぞれ１ターンに１度しか使用できない。①：自分のPモンスターの戦闘で発生する自分への戦闘ダメージを０にできる。②：自分エンドフェイズに発動できる。このカードを破壊し、デッキから攻撃力１５００以下のPモンスター１体を手札に加える。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが相手モンスターとの戦闘で相手に与える戦闘ダメージは倍になる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_29_1" alt="オッドアイズ・ペンデュラム・ドラゴン" title="オッドアイズ・ペンデュラム・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11213">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・ボルテックス・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・ボルテックス・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							融合
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 3000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「オッドアイズ」モンスター＋Pモンスター<br>「オッドアイズ・ボルテックス・ドラゴン」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した時、相手フィールドの表側攻撃表示モンスター１体を対象として発動できる。そのモンスターを持ち主の手札に戻す。②：このカード以外のモンスターの効果・魔法・罠カードが発動した時に発動できる。自分のエクストラデッキから表側表示のPモンスター１体をデッキに戻し、その発動を無効にし破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_30_1" alt="オッドアイズ・ボルテックス・ドラゴン" title="オッドアイズ・ボルテックス・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11989">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・ミラージュ・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・ミラージュ・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分フィールドの表側表示の「オッドアイズ」Pモンスターが戦闘・効果で破壊された場合に発動できる。自分のPゾーンのカード１枚を選んで破壊し、自分のエクストラデッキから「オッドアイズ・ミラージュ・ドラゴン」以外の表側表示の「オッドアイズ」Pモンスター１体を選び、自分のPゾーンに置く。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「オッドアイズ・ミラージュ・ドラゴン」のモンスター効果は１ターンに１度しか使用できない。①：自分のPゾーンに「オッドアイズ」カードが存在する場合、自分フィールドの「オッドアイズ」モンスター１体を対象として発動できる。そのモンスターはこのターンに１度だけ戦闘・効果では破壊されない。この効果は相手ターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_31_1" alt="オッドアイズ・ミラージュ・ドラゴン" title="オッドアイズ・ミラージュ・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12481">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・メテオバースト・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・メテオバースト・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>「オッドアイズ・メテオバースト・ドラゴン」の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した時、自分のPゾーンのカード１枚を対象として発動できる。そのカードを特殊召喚する。このターン、このカードは攻撃できない。②：このカードがモンスターゾーンに存在する限り、相手はバトルフェイズ中にモンスターの効果を発動できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_32_1" alt="オッドアイズ・メテオバースト・ドラゴン" title="オッドアイズ・メテオバースト・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11941">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>オッドアイズ・ランサー・ドラゴン</span>
+						<span class="card_status">
+						<strong>オッドアイズ・ランサー・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドのPモンスターが戦闘・効果で破壊された場合、自分フィールドのモンスター１体をリリースして発動できる。このカードを手札から特殊召喚する。②：このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。③：自分フィールドの「オッドアイズ」カードが戦闘・効果で破壊される場合、代わりに自分の手札・モンスターゾーン・Pゾーンの「オッドアイズ」カード１枚を破壊できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_33_1" alt="オッドアイズ・ランサー・ドラゴン" title="オッドアイズ・ランサー・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13126">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>きぼうのまじゅつし</span>
+						<span class="card_status">
+						<strong>希望の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分または相手のモンスターの攻撃宣言時に発動できる。その攻撃を無効にする。その後、このカードを破壊する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル４モンスター×２<br>レベル４がP召喚可能な場合にEXデッキの表側表示のこのカードはP召喚できる。このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードのX素材を１つ取り除いて発動できる。手札からレベル７以下のPモンスター１体を効果を無効にして守備表示で特殊召喚する。その後、表側表示のこのカードを自分のPゾーンに置く事ができる。②：このカードがP召喚に成功した場合、自分の墓地のPモンスター１体を対象として発動できる。そのモンスターをこのカードの下に重ねてX素材とする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_34_1" alt="希望の魔術師" title="希望の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13840">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>きょくげいのまじゅつし</span>
+						<span class="card_status">
+						<strong>曲芸の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 2300</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							2
+						</span>
+						<span class="box_card_pen_effect">
+							「曲芸の魔術師」のP効果は１ターンに１度しか使用できない。①：自分フィールドのモンスターが効果で破壊された時に発動できる。Pゾーンのこのカードを特殊召喚する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：魔法・罠カードの発動が無効になった場合に発動できる。このカードを手札から特殊召喚する。②：このカードが戦闘で破壊された時に発動できる。このカードを自分のPゾーンに置く。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_35_1" alt="曲芸の魔術師" title="曲芸の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12408">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>きりゅうのまじゅつし</span>
+						<span class="card_status">
+						<strong>貴竜の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 700</span>
+						
+						
+							<span class="def_power">守備力 1400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							5
+						</span>
+						<span class="box_card_pen_effect">
+							①：もう片方の自分のPゾーンに「魔術師」カードが存在しない場合にこのカードは破壊される。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードをS素材とする場合、ドラゴン族モンスターのS召喚にしか使用できず、他のS素材に「オッドアイズ」モンスター以外のモンスターを使用した場合、このカードを持ち主のデッキの一番下に戻す。①：このカードが手札・墓地に存在する場合、自分フィールドのレベル７以上の「オッドアイズ」モンスター１体を対象として発動できる。そのモンスターのレベルを３つ下げ、このカードを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_36_1" alt="貴竜の魔術師" title="貴竜の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11936">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>けいがんのまじゅつし</span>
+						<span class="card_status">
+						<strong>慧眼の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1500</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							5
+						</span>
+						<span class="box_card_pen_effect">
+							①：もう片方の自分のPゾーンに「魔術師」カードまたは「EM」カードが存在する場合に発動できる。このカードを破壊し、デッキから「慧眼の魔術師」以外の「魔術師」Pモンスター１体を選び、自分のPゾーンに置く。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードを手札から捨て、自分のPゾーンの、Pスケールが元々の数値と異なるカード１枚を対象として発動できる。そのカードのPスケールはターン終了時まで元々の数値になる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_37_1" alt="慧眼の魔術師" title="慧眼の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11784">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>こうさいのまじゅつし</span>
+						<span class="card_status">
+						<strong>虹彩の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1500</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分フィールドの魔法使い族・闇属性モンスター１体を対象として発動できる。このターンそのモンスターが相手モンスターとの戦闘で相手に与える戦闘ダメージは倍になる。その後、このカードを破壊する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードはルール上「ペンデュラム・ドラゴン」カードとしても扱う。①：このカードが戦闘・効果で破壊された場合に発動できる。デッキから「ペンデュラムグラフ」カード１枚を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_38_1" alt="虹彩の魔術師" title="虹彩の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12908">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>こうりゅうのまじゅつし</span>
+						<span class="card_status">
+						<strong>降竜の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2400</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							2
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの種族は相手ターン終了時までドラゴン族になる。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：１ターンに１度、自分メインフェイズに発動できる。このカードの種族はターン終了時までドラゴン族になる。②：フィールドのこのカードを素材として融合・S・X召喚したモンスターは以下の効果を得る。●このカードがドラゴン族モンスターと戦闘を行うダメージステップの間、このカードの攻撃力は元々の攻撃力の倍になる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_39_1" alt="降竜の魔術師" title="降竜の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12736">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>こくがのまじゅつし</span>
+						<span class="card_status">
+						<strong>黒牙の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1700</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力をターン終了時まで半分にする。その後、このカードを破壊する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードはルール上「エクシーズ・ドラゴン」カードとしても扱う。①：このカードが戦闘・効果で破壊された場合、自分の墓地の魔法使い族・闇属性モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_40_1" alt="黒牙の魔術師" title="黒牙の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12909">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>こっけんのまじゅつし</span>
+						<span class="card_status">
+						<strong>刻剣の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1400</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							2
+						</span>
+						<span class="box_card_pen_effect">
+							①：このカードがPゾーンに存在する限り、１ターンに１度、自分フィールドのPモンスターは相手の効果では破壊されない。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：手札のこのカードのみがP召喚に成功した時に発動できる。このカードの攻撃力は元々の攻撃力の倍になる。②：１ターンに１度、フィールドのモンスター１体を対象として発動できる。そのモンスターとフィールドのこのカードを次の自分スタンバイフェイズまで除外する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_41_1" alt="刻剣の魔術師" title="刻剣の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12110">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>しどくのまじゅつし</span>
+						<span class="card_status">
+						<strong>紫毒の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 2100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							1
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分の魔法使い族・闇属性モンスターが戦闘を行うダメージ計算前に発動できる。そのモンスターの攻撃力はダメージステップ終了時まで１２００アップする。その後、このカードを破壊する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードはルール上「フュージョン・ドラゴン」カードとしても扱う。①：このカードが戦闘・効果で破壊された場合、フィールドの表側表示のカード１枚を対象として発動できる。そのカードを破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_42_1" alt="紫毒の魔術師" title="紫毒の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12911">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>じくうのペンデュラムグラフ</span>
+						<span class="card_status">
+						<strong>時空のペンデュラムグラフ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「時空のペンデュラムグラフ」の②の効果は１ターンに１度しか使用できない。①：このカードが魔法＆罠ゾーンに存在する限り、自分フィールドの魔法使い族モンスターを相手は罠カードの効果の対象にできない。②：自分のモンスターゾーン・Pゾーンの「魔術師」Pモンスターカード１枚と相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。この効果でカードを２枚破壊できなかった場合、フィールドのカード１枚を選んで墓地へ送る事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_43_1" alt="時空のペンデュラムグラフ" title="時空のペンデュラムグラフ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12913">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいこくのまじゅつし</span>
+						<span class="card_status">
+						<strong>星刻の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2400</span>
+						
+						
+							<span class="def_power">守備力 1200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル４「魔術師」Pモンスター×２<br>このカードは上記のカードをX素材にしたX召喚でのみエクストラデッキから特殊召喚できる。①：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。自分のデッキ・墓地のモンスター及び自分のエクストラデッキの表側表示のPモンスターの中から、魔法使い族・闇属性モンスター１体を選んで手札に加える。②：１ターンに１度、自分のモンスターゾーン・PゾーンのPモンスターカードが戦闘・効果で破壊される場合、代わりに自分のデッキから魔法使い族モンスター１体を墓地へ送る事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_44_1" alt="星刻の魔術師" title="星刻の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12914">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいそうのペンデュラムグラフ</span>
+						<span class="card_status">
+						<strong>星霜のペンデュラムグラフ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「星霜のペンデュラムグラフ」の②の効果は１ターンに１度しか使用できない。①：このカードが魔法＆罠ゾーンに存在する限り、自分フィールドの魔法使い族モンスターを相手は魔法カードの効果の対象にできない。②：表側表示の「魔術師」Pモンスターカードが自分のモンスターゾーン・Pゾーンから離れた場合に発動する。デッキから「魔術師」Pモンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_45_1" alt="星霜のペンデュラムグラフ" title="星霜のペンデュラムグラフ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12912">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せんりゅうのまじゅつし</span>
+						<span class="card_status">
+						<strong>賤竜の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2100</span>
+						
+						
+							<span class="def_power">守備力 1400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							2
+						</span>
+						<span class="box_card_pen_effect">
+							「賤竜の魔術師」のP効果は１ターンに１度しか使用できない。①：もう片方の自分のPゾーンに「魔術師」カードが存在する場合に発動できる。自分のエクストラデッキの表側表示の、「賤竜の魔術師」以外の「魔術師」Pモンスターまたは「オッドアイズ」Pモンスター１体を選んで手札に加える。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「賤竜の魔術師」のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、自分の墓地の、「賤竜の魔術師」以外の「魔術師」Pモンスターまたは「オッドアイズ」モンスター１体を対象として発動できる。そのモンスターを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_46_1" alt="賤竜の魔術師" title="賤竜の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11937">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>そうこくのまじゅつし</span>
+						<span class="card_status">
+						<strong>相克の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							3
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分フィールドのXモンスター１体を対象として発動できる。このターンそのXモンスターは、そのランクと同じ数値のレベルのモンスターとしてX召喚の素材にできる。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：１ターンに１度、フィールドの光属性モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。この効果は相手ターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_47_1" alt="相克の魔術師" title="相克の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11787">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>そうじょうのまじゅつし</span>
+						<span class="card_status">
+						<strong>相生の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 500</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分フィールドの、Xモンスター１体とレベル５以上のモンスター１体を対象として発動できる。そのXモンスターのランクはターン終了時まで、そのレベル５以上のモンスターのレベルの数値と同じになる。②：自分フィールドのカードが相手フィールドより多い場合、このカードのPスケールは４になる。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードの戦闘で発生する相手への戦闘ダメージは０になる。②：１ターンに１度、このカード以外の自分フィールドのモンスター１体を対象として発動できる。このカードの攻撃力はターン終了時までそのモンスターと同じになる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_48_1" alt="相生の魔術師" title="相生の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11788">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ちょうげんのまじゅつし</span>
+						<span class="card_status">
+						<strong>調弦の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							①：このカードがPゾーンに存在する限り、自分フィールドのモンスターの攻撃力・守備力は、自分のEXデッキの表側表示の「魔術師」Pモンスターの種類×１００アップする。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードはEXデッキからの特殊召喚はできず、このカードを融合・S・X召喚の素材とする場合、他の素材は全て「魔術師」Pモンスターでなければならない。このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが手札からのP召喚に成功した時に発動できる。デッキから「調弦の魔術師」以外の「魔術師」Pモンスター１体を守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、フィールドから離れた場合に除外される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_49_1" alt="調弦の魔術師" title="調弦の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12855">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ちょうてんしんりゅうオッドアイズ・レボリューション・ドラゴン</span>
+						<span class="card_status">
+						<strong>超天新龍オッドアイズ・レボリューション・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 12</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							特殊召喚
+						  
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 ?</span>
+						
+						
+							<span class="def_power">守備力 ?</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							12
+						</span>
+						<span class="box_card_pen_effect">
+							①：自分はドラゴン族モンスターしかＰ召喚できない。この効果は無効化されない。②：自分の墓地のドラゴン族の融合・Ｓ・Ｘモンスター１体を対象として発動できる。このカードを破壊し、そのモンスターを特殊召喚する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードは通常召喚できない。手札からのP召喚、または自分フィールドのドラゴン族の融合・S・Xモンスターを１体ずつリリースした場合のみ特殊召喚できる。①：このカードを手札から捨て、５００LPを払って発動できる。デッキからレベル８以下のドラゴン族Pモンスター１体を手札に加える。②：このカードの攻撃力・守備力は相手のLPの半分の数値分アップする。③：１ターンに１度、LPを半分払って発動できる。このカード以外のお互いのフィールド・墓地のカードを全て持ち主のデッキに戻す。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_50_1" alt="超天新龍オッドアイズ・レボリューション・ドラゴン" title="超天新龍オッドアイズ・レボリューション・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13462">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ちょうりつのまじゅつし</span>
+						<span class="card_status">
+						<strong>調律の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「調律の魔術師」の①の効果は１ターンに１度しか使用できない。①：このカードが手札・墓地に存在し、自分のPゾーンに「魔術師」カードが２枚存在する場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。②：このカードが召喚・特殊召喚に成功した場合に発動する。相手は４００LP回復し、その後自分は４００ダメージを受ける。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_51_1" alt="調律の魔術師" title="調律の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12109">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>てんくうのこうさい</span>
+						<span class="card_status">
+						<strong>天空の虹彩</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_field.png" alt="フィールド" title="フィールド">
+							<span>フィールド</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「天空の虹彩」の②の効果は１ターンに１度しか使用できない。①：このカードがフィールドゾーンに存在する限り、自分のPゾーンの、「魔術師」カード、「EM」カード、「オッドアイズ」カードは相手の効果の対象にならない。②：このカード以外の自分フィールドの表側表示のカード１枚を対象として発動できる。そのカードを破壊し、デッキから「オッドアイズ」カード１枚を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_52_1" alt="天空の虹彩" title="天空の虹彩" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11939">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ときよみのまじゅつし</span>
+						<span class="card_status">
+						<strong>時読みの魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							自分フィールドにモンスターが存在しない場合にこのカードを発動できる。①：自分のPモンスターが戦闘を行う場合、相手はダメージステップ終了時まで罠カードを発動できない。②：もう片方の自分のPゾーンに「魔術師」カードまたは「オッドアイズ」カードが存在しない場合、このカードのPスケールは４になる。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードがモンスターゾーンに存在する限り、１ターンに１度、自分のPゾーンのカードは相手の効果では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_53_1" alt="時読みの魔術師" title="時読みの魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11135">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>はおうけんりゅうオッドアイズ</span>
+						<span class="card_status">
+						<strong>覇王眷竜オッドアイズ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							4
+						</span>
+						<span class="box_card_pen_effect">
+							①：自分フィールドの「覇王眷竜」モンスター１体をリリースして発動できる。このカードを破壊し、デッキから攻撃力１５００以下のPモンスター１体を手札に加える。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分フィールドの「覇王眷竜」モンスター２体をリリースして発動できる。このカードを手札から特殊召喚する。②：自分のPモンスターが相手モンスターと戦闘を行う場合、相手に与える戦闘ダメージは倍になる。③：自分・相手のバトルフェイズにこのカードをリリースして発動できる。自分のEXデッキの表側表示のPモンスターの中から、「覇王眷竜オッドアイズ」以外の「覇王眷竜」モンスターまたは「覇王門」モンスターを合計２体まで選んで守備表示で特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_54_1" alt="覇王眷竜オッドアイズ" title="覇王眷竜オッドアイズ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13054">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>はおうこくりゅうオッドアイズ・リベリオン・ドラゴン</span>
+						<span class="card_status">
+						<strong>覇王黒竜オッドアイズ・リベリオン・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 7</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							4
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、もう片方の自分のPゾーンにカードが存在しない場合に発動できる。デッキからPモンスター１体を選び、自分のPゾーンに置く。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						ドラゴン族レベル７モンスター×２<br>レベル７がP召喚可能な場合にEXデッキの表側表示のこのカードはP召喚できる。①：このカードがXモンスターを素材としてX召喚に成功した場合に発動する。相手フィールドのレベル７以下のモンスターを全て破壊し、破壊した数×１０００ダメージを相手に与える。このターン、このカードは１度のバトルフェイズ中に３回攻撃できる。②：モンスターゾーンのこのカードが戦闘・効果で破壊された場合に発動できる。自分のPゾーンのカードを全て破壊し、このカードを自分のPゾーンに置く。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_55_1" alt="覇王黒竜オッドアイズ・リベリオン・ドラゴン" title="覇王黒竜オッドアイズ・リベリオン・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11835">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>はおうこくりゅうオッドアイズ・リベリオン・ドラゴン－オーバーロード</span>
+						<span class="card_status">
+						<strong>覇王黒竜オッドアイズ・リベリオン・ドラゴン－オーバーロード</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 7</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							4
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分メインフェイズに発動できる。Pゾーンのこのカードを特殊召喚し、「リベリオン」モンスターまたは「幻影騎士団」モンスター１体をこのカードの上に重ねてX召喚扱いとしてEXデッキから特殊召喚する。その後、自分のPゾーンのカード１枚を選んでそのモンスターの下に重ねてX素材にできる。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル７モンスター×２<br>自分は「覇王黒竜オッドアイズ・リベリオン・ドラゴン－オーバーロード」を１ターンに１度しか特殊召喚できない。このカードは自分フィールドの「リベリオン」Xモンスターの上に重ねてX召喚する事もでき、レベル７がP召喚可能な場合にEXデッキの表側表示のこのカードはP召喚できる。①：ランク７のXモンスターを素材としてX召喚したこのカードは１度のバトルフェイズ中に３回攻撃できる。②：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のPゾーンに置く。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_56_1" alt="覇王黒竜オッドアイズ・リベリオン・ドラゴン－オーバーロード" title="覇王黒竜オッドアイズ・リベリオン・ドラゴン－オーバーロード" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14960">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>はおうしりゅうオッドアイズ・ヴェノム・ドラゴン</span>
+						<span class="card_status">
+						<strong>覇王紫竜オッドアイズ・ヴェノム・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 10</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							融合
+						  
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3300</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							1
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分フィールドの融合モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、相手フィールドのモンスターの数×１０００アップする。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「スターヴ・ヴェノム」モンスター＋「オッドアイズ」モンスター<br>このカードは融合召喚及びP召喚でのみ特殊召喚できる。①：１ターンに１度、相手フィールドの表側表示モンスター１体を対象として発動できる。エンドフェイズまで、このカードの攻撃力はそのモンスターの攻撃力分アップし、このカードはそのモンスターと同じ、元々のカード名・効果を得る。②：モンスターゾーンのこのカードが破壊された場合に発動できる。自分のPゾーンのカード１枚を選んで特殊召喚し、このカードを自分のPゾーンに置く。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_57_1" alt="覇王紫竜オッドアイズ・ヴェノム・ドラゴン" title="覇王紫竜オッドアイズ・ヴェノム・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13131">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>はおうはくりゅうオッドアイズ・ウィング・ドラゴン</span>
+						<span class="card_status">
+						<strong>覇王白竜オッドアイズ・ウィング・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							10
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分のモンスターが相手モンスターと戦闘を行うダメージ計算前に発動できる。その自分のモンスターの攻撃力はそのダメージステップ終了時まで、その相手モンスターの攻撃力分アップする。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						闇属性チューナー＋チューナー以外の「クリアウィング」モンスター１体<br>このカード名の①②のモンスター効果は１ターンに１度、いずれか１つしか使用できない。①：相手フィールドの効果モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。②：S召喚したこのカードが存在する場合、お互いのバトルフェイズに発動できる。相手フィールドのレベル５以上のモンスターを全て破壊する。③：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のPゾーンに置く。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_58_1" alt="覇王白竜オッドアイズ・ウィング・ドラゴン" title="覇王白竜オッドアイズ・ウィング・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13122">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>はおうれつりゅうオッドアイズ・レイジング・ドラゴン</span>
+						<span class="card_status">
+						<strong>覇王烈竜オッドアイズ・レイジング・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 7</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							1
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、もう片方の自分のPゾーンにカードが存在しない場合に発動できる。デッキからPモンスター１体を選び、自分のPゾーンに置く。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						ドラゴン族レベル７モンスター×２<br>レベル７がP召喚可能な場合にエクストラデッキの表側表示のこのカードはP召喚できる。①：Xモンスターを素材としてX召喚したこのカードは以下の効果を得る。●このカードは１度のバトルフェイズ中に２回攻撃できる。●１ターンに１度、このカードのX素材を１つ取り除いて発動できる。相手フィールドのカードを全て破壊し、このカードの攻撃力はターン終了時まで、破壊したカードの数×２００アップする。②：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のPゾーンに置く。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_59_1" alt="覇王烈竜オッドアイズ・レイジング・ドラゴン" title="覇王烈竜オッドアイズ・レイジング・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12783">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>はくよくのまじゅつし</span>
+						<span class="card_status">
+						<strong>白翼の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 1400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							1
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、自分フィールドの魔法使い族・闇属性モンスターを対象として発動した効果を無効にできる。その後、このカードを破壊する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカードはルール上「シンクロ・ドラゴン」カードとしても扱う。P召喚したこのカードは、S召喚に使用された場合に除外される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_60_1" alt="白翼の魔術師" title="白翼の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12910">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ペンデュラム・コール</span>
+						<span class="card_status">
+						<strong>ペンデュラム・コール</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「ペンデュラム・コール」は１ターンに１枚しか発動できず、「魔術師」PモンスターのP効果を発動したターンには発動できない。①：手札を１枚捨てて発動できる。カード名が異なる「魔術師」Pモンスター２体をデッキから手札に加える。このカードの発動後、次の相手ターン終了時まで自分のPゾーンの「魔術師」カードは効果では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_61_1" alt="ペンデュラム・コール" title="ペンデュラム・コール" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11940">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ほうがんのまじゅつし</span>
+						<span class="card_status">
+						<strong>法眼の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							2
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、手札のPモンスター１体を相手に見せ、自分のPゾーンの「魔術師」カード１枚を対象として発動できる。その「魔術師」カードのPスケールはターン終了時まで、見せたPモンスターのPスケールと同じになる。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このターンにP召喚したこのカードがモンスターゾーンに存在する限り、自分フィールドの「魔術師」Pモンスターは相手の効果では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_62_1" alt="法眼の魔術師" title="法眼の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11933">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>りゅうけつのまじゅつし</span>
+						<span class="card_status">
+						<strong>竜穴の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_water.png" alt="水属性" title="水属性">
+							<span>水属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							通常
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 900</span>
+						
+						
+							<span class="def_power">守備力 2700</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							8
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、もう片方の自分のPゾーンに「魔術師」カードが存在する場合、手札のPモンスター１体を捨て、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						若くして竜の魂を呼び覚ます神通力を体得した天才魔術師。その寡黙でストイックな魔術への姿勢から人付き合いは苦手だが、弟子の「竜脈の魔術師」にいつも振り回され、調子を狂わされている。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_63_1" alt="竜穴の魔術師" title="竜穴の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11935">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>りゅうみゃくのまじゅつし</span>
+						<span class="card_status">
+						<strong>竜脈の魔術師</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_earth.png" alt="地属性" title="地属性">
+							<span>地属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							ペンデュラム
+						  
+						  
+							／
+							通常
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 900</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_pen_info">
+						<span class="box_card_pen_scale">
+							<img class="icon_img" src="external/image/parts/icon_pendulum.png" alt="ペンデュラムスケール" title="ペンデュラムスケール">
+							1
+						</span>
+						<span class="box_card_pen_effect">
+							①：１ターンに１度、もう片方の自分のPゾーンに「魔術師」カードが存在する場合、手札のPモンスター１体を捨て、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターを破壊する。
+						</span>
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						元気だけが取り得の駆け出しの少年魔術師。実は無意識のうちに大地に眠る竜の魂を知覚する能力を有しており、まだ半人前ながらその資質の高さには師匠の「竜穴の魔術師」も一目置いている。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_64_1" alt="竜脈の魔術師" title="竜脈の魔術師" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11934">
+			</li>
+		  
+		</ul><!--.box_list-->
+	</div><!--.list_style-->
+
+	<div class="page_num">
+		<span>
+			
+			
+			  
+				<a class="nowpage">1</a>
+			  
+			  
+			
+			
+		</span>
+	</div>
+
+
+
+
+
+
+
+
+	
+
+			<script type="text/javascript">
+			<!--
+
+			$(function(){
+
+				
+				$('#keyword[value=]').css('color', '#bbb').val('キーワードを入力');
+				$('#keyword').focus(function(){
+					if ($(this).val() == 'キーワードを入力') {
+						$(this).val('').css('color', '#555');
+					}
+				}).blur(function(){
+					if ($(this).val() == ''){
+						$(this).css('color', '#bbb').val('キーワードを入力');
+					}
+					if ($(this).val() != 'キーワードを入力') {
+						$(this).css('color', '#555');
+					}
+				});
+
+
+				
+				$('.search_box_tips').hover(
+					function(e){
+
+						if (($(this).closest('.search_body').css('opacity') != 1)) {
+							return false;
+						}
+
+						var tips_txt = $(this).attr('alt');
+						$(this).after('<span id="search_box_tips"><span></span></span>');
+						$('#search_box_tips span').text(tips_txt);
+
+						var offset = $(this).offset();
+						var pos_x = offset.left - 30;
+						var pos_y = offset.top - 34;
+
+						$('#search_box_tips').css({
+							'position': 'absolute',
+							'top': pos_y,
+							'left': pos_x,
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) right bottom no-repeat',
+							'height': '35px',
+							'padding-right': '4px'
+						});
+
+						$('#search_box_tips span').css({
+							'display': 'inline-block',
+							'background': 'url(external/image/parts/search_box_tips_bk.png) left top no-repeat',
+							'line-height': '23px',
+							'height': '35px',
+							'padding': '0 5px 0 20px',
+							'font-weight': 'bold',
+							'font-size': '12px',
+							'color': '#6a3807'
+						});
+					},
+					function(e){
+						if ($(this).closest('.search_body').css('opacity') != 1) {
+							return false;
+						}
+						$('#search_box_tips').remove();
+					}
+				);
+
+				
+				$('.attreffe, .species, .other, .jogai').click(function(){
+					if ($(this).hasClass('button_off')) {
+						$(this).addClass('button_on').removeClass('button_off');
+						$(':checkbox', this).prop('checked', true);
+					} else {
+						$(this).addClass('button_off').removeClass('button_on');
+						$(':checkbox', this).prop('checked', false);
+					}
+				});
+				
+				$('.othercon_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.othercon_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.othercon_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('.link_left').click(function(){
+					if ($(this).hasClass('radio_off_left')) {
+						$(this).addClass('radio_on_left').removeClass('radio_off_left');
+						$(':radio', this).prop('checked', true);
+						$($(this).next()).addClass('radio_off_right').removeClass('radio_on_right');
+						$(':radio', $(this).next()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_right img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+				$('.link_right').click(function(){
+					if ($(this).hasClass('radio_off_right')) {
+						$(this).addClass('radio_on_right').removeClass('radio_off_right');
+						$(':radio', this).prop('checked', true);
+						$($(this).prev()).addClass('radio_off_left').removeClass('radio_on_left');
+						$(':radio', $(this).prev()).prop('checked', false);
+						$('img', this).attr('src', 'external/image/parts/check_on.png');
+						$('.link_left img').attr('src', 'external/image/parts/check_off.png');
+					}
+				});
+
+				
+				$('#condition_toggle').click(function(){
+					$('#search_by_attack_and_defense_and_level, #search_by_attribute, #search_by_effect, #search_by_species, #search_by_other, #search_by_jogai').toggle();
+				});
+
+				
+				$('#form_search input:text').keypress(function(e){
+					if (e.keyCode == 13) {
+						Search();
+					}
+				});
+
+			});
+
+			
+			function ChangeCtype(value, label) {
+				switch (value) {
+
+				case '':
+				case '1':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', false);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					if (value == '') {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					} else {
+						$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					break;
+
+				case '2':
+				case '3':
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').find(':input').prop('disabled', true);
+					$('#search_by_attack_and_defense_and_level .search_body #search_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_attribute .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_attribute .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_effect .search_body .search_body_set').find(':input').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', false);
+					$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 1.0).find('img').fadeTo(0, 1.0);
+
+					$('#search_by_species .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_species .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_other .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_other .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					$('#search_by_jogai .search_body .search_body_set').find(':input').prop('disabled', true);
+					$('#search_by_jogai .search_body .search_body_set').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+
+					if (value == '2') {
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox[value=21]').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					} else {
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').prop('disabled', true);
+						$('#search_by_effect .search_body .search_body_set input:checkbox:not([value=20],[value=21],[value=24])').closest('a').fadeTo(0, 0.2).find('img').fadeTo(0, 0.2);
+					}
+
+					break;
+
+				default:
+					break;
+				}
+			}
+
+			
+			function Search() {
+				if ($('#keyword').css('color') == '#bbb' || $('#keyword').css('color') == 'rgb(187, 187, 187)') {
+					$('#keyword').val('');
+				}
+				$('#form_search').get(0).submit();
+			}
+
+			//-->
+			</script>
+
+			<form id="form_search" action="/yugiohdb/card_search.action" method="GET">
+				<input type="hidden" name="ope" value="1">
+				<input type="hidden" name="sess" value="1">
+
+				<div id="search_box">
+
+					<div id="search_by_keyword_and_type" style="padding:5px 8px;">
+						<table style="width:100%;">
+							<col width="36">
+							<col width="325">
+							<col width="249">
+							<col width="176">
+							<col width="*">
+							<tr valign="middle">
+								<td>
+									<img src="external/image/parts/icon_search.png" alt="Search">
+								</td>
+								<td valign="top">
+									<input type="text" id="keyword" name="keyword" style="width:300px;" maxlength="50">
+								</td>
+								<td valign="top">
+									<select id="stype" name="stype" style="width:218px;">
+										<option value="1">カード名で検索</option>
+										<option value="2">カードテキストで検索</option>
+										<option value="3">ペンデュラム効果で検索</option>
+										<option value="4">カードNoで検索</option>
+									</select>
+								</td>
+								<td valign="top">
+									<select id="ctype" name="ctype" style="width:145px;">
+										<option value="">すべてのカード</option>
+
+										<option value="1">モンスターカード</option>
+
+										<option value="2">魔法カード</option>
+
+										<option value="3">罠カード</option>
+
+									</select>
+								</td>
+								<td>
+									<a href="javascript:Search();" class="black_btn"><b>検　索</b></a>
+								</td>
+							</tr>
+						</table>
+					</div>
+
+					<div id="condition_toggle">
+						さらに条件を絞って検索
+					</div><!--#condition_toggle-->
+
+					<div id="search_by_attack_and_defense_and_level" class="none">
+						<div class="search_body" style="border-bottom:solid 1px #414a56;padding-bottom: 5px;">
+							<div id="search_set">
+								<div class="search_l">
+									<div class="search_top">
+										<span id="level_rank_title">
+											<b>レベル／ランク</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="0から13までのレベルあるいはランクを絞り込みます">
+										</span>
+										<span id="level_rank_input">
+											<input type="text" id="starfr" name="starfr" maxlength="2">
+											<input type="text" id="starto" name="starto" maxlength="2">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="pen_scale_title">
+											<b>ペンデュラム</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="ペンデュラムスケールで絞り込みます">
+										</span>
+										<span id="pen_scale_input">
+											<input type="text" id="pscalefr" name="pscalefr" maxlength="2">
+											<input type="text" id="pscaleto" name="pscaleto" maxlength="2">
+										</span>
+									</div>
+								</div>
+								<div class="search_m">
+									<div class="search_m_l">
+										<div class="search_top">
+											<span id="link_title">
+												<b>リンク</b>
+												<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="リンクを数値またはマーカーの位置で絞り込みます。">
+											</span>
+										</div>
+										<div class="search_bottom">
+											<span id="link_input">
+												<input type="text" id="linkmarkerfr" name="linkmarkerfr" maxlength="2">
+												<input type="text" id="linkmarkerto" name="linkmarkerto" maxlength="2">
+											</span>
+										</div>
+									</div>
+									<div class="search_m_r">
+										<div class="link_m_set">
+											<form>
+												<input type="checkbox" id="linkbtn7" name="linkbtn7" value="7"><label class="linkbtn7" for="linkbtn7"></label>
+												<input type="checkbox" id="linkbtn8" name="linkbtn8" value="8"><label class="linkbtn8" for="linkbtn8"></label>
+												<input type="checkbox" id="linkbtn9" name="linkbtn9" value="9"><label class="linkbtn9" for="linkbtn9"></label>
+												<input type="checkbox" id="linkbtn4" name="linkbtn4" value="4"><label class="linkbtn4" for="linkbtn4"></label>
+												<input type="checkbox" id="linkbtn6" name="linkbtn6" value="6"><label class="linkbtn6" for="linkbtn6"></label>
+												<input type="checkbox" id="linkbtn1" name="linkbtn1" value="1"><label class="linkbtn1" for="linkbtn1"></label>
+												<input type="checkbox" id="linkbtn2" name="linkbtn2" value="2"><label class="linkbtn2" for="linkbtn2"></label>
+												<input type="checkbox" id="linkbtn3" name="linkbtn3" value="3"><label class="linkbtn3" for="linkbtn3"></label>
+											</form>
+										</div>
+										<div id="and_or2">
+											<a href="javascript:void(0);" class="link_left radio_off_left">
+												<img alt="">
+												<b>and</b>
+												<input type="radio" id="link_and" name="link_m" value="1" class="none">
+											</a>
+											<a href="javascript:void(0);" class="link_right radio_off_right" style="">
+												<img alt="">
+												<b>or</b>
+												<input type="radio" id="link_or"  name="link_m" value="2" class="none">
+											</a>
+										</div>
+									</div>
+								</div>
+								<div class="search_r">
+									<div class="search_top">
+										<span id="attack_title">
+											<b>攻撃力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="攻撃力で絞り込みます、最大は5000です">
+										</span>
+										<span id="attack_input">
+											<input type="text" id="atkfr" name="atkfr" maxlength="4">
+											<input type="text" id="atkto" name="atkto" maxlength="4">
+										</span>
+									</div>
+									<div class="search_bottom">
+										<span id="defense_title">
+											<b>守備力</b>
+											<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="守備力で絞り込みます、最大は5000です">
+										</span>
+										<span id="defense_input">
+											<input type="text" id="deffr" name="deffr" maxlength="4">
+											<input type="text" id="defto" name="defto" maxlength="4">
+										</span>
+									</div>
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attack_and_defense_and_level-->
+
+
+					<div id="search_by_attribute" style="margin-bottom:-7px;border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>属性</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい属性を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_dark.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												闇属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_light.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												光属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_earth.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												地属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_water.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												水属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_fire.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												炎属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_wind.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												風属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off">
+		
+										<div style="background:url(external/image/parts/attribute/attribute_icon_divine.png) 1px 2px no-repeat;">
+											<span style="padding-left:18px;">
+												神属性
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="attr" class="none" value="17">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_attribute-->
+
+
+
+					<div id="search_by_effect" style="border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body" style="padding-top: 2px;">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>効果</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい効果を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_1_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_equip.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												装備
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_2_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_field.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												フィールド
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_3_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_quickplay.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												速攻
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="25">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_4_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_ritual.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												儀式
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_5_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_continuous.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												永続
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="24">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_6_ja">
+		
+										<div style="background:url(external/image/parts/effect/effect_icon_counter.png) 1px 2px no-repeat">
+											<span style="padding-left:18px;">
+												カウンター
+											</span>
+										</div>
+		
+		
+										<input type="checkbox" name="effe" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="attreffe button_off effect_7_ja">
+		
+		
+										<span style="padding-left:18px;">
+											通常
+										</span>
+		
+										<input type="checkbox" name="effe" class="none" value="20">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_effect-->
+
+
+
+					<div id="search_by_species" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>種族</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたい種族を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="species button_off species_1_ja">
+										魔法使い族
+										<input type="checkbox" name="species" class="none" value="18">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_2_ja">
+										ドラゴン族
+										<input type="checkbox" name="species" class="none" value="1">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_3_ja">
+										アンデット族
+										<input type="checkbox" name="species" class="none" value="2">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_4_ja">
+										戦士族
+										<input type="checkbox" name="species" class="none" value="15">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_5_ja">
+										獣戦士族
+										<input type="checkbox" name="species" class="none" value="12">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_6_ja">
+										獣族
+										<input type="checkbox" name="species" class="none" value="11">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_7_ja">
+										鳥獣族
+										<input type="checkbox" name="species" class="none" value="16">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_8_ja">
+										悪魔族
+										<input type="checkbox" name="species" class="none" value="3">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_9_ja">
+										天使族
+										<input type="checkbox" name="species" class="none" value="17">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_10_ja">
+										昆虫族
+										<input type="checkbox" name="species" class="none" value="10">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_11_ja">
+										恐竜族
+										<input type="checkbox" name="species" class="none" value="9">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_12_ja">
+										爬虫類族
+										<input type="checkbox" name="species" class="none" value="20">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_13_ja">
+										魚族
+										<input type="checkbox" name="species" class="none" value="8">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_14_ja">
+										海竜族
+										<input type="checkbox" name="species" class="none" value="5">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_15_ja">
+										水族
+										<input type="checkbox" name="species" class="none" value="14">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_16_ja">
+										炎族
+										<input type="checkbox" name="species" class="none" value="4">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_17_ja">
+										雷族
+										<input type="checkbox" name="species" class="none" value="19">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_18_ja">
+										岩石族
+										<input type="checkbox" name="species" class="none" value="6">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_19_ja">
+										植物族
+										<input type="checkbox" name="species" class="none" value="13">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_20_ja">
+										機械族
+										<input type="checkbox" name="species" class="none" value="7">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_21_ja">
+										サイキック族
+										<input type="checkbox" name="species" class="none" value="21">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_22_ja">
+										幻神獣族
+										<input type="checkbox" name="species" class="none" value="22">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_23_ja">
+										創造神族
+										<input type="checkbox" name="species" class="none" value="23">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_24_ja">
+										幻竜族
+										<input type="checkbox" name="species" class="none" value="26">
+									</a>
+	
+									<a href="javascript:void(0);" class="species button_off species_25_ja">
+										サイバース族
+										<input type="checkbox" name="species" class="none" value="27">
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_species-->
+
+
+
+					<div id="search_by_other" style="border-top:solid 1px #90a6b0;border-bottom:solid 1px #414a56;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>その他項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="絞り込みたいその他の項目を選択してください、AndあるいはOrで絞り込みます">
+									<div id="and_or">
+										<a href="javascript:void(0);" class="othercon_left radio_off_left">
+											<img alt="">
+											<b>and</b>
+											<input type="radio" id="othercon_and" name="othercon" value="1" class="none">
+										</a>
+										<a href="javascript:void(0);" class="othercon_right radio_off_right" style="padding-left:5px;">
+											<img alt="">
+											<b>or</b>
+											<input type="radio" id="othercon_or"  name="othercon" value="2" class="none">
+										</a>
+									</div>
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="other button_off">
+										<input type="checkbox" name="other" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_other-->
+
+
+
+					<div id="search_by_jogai" style="border-top:solid 1px #90a6b0;" class="none">
+						<div class="search_body">
+							<div class="search_body_set">
+								<div class="search_title">
+									<b>除外項目</b>
+									<img src="external/image/parts/search_box_tips_icon.png" class="search_box_tips" alt="除外したい項目を選択してください">
+								</div>
+								<div class="search_btn">
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="0">
+										通常
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="1">
+										効果
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="3">
+										儀式
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="2">
+										融合
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="9">
+										シンクロ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="10">
+										エクシーズ
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="4">
+										トゥーン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="5">
+										スピリット
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="6">
+										ユニオン
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="7">
+										デュアル
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="8">
+										チューナー
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="14">
+										リバース
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="15">
+										ペンデュラム
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="16">
+										特殊召喚
+									</a>
+	
+									<a href="javascript:void(0);" class="jogai button_off">
+										<input type="checkbox" name="jogai" class="none" value="17">
+										リンク
+									</a>
+	
+								</div>
+							</div>
+						</div><!--.search_body-->
+					</div><!--#search_by_jogai-->
+
+
+				</div><!--#search_box-->
+
+			</form><!--#form_search-->
+
+
+		</div><!--#article_body-->
+	</article>
+
+
+
+
+
+
+	<div id="cdb_link_set"><a class="link_ocg" href="//www.yugioh-card.com/japan/" target="_blank">遊戯王公式サイト</a> <a class="link_neuron" href="//www.konami.com/yugioh/neuron/ja/" target="_blank">遊戯王ニューロン</a> <a class="link_cgn" href="//cardgame-network.konami.net/" target="_blank">KONAMI CARD GAME NETWORK</a> <a class="link_kst" href="http://www.konamistyle.jp/" target="_blank">コナミスタイル</a> <a class="link_kfs" href="https://www.konami.com/games/card/friendly_shop/" target="_blank">コナミ フレンドリーショップ</a> <a class="link_rushdb" href="https://www.db.yugioh-card.com/rushdb/" target="_blank">遊戯王ラッシュデュエルカードデータベース</a> </div>
+
+	<footer id="footer">
+		<div id="content_copyright">&copy;スタジオ・ダイス／集英社・テレビ東京・KONAMI</div>
+		<div id="footer_meta">
+			<nav>
+				<ul>
+					<li><a href="http://www.yugioh-card.com/japan/support/" target="_blank">お問い合わせ</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://www.konami.com/siteinfo/ja/" target="_blank">サイトポリシー</a></li><!--
+				 --><li>|</li><!--
+				 --><li><a href="https://legal.konami.com/games/privacy/ja/" target="_blank">個人情報等保護方針</a></li><!--
+				 --><li>|</li><!--
+				 --><li></li>
+				</ul>
+			</nav>
+			<small>&copy;2021 Konami Digital Entertainment</small>
+		</div>
+	</footer>
+</div><!--wrapper-->
+<noscript>JavaScript を有効にしてください</noscript>
+
+</body>
+</html>
+

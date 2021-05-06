@@ -19,8 +19,9 @@ process.chdir(__dirname + "/");
 
 const urls = [];
 const result = [];
+const page_number = 100;
 
-for(let i=1; i<=5; i++){
+for(let i=1; i<=page_number; i++){
   urls.push(url+i);
 }
 
