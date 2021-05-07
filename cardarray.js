@@ -30,9 +30,10 @@ fs.readFile("cardlist.out","utf8").then(data=>{
       const url = urls.shift() + suffix;
       options.url = url;
       return request(options).then(data=>{
-        const imageurls = data.split("\r\n").filter(v=>/'#card_image_[0-9]+'/.test(v) ).map(v=>domain + v.split("'")[5] );
-        result.push(imageurls);
+        //const imageurls = data.split("\r\n").filter(v=>/'#card_image_[0-9]+'/.test(v) ).map(v=>domain + v.split("'")[5] );
+        //result.push(imageurls);
         const cid = url.split("&")[1].replace("cid=","");
+        result.push(cid);
         return fs.writeFile(`card/${cid}.txt`, data).then(()=>{
           return new Promise(resolve=>{
             setTimeout(()=>{promise().then(data=>resolve(data) ) }, 1000 ) 
@@ -43,9 +44,19 @@ fs.readFile("cardlist.out","utf8").then(data=>{
   }
   return promise()
 }).then(data=>{
-  const imageurls = Array.from(new Set(data.flat() ) );
-  return fs.writeFile("imagelist.out", JSON.stringify(imageurls) )
-})
+  const cids = Array.from(new Set(data.flat() ) );
+  const promises = cids.map(cid=>fs.readFile(`card/${cid}.txt`,"utf8").then(data=>{
+    const title = data.split("\r\n").filter(v=>/<title>/.test(v)).map(v=>v.split("|")[0].replace("<title>","").replace("\t","") )[0];
+    return [title]
+  }));
+  promises.push(new Promise(resolve=>resolve(cids) ) );
+  return Promise.all(promises)
+}).then(data=>{
+  const cids = data.pop();
+  const titles = data;
+  const array = cids.map((v,i,s)=>[v,titles[i] ]);
+  fs.writeFile("cardarray.out",JSON.stringify(array))
+});
 
 /*
 
