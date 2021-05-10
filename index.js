@@ -30,18 +30,18 @@ return fs.readFile("deckarray.out", {encoding:"utf8"} ).then(data=>{
   //console.log(opponent);
   const izondo = opponent.map((t,i,s)=>{
     const bunsi = t_deck.filter(v=>v.includes(t) ).length;
-    return [t,bunsi/bunbo]
+    return [t,bunsi/bunbo,bunbo]
   });
   const hi_izondo = opponent.map((t,i,s)=>{
     const tt_deck = deckarray.filter(v=>v.includes(t) );
     const bunbo2 = tt_deck.length;
     const bunsi2 = tt_deck.filter(v=>v.includes(target)).length;
-    return [t,bunsi2/bunbo2]
+    return [t,bunsi2/bunbo2,bunbo2]
   });
   const sougo_izondo = izondo.map((t,i,s)=>{
-    return [t[0], t[1]+hi_izondo[i][1],t[1],hi_izondo[i][1], hi_izondo[i][0] ]
+    return [t[0], t[1]+hi_izondo[i][1], t[1], hi_izondo[i][1], t[2], hi_izondo[i][2] ]
   });
-  const sorted_sougo_izondo = sougo_izondo.sort((a,b)=>b[1]-a[1] ).map(v=>[`https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=${v[0]}&request_locale=ja`,v[1],v[2],v[3] ]);
+  const sorted_sougo_izondo = sougo_izondo.sort((a,b)=>b[1]-a[1] ).map(v=>[`https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=${v[0]}&request_locale=ja`,v[1],v[2],v[3],v[4],v[5] ]);
 
   //console.log(izondo);
   //console.log(hi_izondo);
