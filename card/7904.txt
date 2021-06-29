@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ブラック・ガーデン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ブラック・ガーデン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7904%26request_locale%3Dja%26a%3D202105071352"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7904%26request_locale%3Dja%26a%3D202105071352"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7904%26request_locale%3Dja%26a%3D202106241038"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7904%26request_locale%3Dja%26a%3D202106241038"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,7 +151,15 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14175&ciid=1&enc=4XnPBNXwVD0x4TuE2bZNcw').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15997&ciid=1&enc=aHUPjy_C291KA6K_EqyvSQ').show();
+			
+		
+			
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14175&ciid=1&enc=4XnPBNXwVD0x4TuE2bZNcw').show();
+			
+		
+			
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14179&ciid=1&enc=iDiFTV2N7_3zq_XIXQV29g').show();
 			
 		
 
@@ -398,14 +406,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7904%26request_locale%3Dja%26a%3D202105071352&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7904%26request_locale%3Dja%26a%3D202106241038&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7904&request_locale=ja&a=202105071352" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7904&request_locale=ja&a=202106241038" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7904&request_locale=ja&a=202105071352"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7904&request_locale=ja&a=202106241038"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -571,7 +579,7 @@
 						<div>
 							<strong>
 
-								検索結果 1件中 1～1件を表示
+								検索結果 3件中 1～3件を表示
 							</strong>
 						</div>
 					</div>
@@ -584,6 +592,80 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ガーデン・ローズ・フローラ</span>
+						<span class="card_status">
+						<strong>ガーデン・ローズ・フローラ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							植物族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上 <br>このカード名の①の効果は１ターンに１度しか使用できない。①：フィールドのフィールド魔法カード１枚を対象として発動できる。そのカードを破壊する。その後、そのコントローラーのフィールドに「ローズ・トークン」（植物族・闇・星２・攻／守８００）１体を攻撃表示で特殊召喚する。このターン、自分はSモンスターしかEXデッキから特殊召喚できない。②：相手メインフェイズに発動できる。このカードを含む自分フィールドのモンスターを素材としてS召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="ガーデン・ローズ・フローラ" title="ガーデン・ローズ・フローラ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15997">
+			</li>
 		  
 			<li>
 				<dl>
@@ -649,11 +731,54 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="ガーデン・ローズ・メイデン" title="ガーデン・ローズ・メイデン" class="none">
+						<img id="card_image_1_1" alt="ガーデン・ローズ・メイデン" title="ガーデン・ローズ・メイデン" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14175">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブルーミング・ローズ</span>
+						<span class="card_status">
+						<strong>漆黒の薔薇の開華</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できない。①：お互いのフィールドゾーンのカード及び墓地のフィールド魔法カードの数まで、自分・相手フィールドに「ローズ・トークン」（植物族・闇・星２・攻／守８００）を守備表示で特殊召喚する。②：このカードが墓地に存在する場合、自分フィールドの、「ブラック・ローズ・ドラゴン」または植物族モンスター１体を対象として発動できる。そのモンスターを除外し、このカードをデッキの一番下に戻す。この効果で除外したモンスターは次のスタンバイフェイズにフィールドに戻る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="漆黒の薔薇の開華" title="漆黒の薔薇の開華" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14179">
 			</li>
 		  
 		</ul><!--.box_list-->

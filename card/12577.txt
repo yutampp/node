@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="クリボーン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「クリボーン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202105071445"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202105071445"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202106241132"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202106241132"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,55 +151,75 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14384&ciid=1&enc=AohwnKBH55wnE3KBPrEkhQ').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16636&ciid=1&enc=7bhIAGUrIQHqbdYbtt1D1g').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14341&ciid=1&enc=gxY3fz4TR0ye9ncUNCHOhA').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14384&ciid=1&enc=AohwnKBH55wnE3KBPrEkhQ').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12399&ciid=1&enc=pZ8QDWn7dy83AmaAFz6c6g').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14341&ciid=1&enc=gxY3fz4TR0ye9ncUNCHOhA').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4064&ciid=1&enc=yjPdaxj4htz7g_H9r96C1w').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12399&ciid=1&enc=pZ8QDWn7dy83AmaAFz6c6g').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11964&ciid=1&enc=qB8kCLxBDMN7sNoC4qcmtQ').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16397&ciid=1&enc=UhhLlNiOy39HC6u2C16-uQ').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6636&ciid=1&enc=UAqUo-UnEMr7BzKpePfuJQ').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16398&ciid=1&enc=IrVT4afW_SUZpkKXjNCgcA').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12089&ciid=1&enc=pzaCXDUm2BXs6HK8rs-b2Q').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16399&ciid=1&enc=aj-a93eq5S5Nxx7-RQ19pg').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12256&ciid=1&enc=q5Jxc23ibkSHdUEn3VZqUw').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16400&ciid=1&enc=Q7I2FWniXg7rrjnUL-BqQA').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10890&ciid=1&enc=TiCz98JQTQ2dGmHjN3u_Yw').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4064&ciid=1&enc=yjPdaxj4htz7g_H9r96C1w').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6314&ciid=1&enc=yAheYagnpDSy08nLk36AAQ').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11964&ciid=1&enc=qB8kCLxBDMN7sNoC4qcmtQ').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6406&ciid=1&enc=5jXQ_Pbv_ivfoobhWAMiwg').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6636&ciid=1&enc=UAqUo-UnEMr7BzKpePfuJQ').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7526&ciid=1&enc=GNImH8nAyXLIPdknttyQBA').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12089&ciid=1&enc=pzaCXDUm2BXs6HK8rs-b2Q').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13346&ciid=1&enc=KnlFKd1U2-WZMRyoWcTcug').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12256&ciid=1&enc=q5Jxc23ibkSHdUEn3VZqUw').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10890&ciid=1&enc=TiCz98JQTQ2dGmHjN3u_Yw').show();
+			
+		
+			
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6314&ciid=1&enc=yAheYagnpDSy08nLk36AAQ').show();
+			
+		
+			
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6406&ciid=1&enc=5jXQ_Pbv_ivfoobhWAMiwg').show();
+			
+		
+			
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7526&ciid=1&enc=GNImH8nAyXLIPdknttyQBA').show();
+			
+		
+			
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13346&ciid=1&enc=KnlFKd1U2-WZMRyoWcTcug').show();
 			
 		
 
@@ -518,14 +538,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202105071445&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202106241132&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12577&request_locale=ja&a=202105071445" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12577&request_locale=ja&a=202106241132" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12577&request_locale=ja&a=202105071445"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12577&request_locale=ja&a=202106241132"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -649,7 +669,7 @@
 						<div>
 							<strong>
 
-								検索結果 13件中 1～13件を表示
+								検索結果 18件中 1～18件を表示
 							</strong>
 						</div>
 					</div>
@@ -662,6 +682,74 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アストラル・クリボー</span>
+						<span class="card_status">
+						<strong>アストラル・クリボー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							悪魔族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の効果は１ターンに１度しか使用できない。①：EXデッキの「No.」Xモンスター１体を相手に見せて発動できる。このカードを手札から特殊召喚する。このカードのレベルは見せたモンスターのランクの数値と同じになる。この効果で特殊召喚したこのカードがモンスターゾーンに表側表示で存在する限り、自分は「No.」XモンスターしかEXデッキから特殊召喚できない。②：フィールドのこのカードを素材としてX召喚した「No.」モンスターは以下の効果を得る。●このカードは戦闘及び相手の効果では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="アストラル・クリボー" title="アストラル・クリボー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16636">
+			</li>
 		  
 			<li>
 				<dl>
@@ -724,7 +812,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="アンクリボー" title="アンクリボー" class="none">
+						<img id="card_image_1_1" alt="アンクリボー" title="アンクリボー" class="none">
 					  
 					</dd>
 				</dl>
@@ -792,7 +880,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="EMクリボーダー" title="EMクリボーダー" class="none">
+						<img id="card_image_2_1" alt="EMクリボーダー" title="EMクリボーダー" class="none">
 					  
 					</dd>
 				</dl>
@@ -860,11 +948,283 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="クリアクリボー" title="クリアクリボー" class="none">
+						<img id="card_image_3_1" alt="クリアクリボー" title="クリアクリボー" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12399">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>クリバー</span>
+						<span class="card_status">
+						<strong>クリバー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							悪魔族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 300</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「クリボー」カードとしても扱う。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードまたは自分の「クリボー」モンスターが戦闘で破壊された時に発動できる。デッキから「クリバー」以外の攻撃力３００／守備力２００のモンスター１体を特殊召喚する。②：フィールドのこのカードと自分の手札・フィールドの「クリビー」「クリブー」「クリベー」「クリボー」を１体ずつリリースして発動できる。自分の手札・デッキ・墓地から「クリバビロン」１体を選んで特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_4_1" alt="クリバー" title="クリバー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16397">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>クリビー</span>
+						<span class="card_status">
+						<strong>クリビー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							悪魔族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 300</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「クリボー」カードとしても扱う。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードまたは自分の「クリボー」モンスターが戦闘で破壊された時に発動できる。デッキから「クリボー」のカード名が記された魔法・罠カード１枚を手札に加える。②：１ターンに１度、自分フィールドに他の「クリボー」モンスターが存在する場合、相手モンスターの攻撃宣言時に発動できる。このカード以外の自分フィールドの全てのモンスターの攻撃力をターン終了時まで０にし、その攻撃を無効にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="クリビー" title="クリビー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16398">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>クリブー</span>
+						<span class="card_status">
+						<strong>クリブー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							悪魔族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 300</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「クリボー」カードとしても扱う。①：相手モンスターの攻撃宣言時にこのカードを手札から捨てて発動できる。デッキから「クリブー」以外の「クリボー」モンスター１体を手札に加える。②：１ターンに１度、手札から罠カード１枚を捨て、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで１５００ダウンする。この効果は相手ターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="クリブー" title="クリブー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16399">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>クリベー</span>
+						<span class="card_status">
+						<strong>クリベー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							悪魔族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 300</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「クリボー」カードとしても扱う。①：このカードを手札から捨て、自分フィールドの「クリボー」モンスター１体を対象として発動できる。そのモンスターの攻撃力は１５００アップする。この効果は相手ターンでも発動できる。②：フィールドのこのカードと自分の手札・フィールドの「クリバー」「クリビー」「クリブー」「クリボー」を１体ずつリリースして発動できる。自分のデッキ・墓地から「クリバンデット」１体を選んで手札に加える。その後、手札から悪魔族モンスター１体を召喚できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="クリベー" title="クリベー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16400">
 			</li>
 		  
 			<li>
@@ -928,7 +1288,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="クリボー" title="クリボー" class="none">
+						<img id="card_image_8_1" alt="クリボー" title="クリボー" class="none">
 					  
 					</dd>
 				</dl>
@@ -996,7 +1356,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="クリボール" title="クリボール" class="none">
+						<img id="card_image_9_1" alt="クリボール" title="クリボール" class="none">
 					  
 					</dd>
 				</dl>
@@ -1044,7 +1404,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="クリボーを呼ぶ笛" title="クリボーを呼ぶ笛" class="none">
+						<img id="card_image_10_1" alt="クリボーを呼ぶ笛" title="クリボーを呼ぶ笛" class="none">
 					  
 					</dd>
 				</dl>
@@ -1112,7 +1472,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="サクリボー" title="サクリボー" class="none">
+						<img id="card_image_11_1" alt="サクリボー" title="サクリボー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1180,7 +1540,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="ジャンクリボー" title="ジャンクリボー" class="none">
+						<img id="card_image_12_1" alt="ジャンクリボー" title="ジャンクリボー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1248,7 +1608,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="虹クリボー" title="虹クリボー" class="none">
+						<img id="card_image_13_1" alt="虹クリボー" title="虹クリボー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1316,7 +1676,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ハネクリボー" title="ハネクリボー" class="none">
+						<img id="card_image_14_1" alt="ハネクリボー" title="ハネクリボー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1387,7 +1747,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="ハネクリボー LV１０" title="ハネクリボー LV１０" class="none">
+						<img id="card_image_15_1" alt="ハネクリボー LV１０" title="ハネクリボー LV１０" class="none">
 					  
 					</dd>
 				</dl>
@@ -1455,7 +1815,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="ハネクリボー LV９" title="ハネクリボー LV９" class="none">
+						<img id="card_image_16_1" alt="ハネクリボー LV９" title="ハネクリボー LV９" class="none">
 					  
 					</dd>
 				</dl>
@@ -1523,7 +1883,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="リンクリボー" title="リンクリボー" class="none">
+						<img id="card_image_17_1" alt="リンクリボー" title="リンクリボー" class="none">
 					  
 					</dd>
 				</dl>

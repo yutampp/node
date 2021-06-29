@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="サテライト・ウォリアー | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「サテライト・ウォリアー」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14915%26request_locale%3Dja%26a%3D202105071515"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14915%26request_locale%3Dja%26a%3D202105071515"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14915%26request_locale%3Dja%26a%3D202106241203"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14915%26request_locale%3Dja%26a%3D202106241203"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -447,107 +447,107 @@
 			
 		
 			
-				$('#card_image_74_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8006&ciid=1&enc=ugrx7SwqEZ52bNVo75zytg').show();
+				$('#card_image_74_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16385&ciid=1&enc=uDErW8ciFOW3pYxkeFL33w').show();
 			
 		
 			
-				$('#card_image_75_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9565&ciid=1&enc=qD33JX6ndIsopOb5kd_1UQ').show();
+				$('#card_image_75_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8006&ciid=1&enc=ugrx7SwqEZ52bNVo75zytg').show();
 			
 		
 			
-				$('#card_image_76_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8607&ciid=1&enc=IOQdzuoFKQrDO4gWhtvnxQ').show();
+				$('#card_image_76_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9565&ciid=1&enc=qD33JX6ndIsopOb5kd_1UQ').show();
 			
 		
 			
-				$('#card_image_77_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9237&ciid=1&enc=ElN-dYtDjR5XtUy_w4CiNw').show();
+				$('#card_image_77_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8607&ciid=1&enc=IOQdzuoFKQrDO4gWhtvnxQ').show();
 			
 		
 			
-				$('#card_image_78_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9118&ciid=1&enc=CLtNbxFyYvmQa8WssIil6A').show();
+				$('#card_image_78_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9237&ciid=1&enc=ElN-dYtDjR5XtUy_w4CiNw').show();
 			
 		
 			
-				$('#card_image_79_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9198&ciid=1&enc=GpvnezywYlDqAZdhIdI0dA').show();
+				$('#card_image_79_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9118&ciid=1&enc=CLtNbxFyYvmQa8WssIil6A').show();
 			
 		
 			
-				$('#card_image_80_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9236&ciid=1&enc=NmV3OcqebzAbyn_t3amI-A').show();
+				$('#card_image_80_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9198&ciid=1&enc=GpvnezywYlDqAZdhIdI0dA').show();
 			
 		
 			
-				$('#card_image_81_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7528&ciid=1&enc=fdyfP2XpFAOEiTerj1VD5Q').show();
+				$('#card_image_81_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9236&ciid=1&enc=NmV3OcqebzAbyn_t3amI-A').show();
 			
 		
 			
-				$('#card_image_82_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9234&ciid=1&enc=fS9RlSfjqYn2D015GTOijQ').show();
+				$('#card_image_82_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7528&ciid=1&enc=fdyfP2XpFAOEiTerj1VD5Q').show();
 			
 		
 			
-				$('#card_image_83_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8775&ciid=1&enc=GDurkC31JsaxYMEBQhfm9Q').show();
+				$('#card_image_83_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9234&ciid=1&enc=fS9RlSfjqYn2D015GTOijQ').show();
 			
 		
 			
-				$('#card_image_84_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4744&ciid=1&enc=ETXEwlj73VBLcoFYC-4qiw').show();
+				$('#card_image_84_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8775&ciid=1&enc=GDurkC31JsaxYMEBQhfm9Q').show();
 			
 		
 			
-				$('#card_image_85_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4792&ciid=1&enc=1-d7Of62T3_w50z3kI-ieA').show();
+				$('#card_image_85_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4744&ciid=1&enc=ETXEwlj73VBLcoFYC-4qiw').show();
 			
 		
 			
-				$('#card_image_86_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12735&ciid=1&enc=-zy-BoX0K5V4oH6HxwaZhA').show();
+				$('#card_image_86_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4792&ciid=1&enc=1-d7Of62T3_w50z3kI-ieA').show();
 			
 		
 			
-				$('#card_image_87_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4763&ciid=1&enc=H36lrNnBSkT2br-TbNpmYw').show();
+				$('#card_image_87_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12735&ciid=1&enc=-zy-BoX0K5V4oH6HxwaZhA').show();
 			
 		
 			
-				$('#card_image_88_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8438&ciid=1&enc=bqh5Rlnj8Dd8s5lp92UY4Q').show();
+				$('#card_image_88_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4763&ciid=1&enc=H36lrNnBSkT2br-TbNpmYw').show();
 			
 		
 			
-				$('#card_image_89_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7985&ciid=1&enc=aKKIi5H8BT4i6hYlKjwpWg').show();
+				$('#card_image_89_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8438&ciid=1&enc=bqh5Rlnj8Dd8s5lp92UY4Q').show();
 			
 		
 			
-				$('#card_image_90_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10309&ciid=1&enc=jQsOzP09ZKuvBzXDDPKyeg').show();
+				$('#card_image_90_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7985&ciid=1&enc=aKKIi5H8BT4i6hYlKjwpWg').show();
 			
 		
 			
-				$('#card_image_91_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8736&ciid=1&enc=2jSMJmY7t1PwOCkV4HO7tQ').show();
+				$('#card_image_91_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10309&ciid=1&enc=jQsOzP09ZKuvBzXDDPKyeg').show();
 			
 		
 			
-				$('#card_image_92_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7593&ciid=1&enc=dKsczo-RDVwUjhDp-ZeYiQ').show();
+				$('#card_image_92_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8736&ciid=1&enc=2jSMJmY7t1PwOCkV4HO7tQ').show();
 			
 		
 			
-				$('#card_image_93_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8901&ciid=1&enc=RxWvbu1MAN80KYwR9DdvEw').show();
+				$('#card_image_93_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7593&ciid=1&enc=dKsczo-RDVwUjhDp-ZeYiQ').show();
 			
 		
 			
-				$('#card_image_94_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11621&ciid=1&enc=xLmbWXuYm7wkSvERos7dmg').show();
+				$('#card_image_94_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8901&ciid=1&enc=RxWvbu1MAN80KYwR9DdvEw').show();
 			
 		
 			
-				$('#card_image_95_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8861&ciid=1&enc=PSEBoq7iUjEjwlp-BLF_gg').show();
+				$('#card_image_95_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11621&ciid=1&enc=xLmbWXuYm7wkSvERos7dmg').show();
 			
 		
 			
-				$('#card_image_96_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9083&ciid=1&enc=Yj-UqZg3b6-bE6A1IhoPDg').show();
+				$('#card_image_96_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8861&ciid=1&enc=PSEBoq7iUjEjwlp-BLF_gg').show();
 			
 		
 			
-				$('#card_image_97_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8155&ciid=1&enc=wAfuAeIb__kQNOhOH76Xdg').show();
+				$('#card_image_97_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9083&ciid=1&enc=Yj-UqZg3b6-bE6A1IhoPDg').show();
 			
 		
 			
-				$('#card_image_98_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8154&ciid=1&enc=cJFQhqy6Tvcx5d60pfHx2g').show();
+				$('#card_image_98_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8155&ciid=1&enc=wAfuAeIb__kQNOhOH76Xdg').show();
 			
 		
 			
-				$('#card_image_99_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7679&ciid=1&enc=9UDM8Cws7XGIEkeuAoV9fA').show();
+				$('#card_image_99_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8154&ciid=1&enc=cJFQhqy6Tvcx5d60pfHx2g').show();
 			
 		
 
@@ -871,14 +871,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14915%26request_locale%3Dja%26a%3D202105071515&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14915%26request_locale%3Dja%26a%3D202106241203&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14915&request_locale=ja&a=202105071515" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14915&request_locale=ja&a=202106241203" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14915&request_locale=ja&a=202105071515"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14915&request_locale=ja&a=202106241203"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -1002,7 +1002,7 @@
 						<div>
 							<strong>
 
-								検索結果 101件中 1～100件を表示
+								検索結果 102件中 1～100件を表示
 							</strong>
 						</div>
 					</div>
@@ -6054,6 +6054,77 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ネクロ・シンクロン</span>
+						<span class="card_status">
+						<strong>ネクロ・シンクロン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 200</span>
+						
+						
+							<span class="def_power">守備力 400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードのカード名は、フィールド・墓地に存在する限り「フルール・シンクロン」として扱う。②：このカード以外の自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターのレベルをターン終了時まで２つ上げる。③：このカードが風属性SモンスターのS素材として墓地へ送られた場合に発動できる。デッキから植物族・レベル１モンスター１体を特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_74_1" alt="ネクロ・シンクロン" title="ネクロ・シンクロン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16385">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ハイパー・シンクロン</span>
 						<span class="card_status">
 						<strong>ハイパー・シンクロン</strong>
@@ -6115,7 +6186,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_74_1" alt="ハイパー・シンクロン" title="ハイパー・シンクロン" class="none">
+						<img id="card_image_75_1" alt="ハイパー・シンクロン" title="ハイパー・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -6183,7 +6254,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_75_1" alt="ハウリング・ウォリアー" title="ハウリング・ウォリアー" class="none">
+						<img id="card_image_76_1" alt="ハウリング・ウォリアー" title="ハウリング・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -6254,7 +6325,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_76_1" alt="バックアップ・ウォリアー" title="バックアップ・ウォリアー" class="none">
+						<img id="card_image_77_1" alt="バックアップ・ウォリアー" title="バックアップ・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -6322,7 +6393,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_77_1" alt="ビッグ・ワン・ウォリアー" title="ビッグ・ワン・ウォリアー" class="none">
+						<img id="card_image_78_1" alt="ビッグ・ワン・ウォリアー" title="ビッグ・ワン・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -6396,7 +6467,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_78_1" alt="フォーミュラ・シンクロン" title="フォーミュラ・シンクロン" class="none">
+						<img id="card_image_79_1" alt="フォーミュラ・シンクロン" title="フォーミュラ・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -6467,7 +6538,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_79_1" alt="フルール・シンクロン" title="フルール・シンクロン" class="none">
+						<img id="card_image_80_1" alt="フルール・シンクロン" title="フルール・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -6538,7 +6609,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_80_1" alt="ブライ・シンクロン" title="ブライ・シンクロン" class="none">
+						<img id="card_image_81_1" alt="ブライ・シンクロン" title="ブライ・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -6606,7 +6677,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_81_1" alt="ブリザード・ウォリアー" title="ブリザード・ウォリアー" class="none">
+						<img id="card_image_82_1" alt="ブリザード・ウォリアー" title="ブリザード・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -6674,7 +6745,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_82_1" alt="ブースト・ウォリアー" title="ブースト・ウォリアー" class="none">
+						<img id="card_image_83_1" alt="ブースト・ウォリアー" title="ブースト・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -6745,7 +6816,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_83_1" alt="マイティ・ウォリアー" title="マイティ・ウォリアー" class="none">
+						<img id="card_image_84_1" alt="マイティ・ウォリアー" title="マイティ・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -6813,7 +6884,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_84_1" alt="磁石の戦士&alpha;" title="磁石の戦士&alpha;" class="none">
+						<img id="card_image_85_1" alt="磁石の戦士&alpha;" title="磁石の戦士&alpha;" class="none">
 					  
 					</dd>
 				</dl>
@@ -6881,7 +6952,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_85_1" alt="磁石の戦士&gamma;" title="磁石の戦士&gamma;" class="none">
+						<img id="card_image_86_1" alt="磁石の戦士&gamma;" title="磁石の戦士&gamma;" class="none">
 					  
 					</dd>
 				</dl>
@@ -6949,7 +7020,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_86_1" alt="磁石の戦士&delta;" title="磁石の戦士&delta;" class="none">
+						<img id="card_image_87_1" alt="磁石の戦士&delta;" title="磁石の戦士&delta;" class="none">
 					  
 					</dd>
 				</dl>
@@ -7017,7 +7088,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_87_1" alt="磁石の戦士&beta;" title="磁石の戦士&beta;" class="none">
+						<img id="card_image_88_1" alt="磁石の戦士&beta;" title="磁石の戦士&beta;" class="none">
 					  
 					</dd>
 				</dl>
@@ -7085,7 +7156,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_88_1" alt="マックス・ウォリアー" title="マックス・ウォリアー" class="none">
+						<img id="card_image_89_1" alt="マックス・ウォリアー" title="マックス・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -7153,7 +7224,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_89_1" alt="マッシブ・ウォリアー" title="マッシブ・ウォリアー" class="none">
+						<img id="card_image_90_1" alt="マッシブ・ウォリアー" title="マッシブ・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -7224,7 +7295,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_90_1" alt="モノ・シンクロン" title="モノ・シンクロン" class="none">
+						<img id="card_image_91_1" alt="モノ・シンクロン" title="モノ・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -7295,7 +7366,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_91_1" alt="ライトニング・ウォリアー" title="ライトニング・ウォリアー" class="none">
+						<img id="card_image_92_1" alt="ライトニング・ウォリアー" title="ライトニング・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -7363,7 +7434,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_92_1" alt="ライトロード・ウォリアー ガロス" title="ライトロード・ウォリアー ガロス" class="none">
+						<img id="card_image_93_1" alt="ライトロード・ウォリアー ガロス" title="ライトロード・ウォリアー ガロス" class="none">
 					  
 					</dd>
 				</dl>
@@ -7431,7 +7502,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_93_1" alt="ラヴァル・ウォリアー" title="ラヴァル・ウォリアー" class="none">
+						<img id="card_image_94_1" alt="ラヴァル・ウォリアー" title="ラヴァル・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -7499,7 +7570,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_94_1" alt="ラッシュ・ウォリアー" title="ラッシュ・ウォリアー" class="none">
+						<img id="card_image_95_1" alt="ラッシュ・ウォリアー" title="ラッシュ・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -7567,7 +7638,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_95_1" alt="ラピッド・ウォリアー" title="ラピッド・ウォリアー" class="none">
+						<img id="card_image_96_1" alt="ラピッド・ウォリアー" title="ラピッド・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -7635,7 +7706,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_96_1" alt="レスキュー・ウォリアー" title="レスキュー・ウォリアー" class="none">
+						<img id="card_image_97_1" alt="レスキュー・ウォリアー" title="レスキュー・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -7703,7 +7774,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_97_1" alt="レベル・ウォリアー" title="レベル・ウォリアー" class="none">
+						<img id="card_image_98_1" alt="レベル・ウォリアー" title="レベル・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -7771,82 +7842,11 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_98_1" alt="ロックストーン・ウォリアー" title="ロックストーン・ウォリアー" class="none">
+						<img id="card_image_99_1" alt="ロックストーン・ウォリアー" title="ロックストーン・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8154">
-			</li>
-		  
-			<li>
-				<dl>
-					<dt class="box_card_name">
-						<span>ロード・ウォリアー</span>
-						<span class="card_status">
-						<strong>ロード・ウォリアー</strong>
-						
-						  
-						
-						
-						</span>
-					</dt>
-					<dd class="box_card_spec">
-					  
-						<span class="box_card_attribute">
-							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
-							<span>光属性</span>
-						</span>
-					  
-					  
-					  
-					  
-					  
-					  
-						<span class="box_card_level_rank level">
-							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
-							<span>レベル 8</span>
-						</span>
-					  
-					  
-					  
-						<span class="card_info_species_and_other_item">
-							【
-							戦士族
-						  
-							／
-							シンクロ
-						  
-						  
-							／
-							効果
-						  
-						  
-							】
-						</span>
-						<span class="atk_power">攻撃力 3000</span>
-						
-						
-							<span class="def_power">守備力 1500</span>
-						
-					  
-					  
-						<span class="blank">&nbsp;</span>
-					  
-					</dd>
-					
-					<dd class="box_card_text">
-					  
-						「ロード・シンクロン」＋チューナー以外のモンスター２体以上<br>①：１ターンに１度、自分メインフェイズに発動できる。デッキからレベル２以下の戦士族・機械族モンスター１体を特殊召喚する。
-					  
-					</dd>
-					<dd class="box_card_img">
-					  
-					  
-						<img id="card_image_99_1" alt="ロード・ウォリアー" title="ロード・ウォリアー" class="none">
-					  
-					</dd>
-				</dl>
-				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=7679">
 			</li>
 		  
 		</ul><!--.box_list-->

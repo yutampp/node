@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ライティ・ドライバー | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ライティ・ドライバー」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8872%26request_locale%3Dja%26a%3D202105071440"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8872%26request_locale%3Dja%26a%3D202105071440"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8872%26request_locale%3Dja%26a%3D202106241127"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8872%26request_locale%3Dja%26a%3D202106241127"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -223,31 +223,35 @@
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8006&ciid=1&enc=ugrx7SwqEZ52bNVo75zytg').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16385&ciid=1&enc=uDErW8ciFOW3pYxkeFL33w').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9118&ciid=1&enc=CLtNbxFyYvmQa8WssIil6A').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8006&ciid=1&enc=ugrx7SwqEZ52bNVo75zytg').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9198&ciid=1&enc=GpvnezywYlDqAZdhIdI0dA').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9118&ciid=1&enc=CLtNbxFyYvmQa8WssIil6A').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9236&ciid=1&enc=NmV3OcqebzAbyn_t3amI-A').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9198&ciid=1&enc=GpvnezywYlDqAZdhIdI0dA').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10309&ciid=1&enc=jQsOzP09ZKuvBzXDDPKyeg').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9236&ciid=1&enc=NmV3OcqebzAbyn_t3amI-A').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9251&ciid=1&enc=qYLqjnVAd1PV3V_76loxIg').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10309&ciid=1&enc=jQsOzP09ZKuvBzXDDPKyeg').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7841&ciid=1&enc=OLdQvcSak9IbywYoDsumaA').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9251&ciid=1&enc=qYLqjnVAd1PV3V_76loxIg').show();
+			
+		
+			
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7841&ciid=1&enc=OLdQvcSak9IbywYoDsumaA').show();
 			
 		
 
@@ -571,14 +575,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8872%26request_locale%3Dja%26a%3D202105071440&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8872%26request_locale%3Dja%26a%3D202106241127&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8872&request_locale=ja&a=202105071440" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8872&request_locale=ja&a=202106241127" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8872&request_locale=ja&a=202105071440"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8872&request_locale=ja&a=202106241127"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -744,7 +748,7 @@
 						<div>
 							<strong>
 
-								検索結果 25件中 1～25件を表示
+								検索結果 26件中 1～26件を表示
 							</strong>
 						</div>
 					</div>
@@ -2021,6 +2025,77 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ネクロ・シンクロン</span>
+						<span class="card_status">
+						<strong>ネクロ・シンクロン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 200</span>
+						
+						
+							<span class="def_power">守備力 400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードのカード名は、フィールド・墓地に存在する限り「フルール・シンクロン」として扱う。②：このカード以外の自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターのレベルをターン終了時まで２つ上げる。③：このカードが風属性SモンスターのS素材として墓地へ送られた場合に発動できる。デッキから植物族・レベル１モンスター１体を特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_18_1" alt="ネクロ・シンクロン" title="ネクロ・シンクロン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16385">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ハイパー・シンクロン</span>
 						<span class="card_status">
 						<strong>ハイパー・シンクロン</strong>
@@ -2082,7 +2157,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="ハイパー・シンクロン" title="ハイパー・シンクロン" class="none">
+						<img id="card_image_19_1" alt="ハイパー・シンクロン" title="ハイパー・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2156,7 +2231,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="フォーミュラ・シンクロン" title="フォーミュラ・シンクロン" class="none">
+						<img id="card_image_20_1" alt="フォーミュラ・シンクロン" title="フォーミュラ・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2227,7 +2302,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="フルール・シンクロン" title="フルール・シンクロン" class="none">
+						<img id="card_image_21_1" alt="フルール・シンクロン" title="フルール・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2298,7 +2373,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="ブライ・シンクロン" title="ブライ・シンクロン" class="none">
+						<img id="card_image_22_1" alt="ブライ・シンクロン" title="ブライ・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2369,7 +2444,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="モノ・シンクロン" title="モノ・シンクロン" class="none">
+						<img id="card_image_23_1" alt="モノ・シンクロン" title="モノ・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2437,7 +2512,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="レフティ・ドライバー" title="レフティ・ドライバー" class="none">
+						<img id="card_image_24_1" alt="レフティ・ドライバー" title="レフティ・ドライバー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2508,7 +2583,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="ロード・シンクロン" title="ロード・シンクロン" class="none">
+						<img id="card_image_25_1" alt="ロード・シンクロン" title="ロード・シンクロン" class="none">
 					  
 					</dd>
 				</dl>

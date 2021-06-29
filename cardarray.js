@@ -46,7 +46,7 @@ fs.readFile("cardlist.out","utf8").then(data=>{
 }).then(data=>{
   const cids = Array.from(new Set(data.flat() ) );
   const promises = cids.map(cid=>fs.readFile(`card/${cid}.txt`,"utf8").then(data=>{
-    const title = data.split("\r\n").filter(v=>/<title>/.test(v)).map(v=>v.split("|")[0].replace("<title>","").replace("\t","") )[0];
+    const title = data.split("\r\n").filter(v=>/<title>/.test(v)).map(v=>v.split("|")[0].replace("<title>","").trim() )[0];
     return [title]
   }));
   promises.push(new Promise(resolve=>resolve(cids) ) );

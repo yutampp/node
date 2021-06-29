@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="CNo.40 ギミック・パペット－デビルズ・ストリングス | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「CNo.40 ギミック・パペット－デビルズ・ストリングス」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11015%26request_locale%3Dja%26a%3D202105071523"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11015%26request_locale%3Dja%26a%3D202105071523"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11015%26request_locale%3Dja%26a%3D202106241210"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11015%26request_locale%3Dja%26a%3D202106241210"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,227 +151,239 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14825&ciid=1&enc=q7mfH5HhyrkpecgYNHK-fg').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16636&ciid=1&enc=7bhIAGUrIQHqbdYbtt1D1g').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16248&ciid=1&enc=kQdXIeD1wy5mOWJT7DxEEg').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14825&ciid=1&enc=q7mfH5HhyrkpecgYNHK-fg').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11133&ciid=1&enc=wlPQjfYnmlyf-X9RObScUg').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16248&ciid=1&enc=kQdXIeD1wy5mOWJT7DxEEg').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10684&ciid=1&enc=HzVuf_e2Xl9tk8eunJbWSA').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11133&ciid=1&enc=wlPQjfYnmlyf-X9RObScUg').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11013&ciid=1&enc=cVFmw9M4aQzE-ehls85AiA').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10684&ciid=1&enc=HzVuf_e2Xl9tk8eunJbWSA').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14348&ciid=1&enc=knCsDBfTqXzXKd2Pg7swjQ').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11013&ciid=1&enc=cVFmw9M4aQzE-ehls85AiA').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14336&ciid=1&enc=vVRdoa-j5ePE_LyOOQUlbw').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14348&ciid=1&enc=knCsDBfTqXzXKd2Pg7swjQ').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10692&ciid=1&enc=yXqpaKtQ4RvZRJKrPOEtQA').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14336&ciid=1&enc=vVRdoa-j5ePE_LyOOQUlbw').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14596&ciid=1&enc=0uKJQ2ut4brSQg91Q8Azpw').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10692&ciid=1&enc=yXqpaKtQ4RvZRJKrPOEtQA').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10694&ciid=1&enc=GBjiUHHiV922pXisqRGAGg').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14596&ciid=1&enc=0uKJQ2ut4brSQg91Q8Azpw').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14597&ciid=1&enc=XP1arirHa6QncQ1RJySjYg').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10694&ciid=1&enc=GBjiUHHiV922pXisqRGAGg').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10829&ciid=1&enc=rmVDC6KhTv0EOOzULPxM4g').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14597&ciid=1&enc=XP1arirHa6QncQ1RJySjYg').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10693&ciid=1&enc=q7x_2a_MUj0Rug0Rnv9WPg').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10829&ciid=1&enc=rmVDC6KhTv0EOOzULPxM4g').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10695&ciid=1&enc=nTGO29FYQVZ8pUWroOE1wQ').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10693&ciid=1&enc=q7x_2a_MUj0Rug0Rnv9WPg').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10447&ciid=1&enc=T2lINQCPjo8fnlkkMn6gog').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10695&ciid=1&enc=nTGO29FYQVZ8pUWroOE1wQ').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11007&ciid=1&enc=12fd-09qGNmP1R5eek8_6g').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10447&ciid=1&enc=T2lINQCPjo8fnlkkMn6gog').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14598&ciid=1&enc=dUdCxGV0eQUWYFvV-h9lCw').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11007&ciid=1&enc=12fd-09qGNmP1R5eek8_6g').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10691&ciid=1&enc=FjHmYi7rpLXMI4T8roaUig').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14598&ciid=1&enc=dUdCxGV0eQUWYFvV-h9lCw').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10448&ciid=1&enc=bXCxxFNbDrKGl1YlDX4AKA').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10691&ciid=1&enc=FjHmYi7rpLXMI4T8roaUig').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14959&ciid=1&enc=ck3dabDlWiq0rgEH-lldaQ').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10448&ciid=1&enc=bXCxxFNbDrKGl1YlDX4AKA').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14674&ciid=1&enc=M4I9kf-62bVIlbdmQ3usDg').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14959&ciid=1&enc=ck3dabDlWiq0rgEH-lldaQ').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10724&ciid=1&enc=7HnHsxPuHuIPCO-EildHIg').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14674&ciid=1&enc=M4I9kf-62bVIlbdmQ3usDg').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14600&ciid=1&enc=bfLIbgakx35J091RHdavkg').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10724&ciid=1&enc=7HnHsxPuHuIPCO-EildHIg').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13828&ciid=1&enc=OFOxZipGOqcxopTYl9nvGw').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14600&ciid=1&enc=bfLIbgakx35J091RHdavkg').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14868&ciid=1&enc=tkDSh_e9QXHbTeJzf6WpnA').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13828&ciid=1&enc=OFOxZipGOqcxopTYl9nvGw').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11932&ciid=1&enc=55K05YE98YHe5dNrFP6vIA').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14868&ciid=1&enc=tkDSh_e9QXHbTeJzf6WpnA').show();
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10828&ciid=1&enc=2yqT5cGzgfKdCDjLkYG7zw').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11932&ciid=1&enc=55K05YE98YHe5dNrFP6vIA').show();
 			
 		
 			
-				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10454&ciid=1&enc=AL1ub_ERo9G2Z_QZci3llw').show();
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10828&ciid=1&enc=2yqT5cGzgfKdCDjLkYG7zw').show();
 			
 		
 			
-				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16028&ciid=1&enc=5c_MrZvY9MrfZvsBmlzbbw').show();
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10454&ciid=1&enc=AL1ub_ERo9G2Z_QZci3llw').show();
 			
 		
 			
-				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11088&ciid=1&enc=B4J7bQVRsy6frYtpY9CC1Q').show();
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16425&ciid=1&enc=Bsvrp3V5SHCBxGjhPwWXfA').show();
 			
 		
 			
-				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10727&ciid=1&enc=v7NeK1IRVuP5bPGfAf23YA').show();
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16028&ciid=1&enc=5c_MrZvY9MrfZvsBmlzbbw').show();
 			
 		
 			
-				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10802&ciid=1&enc=2GGMQ_1qXsTyIjO5E8Oz6g').show();
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16420&ciid=1&enc=ayFQFYBaibrRcb4WmYOtVg').show();
 			
 		
 			
-				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11305&ciid=1&enc=Kw5Z27OWo4xC9cK80Oj8eg').show();
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11088&ciid=1&enc=B4J7bQVRsy6frYtpY9CC1Q').show();
 			
 		
 			
-				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12088&ciid=1&enc=P5UEOiOffvS_M8Ojt9bEmg').show();
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10727&ciid=1&enc=v7NeK1IRVuP5bPGfAf23YA').show();
 			
 		
 			
-				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14566&ciid=1&enc=lRc1on9Q08TpOlXmT939SQ').show();
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10802&ciid=1&enc=2GGMQ_1qXsTyIjO5E8Oz6g').show();
 			
 		
 			
-				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13165&ciid=1&enc=82Rtzx-fB2WUWbF6jqcvTA').show();
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11305&ciid=1&enc=Kw5Z27OWo4xC9cK80Oj8eg').show();
 			
 		
 			
-				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13825&ciid=1&enc=H1w6oNp-9tfgsgigH0DsCA').show();
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12088&ciid=1&enc=P5UEOiOffvS_M8Ojt9bEmg').show();
 			
 		
 			
-				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12549&ciid=1&enc=w1wk8iTRW_uwlq5OGRCaVA').show();
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14566&ciid=1&enc=lRc1on9Q08TpOlXmT939SQ').show();
 			
 		
 			
-				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11295&ciid=1&enc=pOJZ76lrXydX5_GdaJZ-1A').show();
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13165&ciid=1&enc=82Rtzx-fB2WUWbF6jqcvTA').show();
 			
 		
 			
-				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12544&ciid=1&enc=WvLAUW0adpgXs2QTSOVZAg').show();
+				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13825&ciid=1&enc=H1w6oNp-9tfgsgigH0DsCA').show();
 			
 		
 			
-				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10216&ciid=1&enc=mXDaYemh6Oxsk0G_bJmsyw').show();
+				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12549&ciid=1&enc=w1wk8iTRW_uwlq5OGRCaVA').show();
 			
 		
 			
-				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11076&ciid=1&enc=Ts2MU8LGv1I0kTB9vOVm-g').show();
+				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11295&ciid=1&enc=pOJZ76lrXydX5_GdaJZ-1A').show();
 			
 		
 			
-				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10212&ciid=1&enc=d3Le1oK7cBsEi9lQ8b2mqQ').show();
+				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12544&ciid=1&enc=WvLAUW0adpgXs2QTSOVZAg').show();
 			
 		
 			
-				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16050&ciid=1&enc=OYty1mVeXLLzrlKgADi-qA').show();
+				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10216&ciid=1&enc=mXDaYemh6Oxsk0G_bJmsyw').show();
 			
 		
 			
-				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14599&ciid=1&enc=RWh57-8BbLKGp_DyJQjI7Q').show();
+				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11076&ciid=1&enc=Ts2MU8LGv1I0kTB9vOVm-g').show();
 			
 		
 			
-				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10958&ciid=1&enc=cYHJC8b3zr7y2aIjojeRiw').show();
+				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10212&ciid=1&enc=d3Le1oK7cBsEi9lQ8b2mqQ').show();
 			
 		
 			
-				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11413&ciid=1&enc=MAi7IhD5ZVgZXa_sK5Q82A').show();
+				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16050&ciid=1&enc=OYty1mVeXLLzrlKgADi-qA').show();
 			
 		
 			
-				$('#card_image_47_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13017&ciid=1&enc=m_KIwgfnJBMM7YVUZHC19A').show();
+				$('#card_image_47_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14599&ciid=1&enc=RWh57-8BbLKGp_DyJQjI7Q').show();
 			
 		
 			
-				$('#card_image_48_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14958&ciid=1&enc=ojG_-dQNAfZ9i4DElmBBNQ').show();
+				$('#card_image_48_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10958&ciid=1&enc=cYHJC8b3zr7y2aIjojeRiw').show();
 			
 		
 			
-				$('#card_image_49_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11188&ciid=1&enc=yPhaFcZkyZlbb0eySE28gg').show();
+				$('#card_image_49_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11413&ciid=1&enc=MAi7IhD5ZVgZXa_sK5Q82A').show();
 			
 		
 			
-				$('#card_image_50_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11022&ciid=1&enc=SZo8hB2xnkDpS2p4VxTgLg').show();
+				$('#card_image_50_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13017&ciid=1&enc=m_KIwgfnJBMM7YVUZHC19A').show();
 			
 		
 			
-				$('#card_image_51_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11186&ciid=1&enc=WGexPCLHP6GB28ymi-HMAA').show();
+				$('#card_image_51_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14958&ciid=1&enc=ojG_-dQNAfZ9i4DElmBBNQ').show();
 			
 		
 			
-				$('#card_image_52_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10662&ciid=1&enc=Llw7YDGmlv3n7XaL-xq2kQ').show();
+				$('#card_image_52_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11188&ciid=1&enc=yPhaFcZkyZlbb0eySE28gg').show();
 			
 		
 			
-				$('#card_image_53_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10541&ciid=1&enc=_foB4BRJzpA7ss6HCgrMfg').show();
+				$('#card_image_53_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11022&ciid=1&enc=SZo8hB2xnkDpS2p4VxTgLg').show();
 			
 		
 			
-				$('#card_image_54_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10570&ciid=1&enc=yTbFRoz2EMyzdO3ij3r5mg').show();
+				$('#card_image_54_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11186&ciid=1&enc=WGexPCLHP6GB28ymi-HMAA').show();
 			
 		
 			
-				$('#card_image_55_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14883&ciid=1&enc=BPJwNWzaP7dw4ulY9mMgPw').show();
+				$('#card_image_55_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10662&ciid=1&enc=Llw7YDGmlv3n7XaL-xq2kQ').show();
+			
+		
+			
+				$('#card_image_56_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10541&ciid=1&enc=_foB4BRJzpA7ss6HCgrMfg').show();
+			
+		
+			
+				$('#card_image_57_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10570&ciid=1&enc=yTbFRoz2EMyzdO3ij3r5mg').show();
+			
+		
+			
+				$('#card_image_58_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14883&ciid=1&enc=BPJwNWzaP7dw4ulY9mMgPw').show();
 			
 		
 
@@ -695,14 +707,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11015%26request_locale%3Dja%26a%3D202105071523&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11015%26request_locale%3Dja%26a%3D202106241210&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11015&request_locale=ja&a=202105071523" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11015&request_locale=ja&a=202106241210" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11015&request_locale=ja&a=202105071523"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11015&request_locale=ja&a=202106241210"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -868,7 +880,7 @@
 						<div>
 							<strong>
 
-								検索結果 56件中 1～56件を表示
+								検索結果 59件中 1～59件を表示
 							</strong>
 						</div>
 					</div>
@@ -881,6 +893,74 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アストラル・クリボー</span>
+						<span class="card_status">
+						<strong>アストラル・クリボー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							悪魔族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 100</span>
+						
+						
+							<span class="def_power">守備力 100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の効果は１ターンに１度しか使用できない。①：EXデッキの「No.」Xモンスター１体を相手に見せて発動できる。このカードを手札から特殊召喚する。このカードのレベルは見せたモンスターのランクの数値と同じになる。この効果で特殊召喚したこのカードがモンスターゾーンに表側表示で存在する限り、自分は「No.」XモンスターしかEXデッキから特殊召喚できない。②：フィールドのこのカードを素材としてX召喚した「No.」モンスターは以下の効果を得る。●このカードは戦闘及び相手の効果では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="アストラル・クリボー" title="アストラル・クリボー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16636">
+			</li>
 		  
 			<li>
 				<dl>
@@ -943,7 +1023,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="先史遺産トゥスパ・ロケット" title="先史遺産トゥスパ・ロケット" class="none">
+						<img id="card_image_1_1" alt="先史遺産トゥスパ・ロケット" title="先史遺産トゥスパ・ロケット" class="none">
 					  
 					</dd>
 				</dl>
@@ -991,7 +1071,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="先史遺産驚神殿－トリリトン" title="先史遺産驚神殿－トリリトン" class="none">
+						<img id="card_image_2_1" alt="先史遺産驚神殿－トリリトン" title="先史遺産驚神殿－トリリトン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1062,7 +1142,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="CX 冀望皇バリアン" title="CX 冀望皇バリアン" class="none">
+						<img id="card_image_3_1" alt="CX 冀望皇バリアン" title="CX 冀望皇バリアン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1133,7 +1213,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="CNo.106 溶岩掌ジャイアント・ハンド・レッド" title="CNo.106 溶岩掌ジャイアント・ハンド・レッド" class="none">
+						<img id="card_image_4_1" alt="CNo.106 溶岩掌ジャイアント・ハンド・レッド" title="CNo.106 溶岩掌ジャイアント・ハンド・レッド" class="none">
 					  
 					</dd>
 				</dl>
@@ -1204,7 +1284,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="CNo.6 先史遺産カオス・アトランタル" title="CNo.6 先史遺産カオス・アトランタル" class="none">
+						<img id="card_image_5_1" alt="CNo.6 先史遺産カオス・アトランタル" title="CNo.6 先史遺産カオス・アトランタル" class="none">
 					  
 					</dd>
 				</dl>
@@ -1247,7 +1327,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="希望の記憶" title="希望の記憶" class="none">
+						<img id="card_image_6_1" alt="希望の記憶" title="希望の記憶" class="none">
 					  
 					</dd>
 				</dl>
@@ -1315,7 +1395,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="ギミック・パペット－キメラ・ドール" title="ギミック・パペット－キメラ・ドール" class="none">
+						<img id="card_image_7_1" alt="ギミック・パペット－キメラ・ドール" title="ギミック・パペット－キメラ・ドール" class="none">
 					  
 					</dd>
 				</dl>
@@ -1383,7 +1463,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="ギミック・パペット－ギア・チェンジャー" title="ギミック・パペット－ギア・チェンジャー" class="none">
+						<img id="card_image_8_1" alt="ギミック・パペット－ギア・チェンジャー" title="ギミック・パペット－ギア・チェンジャー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1454,7 +1534,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="ギミック・パペット－ギガンテス・ドール" title="ギミック・パペット－ギガンテス・ドール" class="none">
+						<img id="card_image_9_1" alt="ギミック・パペット－ギガンテス・ドール" title="ギミック・パペット－ギガンテス・ドール" class="none">
 					  
 					</dd>
 				</dl>
@@ -1522,7 +1602,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ギミック・パペット－シザー・アーム" title="ギミック・パペット－シザー・アーム" class="none">
+						<img id="card_image_10_1" alt="ギミック・パペット－シザー・アーム" title="ギミック・パペット－シザー・アーム" class="none">
 					  
 					</dd>
 				</dl>
@@ -1590,7 +1670,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="ギミック・パペット－テラー・ベビー" title="ギミック・パペット－テラー・ベビー" class="none">
+						<img id="card_image_11_1" alt="ギミック・パペット－テラー・ベビー" title="ギミック・パペット－テラー・ベビー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1658,7 +1738,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="ギミック・パペット－死の木馬" title="ギミック・パペット－死の木馬" class="none">
+						<img id="card_image_12_1" alt="ギミック・パペット－死の木馬" title="ギミック・パペット－死の木馬" class="none">
 					  
 					</dd>
 				</dl>
@@ -1726,7 +1806,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="ギミック・パペット－ナイト・ジョーカー" title="ギミック・パペット－ナイト・ジョーカー" class="none">
+						<img id="card_image_13_1" alt="ギミック・パペット－ナイト・ジョーカー" title="ギミック・パペット－ナイト・ジョーカー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1794,7 +1874,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="ギミック・パペット－ナイトメア" title="ギミック・パペット－ナイトメア" class="none">
+						<img id="card_image_14_1" alt="ギミック・パペット－ナイトメア" title="ギミック・パペット－ナイトメア" class="none">
 					  
 					</dd>
 				</dl>
@@ -1862,7 +1942,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="ギミック・パペット－ネクロ・ドール" title="ギミック・パペット－ネクロ・ドール" class="none">
+						<img id="card_image_15_1" alt="ギミック・パペット－ネクロ・ドール" title="ギミック・パペット－ネクロ・ドール" class="none">
 					  
 					</dd>
 				</dl>
@@ -1930,7 +2010,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="ギミック・パペット－ハンプティ・ダンプティ" title="ギミック・パペット－ハンプティ・ダンプティ" class="none">
+						<img id="card_image_16_1" alt="ギミック・パペット－ハンプティ・ダンプティ" title="ギミック・パペット－ハンプティ・ダンプティ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1998,7 +2078,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="ギミック・パペット－ビスク・ドール" title="ギミック・パペット－ビスク・ドール" class="none">
+						<img id="card_image_17_1" alt="ギミック・パペット－ビスク・ドール" title="ギミック・パペット－ビスク・ドール" class="none">
 					  
 					</dd>
 				</dl>
@@ -2066,7 +2146,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="ギミック・パペット－ボム・エッグ" title="ギミック・パペット－ボム・エッグ" class="none">
+						<img id="card_image_18_1" alt="ギミック・パペット－ボム・エッグ" title="ギミック・パペット－ボム・エッグ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2134,7 +2214,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="ギミック・パペット－マグネ・ドール" title="ギミック・パペット－マグネ・ドール" class="none">
+						<img id="card_image_19_1" alt="ギミック・パペット－マグネ・ドール" title="ギミック・パペット－マグネ・ドール" class="none">
 					  
 					</dd>
 				</dl>
@@ -2202,7 +2282,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="銀河眼の残光竜" title="銀河眼の残光竜" class="none">
+						<img id="card_image_20_1" alt="銀河眼の残光竜" title="銀河眼の残光竜" class="none">
 					  
 					</dd>
 				</dl>
@@ -2270,7 +2350,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="銀河衛竜" title="銀河衛竜" class="none">
+						<img id="card_image_21_1" alt="銀河衛竜" title="銀河衛竜" class="none">
 					  
 					</dd>
 				</dl>
@@ -2313,7 +2393,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="傀儡儀式－パペット・リチューアル" title="傀儡儀式－パペット・リチューアル" class="none">
+						<img id="card_image_22_1" alt="傀儡儀式－パペット・リチューアル" title="傀儡儀式－パペット・リチューアル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2356,7 +2436,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="傀儡葬儀－パペット・パレード" title="傀儡葬儀－パペット・パレード" class="none">
+						<img id="card_image_23_1" alt="傀儡葬儀－パペット・パレード" title="傀儡葬儀－パペット・パレード" class="none">
 					  
 					</dd>
 				</dl>
@@ -2399,7 +2479,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="グローリアス・ナンバーズ" title="グローリアス・ナンバーズ" class="none">
+						<img id="card_image_24_1" alt="グローリアス・ナンバーズ" title="グローリアス・ナンバーズ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2442,7 +2522,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="コンドーレンス・パペット" title="コンドーレンス・パペット" class="none">
+						<img id="card_image_25_1" alt="コンドーレンス・パペット" title="コンドーレンス・パペット" class="none">
 					  
 					</dd>
 				</dl>
@@ -2513,7 +2593,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="SNo.0 ホープ・ゼアル" title="SNo.0 ホープ・ゼアル" class="none">
+						<img id="card_image_26_1" alt="SNo.0 ホープ・ゼアル" title="SNo.0 ホープ・ゼアル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2556,7 +2636,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="勝利の方程式" title="勝利の方程式" class="none">
+						<img id="card_image_27_1" alt="勝利の方程式" title="勝利の方程式" class="none">
 					  
 					</dd>
 				</dl>
@@ -2599,11 +2679,82 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_27_1" alt="ジャンク・パペット" title="ジャンク・パペット" class="none">
+						<img id="card_image_28_1" alt="ジャンク・パペット" title="ジャンク・パペット" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10454">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ステルス・クラーゲン・エフィラ</span>
+						<span class="card_status">
+						<strong>ステルス・クラーゲン・エフィラ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_water.png" alt="水属性" title="水属性">
+							<span>水属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							水族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1900</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						水属性レベル４モンスター×２<br>①：１ターンに１度、自分・相手のメインフェイズに発動できる。相手フィールドの水属性モンスター１体を選んで破壊する。②：「No.」Xモンスターの効果で特殊召喚したこのカードが破壊された場合に発動できる。このカードが持っていたX素材の数まで、自分の墓地からこのカード以外の「ステルス・クラーゲン」モンスターを選んで特殊召喚する。さらにその特殊召喚したモンスターそれぞれに、自分の墓地から水属性モンスターを１体まで選んでそのX素材にできる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_29_1" alt="ステルス・クラーゲン・エフィラ" title="ステルス・クラーゲン・エフィラ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16425">
 			</li>
 		  
 			<li>
@@ -2642,11 +2793,79 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_28_1" alt="ゼアル・アライアンス" title="ゼアル・アライアンス" class="none">
+						<img id="card_image_30_1" alt="ゼアル・アライアンス" title="ゼアル・アライアンス" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16028">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ゼアル・サーバス－ウロボロス・セージ</span>
+						<span class="card_status">
+						<strong>ZS－双頭龍賢者</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 600</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードが召喚に成功した時に発動できる。自分の墓地から光属性以外の「No.」モンスター１体を選んで効果を無効にして特殊召喚し、自分フィールドからこのカードと「希望皇ホープ」モンスター１体をそれぞれ攻撃力１７００アップの装備カード扱いとしてその特殊召喚したモンスターに装備する。このターン、自分は１度しか攻撃宣言できない。②：このカードの効果でこのカードを装備したモンスターが相手モンスターに攻撃宣言した時に発動できる。その攻撃モンスターは、攻撃力が倍になりエンドフェイズに破壊される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_31_1" alt="ZS－双頭龍賢者" title="ZS－双頭龍賢者" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16420">
 			</li>
 		  
 			<li>
@@ -2690,7 +2909,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_29_1" alt="ドン・サウザンドの玉座" title="ドン・サウザンドの玉座" class="none">
+						<img id="card_image_32_1" alt="ドン・サウザンドの玉座" title="ドン・サウザンドの玉座" class="none">
 					  
 					</dd>
 				</dl>
@@ -2738,7 +2957,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_30_1" alt="ナンバーズ・ウォール" title="ナンバーズ・ウォール" class="none">
+						<img id="card_image_33_1" alt="ナンバーズ・ウォール" title="ナンバーズ・ウォール" class="none">
 					  
 					</dd>
 				</dl>
@@ -2781,7 +3000,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_31_1" alt="ナンバーズ・オーバーレイ・ブースト" title="ナンバーズ・オーバーレイ・ブースト" class="none">
+						<img id="card_image_34_1" alt="ナンバーズ・オーバーレイ・ブースト" title="ナンバーズ・オーバーレイ・ブースト" class="none">
 					  
 					</dd>
 				</dl>
@@ -2852,7 +3071,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_32_1" alt="No.99 希望皇龍ホープドラグーン" title="No.99 希望皇龍ホープドラグーン" class="none">
+						<img id="card_image_35_1" alt="No.99 希望皇龍ホープドラグーン" title="No.99 希望皇龍ホープドラグーン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2923,7 +3142,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_33_1" alt="No.93 希望皇ホープ・カイザー" title="No.93 希望皇ホープ・カイザー" class="none">
+						<img id="card_image_36_1" alt="No.93 希望皇ホープ・カイザー" title="No.93 希望皇ホープ・カイザー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2994,7 +3213,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_34_1" alt="No.97 龍影神ドラッグラビオン" title="No.97 龍影神ドラッグラビオン" class="none">
+						<img id="card_image_37_1" alt="No.97 龍影神ドラッグラビオン" title="No.97 龍影神ドラッグラビオン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3065,7 +3284,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_35_1" alt="No.71 リバリアン・シャーク" title="No.71 リバリアン・シャーク" class="none">
+						<img id="card_image_38_1" alt="No.71 リバリアン・シャーク" title="No.71 リバリアン・シャーク" class="none">
 					  
 					</dd>
 				</dl>
@@ -3136,7 +3355,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_36_1" alt="No.75 惑乱のゴシップ・シャドー" title="No.75 惑乱のゴシップ・シャドー" class="none">
+						<img id="card_image_39_1" alt="No.75 惑乱のゴシップ・シャドー" title="No.75 惑乱のゴシップ・シャドー" class="none">
 					  
 					</dd>
 				</dl>
@@ -3207,7 +3426,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_37_1" alt="No.78 ナンバーズ・アーカイブ" title="No.78 ナンバーズ・アーカイブ" class="none">
+						<img id="card_image_40_1" alt="No.78 ナンバーズ・アーカイブ" title="No.78 ナンバーズ・アーカイブ" class="none">
 					  
 					</dd>
 				</dl>
@@ -3275,7 +3494,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_38_1" alt="ナンバーズハンター" title="ナンバーズハンター" class="none">
+						<img id="card_image_41_1" alt="ナンバーズハンター" title="ナンバーズハンター" class="none">
 					  
 					</dd>
 				</dl>
@@ -3346,7 +3565,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_39_1" alt="No.100 ヌメロン・ドラゴン" title="No.100 ヌメロン・ドラゴン" class="none">
+						<img id="card_image_42_1" alt="No.100 ヌメロン・ドラゴン" title="No.100 ヌメロン・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3417,7 +3636,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_40_1" alt="No.40 ギミック・パペット－ヘブンズ・ストリングス" title="No.40 ギミック・パペット－ヘブンズ・ストリングス" class="none">
+						<img id="card_image_43_1" alt="No.40 ギミック・パペット－ヘブンズ・ストリングス" title="No.40 ギミック・パペット－ヘブンズ・ストリングス" class="none">
 					  
 					</dd>
 				</dl>
@@ -3488,7 +3707,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_41_1" alt="No.43 魂魄傀儡鬼ソウル・マリオネッター" title="No.43 魂魄傀儡鬼ソウル・マリオネッター" class="none">
+						<img id="card_image_44_1" alt="No.43 魂魄傀儡鬼ソウル・マリオネッター" title="No.43 魂魄傀儡鬼ソウル・マリオネッター" class="none">
 					  
 					</dd>
 				</dl>
@@ -3559,7 +3778,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_42_1" alt="No.6 先史遺産アトランタル" title="No.6 先史遺産アトランタル" class="none">
+						<img id="card_image_45_1" alt="No.6 先史遺産アトランタル" title="No.6 先史遺産アトランタル" class="none">
 					  
 					</dd>
 				</dl>
@@ -3602,7 +3821,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_43_1" alt="ヌメロン・カオス・リチューアル" title="ヌメロン・カオス・リチューアル" class="none">
+						<img id="card_image_46_1" alt="ヌメロン・カオス・リチューアル" title="ヌメロン・カオス・リチューアル" class="none">
 					  
 					</dd>
 				</dl>
@@ -3650,7 +3869,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_44_1" alt="パフォーム・パペット" title="パフォーム・パペット" class="none">
+						<img id="card_image_47_1" alt="パフォーム・パペット" title="パフォーム・パペット" class="none">
 					  
 					</dd>
 				</dl>
@@ -3693,7 +3912,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_45_1" alt="パージ・レイ" title="パージ・レイ" class="none">
+						<img id="card_image_48_1" alt="パージ・レイ" title="パージ・レイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -3764,7 +3983,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_46_1" alt="FNo.0 未来皇ホープ" title="FNo.0 未来皇ホープ" class="none">
+						<img id="card_image_49_1" alt="FNo.0 未来皇ホープ" title="FNo.0 未来皇ホープ" class="none">
 					  
 					</dd>
 				</dl>
@@ -3835,7 +4054,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_47_1" alt="FNo.0 未来皇ホープ－フューチャー・スラッシュ" title="FNo.0 未来皇ホープ－フューチャー・スラッシュ" class="none">
+						<img id="card_image_50_1" alt="FNo.0 未来皇ホープ－フューチャー・スラッシュ" title="FNo.0 未来皇ホープ－フューチャー・スラッシュ" class="none">
 					  
 					</dd>
 				</dl>
@@ -3906,7 +4125,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_48_1" alt="FNo.0 未来龍皇ホープ" title="FNo.0 未来龍皇ホープ" class="none">
+						<img id="card_image_51_1" alt="FNo.0 未来龍皇ホープ" title="FNo.0 未来龍皇ホープ" class="none">
 					  
 					</dd>
 				</dl>
@@ -3949,7 +4168,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_49_1" alt="RUM－千死蛮巧" title="RUM－千死蛮巧" class="none">
+						<img id="card_image_52_1" alt="RUM－千死蛮巧" title="RUM－千死蛮巧" class="none">
 					  
 					</dd>
 				</dl>
@@ -3992,7 +4211,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_50_1" alt="RUM－アージェント・カオス・フォース" title="RUM－アージェント・カオス・フォース" class="none">
+						<img id="card_image_53_1" alt="RUM－アージェント・カオス・フォース" title="RUM－アージェント・カオス・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -4040,7 +4259,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_51_1" alt="RUM－クイック・カオス" title="RUM－クイック・カオス" class="none">
+						<img id="card_image_54_1" alt="RUM－クイック・カオス" title="RUM－クイック・カオス" class="none">
 					  
 					</dd>
 				</dl>
@@ -4083,7 +4302,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_52_1" alt="RUM－ヌメロン・フォース" title="RUM－ヌメロン・フォース" class="none">
+						<img id="card_image_55_1" alt="RUM－ヌメロン・フォース" title="RUM－ヌメロン・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -4126,7 +4345,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_53_1" alt="RUM－バリアンズ・フォース" title="RUM－バリアンズ・フォース" class="none">
+						<img id="card_image_56_1" alt="RUM－バリアンズ・フォース" title="RUM－バリアンズ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -4169,7 +4388,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_54_1" alt="RUM－リミテッド・バリアンズ・フォース" title="RUM－リミテッド・バリアンズ・フォース" class="none">
+						<img id="card_image_57_1" alt="RUM－リミテッド・バリアンズ・フォース" title="RUM－リミテッド・バリアンズ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -4217,7 +4436,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_55_1" alt="リサーガム・エクシーズ" title="リサーガム・エクシーズ" class="none">
+						<img id="card_image_58_1" alt="リサーガム・エクシーズ" title="リサーガム・エクシーズ" class="none">
 					  
 					</dd>
 				</dl>

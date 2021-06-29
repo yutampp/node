@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="複写機塊コピーボックル | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「複写機塊コピーボックル」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15395%26request_locale%3Dja%26a%3D202105071508"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15395%26request_locale%3Dja%26a%3D202105071508"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15395%26request_locale%3Dja%26a%3D202106241155"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15395%26request_locale%3Dja%26a%3D202106241155"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -159,35 +159,43 @@
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15402&ciid=1&enc=ZUj0hJyGifzc2VgoW8je2Q').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16438&ciid=1&enc=HpdP0okB7rsdv-5Hpg-tmA').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15401&ciid=1&enc=Zdx1ucOn1eQZW47F-PW-Gw').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15402&ciid=1&enc=ZUj0hJyGifzc2VgoW8je2Q').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15397&ciid=1&enc=4pcxj_TQBGSZMIjkGxzXhQ').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15401&ciid=1&enc=Zdx1ucOn1eQZW47F-PW-Gw').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15394&ciid=1&enc=dbtUovPRhlV3XhOap_gW9Q').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15397&ciid=1&enc=4pcxj_TQBGSZMIjkGxzXhQ').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15396&ciid=1&enc=5Z77u5ai1oGY2rp3SXoULg').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15394&ciid=1&enc=dbtUovPRhlV3XhOap_gW9Q').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15399&ciid=1&enc=T2fhOoLi6Ajo2RWdjJcVKw').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15396&ciid=1&enc=5Z77u5ai1oGY2rp3SXoULg').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15398&ciid=1&enc=U9UYAIp8QzuOcbYaDMzybA').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15399&ciid=1&enc=T2fhOoLi6Ajo2RWdjJcVKw').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15393&ciid=1&enc=VTWv2K43x3Feyh1kmatKeA').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16437&ciid=1&enc=lVLgb-cUBIKzG2vpBOU_5g').show();
+			
+		
+			
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15398&ciid=1&enc=U9UYAIp8QzuOcbYaDMzybA').show();
+			
+		
+			
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15393&ciid=1&enc=VTWv2K43x3Feyh1kmatKeA').show();
 			
 		
 
@@ -506,14 +514,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15395%26request_locale%3Dja%26a%3D202105071508&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15395%26request_locale%3Dja%26a%3D202106241155&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15395&request_locale=ja&a=202105071508" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15395&request_locale=ja&a=202106241155" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15395&request_locale=ja&a=202105071508"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15395&request_locale=ja&a=202106241155"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -637,7 +645,7 @@
 						<div>
 							<strong>
 
-								検索結果 10件中 1～10件を表示
+								検索結果 12件中 1～12件を表示
 							</strong>
 						</div>
 					</div>
@@ -770,6 +778,54 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>きかいコンバート</span>
+						<span class="card_status">
+						<strong>機塊コンバート</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分のメインモンスターゾーンの「機塊」リンクモンスターを全て除外する。その後、この効果で除外したモンスターの数まで、除外されている自分の「機塊」リンクモンスターを選んで特殊召喚できる。②：このカードが墓地に存在する場合、自分メインフェイズに自分の墓地から他の「機塊」魔法・罠カード１枚を除外して発動できる。このカードを手札に加える。この効果はこのカードが墓地へ送られたターンには発動できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="機塊コンバート" title="機塊コンバート" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16438">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>きかいテスト</span>
 						<span class="card_status">
 						<strong>機塊テスト</strong>
@@ -803,7 +859,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="機塊テスト" title="機塊テスト" class="none">
+						<img id="card_image_3_1" alt="機塊テスト" title="機塊テスト" class="none">
 					  
 					</dd>
 				</dl>
@@ -846,7 +902,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="機塊リユース" title="機塊リユース" class="none">
+						<img id="card_image_4_1" alt="機塊リユース" title="機塊リユース" class="none">
 					  
 					</dd>
 				</dl>
@@ -914,7 +970,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="計量機塊カッパスケール" title="計量機塊カッパスケール" class="none">
+						<img id="card_image_5_1" alt="計量機塊カッパスケール" title="計量機塊カッパスケール" class="none">
 					  
 					</dd>
 				</dl>
@@ -982,7 +1038,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="遮断機塊ブレイカーバンクル" title="遮断機塊ブレイカーバンクル" class="none">
+						<img id="card_image_6_1" alt="遮断機塊ブレイカーバンクル" title="遮断機塊ブレイカーバンクル" class="none">
 					  
 					</dd>
 				</dl>
@@ -1050,7 +1106,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="充電機塊セルトパス" title="充電機塊セルトパス" class="none">
+						<img id="card_image_7_1" alt="充電機塊セルトパス" title="充電機塊セルトパス" class="none">
 					  
 					</dd>
 				</dl>
@@ -1118,11 +1174,79 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="洗濯機塊ランドリードラゴン" title="洗濯機塊ランドリードラゴン" class="none">
+						<img id="card_image_8_1" alt="洗濯機塊ランドリードラゴン" title="洗濯機塊ランドリードラゴン" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=15399">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せんぷうきかいプロペライオン</span>
+						<span class="card_status">
+						<strong>扇風機塊プロペライオン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+						<span class="box_card_linkmarker">
+							<img class="icon_img" src="external/image/parts/link_pc/link8.png" alt="リンク" title="リンク">
+							<span>リンク 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							リンク
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+							<span class="def_power">守備力 - </span>
+						
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「機塊」モンスター１体<br>このカードはリンク召喚されたターンにはリンク素材にできない。①：このカードは直接攻撃できる。②：１ターンに１度、このカードが相互リンク状態の場合、自分と相手のモンスター同士が戦闘を行うダメージ計算時に発動できる。その相手モンスターの攻撃力はそのダメージ計算時のみ０になる。③：１ターンに１度、相互リンク状態ではないこのカードが相手モンスターと戦闘を行うダメージ計算時に発動できる。その相手モンスターの攻撃力はそのダメージ計算時のみ０になる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_9_1" alt="扇風機塊プロペライオン" title="扇風機塊プロペライオン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16437">
 			</li>
 		  
 			<li>
@@ -1186,7 +1310,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="掃除機塊バキューネシア" title="掃除機塊バキューネシア" class="none">
+						<img id="card_image_10_1" alt="掃除機塊バキューネシア" title="掃除機塊バキューネシア" class="none">
 					  
 					</dd>
 				</dl>
@@ -1254,7 +1378,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="電幻機塊コンセントロール" title="電幻機塊コンセントロール" class="none">
+						<img id="card_image_11_1" alt="電幻機塊コンセントロール" title="電幻機塊コンセントロール" class="none">
 					  
 					</dd>
 				</dl>

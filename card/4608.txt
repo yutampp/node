@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ペンギン・ソルジャー | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ペンギン・ソルジャー」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D4608%26request_locale%3Dja%26a%3D202105071438"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D4608%26request_locale%3Dja%26a%3D202105071438"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D4608%26request_locale%3Dja%26a%3D202106241124"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D4608%26request_locale%3Dja%26a%3D202106241124"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -163,7 +163,11 @@
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15518&ciid=1&enc=nyDfSOt99eMNM_S_YiYR8A').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16404&ciid=1&enc=3qPs53Sj3LY2hJnzp0pKbA').show();
+			
+		
+			
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15518&ciid=1&enc=nyDfSOt99eMNM_S_YiYR8A').show();
 			
 		
 
@@ -487,14 +491,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D4608%26request_locale%3Dja%26a%3D202105071438&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D4608%26request_locale%3Dja%26a%3D202106241124&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4608&request_locale=ja&a=202105071438" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4608&request_locale=ja&a=202106241124" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4608&request_locale=ja&a=202105071438"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4608&request_locale=ja&a=202106241124"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -828,7 +832,7 @@
 						<div>
 							<strong>
 
-								検索結果 4件中 1～4件を表示
+								検索結果 5件中 1～5件を表示
 							</strong>
 						</div>
 					</div>
@@ -965,7 +969,7 @@
 					
 					<dd class="box_card_text">
 					  
-						このカードをリリースして発動する。自分のデッキから「大皇帝ペンギン」以外の「ペンギン」と名のついたモンスターを２体まで特殊召喚する。
+						①：このカードをリリースして発動できる。デッキから「大皇帝ペンギン」以外の「ペンギン」モンスターを２体まで特殊召喚する。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -1049,6 +1053,54 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ペンギン・ソード</span>
+						<span class="card_status">
+						<strong>ペンギン・ソード</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_equip.png" alt="装備" title="装備">
+							<span>装備</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「ペンギン」モンスターにのみ装備可能。このカード名の③の効果は１ターンに１度しか使用できない。①：装備モンスターの攻撃力は８００アップする。②：装備モンスターが相手に戦闘ダメージを与えた時に発動できる。相手フィールドのカード１枚を選んで持ち主の手札に戻す。③：相手フィールドの表側表示のカードが「ペンギン」カードの効果でフィールドから離れ、手札に戻った場合または除外された場合に発動する。次のターンの終了時まで、そのカード及びそのカードと元々のカード名が同じカードの効果は無効化される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="ペンギン・ソード" title="ペンギン・ソード" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16404">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ペンギンゆうしゃ</span>
 						<span class="card_status">
 						<strong>ペンギン勇者</strong>
@@ -1110,7 +1162,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="ペンギン勇者" title="ペンギン勇者" class="none">
+						<img id="card_image_4_1" alt="ペンギン勇者" title="ペンギン勇者" class="none">
 					  
 					</dd>
 				</dl>

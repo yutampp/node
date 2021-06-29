@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="スーパービークロイド－ステルス・ユニオン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「スーパービークロイド－ステルス・ユニオン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6835%26request_locale%3Dja%26a%3D202105071357"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6835%26request_locale%3Dja%26a%3D202105071357"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6835%26request_locale%3Dja%26a%3D202106241044"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6835%26request_locale%3Dja%26a%3D202106241044"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -183,31 +183,35 @@
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6387&ciid=1&enc=9uHsiLOG2DrPret2foph9w').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16407&ciid=1&enc=FuRnU_CNJmEE9mc9EEKSpw').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6748&ciid=1&enc=AO-2Cn48Qn8Nf9OLGeKMvw').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6387&ciid=1&enc=9uHsiLOG2DrPret2foph9w').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13184&ciid=1&enc=T3_GxUz9IPqdBuPDsGwBog').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6748&ciid=1&enc=AO-2Cn48Qn8Nf9OLGeKMvw').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13186&ciid=1&enc=8kXbHJ94UnS7lJJFJ2Fn1A').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13184&ciid=1&enc=T3_GxUz9IPqdBuPDsGwBog').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6745&ciid=1&enc=8POcdHBHQxoYSVZz1q5OZw').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13186&ciid=1&enc=8kXbHJ94UnS7lJJFJ2Fn1A').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13187&ciid=1&enc=1d2k2MSIOEv4n-aPv4JSfw').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6745&ciid=1&enc=8POcdHBHQxoYSVZz1q5OZw').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6749&ciid=1&enc=RKJtYSYEVn3teOXxtvAEiA').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13187&ciid=1&enc=1d2k2MSIOEv4n-aPv4JSfw').show();
+			
+		
+			
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6749&ciid=1&enc=RKJtYSYEVn3teOXxtvAEiA').show();
 			
 		
 
@@ -531,14 +535,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6835%26request_locale%3Dja%26a%3D202105071357&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6835%26request_locale%3Dja%26a%3D202106241044&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6835&request_locale=ja&a=202105071357" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6835&request_locale=ja&a=202106241044" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6835&request_locale=ja&a=202105071357"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6835&request_locale=ja&a=202106241044"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -662,7 +666,7 @@
 						<div>
 							<strong>
 
-								検索結果 15件中 1～15件を表示
+								検索結果 16件中 1～16件を表示
 							</strong>
 						</div>
 					</div>
@@ -1204,6 +1208,74 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ドラゴンロイド</span>
+						<span class="card_status">
+						<strong>ドラゴンロイド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2900</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の効果は１ターンに１度しか使用できない。①：このカードを手札から捨て、以下の効果から１つを選択して発動できる。<br>●デッキから風属性以外の「ロイド」モンスター１体を手札に加える。<br>●このターン、融合モンスターを融合召喚する効果を含む効果を自分が発動した場合、その発動は無効化されず、その融合召喚成功時に相手は魔法・罠・モンスターの効果を発動できない。<br>②：１ターンに１度、このカードが墓地に存在する場合に発動できる。墓地のこのカードはターン終了時までドラゴン族になる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_8_1" alt="ドラゴンロイド" title="ドラゴンロイド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16407">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ドリルロイド</span>
 						<span class="card_status">
 						<strong>ドリルロイド</strong>
@@ -1262,7 +1334,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="ドリルロイド" title="ドリルロイド" class="none">
+						<img id="card_image_9_1" alt="ドリルロイド" title="ドリルロイド" class="none">
 					  
 					</dd>
 				</dl>
@@ -1305,7 +1377,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ビークロイド・コネクション・ゾーン" title="ビークロイド・コネクション・ゾーン" class="none">
+						<img id="card_image_10_1" alt="ビークロイド・コネクション・ゾーン" title="ビークロイド・コネクション・ゾーン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1373,7 +1445,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="ミキサーロイド" title="ミキサーロイド" class="none">
+						<img id="card_image_11_1" alt="ミキサーロイド" title="ミキサーロイド" class="none">
 					  
 					</dd>
 				</dl>
@@ -1421,7 +1493,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="メガロイド都市" title="メガロイド都市" class="none">
+						<img id="card_image_12_1" alt="メガロイド都市" title="メガロイド都市" class="none">
 					  
 					</dd>
 				</dl>
@@ -1489,7 +1561,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="レスキューロイド" title="レスキューロイド" class="none">
+						<img id="card_image_13_1" alt="レスキューロイド" title="レスキューロイド" class="none">
 					  
 					</dd>
 				</dl>
@@ -1537,7 +1609,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="レッド・ロイド・コール" title="レッド・ロイド・コール" class="none">
+						<img id="card_image_14_1" alt="レッド・ロイド・コール" title="レッド・ロイド・コール" class="none">
 					  
 					</dd>
 				</dl>
@@ -1580,7 +1652,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="ワンダーガレージ" title="ワンダーガレージ" class="none">
+						<img id="card_image_15_1" alt="ワンダーガレージ" title="ワンダーガレージ" class="none">
 					  
 					</dd>
 				</dl>

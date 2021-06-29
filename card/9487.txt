@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="TG サイバー・マジシャン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「TG サイバー・マジシャン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9487%26request_locale%3Dja%26a%3D202105071337"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9487%26request_locale%3Dja%26a%3D202105071337"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9487%26request_locale%3Dja%26a%3D202106241023"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9487%26request_locale%3Dja%26a%3D202106241023"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,111 +151,127 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14956&ciid=1&enc=SfUSGpa7VFuiw3BxpwzmlA').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16295&ciid=1&enc=W0bo6g8NaQBpOstZKuaIyw').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9540&ciid=1&enc=-Sr-0eth5gKRfFhyXb1USw').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16297&ciid=1&enc=HunT2eKn3mR3awf3eo3pxA').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9539&ciid=1&enc=jvUtWHi3DvB1zZrLxJ4iHg').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16301&ciid=1&enc=jLtlg1OT8ly23_LQrRLOvg').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9525&ciid=1&enc=WTMKfEvaQUHfy53Wb-3fkg').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16296&ciid=1&enc=_HaZXDxtArCPe3Bn4yUmKQ').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9524&ciid=1&enc=1ga2dOS-TyeWmxJqducp1g').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14956&ciid=1&enc=SfUSGpa7VFuiw3BxpwzmlA').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9541&ciid=1&enc=sIDFla_o3YvPAg5vuHRSoA').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9540&ciid=1&enc=-Sr-0eth5gKRfFhyXb1USw').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9490&ciid=1&enc=-uZg2TKW4lVtv5k9uogkZQ').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9539&ciid=1&enc=jvUtWHi3DvB1zZrLxJ4iHg').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14559&ciid=1&enc=9PEAcS9wPXcMmvZmQTZtUw').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9525&ciid=1&enc=WTMKfEvaQUHfy53Wb-3fkg').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9489&ciid=1&enc=Z6B6jcSbrn_rXs5uxHcgbg').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9524&ciid=1&enc=1ga2dOS-TyeWmxJqducp1g').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14086&ciid=1&enc=eIVF10EpRhYWMFHXyvIY9A').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9541&ciid=1&enc=sIDFla_o3YvPAg5vuHRSoA').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14116&ciid=1&enc=BXW-lBm9hZsDfDEgazsGrQ').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9490&ciid=1&enc=-uZg2TKW4lVtv5k9uogkZQ').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9488&ciid=1&enc=3vz9mN9fc7kj8vYn1ISIdQ').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14559&ciid=1&enc=9PEAcS9wPXcMmvZmQTZtUw').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14088&ciid=1&enc=csg7nhIj36XulFUABGX4Hw').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9489&ciid=1&enc=Z6B6jcSbrn_rXs5uxHcgbg').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14127&ciid=1&enc=DngvulJHe9mLSCbVc86gxg').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14086&ciid=1&enc=eIVF10EpRhYWMFHXyvIY9A').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14560&ciid=1&enc=V53TqcKH4M0R_P9wKtGXgQ').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14116&ciid=1&enc=BXW-lBm9hZsDfDEgazsGrQ').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9554&ciid=1&enc=wgGYq-rw5xMuScj9LqoDfw').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9488&ciid=1&enc=3vz9mN9fc7kj8vYn1ISIdQ').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9514&ciid=1&enc=e_NTOqqgFszkTSsvXNjHSg').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14088&ciid=1&enc=csg7nhIj36XulFUABGX4Hw').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14262&ciid=1&enc=tpsBKZCRrnmcsRgXMNehVA').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14127&ciid=1&enc=DngvulJHe9mLSCbVc86gxg').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9512&ciid=1&enc=9yLORQk-UBPX8P_KB-ZqOQ').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14560&ciid=1&enc=V53TqcKH4M0R_P9wKtGXgQ').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9513&ciid=1&enc=ktKqcE-HDKA2jgqB9AZAdQ').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9554&ciid=1&enc=wgGYq-rw5xMuScj9LqoDfw').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14087&ciid=1&enc=5tlO3gx48XRisgnUBy-OPg').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9514&ciid=1&enc=e_NTOqqgFszkTSsvXNjHSg').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14561&ciid=1&enc=sohm-ZCSQ_BcO9MCrgl5YQ').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14262&ciid=1&enc=tpsBKZCRrnmcsRgXMNehVA').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9492&ciid=1&enc=o2IlUFsbJlI70hoyRxWGpA').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9512&ciid=1&enc=9yLORQk-UBPX8P_KB-ZqOQ').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9510&ciid=1&enc=DlM1tRcpv95DmxVW0qZFBw').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9513&ciid=1&enc=ktKqcE-HDKA2jgqB9AZAdQ').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9511&ciid=1&enc=dPxCP4bS7b1sk5pOHxtzIw').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14087&ciid=1&enc=5tlO3gx48XRisgnUBy-OPg').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9491&ciid=1&enc=X9dPJ_n-dLZ_YjSEsE0CKg').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14561&ciid=1&enc=sohm-ZCSQ_BcO9MCrgl5YQ').show();
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14562&ciid=1&enc=59tIw14RW0NjpaA2IoXtHA').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9492&ciid=1&enc=o2IlUFsbJlI70hoyRxWGpA').show();
+			
+		
+			
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9510&ciid=1&enc=DlM1tRcpv95DmxVW0qZFBw').show();
+			
+		
+			
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9511&ciid=1&enc=dPxCP4bS7b1sk5pOHxtzIw').show();
+			
+		
+			
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9491&ciid=1&enc=X9dPJ_n-dLZ_YjSEsE0CKg').show();
+			
+		
+			
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14562&ciid=1&enc=59tIw14RW0NjpaA2IoXtHA').show();
 			
 		
 
@@ -579,14 +595,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9487%26request_locale%3Dja%26a%3D202105071337&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9487%26request_locale%3Dja%26a%3D202106241023&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9487&request_locale=ja&a=202105071337" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9487&request_locale=ja&a=202106241023" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9487&request_locale=ja&a=202105071337"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9487&request_locale=ja&a=202106241023"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -710,7 +726,7 @@
 						<div>
 							<strong>
 
-								検索結果 27件中 1～27件を表示
+								検索結果 31件中 1～31件を表示
 							</strong>
 						</div>
 					</div>
@@ -723,6 +739,233 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アタッチメント・サイバーン</span>
+						<span class="card_status">
+						<strong>アタッチメント・サイバーン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の③の効果は１ターンに１度しか使用できない。①：自分フィールドのドラゴン族・機械族の「サイバー」モンスター１体を対象として発動できる。自分の手札・フィールドからこのカードを装備カード扱いとしてそのモンスターに装備する。②：このカードを装備したモンスターの攻撃力は６００アップする。③：モンスターに装備されているこのカードが墓地へ送られた場合、このカード以外の自分の墓地のドラゴン族・機械族の「サイバー」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="アタッチメント・サイバーン" title="アタッチメント・サイバーン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16295">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エターナル・サイバー</span>
+						<span class="card_status">
+						<strong>エターナル・サイバー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地の機械族の「サイバー」融合モンスター１体を対象として発動できる。そのモンスターをEXデッキに戻すか召喚条件を無視して特殊召喚する。②：自分フィールドの機械族の「サイバー」融合モンスターが戦闘・効果で破壊される場合、代わりに墓地のこのカードを除外できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="エターナル・サイバー" title="エターナル・サイバー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16297">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>サイバネティック・ホライゾン</span>
+						<span class="card_status">
+						<strong>サイバネティック・ホライゾン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「サイバーダーク」カードとしても扱う。このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分は機械族モンスターしかEXデッキから特殊召喚できない。①：手札及びデッキからそれぞれ１体ずつ、ドラゴン族・機械族の「サイバー」モンスターを墓地へ送って発動できる（同じ属性は１体まで）。デッキからドラゴン族・機械族の「サイバー」モンスター１体を手札に加え、EXデッキから機械族の「サイバー」融合モンスター１体を墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="サイバネティック・ホライゾン" title="サイバネティック・ホライゾン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16301">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>サイバー・ダーク・キメラ</span>
+						<span class="card_status">
+						<strong>サイバー・ダーク・キメラ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 2100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札から魔法・罠カード１枚を捨てて発動できる。デッキから「パワー・ボンド」１枚を手札に加える。このターン、自分はドラゴン族・機械族の「サイバー」モンスターしか融合素材にできず、自分が融合召喚する場合に１度だけ、自分の墓地のモンスターを除外して融合素材とする事もできる。②：このカードが墓地へ送られた場合に発動できる。同名カードが自分の墓地に存在しない「サイバー・ダーク」モンスター１体をデッキから墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="サイバー・ダーク・キメラ" title="サイバー・ダーク・キメラ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16296">
+			</li>
 		  
 			<li>
 				<dl>
@@ -788,7 +1031,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="シューティング・スター・ドラゴン・TG－EX" title="シューティング・スター・ドラゴン・TG－EX" class="none">
+						<img id="card_image_4_1" alt="シューティング・スター・ドラゴン・TG－EX" title="シューティング・スター・ドラゴン・TG－EX" class="none">
 					  
 					</dd>
 				</dl>
@@ -831,7 +1074,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="TG－SX1" title="TG－SX1" class="none">
+						<img id="card_image_5_1" alt="TG－SX1" title="TG－SX1" class="none">
 					  
 					</dd>
 				</dl>
@@ -874,7 +1117,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="TGX3－DX2" title="TGX3－DX2" class="none">
+						<img id="card_image_6_1" alt="TGX3－DX2" title="TGX3－DX2" class="none">
 					  
 					</dd>
 				</dl>
@@ -922,7 +1165,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="TGX３００" title="TGX３００" class="none">
+						<img id="card_image_7_1" alt="TGX３００" title="TGX３００" class="none">
 					  
 					</dd>
 				</dl>
@@ -970,7 +1213,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="TGX1－HL" title="TGX1－HL" class="none">
+						<img id="card_image_8_1" alt="TGX1－HL" title="TGX1－HL" class="none">
 					  
 					</dd>
 				</dl>
@@ -1013,7 +1256,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="TG1－EM1" title="TG1－EM1" class="none">
+						<img id="card_image_9_1" alt="TG1－EM1" title="TG1－EM1" class="none">
 					  
 					</dd>
 				</dl>
@@ -1081,7 +1324,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="TG カタパルト・ドラゴン" title="TG カタパルト・ドラゴン" class="none">
+						<img id="card_image_10_1" alt="TG カタパルト・ドラゴン" title="TG カタパルト・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1152,7 +1395,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="TG ギア・ゾンビ" title="TG ギア・ゾンビ" class="none">
+						<img id="card_image_11_1" alt="TG ギア・ゾンビ" title="TG ギア・ゾンビ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1223,7 +1466,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="TG ジェット・ファルコン" title="TG ジェット・ファルコン" class="none">
+						<img id="card_image_12_1" alt="TG ジェット・ファルコン" title="TG ジェット・ファルコン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1294,7 +1537,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="TG スクリュー・サーペント" title="TG スクリュー・サーペント" class="none">
+						<img id="card_image_13_1" alt="TG スクリュー・サーペント" title="TG スクリュー・サーペント" class="none">
 					  
 					</dd>
 				</dl>
@@ -1368,7 +1611,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="TG スター・ガーディアン" title="TG スター・ガーディアン" class="none">
+						<img id="card_image_14_1" alt="TG スター・ガーディアン" title="TG スター・ガーディアン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1439,7 +1682,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="TG ストライカー" title="TG ストライカー" class="none">
+						<img id="card_image_15_1" alt="TG ストライカー" title="TG ストライカー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1510,7 +1753,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="TG タンク・ラーヴァ" title="TG タンク・ラーヴァ" class="none">
+						<img id="card_image_16_1" alt="TG タンク・ラーヴァ" title="TG タンク・ラーヴァ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1578,7 +1821,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="TG トライデント・ランチャー" title="TG トライデント・ランチャー" class="none">
+						<img id="card_image_17_1" alt="TG トライデント・ランチャー" title="TG トライデント・ランチャー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1646,7 +1889,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="TG ドリル・フィッシュ" title="TG ドリル・フィッシュ" class="none">
+						<img id="card_image_18_1" alt="TG ドリル・フィッシュ" title="TG ドリル・フィッシュ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1717,7 +1960,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="TG ハイパー・ライブラリアン" title="TG ハイパー・ライブラリアン" class="none">
+						<img id="card_image_19_1" alt="TG ハイパー・ライブラリアン" title="TG ハイパー・ライブラリアン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1788,7 +2031,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="TG ハルバード・キャノン" title="TG ハルバード・キャノン" class="none">
+						<img id="card_image_20_1" alt="TG ハルバード・キャノン" title="TG ハルバード・キャノン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1859,7 +2102,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="TG ハルバード・キャノン／バスター" title="TG ハルバード・キャノン／バスター" class="none">
+						<img id="card_image_21_1" alt="TG ハルバード・キャノン／バスター" title="TG ハルバード・キャノン／バスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1930,7 +2173,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="TG パワー・グラディエイター" title="TG パワー・グラディエイター" class="none">
+						<img id="card_image_22_1" alt="TG パワー・グラディエイター" title="TG パワー・グラディエイター" class="none">
 					  
 					</dd>
 				</dl>
@@ -2001,7 +2244,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="TG ブレード・ガンナー" title="TG ブレード・ガンナー" class="none">
+						<img id="card_image_23_1" alt="TG ブレード・ガンナー" title="TG ブレード・ガンナー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2069,7 +2312,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="TG ブースター・ラプトル" title="TG ブースター・ラプトル" class="none">
+						<img id="card_image_24_1" alt="TG ブースター・ラプトル" title="TG ブースター・ラプトル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2137,7 +2380,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="TG メタル・スケルトン" title="TG メタル・スケルトン" class="none">
+						<img id="card_image_25_1" alt="TG メタル・スケルトン" title="TG メタル・スケルトン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2205,7 +2448,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="TG ラッシュ・ライノ" title="TG ラッシュ・ライノ" class="none">
+						<img id="card_image_26_1" alt="TG ラッシュ・ライノ" title="TG ラッシュ・ライノ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2276,7 +2519,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="TG レシプロ・ドラゴン・フライ" title="TG レシプロ・ドラゴン・フライ" class="none">
+						<img id="card_image_27_1" alt="TG レシプロ・ドラゴン・フライ" title="TG レシプロ・ドラゴン・フライ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2350,7 +2593,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="TG ワンダー・マジシャン" title="TG ワンダー・マジシャン" class="none">
+						<img id="card_image_28_1" alt="TG ワンダー・マジシャン" title="TG ワンダー・マジシャン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2418,7 +2661,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="TG ワーウルフ" title="TG ワーウルフ" class="none">
+						<img id="card_image_29_1" alt="TG ワーウルフ" title="TG ワーウルフ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2461,7 +2704,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="バトル・スタン・ソニック" title="バトル・スタン・ソニック" class="none">
+						<img id="card_image_30_1" alt="バトル・スタン・ソニック" title="バトル・スタン・ソニック" class="none">
 					  
 					</dd>
 				</dl>

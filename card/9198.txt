@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="フルール・シンクロン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「フルール・シンクロン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9198%26request_locale%3Dja%26a%3D202105071448"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9198%26request_locale%3Dja%26a%3D202105071448"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9198%26request_locale%3Dja%26a%3D202106241134"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9198%26request_locale%3Dja%26a%3D202106241134"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -171,51 +171,63 @@
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8862&ciid=1&enc=JecpUYLOeE8WWNQLp90ccQ').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16388&ciid=1&enc=LQkr4NCG2y4SkV10r3ko3g').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11622&ciid=1&enc=dsIzWfcnlQS5FDTGfAp-NA').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8862&ciid=1&enc=JecpUYLOeE8WWNQLp90ccQ').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11304&ciid=1&enc=m8c5XXTqE0iY_wESFkhZrw').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11622&ciid=1&enc=dsIzWfcnlQS5FDTGfAp-NA').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14916&ciid=1&enc=qsvBfZ_-7rbr4FVjVrSRRg').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11304&ciid=1&enc=m8c5XXTqE0iY_wESFkhZrw').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13868&ciid=1&enc=348itS1MjRPc1zWK6iACLg').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14916&ciid=1&enc=qsvBfZ_-7rbr4FVjVrSRRg').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16192&ciid=1&enc=YJZuiCXJd6MV_7sDuUWcVQ').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13868&ciid=1&enc=348itS1MjRPc1zWK6iACLg').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11625&ciid=1&enc=swq32m6nToNwQrcICJKBqg').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16192&ciid=1&enc=YJZuiCXJd6MV_7sDuUWcVQ').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9122&ciid=1&enc=YsuzAvYHYOVGymReJ3JPUw').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11625&ciid=1&enc=swq32m6nToNwQrcICJKBqg').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9082&ciid=1&enc=FQLthe3WNuEgmO_3zu3PWA').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16413&ciid=1&enc=QIJZOutIHQH31Q27i0JgxA').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9199&ciid=1&enc=y4etYbw8tAGTGB_kbut57g').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9122&ciid=1&enc=YsuzAvYHYOVGymReJ3JPUw').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8872&ciid=1&enc=l-iOdbQbW77p_bGGhNYoEA').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16385&ciid=1&enc=uDErW8ciFOW3pYxkeFL33w').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11621&ciid=1&enc=xLmbWXuYm7wkSvERos7dmg').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9082&ciid=1&enc=FQLthe3WNuEgmO_3zu3PWA').show();
+			
+		
+			
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9199&ciid=1&enc=y4etYbw8tAGTGB_kbut57g').show();
+			
+		
+			
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8872&ciid=1&enc=l-iOdbQbW77p_bGGhNYoEA').show();
+			
+		
+			
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11621&ciid=1&enc=xLmbWXuYm7wkSvERos7dmg').show();
 			
 		
 
@@ -539,14 +551,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9198%26request_locale%3Dja%26a%3D202105071448&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9198%26request_locale%3Dja%26a%3D202106241134&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9198&request_locale=ja&a=202105071448" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9198&request_locale=ja&a=202106241134" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9198&request_locale=ja&a=202105071448"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9198&request_locale=ja&a=202106241134"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -591,6 +603,27 @@
 					<col width="50">
 					<tr>
 						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2021-05-22</td>
+		
+		
+		
+						<td>DP25-JP030</td>
+		
+		
+						<td>
+							<b>デュエリストパック －疾風のデュエリスト編－</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=1000004325000&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
 					</tr>
 	
 					<tr class="row">
@@ -691,7 +724,7 @@
 						<div>
 							<strong>
 
-								検索結果 17件中 1～17件を表示
+								検索結果 20件中 1～20件を表示
 							</strong>
 						</div>
 					</div>
@@ -1043,6 +1076,54 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>シンクロ・ディレンマ</span>
+						<span class="card_status">
+						<strong>シンクロ・ディレンマ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の効果は１ターンに１度しか使用できない。①：以下の効果から１つを選択して発動できる。<br>●手札及び自分フィールドの表側表示モンスターの中から、「シンクロン」モンスター１体を墓地へ送って発動できる。手札からモンスター１体を特殊召喚する。<br>●このカード以外の自分フィールドのカード１枚を対象として発動できる。そのカードを破壊し、そのカードとは元々のカード名が異なる「シンクロン」モンスター１体を自分の手札・墓地から選んで特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="シンクロ・ディレンマ" title="シンクロ・ディレンマ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16388">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>シンクロン・エクスプローラー</span>
 						<span class="card_status">
 						<strong>シンクロン・エクスプローラー</strong>
@@ -1101,7 +1182,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="シンクロン・エクスプローラー" title="シンクロン・エクスプローラー" class="none">
+						<img id="card_image_6_1" alt="シンクロン・エクスプローラー" title="シンクロン・エクスプローラー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1169,7 +1250,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="シンクロン・キャリアー" title="シンクロン・キャリアー" class="none">
+						<img id="card_image_7_1" alt="シンクロン・キャリアー" title="シンクロン・キャリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1240,7 +1321,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="ジャンク・アンカー" title="ジャンク・アンカー" class="none">
+						<img id="card_image_8_1" alt="ジャンク・アンカー" title="ジャンク・アンカー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1308,7 +1389,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="ジャンク・コンバーター" title="ジャンク・コンバーター" class="none">
+						<img id="card_image_9_1" alt="ジャンク・コンバーター" title="ジャンク・コンバーター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1379,7 +1460,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ジャンク・スピーダー" title="ジャンク・スピーダー" class="none">
+						<img id="card_image_10_1" alt="ジャンク・スピーダー" title="ジャンク・スピーダー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1447,7 +1528,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="スターダスト・トレイル" title="スターダスト・トレイル" class="none">
+						<img id="card_image_11_1" alt="スターダスト・トレイル" title="スターダスト・トレイル" class="none">
 					  
 					</dd>
 				</dl>
@@ -1495,11 +1576,79 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="スターライト・ジャンクション" title="スターライト・ジャンクション" class="none">
+						<img id="card_image_12_1" alt="スターライト・ジャンクション" title="スターライト・ジャンクション" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=11625">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>せいきしのやりもち</span>
+						<span class="card_status">
+						<strong>聖騎士の槍持ち</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、自分フィールドのレベル８以下のモンスター１体を対象として発動できる。そのモンスターはエンドフェイズまで、カード名を「フルール・シンクロン」として扱い、チューナーとして扱う。②：このカードをリリースして発動できる。デッキから装備魔法カード１枚を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_13_1" alt="聖騎士の槍持ち" title="聖騎士の槍持ち" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16413">
 			</li>
 		  
 			<li>
@@ -1538,11 +1687,82 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="調律" title="調律" class="none">
+						<img id="card_image_14_1" alt="調律" title="調律" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9122">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ネクロ・シンクロン</span>
+						<span class="card_status">
+						<strong>ネクロ・シンクロン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 200</span>
+						
+						
+							<span class="def_power">守備力 400</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードのカード名は、フィールド・墓地に存在する限り「フルール・シンクロン」として扱う。②：このカード以外の自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターのレベルをターン終了時まで２つ上げる。③：このカードが風属性SモンスターのS素材として墓地へ送られた場合に発動できる。デッキから植物族・レベル１モンスター１体を特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_15_1" alt="ネクロ・シンクロン" title="ネクロ・シンクロン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16385">
 			</li>
 		  
 			<li>
@@ -1606,7 +1826,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="ネクロ・リンカー" title="ネクロ・リンカー" class="none">
+						<img id="card_image_16_1" alt="ネクロ・リンカー" title="ネクロ・リンカー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1671,13 +1891,13 @@
 					
 					<dd class="box_card_text">
 					  
-						「フルール・シンクロン」＋チューナー以外のモンスター１体以上<br>相手が魔法・罠カードを発動した時に発動する事ができる。その発動を無効にし破壊する。この効果は自分のターンに１度だけ発動する事ができる。
+						「フルール・シンクロン」＋チューナー以外のモンスター１体以上<br>①：１ターンに１度、自分ターンに相手が魔法・罠カードを発動した時に発動できる。その発動を無効にし破壊する。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="フルール・ド・シュヴァリエ" title="フルール・ド・シュヴァリエ" class="none">
+						<img id="card_image_17_1" alt="フルール・ド・シュヴァリエ" title="フルール・ド・シュヴァリエ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1748,7 +1968,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="ライティ・ドライバー" title="ライティ・ドライバー" class="none">
+						<img id="card_image_18_1" alt="ライティ・ドライバー" title="ライティ・ドライバー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1816,7 +2036,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="ラッシュ・ウォリアー" title="ラッシュ・ウォリアー" class="none">
+						<img id="card_image_19_1" alt="ラッシュ・ウォリアー" title="ラッシュ・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>

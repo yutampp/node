@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="グッサリ＠イグニスター | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「グッサリ＠イグニスター」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15134%26request_locale%3Dja%26a%3D202105071548"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15134%26request_locale%3Dja%26a%3D202105071548"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15134%26request_locale%3Dja%26a%3D202106241235"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15134%26request_locale%3Dja%26a%3D202106241235"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -163,79 +163,87 @@
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14861&ciid=1&enc=ZA1CxID5OmOeA76GfbSVlQ').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16436&ciid=1&enc=7l9bVIxnUGEEmO3pkn045A').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14863&ciid=1&enc=WGEfq5v0lJ54kwOzI-YX3Q').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14861&ciid=1&enc=ZA1CxID5OmOeA76GfbSVlQ').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14862&ciid=1&enc=ypCAZCSZQ3YlJ21WZbjQTQ').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14863&ciid=1&enc=WGEfq5v0lJ54kwOzI-YX3Q').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14813&ciid=1&enc=BlFUipzXhL7pXk9Q7rQTNw').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14862&ciid=1&enc=ypCAZCSZQ3YlJ21WZbjQTQ').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14859&ciid=1&enc=Mc2_DyPlmU9gR38UVy06eQ').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14813&ciid=1&enc=BlFUipzXhL7pXk9Q7rQTNw').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14851&ciid=1&enc=F0jZlmXc537UzbKk_8uN7g').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14859&ciid=1&enc=Mc2_DyPlmU9gR38UVy06eQ').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15972&ciid=1&enc=HyT8YeEutdE_SN5_YRZFFw').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14851&ciid=1&enc=F0jZlmXc537UzbKk_8uN7g').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16006&ciid=1&enc=O0ePrfI26lsbnr78w3wf8Q').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16435&ciid=1&enc=0oBBrM8XNcy29cv0uw02bQ').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14854&ciid=1&enc=KjYOwk-dgiDbQbYU9n0QqA').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15972&ciid=1&enc=HyT8YeEutdE_SN5_YRZFFw').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14815&ciid=1&enc=85BwdFcwm3oeJ6sndz4IDg').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16006&ciid=1&enc=O0ePrfI26lsbnr78w3wf8Q').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14812&ciid=1&enc=7eRuY1035gCme8eObl1fUA').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14854&ciid=1&enc=KjYOwk-dgiDbQbYU9n0QqA').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14816&ciid=1&enc=8F0fmfFkrLALppEbGwnXuA').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14815&ciid=1&enc=85BwdFcwm3oeJ6sndz4IDg').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16037&ciid=1&enc=Jxrgmy3paxUXTa1uyzBaYg').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14812&ciid=1&enc=7eRuY1035gCme8eObl1fUA').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14814&ciid=1&enc=FZLg3ujSvq10YqH6ZvBlmw').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14816&ciid=1&enc=8F0fmfFkrLALppEbGwnXuA').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14810&ciid=1&enc=eW9jG3mqg8sl3llGd_DWdw').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16037&ciid=1&enc=Jxrgmy3paxUXTa1uyzBaYg').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14811&ciid=1&enc=X_PEEziy5BxNsH16UObTCQ').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14814&ciid=1&enc=FZLg3ujSvq10YqH6ZvBlmw').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16021&ciid=1&enc=OiiORt2RgoWgy5GKEhnP5A').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14810&ciid=1&enc=eW9jG3mqg8sl3llGd_DWdw').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14853&ciid=1&enc=4jApFW6RriEx4b0KvQBDUw').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14811&ciid=1&enc=X_PEEziy5BxNsH16UObTCQ').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14904&ciid=1&enc=F6fcPMqoCYfgnIXO0G1lHA').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16021&ciid=1&enc=OiiORt2RgoWgy5GKEhnP5A').show();
+			
+		
+			
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14853&ciid=1&enc=4jApFW6RriEx4b0KvQBDUw').show();
+			
+		
+			
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14904&ciid=1&enc=F6fcPMqoCYfgnIXO0G1lHA').show();
 			
 		
 
@@ -554,14 +562,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15134%26request_locale%3Dja%26a%3D202105071548&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15134%26request_locale%3Dja%26a%3D202106241235&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15134&request_locale=ja&a=202105071548" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15134&request_locale=ja&a=202106241235" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15134&request_locale=ja&a=202105071548"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15134&request_locale=ja&a=202106241235"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -685,7 +693,7 @@
 						<div>
 							<strong>
 
-								検索結果 22件中 1～22件を表示
+								検索結果 24件中 1～24件を表示
 							</strong>
 						</div>
 					</div>
@@ -846,6 +854,49 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>アイ－ショウ</span>
+						<span class="card_status">
+						<strong>Ai－SHOW</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：EXモンスターゾーンに自分のリンク３以上の「＠イグニスター」モンスターが存在する場合、相手モンスターの攻撃宣言時に発動できる。攻撃力の合計が、その攻撃モンスターの攻撃力以下になるように、リンクモンスター以外の攻撃力２３００のサイバース族モンスターをEXデッキから任意の数だけ選んで特殊召喚する。その後、バトルフェイズを終了する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="Ai－SHOW" title="Ai－SHOW" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16436">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>アイドリング・ボーン</span>
 						<span class="card_status">
 						<strong>Aiドリング・ボーン</strong>
@@ -884,7 +935,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="Aiドリング・ボーン" title="Aiドリング・ボーン" class="none">
+						<img id="card_image_4_1" alt="Aiドリング・ボーン" title="Aiドリング・ボーン" class="none">
 					  
 					</dd>
 				</dl>
@@ -932,7 +983,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="Aiの儀式" title="Aiの儀式" class="none">
+						<img id="card_image_5_1" alt="Aiの儀式" title="Aiの儀式" class="none">
 					  
 					</dd>
 				</dl>
@@ -975,7 +1026,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="Aiラブ融合" title="Aiラブ融合" class="none">
+						<img id="card_image_6_1" alt="Aiラブ融合" title="Aiラブ融合" class="none">
 					  
 					</dd>
 				</dl>
@@ -1043,7 +1094,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="アチチ＠イグニスター" title="アチチ＠イグニスター" class="none">
+						<img id="card_image_7_1" alt="アチチ＠イグニスター" title="アチチ＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1091,7 +1142,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="イグニスターAiランド" title="イグニスターAiランド" class="none">
+						<img id="card_image_8_1" alt="イグニスターAiランド" title="イグニスターAiランド" class="none">
 					  
 					</dd>
 				</dl>
@@ -1162,11 +1213,54 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="ウィンドペガサス＠イグニスター" title="ウィンドペガサス＠イグニスター" class="none">
+						<img id="card_image_9_1" alt="ウィンドペガサス＠イグニスター" title="ウィンドペガサス＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14851">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>キ－アイ－</span>
+						<span class="card_status">
+						<strong>キ－Ai－</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地の「＠イグニスター」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：自分フィールドの攻撃力２３００以上の「＠イグニスター」モンスターが効果で破壊される場合、代わりに墓地のこのカードを除外できる。③：このカードが除外された場合に発動できる。このターン、自分の攻撃力２３００以上の「＠イグニスター」モンスターは戦闘では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_10_1" alt="キ－Ai－" title="キ－Ai－" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16435">
 			</li>
 		  
 			<li>
@@ -1230,7 +1324,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ダンマリ＠イグニスター" title="ダンマリ＠イグニスター" class="none">
+						<img id="card_image_11_1" alt="ダンマリ＠イグニスター" title="ダンマリ＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1298,7 +1392,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="ダークインファント＠イグニスター" title="ダークインファント＠イグニスター" class="none">
+						<img id="card_image_12_1" alt="ダークインファント＠イグニスター" title="ダークインファント＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1366,7 +1460,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="ダークナイト＠イグニスター" title="ダークナイト＠イグニスター" class="none">
+						<img id="card_image_13_1" alt="ダークナイト＠イグニスター" title="ダークナイト＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1434,7 +1528,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="ドシン＠イグニスター" title="ドシン＠イグニスター" class="none">
+						<img id="card_image_14_1" alt="ドシン＠イグニスター" title="ドシン＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1502,7 +1596,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="ドヨン＠イグニスター" title="ドヨン＠イグニスター" class="none">
+						<img id="card_image_15_1" alt="ドヨン＠イグニスター" title="ドヨン＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1570,7 +1664,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="ドンヨリボー＠イグニスター" title="ドンヨリボー＠イグニスター" class="none">
+						<img id="card_image_16_1" alt="ドンヨリボー＠イグニスター" title="ドンヨリボー＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1618,7 +1712,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="果たし－Ai－" title="果たし－Ai－" class="none">
+						<img id="card_image_17_1" alt="果たし－Ai－" title="果たし－Ai－" class="none">
 					  
 					</dd>
 				</dl>
@@ -1686,7 +1780,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="ヒヤリ＠イグニスター" title="ヒヤリ＠イグニスター" class="none">
+						<img id="card_image_18_1" alt="ヒヤリ＠イグニスター" title="ヒヤリ＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1754,7 +1848,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="ピカリ＠イグニスター" title="ピカリ＠イグニスター" class="none">
+						<img id="card_image_19_1" alt="ピカリ＠イグニスター" title="ピカリ＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1825,7 +1919,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="ブルル＠イグニスター" title="ブルル＠イグニスター" class="none">
+						<img id="card_image_20_1" alt="ブルル＠イグニスター" title="ブルル＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1868,7 +1962,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="めぐり－Ai－" title="めぐり－Ai－" class="none">
+						<img id="card_image_21_1" alt="めぐり－Ai－" title="めぐり－Ai－" class="none">
 					  
 					</dd>
 				</dl>
@@ -1939,7 +2033,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="ライトドラゴン＠イグニスター" title="ライトドラゴン＠イグニスター" class="none">
+						<img id="card_image_22_1" alt="ライトドラゴン＠イグニスター" title="ライトドラゴン＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -2007,7 +2101,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="リングリボー" title="リングリボー" class="none">
+						<img id="card_image_23_1" alt="リングリボー" title="リングリボー" class="none">
 					  
 					</dd>
 				</dl>

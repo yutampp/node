@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ダイスロール・バトル | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ダイスロール・バトル」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12059%26request_locale%3Dja%26a%3D202105071505"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12059%26request_locale%3Dja%26a%3D202105071505"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12059%26request_locale%3Dja%26a%3D202106241151"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12059%26request_locale%3Dja%26a%3D202106241151"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -175,87 +175,115 @@
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12052&ciid=1&enc=aMtNo2LeHZD_9MCIK2JjuA').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16429&ciid=1&enc=ShRFBILPupnZRcLDqfZEkA').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12049&ciid=1&enc=JEVWsVEfCJhRmdnBNrgT9A').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12052&ciid=1&enc=aMtNo2LeHZD_9MCIK2JjuA').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12278&ciid=1&enc=KbWSltMP0M2Qk3h3GJfeaQ').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12049&ciid=1&enc=JEVWsVEfCJhRmdnBNrgT9A').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12883&ciid=1&enc=dul-75u5URvTxkxkM8m5lA').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16382&ciid=1&enc=iK-7GQ38RYSGXamy9K3jRg').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12741&ciid=1&enc=wiMqjq4bk28iKmxbWuVwRw').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12278&ciid=1&enc=KbWSltMP0M2Qk3h3GJfeaQ').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12279&ciid=1&enc=eeUljeA8Q4DbJqkR2OemDA').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12883&ciid=1&enc=dul-75u5URvTxkxkM8m5lA').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12829&ciid=1&enc=M1jtmc5on6IXTcHBn5IYag').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12741&ciid=1&enc=wiMqjq4bk28iKmxbWuVwRw').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14339&ciid=1&enc=Nv9RhMhO2tSTZFMRcnUkig').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12279&ciid=1&enc=eeUljeA8Q4DbJqkR2OemDA').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12920&ciid=1&enc=mKYtAIcCqbRDpl18OM77fA').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12829&ciid=1&enc=M1jtmc5on6IXTcHBn5IYag').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12922&ciid=1&enc=IvDcoeRpArCKny2-lpmLMA').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14339&ciid=1&enc=Nv9RhMhO2tSTZFMRcnUkig').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15179&ciid=1&enc=Va9XgWYJSIecPySIE28PHQ').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12920&ciid=1&enc=mKYtAIcCqbRDpl18OM77fA').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14340&ciid=1&enc=cWD3xKFMZP70-89HvWVnDQ').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12922&ciid=1&enc=IvDcoeRpArCKny2-lpmLMA').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12047&ciid=1&enc=4YnDPVHOi_V9mEpev9zODg').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16376&ciid=1&enc=L5ZlIHom68FLDi8HGUjvIQ').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12048&ciid=1&enc=A9uObNCbYERePBUyyLd6CA').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15179&ciid=1&enc=Va9XgWYJSIecPySIE28PHQ').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12051&ciid=1&enc=NxJjv7SBqrYzwV6J4FUQDQ').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14340&ciid=1&enc=cWD3xKFMZP70-89HvWVnDQ').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12322&ciid=1&enc=qiwd94xhkxKfRtnhhhj17g').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12047&ciid=1&enc=4YnDPVHOi_V9mEpev9zODg').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14430&ciid=1&enc=zT6BjVjMR0fN4k30NL7-ww').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16377&ciid=1&enc=V21Fs0maX9_WuhdHZ4H7qA').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14206&ciid=1&enc=mpInfyz9gaHG53pORxW_Cg').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12048&ciid=1&enc=A9uObNCbYERePBUyyLd6CA').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12055&ciid=1&enc=89ZwL0lej8oFx2bvic5xxg').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12051&ciid=1&enc=NxJjv7SBqrYzwV6J4FUQDQ').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11640&ciid=1&enc=eiX0Uu08mz_pRU3lq8SkUg').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16381&ciid=1&enc=juWGvw8D2QMB-hHBD-JEgQ').show();
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12157&ciid=1&enc=AfKSJvx-uo0aerR2NJ-zKw').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12322&ciid=1&enc=qiwd94xhkxKfRtnhhhj17g').show();
+			
+		
+			
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14430&ciid=1&enc=zT6BjVjMR0fN4k30NL7-ww').show();
+			
+		
+			
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16380&ciid=1&enc=1cv39K14OUCmWFJ_tWHi3g').show();
+			
+		
+			
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16378&ciid=1&enc=7EKQ73yXziWsFwxkhJF-9Q').show();
+			
+		
+			
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14206&ciid=1&enc=mpInfyz9gaHG53pORxW_Cg').show();
+			
+		
+			
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12055&ciid=1&enc=89ZwL0lej8oFx2bvic5xxg').show();
+			
+		
+			
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11640&ciid=1&enc=eiX0Uu08mz_pRU3lq8SkUg').show();
+			
+		
+			
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12157&ciid=1&enc=AfKSJvx-uo0aerR2NJ-zKw').show();
 			
 		
 
@@ -502,14 +530,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12059%26request_locale%3Dja%26a%3D202105071505&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12059%26request_locale%3Dja%26a%3D202106241151&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12059&request_locale=ja&a=202105071505" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12059&request_locale=ja&a=202106241151" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12059&request_locale=ja&a=202105071505"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12059&request_locale=ja&a=202106241151"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -654,7 +682,7 @@
 						<div>
 							<strong>
 
-								検索結果 27件中 1～27件を表示
+								検索結果 34件中 1～34件を表示
 							</strong>
 						</div>
 					</div>
@@ -1091,6 +1119,49 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>スピードロイドスクラッチ</span>
+						<span class="card_status">
+						<strong>SRスクラッチ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：手札から「スピードロイド」カード１枚を墓地へ送って発動できる。デッキから「スピードロイド」モンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="SRスクラッチ" title="SRスクラッチ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16429">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>スピードロイドタケトンボーグ</span>
 						<span class="card_status">
 						<strong>SRタケトンボーグ</strong>
@@ -1149,7 +1220,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="SRタケトンボーグ" title="SRタケトンボーグ" class="none">
+						<img id="card_image_7_1" alt="SRタケトンボーグ" title="SRタケトンボーグ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1217,11 +1288,54 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="SRダブルヨーヨー" title="SRダブルヨーヨー" class="none">
+						<img id="card_image_8_1" alt="SRダブルヨーヨー" title="SRダブルヨーヨー" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12049">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドデュプリゲート</span>
+						<span class="card_status">
+						<strong>SRデュプリゲート</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果はデュエル中に１度しか使用できない。①：自分の墓地から風属性モンスター１体を除外し、相手フィールドのカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。②：このカードが墓地に存在する場合、自分メインフェイズに自分フィールドの「スピードロイド」モンスター１体を対象として発動できる。そのモンスターのレベルを１つ下げ、このカードは通常モンスター（機械族・チューナー・風・星１・攻／守０）となり、モンスターゾーンに特殊召喚する（罠カードとしては扱わない）。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_9_1" alt="SRデュプリゲート" title="SRデュプリゲート" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16382">
 			</li>
 		  
 			<li>
@@ -1282,13 +1396,13 @@
 					
 					<dd class="box_card_text">
 					  
-						「SR電々大公」の効果は１ターンに１度しか使用できない。①：墓地のこのカードを除外して発動できる。自分の手札・墓地から「SR電々大公」以外の「スピードロイド」チューナー１体を選んで特殊召喚する。
+						このカード名の効果は１ターンに１度しか使用できない。①：墓地のこのカードを除外して発動できる。自分の手札・墓地から「SR電々大公」以外の「スピードロイド」チューナー１体を選んで特殊召喚する。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="SR電々大公" title="SR電々大公" class="none">
+						<img id="card_image_10_1" alt="SR電々大公" title="SR電々大公" class="none">
 					  
 					</dd>
 				</dl>
@@ -1372,7 +1486,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="SRドミノバタフライ" title="SRドミノバタフライ" class="none">
+						<img id="card_image_11_1" alt="SRドミノバタフライ" title="SRドミノバタフライ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1434,13 +1548,13 @@
 					
 					<dd class="box_card_text">
 					  
-						「SRバンブー・ホース」の②の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。手札からレベル４以下の「スピードロイド」モンスター１体を特殊召喚する。②：墓地のこのカードを除外して発動できる。デッキから風属性モンスター１体を墓地へ送る。この効果はこのカードが墓地へ送られたターンには発動できない。
+						このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。手札からレベル４以下の「スピードロイド」モンスター１体を特殊召喚する。②：墓地のこのカードを除外して発動できる。デッキから風属性モンスター１体を墓地へ送る。この効果はこのカードが墓地へ送られたターンには発動できない。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="SRバンブー・ホース" title="SRバンブー・ホース" class="none">
+						<img id="card_image_12_1" alt="SRバンブー・ホース" title="SRバンブー・ホース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1508,7 +1622,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="SRパチンゴーカート" title="SRパチンゴーカート" class="none">
+						<img id="card_image_13_1" alt="SRパチンゴーカート" title="SRパチンゴーカート" class="none">
 					  
 					</dd>
 				</dl>
@@ -1589,7 +1703,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="SRパッシングライダー" title="SRパッシングライダー" class="none">
+						<img id="card_image_14_1" alt="SRパッシングライダー" title="SRパッシングライダー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1670,7 +1784,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="SRビーダマシーン" title="SRビーダマシーン" class="none">
+						<img id="card_image_15_1" alt="SRビーダマシーン" title="SRビーダマシーン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1738,7 +1852,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="SRビードロ・ドクロ" title="SRビードロ・ドクロ" class="none">
+						<img id="card_image_16_1" alt="SRビードロ・ドクロ" title="SRビードロ・ドクロ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1806,11 +1920,82 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="SR５６プレーン" title="SR５６プレーン" class="none">
+						<img id="card_image_17_1" alt="SR５６プレーン" title="SR５６プレーン" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12922">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドふきもどうじ</span>
+						<span class="card_status">
+						<strong>SR吹持童子</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。このカード以外の自分フィールドの風属性モンスターの数だけ自分のデッキの上からカードをめくり、その中から１枚を選んで手札に加え、残りのカードを好きな順番でデッキの一番下に戻す。②：墓地のこのカードを除外し、自分フィールドのレベル３以上の風属性モンスター１体を対象として発動できる。そのモンスターのレベルを２つ下げる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_18_1" alt="SR吹持童子" title="SR吹持童子" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16376">
 			</li>
 		  
 			<li>
@@ -1874,7 +2059,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="SRブロックンロール" title="SRブロックンロール" class="none">
+						<img id="card_image_19_1" alt="SRブロックンロール" title="SRブロックンロール" class="none">
 					  
 					</dd>
 				</dl>
@@ -1955,7 +2140,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="SRヘキサソーサー" title="SRヘキサソーサー" class="none">
+						<img id="card_image_20_1" alt="SRヘキサソーサー" title="SRヘキサソーサー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2023,11 +2208,79 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="SRベイゴマックス" title="SRベイゴマックス" class="none">
+						<img id="card_image_21_1" alt="SRベイゴマックス" title="SRベイゴマックス" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12047">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドマジックハウンド</span>
+						<span class="card_status">
+						<strong>SRマジックハウンド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。デッキから「スピードロイド」カード１枚を墓地へ送る。②：墓地のこのカードを除外し、自分の墓地の「スピードロイド」モンスター１体を対象として発動できる。そのモンスターをデッキに戻し、そのモンスターとはカード名が異なり、レベルが同じ「スピードロイド」Sモンスター１体を効果を無効にしてEXデッキから特殊召喚する。この効果はこのカードが墓地へ送られたターンには発動できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_22_1" alt="SRマジックハウンド" title="SRマジックハウンド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16377">
 			</li>
 		  
 			<li>
@@ -2094,7 +2347,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="SR三つ目のダイス" title="SR三つ目のダイス" class="none">
+						<img id="card_image_23_1" alt="SR三つ目のダイス" title="SR三つ目のダイス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2162,11 +2415,59 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="SRメンコート" title="SRメンコート" class="none">
+						<img id="card_image_24_1" alt="SRメンコート" title="SRメンコート" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12051">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スピードロイドルーレット</span>
+						<span class="card_status">
+						<strong>SRルーレット</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：手札を１枚捨てて発動できる。サイコロを１回振る。レベルの合計が出た目と同じになるように手札・デッキから「スピードロイド」モンスターを２体まで効果を無効にして特殊召喚する。特殊召喚できなかった場合、自分は出た目の数×５００LPを失う。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_25_1" alt="SRルーレット" title="SRルーレット" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16381">
 			</li>
 		  
 			<li>
@@ -2233,7 +2534,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="HSR快刀乱破ズール" title="HSR快刀乱破ズール" class="none">
+						<img id="card_image_26_1" alt="HSR快刀乱破ズール" title="HSR快刀乱破ズール" class="none">
 					  
 					</dd>
 				</dl>
@@ -2304,11 +2605,156 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="HSRカイドレイク" title="HSRカイドレイク" class="none">
+						<img id="card_image_27_1" alt="HSRカイドレイク" title="HSRカイドレイク" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14430">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ハイスピードロイド／クリアウィングライダー</span>
+						<span class="card_status">
+						<strong>HSR／CWライダー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 11</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						風属性チューナー＋チューナー以外の風属性Sモンスター１体<br>①：１ターンに１度、自分メインフェイズに発動できる。サイコロを１回振る。出た目の数まで自分の墓地の風属性モンスターを選んでデッキに戻す。その後、戻した数まで相手フィールドのカードを選んで破壊できる。このカードの攻撃力はターン終了時まで、この効果で破壊した数×５００アップする。②：相手メインフェイズに、S召喚したこのカードをリリースして発動できる。EXデッキからレベル７の風属性Sモンスターを２体まで特殊召喚する（同名カードは１枚まで）。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_28_1" alt="HSR／CWライダー" title="HSR／CWライダー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16380">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ハイスピードロイドコルクジュウ</span>
+						<span class="card_status">
+						<strong>HSRコルク－１０</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 500</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>このカード名の効果は１ターンに１度しか使用できず、この効果を発動するターン、自分は風属性モンスターしか特殊召喚できない。①：このカードがS召喚に成功した場合、以下の効果から１つを選択して発動できる。<br>●デッキから「スピードロイド」魔法・罠カード１枚を手札に加える。<br>●このカードが「スピードロイド」モンスターのみを素材としてS召喚していた場合、そのS召喚に使用したS素材モンスター一組が全て自分の墓地に揃っていれば、その一組を特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_29_1" alt="HSRコルク－１０" title="HSRコルク－１０" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16378">
 			</li>
 		  
 			<li>
@@ -2372,7 +2818,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="HSR－GOMガン" title="HSR－GOMガン" class="none">
+						<img id="card_image_30_1" alt="HSR－GOMガン" title="HSR－GOMガン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2443,7 +2889,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="HSRチャンバライダー" title="HSRチャンバライダー" class="none">
+						<img id="card_image_31_1" alt="HSRチャンバライダー" title="HSRチャンバライダー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2514,7 +2960,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="HSR魔剣ダーマ" title="HSR魔剣ダーマ" class="none">
+						<img id="card_image_32_1" alt="HSR魔剣ダーマ" title="HSR魔剣ダーマ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2585,7 +3031,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="HSRマッハゴー・イータ" title="HSRマッハゴー・イータ" class="none">
+						<img id="card_image_33_1" alt="HSRマッハゴー・イータ" title="HSRマッハゴー・イータ" class="none">
 					  
 					</dd>
 				</dl>

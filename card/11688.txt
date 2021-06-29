@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="エッジインプ・チェーン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「エッジインプ・チェーン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11688%26request_locale%3Dja%26a%3D202105071313"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11688%26request_locale%3Dja%26a%3D202105071313"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11688%26request_locale%3Dja%26a%3D202106240959"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11688%26request_locale%3Dja%26a%3D202106240959"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -243,15 +243,19 @@
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13701&ciid=1&enc=fsJhl87xL937RrQjOd6sdQ').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16431&ciid=1&enc=bqO5JP1sUxjmy6y1F-e2ow').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12840&ciid=1&enc=1DYb4FwmUC3y2lBAkIzbvw').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13701&ciid=1&enc=fsJhl87xL937RrQjOd6sdQ').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11686&ciid=1&enc=gsskUw4UPGrAScJuitCC8w').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12840&ciid=1&enc=1DYb4FwmUC3y2lBAkIzbvw').show();
+			
+		
+			
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11686&ciid=1&enc=gsskUw4UPGrAScJuitCC8w').show();
 			
 		
 
@@ -570,14 +574,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11688%26request_locale%3Dja%26a%3D202105071313&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11688%26request_locale%3Dja%26a%3D202106240959&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11688&request_locale=ja&a=202105071313" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11688&request_locale=ja&a=202106240959" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11688&request_locale=ja&a=202105071313"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11688&request_locale=ja&a=202106240959"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -743,7 +747,7 @@
 						<div>
 							<strong>
 
-								検索結果 26件中 1～26件を表示
+								検索結果 27件中 1～27件を表示
 							</strong>
 						</div>
 					</div>
@@ -2165,6 +2169,49 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>トイ・パレード</span>
+						<span class="card_status">
+						<strong>トイ・パレード</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「デストーイ」カードとしても扱う。このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：EXデッキから特殊召喚された自分の闇属性モンスター１体を対象として発動できる。このターン、自分はそのモンスターでしか攻撃宣言できず、そのモンスターは戦闘でモンスターを破壊し墓地へ送る度に続けて攻撃できる。②：自分フィールドに天使族モンスターが存在する場合、墓地のこのカードを除外して発動できる。自分の墓地からレベル４以下の闇属性モンスター１体を選んで手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_23_1" alt="トイ・パレード" title="トイ・パレード" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16431">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ファーニマル・エンジェル</span>
 						<span class="card_status">
 						<strong>ファーニマル・エンジェル</strong>
@@ -2236,7 +2283,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="ファーニマル・エンジェル" title="ファーニマル・エンジェル" class="none">
+						<img id="card_image_24_1" alt="ファーニマル・エンジェル" title="ファーニマル・エンジェル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2304,7 +2351,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="ファーニマル・オクト" title="ファーニマル・オクト" class="none">
+						<img id="card_image_25_1" alt="ファーニマル・オクト" title="ファーニマル・オクト" class="none">
 					  
 					</dd>
 				</dl>
@@ -2372,7 +2419,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="ファーニマル・シープ" title="ファーニマル・シープ" class="none">
+						<img id="card_image_26_1" alt="ファーニマル・シープ" title="ファーニマル・シープ" class="none">
 					  
 					</dd>
 				</dl>

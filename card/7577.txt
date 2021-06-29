@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="D-HERO ドレッドサーヴァント | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「D-HERO ドレッドサーヴァント」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7577%26request_locale%3Dja%26a%3D202105071354"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7577%26request_locale%3Dja%26a%3D202105071354"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7577%26request_locale%3Dja%26a%3D202106241040"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7577%26request_locale%3Dja%26a%3D202106241040"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -415,55 +415,59 @@
 			
 		
 			
-				$('#card_image_66_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7615&ciid=1&enc=ou18eLJuoOevZ08wMNgc4g').show();
+				$('#card_image_66_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16406&ciid=1&enc=ZQhVW8pgG7xbNlw62qlJuw').show();
 			
 		
 			
-				$('#card_image_67_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6785&ciid=1&enc=nvB-C5tf4U3WmM7PRkFiVQ').show();
+				$('#card_image_67_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7615&ciid=1&enc=ou18eLJuoOevZ08wMNgc4g').show();
 			
 		
 			
-				$('#card_image_68_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8150&ciid=1&enc=HrCqRowWE96kma2z_kc2eg').show();
+				$('#card_image_68_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6785&ciid=1&enc=nvB-C5tf4U3WmM7PRkFiVQ').show();
 			
 		
 			
-				$('#card_image_69_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14913&ciid=1&enc=h09omAYRf1QXIlTzteAOzg').show();
+				$('#card_image_69_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8150&ciid=1&enc=HrCqRowWE96kma2z_kc2eg').show();
 			
 		
 			
-				$('#card_image_70_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9068&ciid=1&enc=KkFpS5Tj4BpVd8GD_XIQew').show();
+				$('#card_image_70_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14913&ciid=1&enc=h09omAYRf1QXIlTzteAOzg').show();
 			
 		
 			
-				$('#card_image_71_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14304&ciid=1&enc=R7vd1D5bdgdTCu8xHXcRYA').show();
+				$('#card_image_71_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9068&ciid=1&enc=KkFpS5Tj4BpVd8GD_XIQew').show();
 			
 		
 			
-				$('#card_image_72_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14914&ciid=1&enc=m39gdb6go0Ggdn9yBnZwqA').show();
+				$('#card_image_72_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14304&ciid=1&enc=R7vd1D5bdgdTCu8xHXcRYA').show();
 			
 		
 			
-				$('#card_image_73_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9066&ciid=1&enc=eskfCAJL2n2VGYTBmOBArA').show();
+				$('#card_image_73_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14914&ciid=1&enc=m39gdb6go0Ggdn9yBnZwqA').show();
 			
 		
 			
-				$('#card_image_74_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11309&ciid=1&enc=F4qiEgsjG49fjFysZqBtMw').show();
+				$('#card_image_74_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9066&ciid=1&enc=eskfCAJL2n2VGYTBmOBArA').show();
 			
 		
 			
-				$('#card_image_75_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11311&ciid=1&enc=vbOxEWUn5TkO2p4QN_nh_A').show();
+				$('#card_image_75_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11309&ciid=1&enc=F4qiEgsjG49fjFysZqBtMw').show();
 			
 		
 			
-				$('#card_image_76_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9067&ciid=1&enc=AUcuZa5Ct4bZ_c0p-5qPyQ').show();
+				$('#card_image_76_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11311&ciid=1&enc=vbOxEWUn5TkO2p4QN_nh_A').show();
 			
 		
 			
-				$('#card_image_77_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9559&ciid=1&enc=XO8XUJD7V8Mm9y91fnzxkA').show();
+				$('#card_image_77_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9067&ciid=1&enc=AUcuZa5Ct4bZ_c0p-5qPyQ').show();
 			
 		
 			
-				$('#card_image_78_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6668&ciid=1&enc=266jwq5X_CaSNN-PkYilXA').show();
+				$('#card_image_78_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9559&ciid=1&enc=XO8XUJD7V8Mm9y91fnzxkA').show();
+			
+		
+			
+				$('#card_image_79_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6668&ciid=1&enc=266jwq5X_CaSNN-PkYilXA').show();
 			
 		
 
@@ -782,14 +786,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7577%26request_locale%3Dja%26a%3D202105071354&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7577%26request_locale%3Dja%26a%3D202106241040&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7577&request_locale=ja&a=202105071354" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7577&request_locale=ja&a=202106241040" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7577&request_locale=ja&a=202105071354"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7577&request_locale=ja&a=202106241040"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -913,7 +917,7 @@
 						<div>
 							<strong>
 
-								検索結果 79件中 1～79件を表示
+								検索結果 80件中 1～80件を表示
 							</strong>
 						</div>
 					</div>
@@ -4982,6 +4986,49 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ドクターディー</span>
+						<span class="card_status">
+						<strong>ドクターD</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分の墓地から「D-HERO」モンスター１体を除外して発動できる。自分の墓地から「D-HERO」モンスター１体を選び、手札に加えるか特殊召喚する。②：墓地のこのカードを除外し、自分フィールドの「D-HERO」モンスター２体を対象として発動できる。対象のモンスター１体の攻撃力は、もう１体のモンスターの攻撃力と同じになる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_66_1" alt="ドクターD" title="ドクターD" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16406">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ドラグーン　ディーエンド</span>
 						<span class="card_status">
 						<strong>Dragoon D-END</strong>
@@ -5043,7 +5090,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_66_1" alt="Dragoon D-END" title="Dragoon D-END" class="none">
+						<img id="card_image_67_1" alt="Dragoon D-END" title="Dragoon D-END" class="none">
 					  
 					</dd>
 				</dl>
@@ -5086,7 +5133,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_67_1" alt="HERO&rsquo;S ボンド" title="HERO&rsquo;S ボンド" class="none">
+						<img id="card_image_68_1" alt="HERO&rsquo;S ボンド" title="HERO&rsquo;S ボンド" class="none">
 					  
 					</dd>
 				</dl>
@@ -5129,7 +5176,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_68_1" alt="HEROの遺産" title="HEROの遺産" class="none">
+						<img id="card_image_69_1" alt="HEROの遺産" title="HEROの遺産" class="none">
 					  
 					</dd>
 				</dl>
@@ -5177,7 +5224,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_69_1" alt="フェイバリット・ヒーロー" title="フェイバリット・ヒーロー" class="none">
+						<img id="card_image_70_1" alt="フェイバリット・ヒーロー" title="フェイバリット・ヒーロー" class="none">
 					  
 					</dd>
 				</dl>
@@ -5225,7 +5272,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_70_1" alt="フォーム・チェンジ" title="フォーム・チェンジ" class="none">
+						<img id="card_image_71_1" alt="フォーム・チェンジ" title="フォーム・チェンジ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5268,7 +5315,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_71_1" alt="フュージョン・デステニー" title="フュージョン・デステニー" class="none">
+						<img id="card_image_72_1" alt="フュージョン・デステニー" title="フュージョン・デステニー" class="none">
 					  
 					</dd>
 				</dl>
@@ -5311,7 +5358,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_72_1" alt="マジスタリー・アルケミスト" title="マジスタリー・アルケミスト" class="none">
+						<img id="card_image_73_1" alt="マジスタリー・アルケミスト" title="マジスタリー・アルケミスト" class="none">
 					  
 					</dd>
 				</dl>
@@ -5359,7 +5406,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_73_1" alt="マスク・チェンジ" title="マスク・チェンジ" class="none">
+						<img id="card_image_74_1" alt="マスク・チェンジ" title="マスク・チェンジ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5402,7 +5449,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_74_1" alt="マスク・チャージ" title="マスク・チャージ" class="none">
+						<img id="card_image_75_1" alt="マスク・チャージ" title="マスク・チャージ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5473,7 +5520,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_75_1" alt="M・HERO 光牙" title="M・HERO 光牙" class="none">
+						<img id="card_image_76_1" alt="M・HERO 光牙" title="M・HERO 光牙" class="none">
 					  
 					</dd>
 				</dl>
@@ -5544,7 +5591,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_76_1" alt="M・HERO 剛火" title="M・HERO 剛火" class="none">
+						<img id="card_image_77_1" alt="M・HERO 剛火" title="M・HERO 剛火" class="none">
 					  
 					</dd>
 				</dl>
@@ -5615,7 +5662,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_77_1" alt="M・HERO ダイアン" title="M・HERO ダイアン" class="none">
+						<img id="card_image_78_1" alt="M・HERO ダイアン" title="M・HERO ダイアン" class="none">
 					  
 					</dd>
 				</dl>
@@ -5663,7 +5710,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_78_1" alt="幽獄の時計塔" title="幽獄の時計塔" class="none">
+						<img id="card_image_79_1" alt="幽獄の時計塔" title="幽獄の時計塔" class="none">
 					  
 					</dd>
 				</dl>

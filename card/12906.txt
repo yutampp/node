@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="アストログラフ・マジシャン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「アストログラフ・マジシャン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12906%26request_locale%3Dja%26a%3D202105071445"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12906%26request_locale%3Dja%26a%3D202105071445"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12906%26request_locale%3Dja%26a%3D202106241131"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12906%26request_locale%3Dja%26a%3D202106241131"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -171,55 +171,59 @@
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12836&ciid=1&enc=L0fkmcLvSSA18oW3s4z7RA').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16379&ciid=1&enc=mdIVqQc99IebKkMhTDFP8w').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12908&ciid=1&enc=HCXdArfYOFWOo_5m-B5Osg').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12836&ciid=1&enc=L0fkmcLvSSA18oW3s4z7RA').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12909&ciid=1&enc=ajXL7IXg26RoshuYpCC-0g').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12908&ciid=1&enc=HCXdArfYOFWOo_5m-B5Osg').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12911&ciid=1&enc=U1yd4X1jXs8wICO2IgeahQ').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12909&ciid=1&enc=ajXL7IXg26RoshuYpCC-0g').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12628&ciid=1&enc=4J5x80uC0my2KzZEI_s4PQ').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12911&ciid=1&enc=U1yd4X1jXs8wICO2IgeahQ').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11385&ciid=1&enc=S8U54CJ1T4xFkFopjLW6tg').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12628&ciid=1&enc=4J5x80uC0my2KzZEI_s4PQ').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12639&ciid=1&enc=L0rABJD_lB2x6Zu2-934TQ').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11385&ciid=1&enc=S8U54CJ1T4xFkFopjLW6tg').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12953&ciid=1&enc=mHgG1oFHZY9jrXZlkDrQrQ').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12639&ciid=1&enc=L0rABJD_lB2x6Zu2-934TQ').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12910&ciid=1&enc=Whv0ZKOkJOxqG50ko2P4UA').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12953&ciid=1&enc=mHgG1oFHZY9jrXZlkDrQrQ').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11513&ciid=1&enc=Tu5Urk5iQPGxqu2gY53PZQ').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12910&ciid=1&enc=Whv0ZKOkJOxqG50ko2P4UA').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12774&ciid=1&enc=dmEd180pChVJarDQTDGoXQ').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11513&ciid=1&enc=Tu5Urk5iQPGxqu2gY53PZQ').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11134&ciid=1&enc=q-Q4qzO73fDNNDC827Y9KQ').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12774&ciid=1&enc=dmEd180pChVJarDQTDGoXQ').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11565&ciid=1&enc=lj3VLS3Zb-haj1uxEyoP6w').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11134&ciid=1&enc=q-Q4qzO73fDNNDC827Y9KQ').show();
+			
+		
+			
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11565&ciid=1&enc=lj3VLS3Zb-haj1uxEyoP6w').show();
 			
 		
 
@@ -572,14 +576,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12906%26request_locale%3Dja%26a%3D202105071445&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12906%26request_locale%3Dja%26a%3D202106241131&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12906&request_locale=ja&a=202105071445" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12906&request_locale=ja&a=202106241131" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12906&request_locale=ja&a=202105071445"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12906&request_locale=ja&a=202106241131"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -745,7 +749,7 @@
 						<div>
 							<strong>
 
-								検索結果 18件中 1～18件を表示
+								検索結果 19件中 1～19件を表示
 							</strong>
 						</div>
 					</div>
@@ -1137,6 +1141,77 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>クリスタルクリアウィング・シンクロ・ドラゴン</span>
+						<span class="card_status">
+						<strong>クリスタルクリアウィング・シンクロ・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 10</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						Sモンスターのチューナー＋チューナー以外の「クリアウィング」モンスター１体<br>①：１ターンに１度、相手がモンスターの効果を発動した時に発動できる。このカードはターン終了時まで、攻撃力がその相手モンスターの元々の攻撃力分アップし、相手が発動したモンスターの効果を受けない。②：１ターンに１度、魔法・罠カードの効果が発動した時に発動できる。その発動を無効にし破壊する。③：S召喚したこのカードが相手によって墓地へ送られた場合に発動できる。デッキから風属性モンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="クリスタルクリアウィング・シンクロ・ドラゴン" title="クリスタルクリアウィング・シンクロ・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16379">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>グリーディー・ヴェノム・フュージョン・ドラゴン</span>
 						<span class="card_status">
 						<strong>グリーディー・ヴェノム・フュージョン・ドラゴン</strong>
@@ -1198,7 +1273,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="グリーディー・ヴェノム・フュージョン・ドラゴン" title="グリーディー・ヴェノム・フュージョン・ドラゴン" class="none">
+						<img id="card_image_6_1" alt="グリーディー・ヴェノム・フュージョン・ドラゴン" title="グリーディー・ヴェノム・フュージョン・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1279,7 +1354,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="虹彩の魔術師" title="虹彩の魔術師" class="none">
+						<img id="card_image_7_1" alt="虹彩の魔術師" title="虹彩の魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -1360,7 +1435,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="黒牙の魔術師" title="黒牙の魔術師" class="none">
+						<img id="card_image_8_1" alt="黒牙の魔術師" title="黒牙の魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -1441,7 +1516,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="紫毒の魔術師" title="紫毒の魔術師" class="none">
+						<img id="card_image_9_1" alt="紫毒の魔術師" title="紫毒の魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -1512,7 +1587,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="スターヴ・ヴェノム・フュージョン・ドラゴン" title="スターヴ・ヴェノム・フュージョン・ドラゴン" class="none">
+						<img id="card_image_10_1" alt="スターヴ・ヴェノム・フュージョン・ドラゴン" title="スターヴ・ヴェノム・フュージョン・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1583,7 +1658,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="ダーク・リベリオン・エクシーズ・ドラゴン" title="ダーク・リベリオン・エクシーズ・ドラゴン" class="none">
+						<img id="card_image_11_1" alt="ダーク・リベリオン・エクシーズ・ドラゴン" title="ダーク・リベリオン・エクシーズ・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1654,7 +1729,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="ダーク・レクイエム・エクシーズ・ドラゴン" title="ダーク・レクイエム・エクシーズ・ドラゴン" class="none">
+						<img id="card_image_12_1" alt="ダーク・レクイエム・エクシーズ・ドラゴン" title="ダーク・レクイエム・エクシーズ・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1738,7 +1813,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="覇王龍ズァーク" title="覇王龍ズァーク" class="none">
+						<img id="card_image_13_1" alt="覇王龍ズァーク" title="覇王龍ズァーク" class="none">
 					  
 					</dd>
 				</dl>
@@ -1822,7 +1897,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="白翼の魔術師" title="白翼の魔術師" class="none">
+						<img id="card_image_14_1" alt="白翼の魔術師" title="白翼の魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -1893,7 +1968,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="ビーストアイズ・ペンデュラム・ドラゴン" title="ビーストアイズ・ペンデュラム・ドラゴン" class="none">
+						<img id="card_image_15_1" alt="ビーストアイズ・ペンデュラム・ドラゴン" title="ビーストアイズ・ペンデュラム・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1964,7 +2039,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="ブレイブアイズ・ペンデュラム・ドラゴン" title="ブレイブアイズ・ペンデュラム・ドラゴン" class="none">
+						<img id="card_image_16_1" alt="ブレイブアイズ・ペンデュラム・ドラゴン" title="ブレイブアイズ・ペンデュラム・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2045,7 +2120,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="星読みの魔術師" title="星読みの魔術師" class="none">
+						<img id="card_image_17_1" alt="星読みの魔術師" title="星読みの魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2116,7 +2191,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="ルーンアイズ・ペンデュラム・ドラゴン" title="ルーンアイズ・ペンデュラム・ドラゴン" class="none">
+						<img id="card_image_18_1" alt="ルーンアイズ・ペンデュラム・ドラゴン" title="ルーンアイズ・ペンデュラム・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>

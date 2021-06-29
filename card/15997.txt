@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ガーデン・ローズ・フローラ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ガーデン・ローズ・フローラ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15997%26request_locale%3Dja%26a%3D202105071239"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15997%26request_locale%3Dja%26a%3D202105071239"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15997%26request_locale%3Dja%26a%3D202106240925"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15997%26request_locale%3Dja%26a%3D202106240925"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -152,6 +152,14 @@
 		
 			
 				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14938&ciid=1&enc=EJW3WctRtYtea5Vpj1LEXA').show();
+			
+		
+			
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7904&ciid=1&enc=Jmgia9cGLxSfmDcXHkQ84Q').show();
+			
+		
+			
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14179&ciid=1&enc=iDiFTV2N7_3zq_XIXQV29g').show();
 			
 		
 
@@ -317,6 +325,8 @@
 	
 					ガーデン・ローズ・フローラ
 	
+					<span>Garden Rose Flora</span>
+	
 				</h1>
 			</div>
 		</header>
@@ -476,14 +486,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15997%26request_locale%3Dja%26a%3D202105071239&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15997%26request_locale%3Dja%26a%3D202106240925&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15997&request_locale=ja&a=202105071239" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15997&request_locale=ja&a=202106240925" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15997&request_locale=ja&a=202105071239"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15997&request_locale=ja&a=202106240925"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -607,7 +617,7 @@
 						<div>
 							<strong>
 
-								検索結果 1件中 1～1件を表示
+								検索結果 3件中 1～3件を表示
 							</strong>
 						</div>
 					</div>
@@ -687,6 +697,97 @@
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14938">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブラック・ガーデン</span>
+						<span class="card_status">
+						<strong>ブラック・ガーデン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_field.png" alt="フィールド" title="フィールド">
+							<span>フィールド</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：「ブラック・ガーデン」の効果以外でモンスターが表側表示で召喚・特殊召喚される度に発動する。そのモンスターの攻撃力を半分にする。その後、そのコントローラーは、相手のフィールドに「ローズ・トークン」（植物族・闇・星２・攻／守８００）１体を攻撃表示で特殊召喚する。②：フィールドの全ての植物族モンスターの攻撃力の合計と同じ攻撃力を持つ、自分の墓地のモンスター１体を対象として発動できる。このカード及びフィールドの植物族モンスターを全て破壊する。全て破壊した場合、対象のモンスターを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="ブラック・ガーデン" title="ブラック・ガーデン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=7904">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブルーミング・ローズ</span>
+						<span class="card_status">
+						<strong>漆黒の薔薇の開華</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できない。①：お互いのフィールドゾーンのカード及び墓地のフィールド魔法カードの数まで、自分・相手フィールドに「ローズ・トークン」（植物族・闇・星２・攻／守８００）を守備表示で特殊召喚する。②：このカードが墓地に存在する場合、自分フィールドの、「ブラック・ローズ・ドラゴン」または植物族モンスター１体を対象として発動できる。そのモンスターを除外し、このカードをデッキの一番下に戻す。この効果で除外したモンスターは次のスタンバイフェイズにフィールドに戻る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="漆黒の薔薇の開華" title="漆黒の薔薇の開華" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14179">
 			</li>
 		  
 		</ul><!--.box_list-->

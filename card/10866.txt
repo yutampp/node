@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="サイバー・ドラゴン・コア | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「サイバー・ドラゴン・コア」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10866%26request_locale%3Dja%26a%3D202105071448"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10866%26request_locale%3Dja%26a%3D202105071448"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10866%26request_locale%3Dja%26a%3D202106241125"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10866%26request_locale%3Dja%26a%3D202106241125"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -155,163 +155,187 @@
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7412&ciid=1&enc=9A2rUqMTMYUat2Uk7ilP3Q').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16295&ciid=1&enc=W0bo6g8NaQBpOstZKuaIyw').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7556&ciid=1&enc=o2quZQeYkzytgrZmKXU0ZQ').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7412&ciid=1&enc=9A2rUqMTMYUat2Uk7ilP3Q').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13850&ciid=1&enc=neUGzkksyNAb7c-B0QZEjw').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7556&ciid=1&enc=o2quZQeYkzytgrZmKXU0ZQ').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8428&ciid=1&enc=tBTQA_P7pz9HOkySok13QA').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13850&ciid=1&enc=neUGzkksyNAb7c-B0QZEjw').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6734&ciid=1&enc=shLdjF_ypCQz-97Sr8Iymw').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16297&ciid=1&enc=HunT2eKn3mR3awf3eo3pxA').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7403&ciid=1&enc=kjOQ5K9c_op_-Qb37j6Ekg').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8428&ciid=1&enc=tBTQA_P7pz9HOkySok13QA').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13358&ciid=1&enc=oxftq3dWdnCgI08de5mlyA').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6734&ciid=1&enc=shLdjF_ypCQz-97Sr8Iymw').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11764&ciid=1&enc=a1KhpL6E-GWrAFv-ZCXd_Q').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7403&ciid=1&enc=kjOQ5K9c_op_-Qb37j6Ekg').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13787&ciid=1&enc=fTb0VLWRJaWwvt-ICGshVw').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13358&ciid=1&enc=oxftq3dWdnCgI08de5mlyA').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7451&ciid=1&enc=c10WRfUHo68eRd_ZNvqhQw').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11764&ciid=1&enc=a1KhpL6E-GWrAFv-ZCXd_Q').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7468&ciid=1&enc=3A-wQEHhtjKEvpgydJLz6A').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13787&ciid=1&enc=fTb0VLWRJaWwvt-ICGshVw').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10982&ciid=1&enc=zNKKscOYgcu0TnWHZHi-wg').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7451&ciid=1&enc=c10WRfUHo68eRd_ZNvqhQw').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13851&ciid=1&enc=tl1nuQPOuG1n6-qnC_a-Tw').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7468&ciid=1&enc=3A-wQEHhtjKEvpgydJLz6A').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13847&ciid=1&enc=beUGeqzdTuefLl_S1eRVUw').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10982&ciid=1&enc=zNKKscOYgcu0TnWHZHi-wg').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15347&ciid=1&enc=90LOk9r_QLpq_swTOUTmYw').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16301&ciid=1&enc=jLtlg1OT8ly23_LQrRLOvg').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6397&ciid=1&enc=Wp1NCfhZfeS8Jl39ZVSQjg').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13851&ciid=1&enc=tl1nuQPOuG1n6-qnC_a-Tw').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6737&ciid=1&enc=88rhhw8oNbRUKB5cWvw3tQ').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13847&ciid=1&enc=beUGeqzdTuefLl_S1eRVUw').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13607&ciid=1&enc=VqE2NUk5PjCUo_VYZJxKjA').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15347&ciid=1&enc=90LOk9r_QLpq_swTOUTmYw').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6858&ciid=1&enc=jqh_wC2J6ioF_23v4_eqsw').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6397&ciid=1&enc=Wp1NCfhZfeS8Jl39ZVSQjg').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13283&ciid=1&enc=2d2DfrYwz2m8Pw4G8G9nuA').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6737&ciid=1&enc=88rhhw8oNbRUKB5cWvw3tQ').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7217&ciid=1&enc=0URd8vAwWbjZcKbjsimQhg').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13607&ciid=1&enc=VqE2NUk5PjCUo_VYZJxKjA').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13183&ciid=1&enc=r2F1uxQctk25A9y4FhCRdQ').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6858&ciid=1&enc=jqh_wC2J6ioF_23v4_eqsw').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6396&ciid=1&enc=aSaVDjBN4C7lD_uTlAwatw').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13283&ciid=1&enc=2d2DfrYwz2m8Pw4G8G9nuA').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6390&ciid=1&enc=iJYxuedfxpRhQ9q_RGFBHA').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16299&ciid=1&enc=OJywK0d-LQcogmGPye5ApQ').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11765&ciid=1&enc=shIXe1i4BsruyGfzZQj7Rg').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7217&ciid=1&enc=0URd8vAwWbjZcKbjsimQhg').show();
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13758&ciid=1&enc=TDOeIm5HvUG9Wq9X-dcofg').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13183&ciid=1&enc=r2F1uxQctk25A9y4FhCRdQ').show();
 			
 		
 			
-				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8646&ciid=1&enc=63USrF4UDbyqOurww_UbZQ').show();
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16296&ciid=1&enc=_HaZXDxtArCPe3Bn4yUmKQ').show();
 			
 		
 			
-				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10867&ciid=1&enc=LSWtNtEJ4wlmimiVH_MOCw').show();
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16298&ciid=1&enc=jpa6UiuJE_sbyoKzR5HHDQ').show();
 			
 		
 			
-				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14047&ciid=1&enc=z250xzxNpPAw17duWwIWBA').show();
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6396&ciid=1&enc=aSaVDjBN4C7lD_uTlAwatw').show();
 			
 		
 			
-				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10870&ciid=1&enc=VCXz49Wf8001cwWFC0kUwg').show();
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6390&ciid=1&enc=iJYxuedfxpRhQ9q_RGFBHA').show();
 			
 		
 			
-				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13722&ciid=1&enc=WEe0rD_JB10jZ_kZWHjE2Q').show();
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11765&ciid=1&enc=shIXe1i4BsruyGfzZQj7Rg').show();
 			
 		
 			
-				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13723&ciid=1&enc=ELYgCf4h8T2iz5NOrzOsBg').show();
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13758&ciid=1&enc=TDOeIm5HvUG9Wq9X-dcofg').show();
 			
 		
 			
-				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10869&ciid=1&enc=D9NSlnXttr6kLbEoxZaZkw').show();
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8646&ciid=1&enc=63USrF4UDbyqOurww_UbZQ').show();
 			
 		
 			
-				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4323&ciid=1&enc=9rmuZzKh5_f1tE9bvQYTFg').show();
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10867&ciid=1&enc=LSWtNtEJ4wlmimiVH_MOCw').show();
 			
 		
 			
-				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10868&ciid=1&enc=IbBYduaEX_xvRzYN_k4snQ').show();
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14047&ciid=1&enc=z250xzxNpPAw17duWwIWBA').show();
 			
 		
 			
-				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13770&ciid=1&enc=CGlr20njv4bvNkruNa3vWg').show();
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10870&ciid=1&enc=VCXz49Wf8001cwWFC0kUwg').show();
 			
 		
 			
-				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13849&ciid=1&enc=VwPoxIPby9kImcQosHSb9w').show();
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13722&ciid=1&enc=WEe0rD_JB10jZ_kZWHjE2Q').show();
 			
 		
 			
-				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11827&ciid=1&enc=loH9d8e9-6kE7C9qzfsmYg').show();
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13723&ciid=1&enc=ELYgCf4h8T2iz5NOrzOsBg').show();
 			
 		
 			
-				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6577&ciid=1&enc=edcUt3oOW0yfuXHq3AyiHg').show();
+				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10869&ciid=1&enc=D9NSlnXttr6kLbEoxZaZkw').show();
 			
 		
 			
-				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6588&ciid=1&enc=CCiiesgp-NhQCgepXpNcvA').show();
+				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4323&ciid=1&enc=9rmuZzKh5_f1tE9bvQYTFg').show();
+			
+		
+			
+				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10868&ciid=1&enc=IbBYduaEX_xvRzYN_k4snQ').show();
+			
+		
+			
+				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13770&ciid=1&enc=CGlr20njv4bvNkruNa3vWg').show();
+			
+		
+			
+				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13849&ciid=1&enc=VwPoxIPby9kImcQosHSb9w').show();
+			
+		
+			
+				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11827&ciid=1&enc=loH9d8e9-6kE7C9qzfsmYg').show();
+			
+		
+			
+				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6577&ciid=1&enc=edcUt3oOW0yfuXHq3AyiHg').show();
+			
+		
+			
+				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6588&ciid=1&enc=CCiiesgp-NhQCgepXpNcvA').show();
 			
 		
 
@@ -630,14 +654,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10866%26request_locale%3Dja%26a%3D202105071448&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10866%26request_locale%3Dja%26a%3D202106241125&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10866&request_locale=ja&a=202105071448" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10866&request_locale=ja&a=202106241125" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10866&request_locale=ja&a=202105071448"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10866&request_locale=ja&a=202106241125"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -682,6 +706,27 @@
 					<col width="50">
 					<tr>
 						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2021-05-15</td>
+		
+		
+		
+						<td>SD41-JP008</td>
+		
+		
+						<td>
+							<b>ストラクチャーデッキ－サイバー流の後継者－</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=1000000875000&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
 					</tr>
 	
 					<tr class="row">
@@ -803,7 +848,7 @@
 						<div>
 							<strong>
 
-								検索結果 41件中 1～41件を表示
+								検索結果 47件中 1～47件を表示
 							</strong>
 						</div>
 					</div>
@@ -858,6 +903,74 @@
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=6581">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アタッチメント・サイバーン</span>
+						<span class="card_status">
+						<strong>アタッチメント・サイバーン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の③の効果は１ターンに１度しか使用できない。①：自分フィールドのドラゴン族・機械族の「サイバー」モンスター１体を対象として発動できる。自分の手札・フィールドからこのカードを装備カード扱いとしてそのモンスターに装備する。②：このカードを装備したモンスターの攻撃力は６００アップする。③：モンスターに装備されているこのカードが墓地へ送られた場合、このカード以外の自分の墓地のドラゴン族・機械族の「サイバー」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="アタッチメント・サイバーン" title="アタッチメント・サイバーン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16295">
 			</li>
 		  
 			<li>
@@ -924,7 +1037,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="アーマード・サイバーン" title="アーマード・サイバーン" class="none">
+						<img id="card_image_2_1" alt="アーマード・サイバーン" title="アーマード・サイバーン" class="none">
 					  
 					</dd>
 				</dl>
@@ -967,7 +1080,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="エヴォリューション・バースト" title="エヴォリューション・バースト" class="none">
+						<img id="card_image_3_1" alt="エヴォリューション・バースト" title="エヴォリューション・バースト" class="none">
 					  
 					</dd>
 				</dl>
@@ -1015,11 +1128,59 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="エターナル・エヴォリューション・バースト" title="エターナル・エヴォリューション・バースト" class="none">
+						<img id="card_image_4_1" alt="エターナル・エヴォリューション・バースト" title="エターナル・エヴォリューション・バースト" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13850">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エターナル・サイバー</span>
+						<span class="card_status">
+						<strong>エターナル・サイバー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地の機械族の「サイバー」融合モンスター１体を対象として発動できる。そのモンスターをEXデッキに戻すか召喚条件を無視して特殊召喚する。②：自分フィールドの機械族の「サイバー」融合モンスターが戦闘・効果で破壊される場合、代わりに墓地のこのカードを除外できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="エターナル・サイバー" title="エターナル・サイバー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16297">
 			</li>
 		  
 			<li>
@@ -1058,7 +1219,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="エマージェンシー・サイバー" title="エマージェンシー・サイバー" class="none">
+						<img id="card_image_6_1" alt="エマージェンシー・サイバー" title="エマージェンシー・サイバー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1123,13 +1284,13 @@
 					
 					<dd class="box_card_text">
 					  
-						「サイバー・ドラゴン」＋機械族モンスター１体以上<br>このカードは融合召喚でしか特殊召喚できない。このカードが融合召喚に成功した時、このカード以外の自分フィールド上のカードを全て墓地へ送る。このカードの元々の攻撃力・守備力は、このカードの融合素材としたモンスターの数×８００ポイントになる。このカードは融合素材としたモンスターの数だけ相手モンスターを攻撃できる。
+						「サイバー・ドラゴン」＋機械族モンスター１体以上<br>このカードは融合召喚でしか特殊召喚できない。①：このカードが融合召喚に成功した場合に発動する。このカード以外の自分フィールドのカードを全て墓地へ送る。②：このカードの元々の攻撃力・守備力は、このカードの融合素材としたモンスターの数×８００になる。③：このカードは１度のバトルフェイズ中に、このカードの融合素材としたモンスターの数まで相手モンスターに攻撃できる。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="キメラテック・オーバー・ドラゴン" title="キメラテック・オーバー・ドラゴン" class="none">
+						<img id="card_image_7_1" alt="キメラテック・オーバー・ドラゴン" title="キメラテック・オーバー・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1200,7 +1361,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="キメラテック・フォートレス・ドラゴン" title="キメラテック・フォートレス・ドラゴン" class="none">
+						<img id="card_image_8_1" alt="キメラテック・フォートレス・ドラゴン" title="キメラテック・フォートレス・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1271,7 +1432,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="キメラテック・メガフリート・ドラゴン" title="キメラテック・メガフリート・ドラゴン" class="none">
+						<img id="card_image_9_1" alt="キメラテック・メガフリート・ドラゴン" title="キメラテック・メガフリート・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1342,7 +1503,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="キメラテック・ランページ・ドラゴン" title="キメラテック・ランページ・ドラゴン" class="none">
+						<img id="card_image_10_1" alt="キメラテック・ランページ・ドラゴン" title="キメラテック・ランページ・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1385,7 +1546,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="サイバネティック・オーバーフロー" title="サイバネティック・オーバーフロー" class="none">
+						<img id="card_image_11_1" alt="サイバネティック・オーバーフロー" title="サイバネティック・オーバーフロー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1433,7 +1594,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="サイバネティック・ゾーン" title="サイバネティック・ゾーン" class="none">
+						<img id="card_image_12_1" alt="サイバネティック・ゾーン" title="サイバネティック・ゾーン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1481,7 +1642,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="サイバネティック・ヒドゥン・テクノロジー" title="サイバネティック・ヒドゥン・テクノロジー" class="none">
+						<img id="card_image_13_1" alt="サイバネティック・ヒドゥン・テクノロジー" title="サイバネティック・ヒドゥン・テクノロジー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1529,11 +1690,54 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="サイバネティック・フュージョン・サポート" title="サイバネティック・フュージョン・サポート" class="none">
+						<img id="card_image_14_1" alt="サイバネティック・フュージョン・サポート" title="サイバネティック・フュージョン・サポート" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10982">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>サイバネティック・ホライゾン</span>
+						<span class="card_status">
+						<strong>サイバネティック・ホライゾン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「サイバーダーク」カードとしても扱う。このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分は機械族モンスターしかEXデッキから特殊召喚できない。①：手札及びデッキからそれぞれ１体ずつ、ドラゴン族・機械族の「サイバー」モンスターを墓地へ送って発動できる（同じ属性は１体まで）。デッキからドラゴン族・機械族の「サイバー」モンスター１体を手札に加え、EXデッキから機械族の「サイバー」融合モンスター１体を墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_15_1" alt="サイバネティック・ホライゾン" title="サイバネティック・ホライゾン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16301">
 			</li>
 		  
 			<li>
@@ -1572,7 +1776,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="サイバネティック・レボリューション" title="サイバネティック・レボリューション" class="none">
+						<img id="card_image_16_1" alt="サイバネティック・レボリューション" title="サイバネティック・レボリューション" class="none">
 					  
 					</dd>
 				</dl>
@@ -1643,7 +1847,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="サイバー・エタニティ・ドラゴン" title="サイバー・エタニティ・ドラゴン" class="none">
+						<img id="card_image_17_1" alt="サイバー・エタニティ・ドラゴン" title="サイバー・エタニティ・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1691,7 +1895,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="電脳エナジーショック" title="電脳エナジーショック" class="none">
+						<img id="card_image_18_1" alt="電脳エナジーショック" title="電脳エナジーショック" class="none">
 					  
 					</dd>
 				</dl>
@@ -1762,7 +1966,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="サイバー・エンド・ドラゴン" title="サイバー・エンド・ドラゴン" class="none">
+						<img id="card_image_19_1" alt="サイバー・エンド・ドラゴン" title="サイバー・エンド・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1810,7 +2014,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="サイバー・サモン・ブラスター" title="サイバー・サモン・ブラスター" class="none">
+						<img id="card_image_20_1" alt="サイバー・サモン・ブラスター" title="サイバー・サモン・ブラスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1858,7 +2062,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="サイバーサル・サイクロン" title="サイバーサル・サイクロン" class="none">
+						<img id="card_image_21_1" alt="サイバーサル・サイクロン" title="サイバーサル・サイクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1906,7 +2110,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="サイバー・シャドー・ガードナー" title="サイバー・シャドー・ガードナー" class="none">
+						<img id="card_image_22_1" alt="サイバー・シャドー・ガードナー" title="サイバー・シャドー・ガードナー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1949,11 +2153,59 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="サイバース・ビーコン" title="サイバース・ビーコン" class="none">
+						<img id="card_image_23_1" alt="サイバース・ビーコン" title="サイバース・ビーコン" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13283">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>サイバーダーク・インヴェイジョン</span>
+						<span class="card_status">
+						<strong>サイバーダーク・インヴェイジョン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：１ターンに１度、以下の効果から１つを選択して発動できる。「サイバーダーク・インヴェイジョン」の以下の効果はそれぞれ１ターンに１度しか選択できない。<br>●自分フィールドの「サイバー・ダーク」効果モンスター１体を対象として発動できる。自分・相手の墓地からドラゴン族・機械族モンスター１体を選び、攻撃力１０００アップの装備カード扱いとして対象のモンスターに装備する。<br>●機械族モンスターに装備されている自分フィールドの装備カード１枚を墓地へ送って発動できる。相手フィールドのカード１枚を選んで破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_24_1" alt="サイバーダーク・インヴェイジョン" title="サイバーダーク・インヴェイジョン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16299">
 			</li>
 		  
 			<li>
@@ -1992,7 +2244,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="サイバーダーク・インパクト！" title="サイバーダーク・インパクト！" class="none">
+						<img id="card_image_25_1" alt="サイバーダーク・インパクト！" title="サイバーダーク・インパクト！" class="none">
 					  
 					</dd>
 				</dl>
@@ -2040,11 +2292,127 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="サイバーダーク・インフェルノ" title="サイバーダーク・インフェルノ" class="none">
+						<img id="card_image_26_1" alt="サイバーダーク・インフェルノ" title="サイバーダーク・インフェルノ" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13183">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>サイバー・ダーク・キメラ</span>
+						<span class="card_status">
+						<strong>サイバー・ダーク・キメラ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 2100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札から魔法・罠カード１枚を捨てて発動できる。デッキから「パワー・ボンド」１枚を手札に加える。このターン、自分はドラゴン族・機械族の「サイバー」モンスターしか融合素材にできず、自分が融合召喚する場合に１度だけ、自分の墓地のモンスターを除外して融合素材とする事もできる。②：このカードが墓地へ送られた場合に発動できる。同名カードが自分の墓地に存在しない「サイバー・ダーク」モンスター１体をデッキから墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_27_1" alt="サイバー・ダーク・キメラ" title="サイバー・ダーク・キメラ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16296">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>サイバーダーク・ワールド</span>
+						<span class="card_status">
+						<strong>サイバーダーク・ワールド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できず、このカード名の②の効果は１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、同名カードが自分の墓地に存在しない「サイバー・ダーク」モンスター１体をデッキから手札に加える事ができる。②：自分メインフェイズに発動できる。「サイバー・ダーク」モンスター１体を召喚する。③：「サイバー・ダーク」モンスターの召喚・特殊召喚成功時に発動する自身の効果で、自分が自分の墓地からモンスターを装備する場合、代わりに相手の墓地から装備する事もできる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_28_1" alt="サイバーダーク・ワールド" title="サイバーダーク・ワールド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16298">
 			</li>
 		  
 			<li>
@@ -2111,7 +2479,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="サイバー・ツイン・ドラゴン" title="サイバー・ツイン・ドラゴン" class="none">
+						<img id="card_image_29_1" alt="サイバー・ツイン・ドラゴン" title="サイバー・ツイン・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2179,7 +2547,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="サイバー・ドラゴン" title="サイバー・ドラゴン" class="none">
+						<img id="card_image_30_1" alt="サイバー・ドラゴン" title="サイバー・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2250,7 +2618,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="サイバー・ドラゴン・インフィニティ" title="サイバー・ドラゴン・インフィニティ" class="none">
+						<img id="card_image_31_1" alt="サイバー・ドラゴン・インフィニティ" title="サイバー・ドラゴン・インフィニティ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2318,7 +2686,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="サイバー・ドラゴン・ズィーガー" title="サイバー・ドラゴン・ズィーガー" class="none">
+						<img id="card_image_32_1" alt="サイバー・ドラゴン・ズィーガー" title="サイバー・ドラゴン・ズィーガー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2380,13 +2748,13 @@
 					
 					<dd class="box_card_text">
 					  
-						このカードが相手モンスターに攻撃するダメージステップの間、このカードの攻撃力は３００ポイントアップする。１ターンに１度、手札の魔法カード１枚を相手に見せて発動できる。このカードのカード名はエンドフェイズ時まで「サイバー・ドラゴン」として扱う。また、このカードのカード名は、墓地に存在する限り「サイバー・ドラゴン」として扱う。
+						①：このカードのカード名は、墓地に存在する限り「サイバー・ドラゴン」として扱う。②：１ターンに１度、手札の魔法カード１枚を相手に見せて発動できる。このカードのカード名はエンドフェイズまで「サイバー・ドラゴン」として扱う。③：このカードが相手モンスターに攻撃するダメージステップの間、このカードの攻撃力は３００アップする。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_27_1" alt="サイバー・ドラゴン・ツヴァイ" title="サイバー・ドラゴン・ツヴァイ" class="none">
+						<img id="card_image_33_1" alt="サイバー・ドラゴン・ツヴァイ" title="サイバー・ドラゴン・ツヴァイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2454,7 +2822,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_28_1" alt="サイバー・ドラゴン・ドライ" title="サイバー・ドラゴン・ドライ" class="none">
+						<img id="card_image_34_1" alt="サイバー・ドラゴン・ドライ" title="サイバー・ドラゴン・ドライ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2516,13 +2884,13 @@
 					
 					<dd class="box_card_text">
 					  
-						このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードのカード名は、フィールド・墓地に存在する限り「サイバー・ドラゴン」として扱う。②：手札からこのカード以外のモンスター１体を捨てて発動できる。このカードを手札から特殊召喚する。③：このカードが召喚・特殊召喚に成功した場合、攻撃力または守備力が２１００の、自分の墓地の機械族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果の発動後、ターン終了時まで自分は機械族モンスターしか特殊召喚できない。
+						このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードのカード名は、フィールド・墓地に存在する限り「サイバー・ドラゴン」として扱う。②：手札からこのカード以外のモンスター１体を捨てて発動できる。このカードを手札から特殊召喚する。③：このカードが召喚・特殊召喚に成功した場合、自分の墓地の、攻撃力か守備力が２１００の機械族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果の発動後、ターン終了時まで自分は機械族モンスターしか特殊召喚できない。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_29_1" alt="サイバー・ドラゴン・ネクステア" title="サイバー・ドラゴン・ネクステア" class="none">
+						<img id="card_image_35_1" alt="サイバー・ドラゴン・ネクステア" title="サイバー・ドラゴン・ネクステア" class="none">
 					  
 					</dd>
 				</dl>
@@ -2593,7 +2961,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_30_1" alt="サイバー・ドラゴン・ノヴァ" title="サイバー・ドラゴン・ノヴァ" class="none">
+						<img id="card_image_36_1" alt="サイバー・ドラゴン・ノヴァ" title="サイバー・ドラゴン・ノヴァ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2661,7 +3029,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_31_1" alt="サイバー・ドラゴン・フィーア" title="サイバー・ドラゴン・フィーア" class="none">
+						<img id="card_image_37_1" alt="サイバー・ドラゴン・フィーア" title="サイバー・ドラゴン・フィーア" class="none">
 					  
 					</dd>
 				</dl>
@@ -2729,7 +3097,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_32_1" alt="サイバー・ドラゴン・ヘルツ" title="サイバー・ドラゴン・ヘルツ" class="none">
+						<img id="card_image_38_1" alt="サイバー・ドラゴン・ヘルツ" title="サイバー・ドラゴン・ヘルツ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2777,7 +3145,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_33_1" alt="サイバー・ネットワーク" title="サイバー・ネットワーク" class="none">
+						<img id="card_image_39_1" alt="サイバー・ネットワーク" title="サイバー・ネットワーク" class="none">
 					  
 					</dd>
 				</dl>
@@ -2825,7 +3193,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_34_1" alt="サイバー・ボンテージ" title="サイバー・ボンテージ" class="none">
+						<img id="card_image_40_1" alt="サイバー・ボンテージ" title="サイバー・ボンテージ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2868,7 +3236,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_35_1" alt="サイバー・リペア・プラント" title="サイバー・リペア・プラント" class="none">
+						<img id="card_image_41_1" alt="サイバー・リペア・プラント" title="サイバー・リペア・プラント" class="none">
 					  
 					</dd>
 				</dl>
@@ -2911,7 +3279,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_36_1" alt="サイバー・レヴシステム" title="サイバー・レヴシステム" class="none">
+						<img id="card_image_42_1" alt="サイバー・レヴシステム" title="サイバー・レヴシステム" class="none">
 					  
 					</dd>
 				</dl>
@@ -2959,7 +3327,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_37_1" alt="サイバーロード・フュージョン" title="サイバーロード・フュージョン" class="none">
+						<img id="card_image_43_1" alt="サイバーロード・フュージョン" title="サイバーロード・フュージョン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3030,7 +3398,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_38_1" alt="トゥーン・サイバー・ドラゴン" title="トゥーン・サイバー・ドラゴン" class="none">
+						<img id="card_image_44_1" alt="トゥーン・サイバー・ドラゴン" title="トゥーン・サイバー・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3078,7 +3446,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_39_1" alt="フォトン・ジェネレーター・ユニット" title="フォトン・ジェネレーター・ユニット" class="none">
+						<img id="card_image_45_1" alt="フォトン・ジェネレーター・ユニット" title="フォトン・ジェネレーター・ユニット" class="none">
 					  
 					</dd>
 				</dl>
@@ -3146,7 +3514,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_40_1" alt="プロト・サイバー・ドラゴン" title="プロト・サイバー・ドラゴン" class="none">
+						<img id="card_image_46_1" alt="プロト・サイバー・ドラゴン" title="プロト・サイバー・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>

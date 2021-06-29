@@ -1,5 +1,5 @@
 const express = require('express');
-const izondo = require('./index.js');
+const dependency = require('./dependency.js');
 const fs = require("fs/promises");
 
 const app = express();
@@ -14,6 +14,7 @@ app.use((req, res, next) => {
 });
 
 app.use("/images", express.static("images"));
+app.use("/card", express.static("card"));
 
 app.get("/cardarray/",(req,res) =>{
   fs.readFile("cardarray.out", "utf8").then(data => {
@@ -36,7 +37,7 @@ app.get("/deckarray/",(req,res) =>{
 
 app.get("/dependency/:cid/", (req, res) => {
   const cid = req.params.cid;
-  izondo(cid).then(data=>{
+  dependency(cid).then(data=>{
     res.send(JSON.stringify(data) )
   });
 })

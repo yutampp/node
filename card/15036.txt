@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ジ・アライバル・サイバース＠イグニスター | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ジ・アライバル・サイバース＠イグニスター」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15036%26request_locale%3Dja%26a%3D202105071245"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15036%26request_locale%3Dja%26a%3D202105071245"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15036%26request_locale%3Dja%26a%3D202106240931"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15036%26request_locale%3Dja%26a%3D202106240931"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -163,79 +163,107 @@
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14861&ciid=1&enc=ZA1CxID5OmOeA76GfbSVlQ').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16436&ciid=1&enc=7l9bVIxnUGEEmO3pkn045A').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14863&ciid=1&enc=WGEfq5v0lJ54kwOzI-YX3Q').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14861&ciid=1&enc=ZA1CxID5OmOeA76GfbSVlQ').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14862&ciid=1&enc=ypCAZCSZQ3YlJ21WZbjQTQ').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14863&ciid=1&enc=WGEfq5v0lJ54kwOzI-YX3Q').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14813&ciid=1&enc=BlFUipzXhL7pXk9Q7rQTNw').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14862&ciid=1&enc=ypCAZCSZQ3YlJ21WZbjQTQ').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14859&ciid=1&enc=Mc2_DyPlmU9gR38UVy06eQ').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16295&ciid=1&enc=W0bo6g8NaQBpOstZKuaIyw').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14851&ciid=1&enc=F0jZlmXc537UzbKk_8uN7g').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14813&ciid=1&enc=BlFUipzXhL7pXk9Q7rQTNw').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15972&ciid=1&enc=HyT8YeEutdE_SN5_YRZFFw').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14859&ciid=1&enc=Mc2_DyPlmU9gR38UVy06eQ').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16006&ciid=1&enc=O0ePrfI26lsbnr78w3wf8Q').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14851&ciid=1&enc=F0jZlmXc537UzbKk_8uN7g').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14854&ciid=1&enc=KjYOwk-dgiDbQbYU9n0QqA').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16297&ciid=1&enc=HunT2eKn3mR3awf3eo3pxA').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14815&ciid=1&enc=85BwdFcwm3oeJ6sndz4IDg').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16435&ciid=1&enc=0oBBrM8XNcy29cv0uw02bQ').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14812&ciid=1&enc=7eRuY1035gCme8eObl1fUA').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16301&ciid=1&enc=jLtlg1OT8ly23_LQrRLOvg').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14816&ciid=1&enc=8F0fmfFkrLALppEbGwnXuA').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16296&ciid=1&enc=_HaZXDxtArCPe3Bn4yUmKQ').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16037&ciid=1&enc=Jxrgmy3paxUXTa1uyzBaYg').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15972&ciid=1&enc=HyT8YeEutdE_SN5_YRZFFw').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14814&ciid=1&enc=FZLg3ujSvq10YqH6ZvBlmw').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16006&ciid=1&enc=O0ePrfI26lsbnr78w3wf8Q').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14810&ciid=1&enc=eW9jG3mqg8sl3llGd_DWdw').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14854&ciid=1&enc=KjYOwk-dgiDbQbYU9n0QqA').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14811&ciid=1&enc=X_PEEziy5BxNsH16UObTCQ').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14815&ciid=1&enc=85BwdFcwm3oeJ6sndz4IDg').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16021&ciid=1&enc=OiiORt2RgoWgy5GKEhnP5A').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14812&ciid=1&enc=7eRuY1035gCme8eObl1fUA').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14853&ciid=1&enc=4jApFW6RriEx4b0KvQBDUw').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14816&ciid=1&enc=8F0fmfFkrLALppEbGwnXuA').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14904&ciid=1&enc=F6fcPMqoCYfgnIXO0G1lHA').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16037&ciid=1&enc=Jxrgmy3paxUXTa1uyzBaYg').show();
+			
+		
+			
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14814&ciid=1&enc=FZLg3ujSvq10YqH6ZvBlmw').show();
+			
+		
+			
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14810&ciid=1&enc=eW9jG3mqg8sl3llGd_DWdw').show();
+			
+		
+			
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14811&ciid=1&enc=X_PEEziy5BxNsH16UObTCQ').show();
+			
+		
+			
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16021&ciid=1&enc=OiiORt2RgoWgy5GKEhnP5A').show();
+			
+		
+			
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16022&ciid=1&enc=VCc8TSjX84yIpLN0_fpo7Q').show();
+			
+		
+			
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14853&ciid=1&enc=4jApFW6RriEx4b0KvQBDUw').show();
+			
+		
+			
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14904&ciid=1&enc=F6fcPMqoCYfgnIXO0G1lHA').show();
 			
 		
 
@@ -559,14 +587,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15036%26request_locale%3Dja%26a%3D202105071245&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15036%26request_locale%3Dja%26a%3D202106240931&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15036&request_locale=ja&a=202105071245" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15036&request_locale=ja&a=202106240931" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15036&request_locale=ja&a=202105071245"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15036&request_locale=ja&a=202106240931"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -753,7 +781,7 @@
 						<div>
 							<strong>
 
-								検索結果 22件中 1～22件を表示
+								検索結果 29件中 1～29件を表示
 							</strong>
 						</div>
 					</div>
@@ -914,6 +942,49 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>アイ－ショウ</span>
+						<span class="card_status">
+						<strong>Ai－SHOW</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：EXモンスターゾーンに自分のリンク３以上の「＠イグニスター」モンスターが存在する場合、相手モンスターの攻撃宣言時に発動できる。攻撃力の合計が、その攻撃モンスターの攻撃力以下になるように、リンクモンスター以外の攻撃力２３００のサイバース族モンスターをEXデッキから任意の数だけ選んで特殊召喚する。その後、バトルフェイズを終了する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="Ai－SHOW" title="Ai－SHOW" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16436">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>アイドリング・ボーン</span>
 						<span class="card_status">
 						<strong>Aiドリング・ボーン</strong>
@@ -952,7 +1023,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="Aiドリング・ボーン" title="Aiドリング・ボーン" class="none">
+						<img id="card_image_4_1" alt="Aiドリング・ボーン" title="Aiドリング・ボーン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1000,7 +1071,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="Aiの儀式" title="Aiの儀式" class="none">
+						<img id="card_image_5_1" alt="Aiの儀式" title="Aiの儀式" class="none">
 					  
 					</dd>
 				</dl>
@@ -1043,11 +1114,79 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="Aiラブ融合" title="Aiラブ融合" class="none">
+						<img id="card_image_6_1" alt="Aiラブ融合" title="Aiラブ融合" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14862">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>アタッチメント・サイバーン</span>
+						<span class="card_status">
+						<strong>アタッチメント・サイバーン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の③の効果は１ターンに１度しか使用できない。①：自分フィールドのドラゴン族・機械族の「サイバー」モンスター１体を対象として発動できる。自分の手札・フィールドからこのカードを装備カード扱いとしてそのモンスターに装備する。②：このカードを装備したモンスターの攻撃力は６００アップする。③：モンスターに装備されているこのカードが墓地へ送られた場合、このカード以外の自分の墓地のドラゴン族・機械族の「サイバー」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="アタッチメント・サイバーン" title="アタッチメント・サイバーン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16295">
 			</li>
 		  
 			<li>
@@ -1111,7 +1250,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="アチチ＠イグニスター" title="アチチ＠イグニスター" class="none">
+						<img id="card_image_8_1" alt="アチチ＠イグニスター" title="アチチ＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1159,7 +1298,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="イグニスターAiランド" title="イグニスターAiランド" class="none">
+						<img id="card_image_9_1" alt="イグニスターAiランド" title="イグニスターAiランド" class="none">
 					  
 					</dd>
 				</dl>
@@ -1230,11 +1369,213 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="ウィンドペガサス＠イグニスター" title="ウィンドペガサス＠イグニスター" class="none">
+						<img id="card_image_10_1" alt="ウィンドペガサス＠イグニスター" title="ウィンドペガサス＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14851">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>エターナル・サイバー</span>
+						<span class="card_status">
+						<strong>エターナル・サイバー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地の機械族の「サイバー」融合モンスター１体を対象として発動できる。そのモンスターをEXデッキに戻すか召喚条件を無視して特殊召喚する。②：自分フィールドの機械族の「サイバー」融合モンスターが戦闘・効果で破壊される場合、代わりに墓地のこのカードを除外できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_11_1" alt="エターナル・サイバー" title="エターナル・サイバー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16297">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>キ－アイ－</span>
+						<span class="card_status">
+						<strong>キ－Ai－</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地の「＠イグニスター」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：自分フィールドの攻撃力２３００以上の「＠イグニスター」モンスターが効果で破壊される場合、代わりに墓地のこのカードを除外できる。③：このカードが除外された場合に発動できる。このターン、自分の攻撃力２３００以上の「＠イグニスター」モンスターは戦闘では破壊されない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_12_1" alt="キ－Ai－" title="キ－Ai－" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16435">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>サイバネティック・ホライゾン</span>
+						<span class="card_status">
+						<strong>サイバネティック・ホライゾン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「サイバーダーク」カードとしても扱う。このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分は機械族モンスターしかEXデッキから特殊召喚できない。①：手札及びデッキからそれぞれ１体ずつ、ドラゴン族・機械族の「サイバー」モンスターを墓地へ送って発動できる（同じ属性は１体まで）。デッキからドラゴン族・機械族の「サイバー」モンスター１体を手札に加え、EXデッキから機械族の「サイバー」融合モンスター１体を墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_13_1" alt="サイバネティック・ホライゾン" title="サイバネティック・ホライゾン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16301">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>サイバー・ダーク・キメラ</span>
+						<span class="card_status">
+						<strong>サイバー・ダーク・キメラ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 800</span>
+						
+						
+							<span class="def_power">守備力 2100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札から魔法・罠カード１枚を捨てて発動できる。デッキから「パワー・ボンド」１枚を手札に加える。このターン、自分はドラゴン族・機械族の「サイバー」モンスターしか融合素材にできず、自分が融合召喚する場合に１度だけ、自分の墓地のモンスターを除外して融合素材とする事もできる。②：このカードが墓地へ送られた場合に発動できる。同名カードが自分の墓地に存在しない「サイバー・ダーク」モンスター１体をデッキから墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_14_1" alt="サイバー・ダーク・キメラ" title="サイバー・ダーク・キメラ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16296">
 			</li>
 		  
 			<li>
@@ -1298,7 +1639,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ダンマリ＠イグニスター" title="ダンマリ＠イグニスター" class="none">
+						<img id="card_image_15_1" alt="ダンマリ＠イグニスター" title="ダンマリ＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1366,7 +1707,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="ダークインファント＠イグニスター" title="ダークインファント＠イグニスター" class="none">
+						<img id="card_image_16_1" alt="ダークインファント＠イグニスター" title="ダークインファント＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1434,7 +1775,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="ダークナイト＠イグニスター" title="ダークナイト＠イグニスター" class="none">
+						<img id="card_image_17_1" alt="ダークナイト＠イグニスター" title="ダークナイト＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1502,7 +1843,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="ドシン＠イグニスター" title="ドシン＠イグニスター" class="none">
+						<img id="card_image_18_1" alt="ドシン＠イグニスター" title="ドシン＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1570,7 +1911,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="ドヨン＠イグニスター" title="ドヨン＠イグニスター" class="none">
+						<img id="card_image_19_1" alt="ドヨン＠イグニスター" title="ドヨン＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1638,7 +1979,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="ドンヨリボー＠イグニスター" title="ドンヨリボー＠イグニスター" class="none">
+						<img id="card_image_20_1" alt="ドンヨリボー＠イグニスター" title="ドンヨリボー＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1686,7 +2027,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="果たし－Ai－" title="果たし－Ai－" class="none">
+						<img id="card_image_21_1" alt="果たし－Ai－" title="果たし－Ai－" class="none">
 					  
 					</dd>
 				</dl>
@@ -1754,7 +2095,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="ヒヤリ＠イグニスター" title="ヒヤリ＠イグニスター" class="none">
+						<img id="card_image_22_1" alt="ヒヤリ＠イグニスター" title="ヒヤリ＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1822,7 +2163,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="ピカリ＠イグニスター" title="ピカリ＠イグニスター" class="none">
+						<img id="card_image_23_1" alt="ピカリ＠イグニスター" title="ピカリ＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1893,7 +2234,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="ブルル＠イグニスター" title="ブルル＠イグニスター" class="none">
+						<img id="card_image_24_1" alt="ブルル＠イグニスター" title="ブルル＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1936,11 +2277,59 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="めぐり－Ai－" title="めぐり－Ai－" class="none">
+						<img id="card_image_25_1" alt="めぐり－Ai－" title="めぐり－Ai－" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16021">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ユウ－アイ－</span>
+						<span class="card_status">
+						<strong>ユウ－Ai－</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：元々の攻撃力が２３００のサイバース族モンスターが特殊召喚された場合、その属性によって以下の効果から１つを選択して発動できる。「ユウ－Ai－」の以下の効果は１つの属性につき１ターンに１度しか選択できない。<br>●地・水：フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで半分にする。<br>●風・光：フィールドの表側表示のカード１枚を選び、その効果をターン終了時まで無効にする。<br>●炎・闇：自分フィールドに「＠イグニスタートークン」（サイバース族・闇・星１・攻／守０）１体を特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_26_1" alt="ユウ－Ai－" title="ユウ－Ai－" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16022">
 			</li>
 		  
 			<li>
@@ -2007,7 +2396,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="ライトドラゴン＠イグニスター" title="ライトドラゴン＠イグニスター" class="none">
+						<img id="card_image_27_1" alt="ライトドラゴン＠イグニスター" title="ライトドラゴン＠イグニスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -2075,7 +2464,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="リングリボー" title="リングリボー" class="none">
+						<img id="card_image_28_1" alt="リングリボー" title="リングリボー" class="none">
 					  
 					</dd>
 				</dl>

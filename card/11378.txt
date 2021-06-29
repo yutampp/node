@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="デストーイ・シザー・ベアー | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「デストーイ・シザー・ベアー」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11378%26request_locale%3Dja%26a%3D202105071317"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11378%26request_locale%3Dja%26a%3D202105071317"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11378%26request_locale%3Dja%26a%3D202106241003"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11378%26request_locale%3Dja%26a%3D202106241003"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -227,39 +227,43 @@
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12674&ciid=1&enc=8n6v4tYHDxf4fPla72S27w').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16431&ciid=1&enc=bqO5JP1sUxjmy6y1F-e2ow').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13701&ciid=1&enc=fsJhl87xL937RrQjOd6sdQ').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12674&ciid=1&enc=8n6v4tYHDxf4fPla72S27w').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11350&ciid=1&enc=pb45PFG9qSIrCt__TpGqaQ').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13701&ciid=1&enc=fsJhl87xL937RrQjOd6sdQ').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12840&ciid=1&enc=1DYb4FwmUC3y2lBAkIzbvw').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11350&ciid=1&enc=pb45PFG9qSIrCt__TpGqaQ').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11348&ciid=1&enc=OT8Iu-w_R1x9wkd_CjgquQ').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12840&ciid=1&enc=1DYb4FwmUC3y2lBAkIzbvw').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12841&ciid=1&enc=ht8kTL8_fM4btoheWywv8g').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11348&ciid=1&enc=OT8Iu-w_R1x9wkd_CjgquQ').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11794&ciid=1&enc=ad7CuXP9PxGbtBH7-hp1XA').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12841&ciid=1&enc=ht8kTL8_fM4btoheWywv8g').show();
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12468&ciid=1&enc=TEWibgUAEh_npyNsIcAmqQ').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11794&ciid=1&enc=ad7CuXP9PxGbtBH7-hp1XA').show();
 			
 		
 			
-				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11730&ciid=1&enc=Sc-F596uj_e1IJs03mYU3Q').show();
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12468&ciid=1&enc=TEWibgUAEh_npyNsIcAmqQ').show();
+			
+		
+			
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11730&ciid=1&enc=Sc-F596uj_e1IJs03mYU3Q').show();
 			
 		
 
@@ -583,14 +587,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11378%26request_locale%3Dja%26a%3D202105071317&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11378%26request_locale%3Dja%26a%3D202106241003&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11378&request_locale=ja&a=202105071317" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11378&request_locale=ja&a=202106241003" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11378&request_locale=ja&a=202105071317"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11378&request_locale=ja&a=202106241003"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -735,7 +739,7 @@
 						<div>
 							<strong>
 
-								検索結果 28件中 1～28件を表示
+								検索結果 29件中 1～29件を表示
 							</strong>
 						</div>
 					</div>
@@ -1928,6 +1932,49 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>トイ・パレード</span>
+						<span class="card_status">
+						<strong>トイ・パレード</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「デストーイ」カードとしても扱う。このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：EXデッキから特殊召喚された自分の闇属性モンスター１体を対象として発動できる。このターン、自分はそのモンスターでしか攻撃宣言できず、そのモンスターは戦闘でモンスターを破壊し墓地へ送る度に続けて攻撃できる。②：自分フィールドに天使族モンスターが存在する場合、墓地のこのカードを除外して発動できる。自分の墓地からレベル４以下の闇属性モンスター１体を選んで手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_19_1" alt="トイ・パレード" title="トイ・パレード" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16431">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>パッチワーク・ファーニマル</span>
 						<span class="card_status">
 						<strong>パッチワーク・ファーニマル</strong>
@@ -1986,7 +2033,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="パッチワーク・ファーニマル" title="パッチワーク・ファーニマル" class="none">
+						<img id="card_image_20_1" alt="パッチワーク・ファーニマル" title="パッチワーク・ファーニマル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2067,7 +2114,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="ファーニマル・エンジェル" title="ファーニマル・エンジェル" class="none">
+						<img id="card_image_21_1" alt="ファーニマル・エンジェル" title="ファーニマル・エンジェル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2135,7 +2182,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="ファーニマル・オウル" title="ファーニマル・オウル" class="none">
+						<img id="card_image_22_1" alt="ファーニマル・オウル" title="ファーニマル・オウル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2203,7 +2250,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="ファーニマル・オクト" title="ファーニマル・オクト" class="none">
+						<img id="card_image_23_1" alt="ファーニマル・オクト" title="ファーニマル・オクト" class="none">
 					  
 					</dd>
 				</dl>
@@ -2271,7 +2318,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="ファーニマル・ベア" title="ファーニマル・ベア" class="none">
+						<img id="card_image_24_1" alt="ファーニマル・ベア" title="ファーニマル・ベア" class="none">
 					  
 					</dd>
 				</dl>
@@ -2339,7 +2386,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="ファーニマル・ペンギン" title="ファーニマル・ペンギン" class="none">
+						<img id="card_image_25_1" alt="ファーニマル・ペンギン" title="ファーニマル・ペンギン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2407,7 +2454,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="ファーニマル・マウス" title="ファーニマル・マウス" class="none">
+						<img id="card_image_26_1" alt="ファーニマル・マウス" title="ファーニマル・マウス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2450,7 +2497,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="融合死円舞曲" title="融合死円舞曲" class="none">
+						<img id="card_image_27_1" alt="融合死円舞曲" title="融合死円舞曲" class="none">
 					  
 					</dd>
 				</dl>
@@ -2493,7 +2540,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_27_1" alt="縫合蘇生" title="縫合蘇生" class="none">
+						<img id="card_image_28_1" alt="縫合蘇生" title="縫合蘇生" class="none">
 					  
 					</dd>
 				</dl>

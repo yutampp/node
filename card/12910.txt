@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="白翼の魔術師 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「白翼の魔術師」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12910%26request_locale%3Dja%26a%3D202105071445"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12910%26request_locale%3Dja%26a%3D202105071445"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12910%26request_locale%3Dja%26a%3D202106241131"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12910%26request_locale%3Dja%26a%3D202106241131"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -199,63 +199,67 @@
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12907&ciid=1&enc=AL_6cWjyPpvXhCHQBOXMSg').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16379&ciid=1&enc=mdIVqQc99IebKkMhTDFP8w').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11784&ciid=1&enc=4lYlEH4fXj65yFXTtKcJfQ').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12907&ciid=1&enc=AL_6cWjyPpvXhCHQBOXMSg').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12913&ciid=1&enc=SZ3PhVaqzl7hrpLn8FiBwA').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11784&ciid=1&enc=4lYlEH4fXj65yFXTtKcJfQ').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12914&ciid=1&enc=vr5XaybwAE4bBV3x1qEGRg').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12913&ciid=1&enc=SZ3PhVaqzl7hrpLn8FiBwA').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12912&ciid=1&enc=5vpMrtol8v1-VS_AVZa9Wg').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12914&ciid=1&enc=vr5XaybwAE4bBV3x1qEGRg').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11937&ciid=1&enc=RDScm_8US0A9bAbM_GY8_A').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12912&ciid=1&enc=5vpMrtol8v1-VS_AVZa9Wg').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12855&ciid=1&enc=M97lADNJfrn3OTy1PrYOZA').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11937&ciid=1&enc=RDScm_8US0A9bAbM_GY8_A').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12109&ciid=1&enc=WrpBHl-OwArjrYveUPS10A').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12855&ciid=1&enc=M97lADNJfrn3OTy1PrYOZA').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11939&ciid=1&enc=oZ8Hw2uerqUhEpoTLA8Qig').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12109&ciid=1&enc=WrpBHl-OwArjrYveUPS10A').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11135&ciid=1&enc=d59fj82BT9gb8hnvNnY1Gw').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11939&ciid=1&enc=oZ8Hw2uerqUhEpoTLA8Qig').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11940&ciid=1&enc=olR5339-Gpf0bLkB7AU-4A').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11135&ciid=1&enc=d59fj82BT9gb8hnvNnY1Gw').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11933&ciid=1&enc=WAcUAdtpBLy8NiU0T9tZYA').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11940&ciid=1&enc=olR5339-Gpf0bLkB7AU-4A').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11134&ciid=1&enc=q-Q4qzO73fDNNDC827Y9KQ').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11933&ciid=1&enc=WAcUAdtpBLy8NiU0T9tZYA').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11935&ciid=1&enc=vC_SQs0NjmjUFbJyvlHxXg').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11134&ciid=1&enc=q-Q4qzO73fDNNDC827Y9KQ').show();
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11934&ciid=1&enc=Zn7SkOV98HmBNtrTOn_qqQ').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11935&ciid=1&enc=vC_SQs0NjmjUFbJyvlHxXg').show();
+			
+		
+			
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11934&ciid=1&enc=Zn7SkOV98HmBNtrTOn_qqQ').show();
 			
 		
 
@@ -605,14 +609,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12910%26request_locale%3Dja%26a%3D202105071445&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12910%26request_locale%3Dja%26a%3D202106241131&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12910&request_locale=ja&a=202105071445" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12910&request_locale=ja&a=202106241131" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12910&request_locale=ja&a=202105071445"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12910&request_locale=ja&a=202106241131"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -736,7 +740,7 @@
 						<div>
 							<strong>
 
-								検索結果 27件中 1～27件を表示
+								検索結果 28件中 1～28件を表示
 							</strong>
 						</div>
 					</div>
@@ -1609,6 +1613,77 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>クリスタルクリアウィング・シンクロ・ドラゴン</span>
+						<span class="card_status">
+						<strong>クリスタルクリアウィング・シンクロ・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 10</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						Sモンスターのチューナー＋チューナー以外の「クリアウィング」モンスター１体<br>①：１ターンに１度、相手がモンスターの効果を発動した時に発動できる。このカードはターン終了時まで、攻撃力がその相手モンスターの元々の攻撃力分アップし、相手が発動したモンスターの効果を受けない。②：１ターンに１度、魔法・罠カードの効果が発動した時に発動できる。その発動を無効にし破壊する。③：S召喚したこのカードが相手によって墓地へ送られた場合に発動できる。デッキから風属性モンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_12_1" alt="クリスタルクリアウィング・シンクロ・ドラゴン" title="クリスタルクリアウィング・シンクロ・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16379">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>クロノグラフ・マジシャン</span>
 						<span class="card_status">
 						<strong>クロノグラフ・マジシャン</strong>
@@ -1680,7 +1755,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="クロノグラフ・マジシャン" title="クロノグラフ・マジシャン" class="none">
+						<img id="card_image_13_1" alt="クロノグラフ・マジシャン" title="クロノグラフ・マジシャン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1761,7 +1836,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="慧眼の魔術師" title="慧眼の魔術師" class="none">
+						<img id="card_image_14_1" alt="慧眼の魔術師" title="慧眼の魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -1809,7 +1884,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="時空のペンデュラムグラフ" title="時空のペンデュラムグラフ" class="none">
+						<img id="card_image_15_1" alt="時空のペンデュラムグラフ" title="時空のペンデュラムグラフ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1880,7 +1955,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="星刻の魔術師" title="星刻の魔術師" class="none">
+						<img id="card_image_16_1" alt="星刻の魔術師" title="星刻の魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -1928,7 +2003,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="星霜のペンデュラムグラフ" title="星霜のペンデュラムグラフ" class="none">
+						<img id="card_image_17_1" alt="星霜のペンデュラムグラフ" title="星霜のペンデュラムグラフ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2009,7 +2084,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="賤竜の魔術師" title="賤竜の魔術師" class="none">
+						<img id="card_image_18_1" alt="賤竜の魔術師" title="賤竜の魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2093,7 +2168,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="調弦の魔術師" title="調弦の魔術師" class="none">
+						<img id="card_image_19_1" alt="調弦の魔術師" title="調弦の魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2164,7 +2239,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="調律の魔術師" title="調律の魔術師" class="none">
+						<img id="card_image_20_1" alt="調律の魔術師" title="調律の魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2212,7 +2287,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="天空の虹彩" title="天空の虹彩" class="none">
+						<img id="card_image_21_1" alt="天空の虹彩" title="天空の虹彩" class="none">
 					  
 					</dd>
 				</dl>
@@ -2293,7 +2368,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="時読みの魔術師" title="時読みの魔術師" class="none">
+						<img id="card_image_22_1" alt="時読みの魔術師" title="時読みの魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2336,7 +2411,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="ペンデュラム・コール" title="ペンデュラム・コール" class="none">
+						<img id="card_image_23_1" alt="ペンデュラム・コール" title="ペンデュラム・コール" class="none">
 					  
 					</dd>
 				</dl>
@@ -2417,7 +2492,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="法眼の魔術師" title="法眼の魔術師" class="none">
+						<img id="card_image_24_1" alt="法眼の魔術師" title="法眼の魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2498,7 +2573,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="星読みの魔術師" title="星読みの魔術師" class="none">
+						<img id="card_image_25_1" alt="星読みの魔術師" title="星読みの魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2579,7 +2654,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="竜穴の魔術師" title="竜穴の魔術師" class="none">
+						<img id="card_image_26_1" alt="竜穴の魔術師" title="竜穴の魔術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2660,7 +2735,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="竜脈の魔術師" title="竜脈の魔術師" class="none">
+						<img id="card_image_27_1" alt="竜脈の魔術師" title="竜脈の魔術師" class="none">
 					  
 					</dd>
 				</dl>

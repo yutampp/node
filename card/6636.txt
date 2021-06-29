@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="クリボーを呼ぶ笛 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「クリボーを呼ぶ笛」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6636%26request_locale%3Dja%26a%3D202105071523"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6636%26request_locale%3Dja%26a%3D202105071523"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6636%26request_locale%3Dja%26a%3D202106241211"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6636%26request_locale%3Dja%26a%3D202106241211"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,15 +151,19 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4064&ciid=1&enc=yjPdaxj4htz7g_H9r96C1w').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16398&ciid=1&enc=IrVT4afW_SUZpkKXjNCgcA').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12577&ciid=1&enc=BWqIrEBXN65ChTWVAUveAA').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4064&ciid=1&enc=yjPdaxj4htz7g_H9r96C1w').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6314&ciid=1&enc=yAheYagnpDSy08nLk36AAQ').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12577&ciid=1&enc=BWqIrEBXN65ChTWVAUveAA').show();
+			
+		
+			
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6314&ciid=1&enc=yAheYagnpDSy08nLk36AAQ').show();
 			
 		
 
@@ -406,14 +410,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6636%26request_locale%3Dja%26a%3D202105071523&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6636%26request_locale%3Dja%26a%3D202106241211&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6636&request_locale=ja&a=202105071523" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6636&request_locale=ja&a=202106241211" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6636&request_locale=ja&a=202105071523"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6636&request_locale=ja&a=202106241211"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -558,7 +562,7 @@
 						<div>
 							<strong>
 
-								検索結果 3件中 1～3件を表示
+								検索結果 4件中 1～4件を表示
 							</strong>
 						</div>
 					</div>
@@ -571,6 +575,74 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>クリビー</span>
+						<span class="card_status">
+						<strong>クリビー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							悪魔族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 300</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「クリボー」カードとしても扱う。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードまたは自分の「クリボー」モンスターが戦闘で破壊された時に発動できる。デッキから「クリボー」のカード名が記された魔法・罠カード１枚を手札に加える。②：１ターンに１度、自分フィールドに他の「クリボー」モンスターが存在する場合、相手モンスターの攻撃宣言時に発動できる。このカード以外の自分フィールドの全てのモンスターの攻撃力をターン終了時まで０にし、その攻撃を無効にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="クリビー" title="クリビー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16398">
+			</li>
 		  
 			<li>
 				<dl>
@@ -633,7 +705,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="クリボー" title="クリボー" class="none">
+						<img id="card_image_1_1" alt="クリボー" title="クリボー" class="none">
 					  
 					</dd>
 				</dl>
@@ -701,7 +773,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="クリボーン" title="クリボーン" class="none">
+						<img id="card_image_2_1" alt="クリボーン" title="クリボーン" class="none">
 					  
 					</dd>
 				</dl>
@@ -769,7 +841,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="ハネクリボー" title="ハネクリボー" class="none">
+						<img id="card_image_3_1" alt="ハネクリボー" title="ハネクリボー" class="none">
 					  
 					</dd>
 				</dl>

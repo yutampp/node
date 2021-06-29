@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="氷結界の浄玻璃 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「氷結界の浄玻璃」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15981%26request_locale%3Dja%26a%3D202105071239"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15981%26request_locale%3Dja%26a%3D202105071239"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15981%26request_locale%3Dja%26a%3D202106240925"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15981%26request_locale%3Dja%26a%3D202106240925"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -155,155 +155,159 @@
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15832&ciid=1&enc=Bl9LRaDYjmB6XO8iNmFCsg').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8885&ciid=1&enc=3M_hecap1R3dH3ZGp9qBvQ').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7814&ciid=1&enc=wlO_B0EM-uQ8d1CpbBwRjw').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15832&ciid=1&enc=Bl9LRaDYjmB6XO8iNmFCsg').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8725&ciid=1&enc=WQFmcN7PYrXUqcvWiLqs3Q').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7814&ciid=1&enc=wlO_B0EM-uQ8d1CpbBwRjw').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9132&ciid=1&enc=cSJ7bZH20KKWvVO0QJ_R0g').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8725&ciid=1&enc=WQFmcN7PYrXUqcvWiLqs3Q').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15834&ciid=1&enc=GbexaM2hj4AjNSkMV2z0XQ').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9132&ciid=1&enc=cSJ7bZH20KKWvVO0QJ_R0g').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8724&ciid=1&enc=oetvtCm4FYTSIyevSHh1QQ').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15834&ciid=1&enc=GbexaM2hj4AjNSkMV2z0XQ').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8250&ciid=1&enc=-n0epQkD4bKKWIPbzMQBog').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8724&ciid=1&enc=oetvtCm4FYTSIyevSHh1QQ').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7955&ciid=1&enc=kHT0eU8hACQHIFvWtUxLOw').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8250&ciid=1&enc=-n0epQkD4bKKWIPbzMQBog').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7970&ciid=1&enc=WRq-JhWQNz_od5IZ48R9gw').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7955&ciid=1&enc=kHT0eU8hACQHIFvWtUxLOw').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15828&ciid=1&enc=pk_pMQio15W23arM8xiv8g').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7970&ciid=1&enc=WRq-JhWQNz_od5IZ48R9gw').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8726&ciid=1&enc=j4GahA-Sv9jBf_x4lKFllw').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15828&ciid=1&enc=pk_pMQio15W23arM8xiv8g').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8406&ciid=1&enc=NyvNG-gLJhuNIl_-g1C7-w').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8726&ciid=1&enc=j4GahA-Sv9jBf_x4lKFllw').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8573&ciid=1&enc=HtRPn7VVrFJC9j1p1mGmDg').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8406&ciid=1&enc=NyvNG-gLJhuNIl_-g1C7-w').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8832&ciid=1&enc=XFysdgWE0TtAZk4Wv2yqug').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8573&ciid=1&enc=HtRPn7VVrFJC9j1p1mGmDg').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8107&ciid=1&enc=ul2DcQPVI08e-J3d2qPxxQ').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8832&ciid=1&enc=XFysdgWE0TtAZk4Wv2yqug').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8570&ciid=1&enc=HbLflA7bTLDAUz4XRMRPxw').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8107&ciid=1&enc=ul2DcQPVI08e-J3d2qPxxQ').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15833&ciid=1&enc=evAuDbgeFGt8LnrdFqHvPA').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8570&ciid=1&enc=HbLflA7bTLDAUz4XRMRPxw').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15829&ciid=1&enc=ch0f5pTi7HRQ6Mndik0UtQ').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15833&ciid=1&enc=evAuDbgeFGt8LnrdFqHvPA').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8572&ciid=1&enc=pkoJcNHQ0GEna_s0FN5Hcg').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15829&ciid=1&enc=ch0f5pTi7HRQ6Mndik0UtQ').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7529&ciid=1&enc=BUf_tq2pGABOHduiKmJQnQ').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8572&ciid=1&enc=pkoJcNHQ0GEna_s0FN5Hcg').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15896&ciid=1&enc=p8jpIHFI62yLYkRVZKCP4w').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7529&ciid=1&enc=BUf_tq2pGABOHduiKmJQnQ').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15831&ciid=1&enc=L_seMb4-xowlBv--sM6rlw').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15896&ciid=1&enc=p8jpIHFI62yLYkRVZKCP4w').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7954&ciid=1&enc=1od82G4HKTd6NrK6DBGpEg').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15831&ciid=1&enc=L_seMb4-xowlBv--sM6rlw').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9748&ciid=1&enc=QJdYwFBiEtt3mOb_ju9Duw').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7954&ciid=1&enc=1od82G4HKTd6NrK6DBGpEg').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8571&ciid=1&enc=uBPNa8v433DAS_6DTotAqA').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9748&ciid=1&enc=QJdYwFBiEtt3mOb_ju9Duw').show();
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7527&ciid=1&enc=5P4n3kpDJH5jY7Bw8mpCUQ').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8571&ciid=1&enc=uBPNa8v433DAS_6DTotAqA').show();
 			
 		
 			
-				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8108&ciid=1&enc=o5RpK9jNTPZu8qq5LHvWJg').show();
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7527&ciid=1&enc=5P4n3kpDJH5jY7Bw8mpCUQ').show();
 			
 		
 			
-				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8405&ciid=1&enc=gvLevR30XYYyAIs6dho_Dw').show();
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8108&ciid=1&enc=o5RpK9jNTPZu8qq5LHvWJg').show();
 			
 		
 			
-				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9110&ciid=1&enc=k-Smk6OxHd7EqfxOS2yYOA').show();
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8405&ciid=1&enc=gvLevR30XYYyAIs6dho_Dw').show();
 			
 		
 			
-				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8252&ciid=1&enc=LmUHTd4pVXDkfA9E2J2W9Q').show();
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9110&ciid=1&enc=k-Smk6OxHd7EqfxOS2yYOA').show();
 			
 		
 			
-				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8251&ciid=1&enc=6md-aklLTeO3iUvd4cf_7w').show();
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8252&ciid=1&enc=LmUHTd4pVXDkfA9E2J2W9Q').show();
 			
 		
 			
-				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9131&ciid=1&enc=CUvlO4cmxfQrJ-2We3v7Mg').show();
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8251&ciid=1&enc=6md-aklLTeO3iUvd4cf_7w').show();
 			
 		
 			
-				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8253&ciid=1&enc=Lnx11JcFGS0OjREe9yWjBA').show();
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9131&ciid=1&enc=CUvlO4cmxfQrJ-2We3v7Mg').show();
 			
 		
 			
-				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15830&ciid=1&enc=26hFhYkfN1HUxFw0XcEbsQ').show();
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8253&ciid=1&enc=Lnx11JcFGS0OjREe9yWjBA').show();
 			
 		
 			
-				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8262&ciid=1&enc=PP3vpKboedtF9dKZtIxzlA').show();
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15830&ciid=1&enc=26hFhYkfN1HUxFw0XcEbsQ').show();
 			
 		
 			
-				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8732&ciid=1&enc=b6XGMVJpf87hITwQ_5QS_A').show();
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8262&ciid=1&enc=PP3vpKboedtF9dKZtIxzlA').show();
 			
 		
 			
-				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7548&ciid=1&enc=IR4_LD3JL5NsEb-dwFh1rA').show();
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8732&ciid=1&enc=b6XGMVJpf87hITwQ_5QS_A').show();
 			
 		
 			
-				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7813&ciid=1&enc=K0rbqtpC1oEM5Vc8ZjJKUQ').show();
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7548&ciid=1&enc=IR4_LD3JL5NsEb-dwFh1rA').show();
+			
+		
+			
+				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7813&ciid=1&enc=K0rbqtpC1oEM5Vc8ZjJKUQ').show();
 			
 		
 
@@ -469,6 +473,8 @@
 	
 					氷結界の浄玻璃
 	
+					<span>Judge of the Ice Barrier</span>
+	
 				</h1>
 			</div>
 		</header>
@@ -620,14 +626,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15981%26request_locale%3Dja%26a%3D202105071239&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15981%26request_locale%3Dja%26a%3D202106240925&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15981&request_locale=ja&a=202105071239" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15981&request_locale=ja&a=202106240925" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15981&request_locale=ja&a=202105071239"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15981&request_locale=ja&a=202106240925"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -751,7 +757,7 @@
 						<div>
 							<strong>
 
-								検索結果 39件中 1～39件を表示
+								検索結果 40件中 1～40件を表示
 							</strong>
 						</div>
 					</div>
@@ -811,6 +817,49 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ひょうけっかい</span>
+						<span class="card_status">
+						<strong>氷結界</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できない。①：相手モンスターが戦闘を行う攻撃宣言時に発動できる。その相手モンスターは、攻撃力が０になり、表示形式を変更できず、効果は無効化される。②：墓地のこのカードを除外して発動できる。デッキからレベル５以上の水属性モンスター１体を墓地へ送る。その後、自分の墓地から水属性モンスター１体を選んで手札に加える事ができる。この効果の発動後、次の自分ターンの終了時まで自分は水属性モンスターしか特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="氷結界" title="氷結界" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8885">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ひょうけっかいにいたるせいらん</span>
 						<span class="card_status">
 						<strong>氷結界に至る晴嵐</strong>
@@ -844,7 +893,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="氷結界に至る晴嵐" title="氷結界に至る晴嵐" class="none">
+						<img id="card_image_2_1" alt="氷結界に至る晴嵐" title="氷結界に至る晴嵐" class="none">
 					  
 					</dd>
 				</dl>
@@ -912,7 +961,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="氷結界に住む魔酔虫" title="氷結界に住む魔酔虫" class="none">
+						<img id="card_image_3_1" alt="氷結界に住む魔酔虫" title="氷結界に住む魔酔虫" class="none">
 					  
 					</dd>
 				</dl>
@@ -980,7 +1029,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="氷結界の御庭番" title="氷結界の御庭番" class="none">
+						<img id="card_image_4_1" alt="氷結界の御庭番" title="氷結界の御庭番" class="none">
 					  
 					</dd>
 				</dl>
@@ -1028,7 +1077,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="氷結界の鏡" title="氷結界の鏡" class="none">
+						<img id="card_image_5_1" alt="氷結界の鏡" title="氷結界の鏡" class="none">
 					  
 					</dd>
 				</dl>
@@ -1099,7 +1148,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="氷結界の還零龍 トリシューラ" title="氷結界の還零龍 トリシューラ" class="none">
+						<img id="card_image_6_1" alt="氷結界の還零龍 トリシューラ" title="氷結界の還零龍 トリシューラ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1167,7 +1216,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="氷結界の軍師" title="氷結界の軍師" class="none">
+						<img id="card_image_7_1" alt="氷結界の軍師" title="氷結界の軍師" class="none">
 					  
 					</dd>
 				</dl>
@@ -1235,7 +1284,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="氷結界の決起隊" title="氷結界の決起隊" class="none">
+						<img id="card_image_8_1" alt="氷結界の決起隊" title="氷結界の決起隊" class="none">
 					  
 					</dd>
 				</dl>
@@ -1303,7 +1352,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="氷結界の交霊師" title="氷結界の交霊師" class="none">
+						<img id="card_image_9_1" alt="氷結界の交霊師" title="氷結界の交霊師" class="none">
 					  
 					</dd>
 				</dl>
@@ -1374,7 +1423,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="氷結界の虎王 ドゥローレン" title="氷結界の虎王 ドゥローレン" class="none">
+						<img id="card_image_10_1" alt="氷結界の虎王 ドゥローレン" title="氷結界の虎王 ドゥローレン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1442,7 +1491,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="氷結界の虎将 ウェイン" title="氷結界の虎将 ウェイン" class="none">
+						<img id="card_image_11_1" alt="氷結界の虎将 ウェイン" title="氷結界の虎将 ウェイン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1510,7 +1559,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="氷結界の虎将 ガンターラ" title="氷結界の虎将 ガンターラ" class="none">
+						<img id="card_image_12_1" alt="氷結界の虎将 ガンターラ" title="氷結界の虎将 ガンターラ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1578,7 +1627,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="氷結界の虎将 グルナード" title="氷結界の虎将 グルナード" class="none">
+						<img id="card_image_13_1" alt="氷結界の虎将 グルナード" title="氷結界の虎将 グルナード" class="none">
 					  
 					</dd>
 				</dl>
@@ -1646,7 +1695,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="氷結界の虎将 ライホウ" title="氷結界の虎将 ライホウ" class="none">
+						<img id="card_image_14_1" alt="氷結界の虎将 ライホウ" title="氷結界の虎将 ライホウ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1689,7 +1738,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="氷結界の三方陣" title="氷結界の三方陣" class="none">
+						<img id="card_image_15_1" alt="氷結界の三方陣" title="氷結界の三方陣" class="none">
 					  
 					</dd>
 				</dl>
@@ -1757,7 +1806,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="氷結界の修験者" title="氷結界の修験者" class="none">
+						<img id="card_image_16_1" alt="氷結界の修験者" title="氷結界の修験者" class="none">
 					  
 					</dd>
 				</dl>
@@ -1828,7 +1877,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="氷結界の守護陣" title="氷結界の守護陣" class="none">
+						<img id="card_image_17_1" alt="氷結界の守護陣" title="氷結界の守護陣" class="none">
 					  
 					</dd>
 				</dl>
@@ -1876,7 +1925,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="氷結界の晶壁" title="氷結界の晶壁" class="none">
+						<img id="card_image_18_1" alt="氷結界の晶壁" title="氷結界の晶壁" class="none">
 					  
 					</dd>
 				</dl>
@@ -1944,7 +1993,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="氷結界の照魔師" title="氷結界の照魔師" class="none">
+						<img id="card_image_19_1" alt="氷結界の照魔師" title="氷結界の照魔師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2015,7 +2064,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="氷結界の神精霊" title="氷結界の神精霊" class="none">
+						<img id="card_image_20_1" alt="氷結界の神精霊" title="氷結界の神精霊" class="none">
 					  
 					</dd>
 				</dl>
@@ -2086,7 +2135,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="氷結界の術者" title="氷結界の術者" class="none">
+						<img id="card_image_21_1" alt="氷結界の術者" title="氷結界の術者" class="none">
 					  
 					</dd>
 				</dl>
@@ -2154,7 +2203,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="氷結界の随身" title="氷結界の随身" class="none">
+						<img id="card_image_22_1" alt="氷結界の随身" title="氷結界の随身" class="none">
 					  
 					</dd>
 				</dl>
@@ -2225,7 +2274,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="氷結界の霜精" title="氷結界の霜精" class="none">
+						<img id="card_image_23_1" alt="氷結界の霜精" title="氷結界の霜精" class="none">
 					  
 					</dd>
 				</dl>
@@ -2293,7 +2342,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="氷結界の大僧正" title="氷結界の大僧正" class="none">
+						<img id="card_image_24_1" alt="氷結界の大僧正" title="氷結界の大僧正" class="none">
 					  
 					</dd>
 				</dl>
@@ -2361,7 +2410,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="氷結界の伝道師" title="氷結界の伝道師" class="none">
+						<img id="card_image_25_1" alt="氷結界の伝道師" title="氷結界の伝道師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2429,7 +2478,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="氷結界の破術師" title="氷結界の破術師" class="none">
+						<img id="card_image_26_1" alt="氷結界の破術師" title="氷結界の破術師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2497,7 +2546,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="氷結界の番人 ブリズド" title="氷結界の番人 ブリズド" class="none">
+						<img id="card_image_27_1" alt="氷結界の番人 ブリズド" title="氷結界の番人 ブリズド" class="none">
 					  
 					</dd>
 				</dl>
@@ -2568,7 +2617,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_27_1" alt="氷結界の風水師" title="氷結界の風水師" class="none">
+						<img id="card_image_28_1" alt="氷結界の風水師" title="氷結界の風水師" class="none">
 					  
 					</dd>
 				</dl>
@@ -2636,7 +2685,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_28_1" alt="氷結界の封魔団" title="氷結界の封魔団" class="none">
+						<img id="card_image_29_1" alt="氷結界の封魔団" title="氷結界の封魔団" class="none">
 					  
 					</dd>
 				</dl>
@@ -2704,7 +2753,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_29_1" alt="氷結界の舞姫" title="氷結界の舞姫" class="none">
+						<img id="card_image_30_1" alt="氷結界の舞姫" title="氷結界の舞姫" class="none">
 					  
 					</dd>
 				</dl>
@@ -2775,7 +2824,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_30_1" alt="氷結界の水影" title="氷結界の水影" class="none">
+						<img id="card_image_31_1" alt="氷結界の水影" title="氷結界の水影" class="none">
 					  
 					</dd>
 				</dl>
@@ -2843,7 +2892,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_31_1" alt="氷結界の武士" title="氷結界の武士" class="none">
+						<img id="card_image_32_1" alt="氷結界の武士" title="氷結界の武士" class="none">
 					  
 					</dd>
 				</dl>
@@ -2886,7 +2935,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_32_1" alt="氷結界の紋章" title="氷結界の紋章" class="none">
+						<img id="card_image_33_1" alt="氷結界の紋章" title="氷結界の紋章" class="none">
 					  
 					</dd>
 				</dl>
@@ -2954,7 +3003,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_33_1" alt="氷結界の輸送部隊" title="氷結界の輸送部隊" class="none">
+						<img id="card_image_34_1" alt="氷結界の輸送部隊" title="氷結界の輸送部隊" class="none">
 					  
 					</dd>
 				</dl>
@@ -3022,7 +3071,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_34_1" alt="氷結界の依巫" title="氷結界の依巫" class="none">
+						<img id="card_image_35_1" alt="氷結界の依巫" title="氷結界の依巫" class="none">
 					  
 					</dd>
 				</dl>
@@ -3093,7 +3142,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_35_1" alt="氷結界の龍 グングニール" title="氷結界の龍 グングニール" class="none">
+						<img id="card_image_36_1" alt="氷結界の龍 グングニール" title="氷結界の龍 グングニール" class="none">
 					  
 					</dd>
 				</dl>
@@ -3164,7 +3213,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_36_1" alt="氷結界の龍 トリシューラ" title="氷結界の龍 トリシューラ" class="none">
+						<img id="card_image_37_1" alt="氷結界の龍 トリシューラ" title="氷結界の龍 トリシューラ" class="none">
 					  
 					</dd>
 				</dl>
@@ -3235,7 +3284,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_37_1" alt="氷結界の龍 ブリューナク" title="氷結界の龍 ブリューナク" class="none">
+						<img id="card_image_38_1" alt="氷結界の龍 ブリューナク" title="氷結界の龍 ブリューナク" class="none">
 					  
 					</dd>
 				</dl>
@@ -3303,7 +3352,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_38_1" alt="氷結界のロイヤル・ナイト" title="氷結界のロイヤル・ナイト" class="none">
+						<img id="card_image_39_1" alt="氷結界のロイヤル・ナイト" title="氷結界のロイヤル・ナイト" class="none">
 					  
 					</dd>
 				</dl>
@@ -4266,7 +4315,6 @@
 </div><!--wrapper-->
 <noscript>JavaScript を有効にしてください</noscript>
 
-<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=101&cb=1160862115"></script>
 </body>
 </html>
 

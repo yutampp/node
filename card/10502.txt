@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="幻獣機メガラプター | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「幻獣機メガラプター」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10502%26request_locale%3Dja%26a%3D202105071326"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10502%26request_locale%3Dja%26a%3D202105071326"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10502%26request_locale%3Dja%26a%3D202106241012"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10502%26request_locale%3Dja%26a%3D202106241012"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,99 +151,107 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10554&ciid=1&enc=a6FiO7YnEJxZyAinAc1PKg').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10667&ciid=1&enc=WLaRxSTxZONtsLX6yPjEGQ').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14940&ciid=1&enc=_iNOjQ6vJ6qhZd-YzkttnA').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10554&ciid=1&enc=a6FiO7YnEJxZyAinAc1PKg').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10625&ciid=1&enc=BizEedIM99_y1CfjmvzxEQ').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14940&ciid=1&enc=_iNOjQ6vJ6qhZd-YzkttnA').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10815&ciid=1&enc=EAmy6t4CbwOuBF_qYuD91g').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10625&ciid=1&enc=BizEedIM99_y1CfjmvzxEQ').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11055&ciid=1&enc=xRcZjYQymb3XTMud8vF8LA').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10815&ciid=1&enc=EAmy6t4CbwOuBF_qYuD91g').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10759&ciid=1&enc=OZ5mYaEqyT-en4UFWSwnQA').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11055&ciid=1&enc=xRcZjYQymb3XTMud8vF8LA').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10627&ciid=1&enc=ZL-ExtSLp55K5FIQFzsUTg').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10759&ciid=1&enc=OZ5mYaEqyT-en4UFWSwnQA').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10644&ciid=1&enc=iInVtgIwSnRa2ToOdRE4Xw').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10627&ciid=1&enc=ZL-ExtSLp55K5FIQFzsUTg').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10758&ciid=1&enc=TkHGDmz-0Th0k5SDzsfDoA').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10644&ciid=1&enc=iInVtgIwSnRa2ToOdRE4Xw').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10594&ciid=1&enc=LM_-y_a5iVaxDNTwqiwKHw').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10758&ciid=1&enc=TkHGDmz-0Th0k5SDzsfDoA').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10503&ciid=1&enc=6CSph7jOHc6mvSgB9NlF5A').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10594&ciid=1&enc=LM_-y_a5iVaxDNTwqiwKHw').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10534&ciid=1&enc=_KhQNOWXCbFBvHxagV0w7w').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10503&ciid=1&enc=6CSph7jOHc6mvSgB9NlF5A').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10506&ciid=1&enc=7fgVHfBsj51NfhDKVqZrtg').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10534&ciid=1&enc=_KhQNOWXCbFBvHxagV0w7w').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10628&ciid=1&enc=MRHCw6Ssw09vVt78iHXFGg').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10506&ciid=1&enc=7fgVHfBsj51NfhDKVqZrtg').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10504&ciid=1&enc=4_K-2fuslFewJkVMMIk2bw').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10628&ciid=1&enc=MRHCw6Ssw09vVt78iHXFGg').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10626&ciid=1&enc=X_lgRzUeZjBd-eTPRD9Sag').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10504&ciid=1&enc=4_K-2fuslFewJkVMMIk2bw').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11421&ciid=1&enc=5zLOM3W2LSkKzqodhtGLxQ').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10626&ciid=1&enc=X_lgRzUeZjBd-eTPRD9Sag').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13246&ciid=1&enc=XjwNgXUkK86-kHio2gatpA').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11421&ciid=1&enc=5zLOM3W2LSkKzqodhtGLxQ').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10505&ciid=1&enc=bxPL8l-mhfKUI6LTp4xn7A').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13246&ciid=1&enc=XjwNgXUkK86-kHio2gatpA').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6954&ciid=1&enc=MauQtYkedyF7hPTGYffHMw').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10505&ciid=1&enc=bxPL8l-mhfKUI6LTp4xn7A').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6956&ciid=1&enc=Qi7GaVWCVX9SV48T5SOmHw').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6954&ciid=1&enc=MauQtYkedyF7hPTGYffHMw').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6957&ciid=1&enc=1PqW-tTaNcH0XDqT6jwy6Q').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6956&ciid=1&enc=Qi7GaVWCVX9SV48T5SOmHw').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10542&ciid=1&enc=ULQp7bzh0TkHgh74psFjIg').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6957&ciid=1&enc=1PqW-tTaNcH0XDqT6jwy6Q').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10679&ciid=1&enc=LWRldHq0h0mbHVBXITNIdg').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10542&ciid=1&enc=ULQp7bzh0TkHgh74psFjIg').show();
+			
+		
+			
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10679&ciid=1&enc=LWRldHq0h0mbHVBXITNIdg').show();
+			
+		
+			
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10555&ciid=1&enc=kYEf6vX8TPaKDPpDSgmlhQ').show();
 			
 		
 
@@ -562,14 +570,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10502%26request_locale%3Dja%26a%3D202105071326&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10502%26request_locale%3Dja%26a%3D202106241012&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10502&request_locale=ja&a=202105071326" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10502&request_locale=ja&a=202106241012" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10502&request_locale=ja&a=202105071326"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10502&request_locale=ja&a=202106241012"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -693,7 +701,7 @@
 						<div>
 							<strong>
 
-								検索結果 24件中 1～24件を表示
+								検索結果 26件中 1～26件を表示
 							</strong>
 						</div>
 					</div>
@@ -706,6 +714,54 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ヴァーティカル・ランディング</span>
+						<span class="card_status">
+						<strong>垂直着陸</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						トークン以外の自分フィールド上の風属性モンスターを任意の数だけリリースして発動できる。リリースしたモンスターの数だけ、自分フィールド上に「幻獣機トークン」（機械族・風・星３・攻／守０）を特殊召喚する。「垂直着陸」は１ターンに１枚しか発動できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="垂直着陸" title="垂直着陸" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10667">
+			</li>
 		  
 			<li>
 				<dl>
@@ -748,7 +804,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="空中補給" title="空中補給" class="none">
+						<img id="card_image_1_1" alt="空中補給" title="空中補給" class="none">
 					  
 					</dd>
 				</dl>
@@ -816,7 +872,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="幻獣機アウローラドン" title="幻獣機アウローラドン" class="none">
+						<img id="card_image_2_1" alt="幻獣機アウローラドン" title="幻獣機アウローラドン" class="none">
 					  
 					</dd>
 				</dl>
@@ -887,7 +943,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="幻獣機ウォーブラン" title="幻獣機ウォーブラン" class="none">
+						<img id="card_image_3_1" alt="幻獣機ウォーブラン" title="幻獣機ウォーブラン" class="none">
 					  
 					</dd>
 				</dl>
@@ -955,7 +1011,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="幻獣機エアロスバード" title="幻獣機エアロスバード" class="none">
+						<img id="card_image_4_1" alt="幻獣機エアロスバード" title="幻獣機エアロスバード" class="none">
 					  
 					</dd>
 				</dl>
@@ -1026,7 +1082,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="幻獣機オライオン" title="幻獣機オライオン" class="none">
+						<img id="card_image_5_1" alt="幻獣機オライオン" title="幻獣機オライオン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1094,7 +1150,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="幻獣機グリーフィン" title="幻獣機グリーフィン" class="none">
+						<img id="card_image_6_1" alt="幻獣機グリーフィン" title="幻獣機グリーフィン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1162,7 +1218,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="幻獣機コルトウィング" title="幻獣機コルトウィング" class="none">
+						<img id="card_image_7_1" alt="幻獣機コルトウィング" title="幻獣機コルトウィング" class="none">
 					  
 					</dd>
 				</dl>
@@ -1233,7 +1289,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="幻獣機コンコルーダ" title="幻獣機コンコルーダ" class="none">
+						<img id="card_image_8_1" alt="幻獣機コンコルーダ" title="幻獣機コンコルーダ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1301,7 +1357,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="幻獣機サーバルホーク" title="幻獣機サーバルホーク" class="none">
+						<img id="card_image_9_1" alt="幻獣機サーバルホーク" title="幻獣機サーバルホーク" class="none">
 					  
 					</dd>
 				</dl>
@@ -1369,7 +1425,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="幻獣機タートレーサー" title="幻獣機タートレーサー" class="none">
+						<img id="card_image_10_1" alt="幻獣機タートレーサー" title="幻獣機タートレーサー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1437,7 +1493,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="幻獣機テザーウルフ" title="幻獣機テザーウルフ" class="none">
+						<img id="card_image_11_1" alt="幻獣機テザーウルフ" title="幻獣機テザーウルフ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1508,7 +1564,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="幻獣機ドラゴサック" title="幻獣機ドラゴサック" class="none">
+						<img id="card_image_12_1" alt="幻獣機ドラゴサック" title="幻獣機ドラゴサック" class="none">
 					  
 					</dd>
 				</dl>
@@ -1576,7 +1632,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="幻獣機ハムストラット" title="幻獣機ハムストラット" class="none">
+						<img id="card_image_13_1" alt="幻獣機ハムストラット" title="幻獣機ハムストラット" class="none">
 					  
 					</dd>
 				</dl>
@@ -1644,7 +1700,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="幻獣機ハリアード" title="幻獣機ハリアード" class="none">
+						<img id="card_image_14_1" alt="幻獣機ハリアード" title="幻獣機ハリアード" class="none">
 					  
 					</dd>
 				</dl>
@@ -1712,7 +1768,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="幻獣機ブラックファルコン" title="幻獣機ブラックファルコン" class="none">
+						<img id="card_image_15_1" alt="幻獣機ブラックファルコン" title="幻獣機ブラックファルコン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1783,7 +1839,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="幻獣機ブルーインパラス" title="幻獣機ブルーインパラス" class="none">
+						<img id="card_image_16_1" alt="幻獣機ブルーインパラス" title="幻獣機ブルーインパラス" class="none">
 					  
 					</dd>
 				</dl>
@@ -1854,7 +1910,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="幻獣機ヤクルスラーン" title="幻獣機ヤクルスラーン" class="none">
+						<img id="card_image_17_1" alt="幻獣機ヤクルスラーン" title="幻獣機ヤクルスラーン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1922,7 +1978,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="幻獣機ライテン" title="幻獣機ライテン" class="none">
+						<img id="card_image_18_1" alt="幻獣機ライテン" title="幻獣機ライテン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1990,7 +2046,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="幻獣機レイステイルス" title="幻獣機レイステイルス" class="none">
+						<img id="card_image_19_1" alt="幻獣機レイステイルス" title="幻獣機レイステイルス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2058,7 +2114,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="幻獣クロスウィング" title="幻獣クロスウィング" class="none">
+						<img id="card_image_20_1" alt="幻獣クロスウィング" title="幻獣クロスウィング" class="none">
 					  
 					</dd>
 				</dl>
@@ -2126,7 +2182,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="幻獣サンダーペガス" title="幻獣サンダーペガス" class="none">
+						<img id="card_image_21_1" alt="幻獣サンダーペガス" title="幻獣サンダーペガス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2194,7 +2250,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="幻獣ロックリザード" title="幻獣ロックリザード" class="none">
+						<img id="card_image_22_1" alt="幻獣ロックリザード" title="幻獣ロックリザード" class="none">
 					  
 					</dd>
 				</dl>
@@ -2242,7 +2298,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="緊急発進" title="緊急発進" class="none">
+						<img id="card_image_23_1" alt="緊急発進" title="緊急発進" class="none">
 					  
 					</dd>
 				</dl>
@@ -2285,11 +2341,59 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="超音速波" title="超音速波" class="none">
+						<img id="card_image_24_1" alt="超音速波" title="超音速波" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10679">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>バレル・ロール</span>
+						<span class="card_status">
+						<strong>弾幕回避</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_counter.png" alt="カウンター" title="カウンター">
+							<span>カウンター</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分フィールド上の「幻獣機トークン」を全てリリースして発動できる。効果モンスターの効果・魔法・罠カードの発動を無効にし破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_25_1" alt="弾幕回避" title="弾幕回避" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10555">
 			</li>
 		  
 		</ul><!--.box_list-->

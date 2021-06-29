@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="LL－ターコイズ・ワーブラー | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「LL－ターコイズ・ワーブラー」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12928%26request_locale%3Dja%26a%3D202105071302"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12928%26request_locale%3Dja%26a%3D202105071302"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12928%26request_locale%3Dja%26a%3D202106240947"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12928%26request_locale%3Dja%26a%3D202106240947"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -155,19 +155,51 @@
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12955&ciid=1&enc=i71iojukgqrfC6-L89o5Lg').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16392&ciid=1&enc=KaFv1CRMoI58EBoKFLCM2w').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12926&ciid=1&enc=wUSUMf3d9EhtegWkNPhf5w').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12955&ciid=1&enc=i71iojukgqrfC6-L89o5Lg').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12927&ciid=1&enc=kyF6mk90rrLllq8CT9QpFg').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12926&ciid=1&enc=wUSUMf3d9EhtegWkNPhf5w').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12862&ciid=1&enc=GcY1fyuMtGLVoRjL61-uMQ').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12927&ciid=1&enc=kyF6mk90rrLllq8CT9QpFg').show();
+			
+		
+			
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16391&ciid=1&enc=YM6IRw8suqm4NlhePnhLWg').show();
+			
+		
+			
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16394&ciid=1&enc=wk7CaaotFQExR4nIng6jUA').show();
+			
+		
+			
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16395&ciid=1&enc=bSuVTMzMYk9JNgLCl53FSA').show();
+			
+		
+			
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16430&ciid=1&enc=5aYiIfViA8uieZzRXmXHwA').show();
+			
+		
+			
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16396&ciid=1&enc=jyAXAo8-6ZwzfUjyYOTZDw').show();
+			
+		
+			
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16393&ciid=1&enc=CO0wvruLX5Mv_lOiWT1sjQ').show();
+			
+		
+			
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16390&ciid=1&enc=MkPWKyJBHya4rJA0jrZIKw').show();
+			
+		
+			
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12862&ciid=1&enc=GcY1fyuMtGLVoRjL61-uMQ').show();
 			
 		
 
@@ -457,7 +489,7 @@
 									<div class="item_box_title">
 										<b>カードテキスト</b>
 									</div>
-									「LL－ターコイズ・ワーブラー」の②の効果は１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：このカードが手札からの特殊召喚に成功した場合に発動できる。自分の手札・墓地から「LL」モンスター１体を選んで特殊召喚する。
+									このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。②：このカードが手札からの特殊召喚に成功した場合に発動できる。自分の手札・墓地から「LL」モンスター１体を選んで特殊召喚する。
 									
 			
 								</div>
@@ -486,14 +518,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12928%26request_locale%3Dja%26a%3D202105071302&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12928%26request_locale%3Dja%26a%3D202106240947&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12928&request_locale=ja&a=202105071302" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12928&request_locale=ja&a=202106240947" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12928&request_locale=ja&a=202105071302"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12928&request_locale=ja&a=202106240947"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -538,6 +570,27 @@
 					<col width="50">
 					<tr>
 						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2021-05-22</td>
+		
+		
+		
+						<td>DP25-JP043</td>
+		
+		
+						<td>
+							<b>デュエリストパック －疾風のデュエリスト編－</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=1000004325000&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
 					</tr>
 	
 					<tr class="row">
@@ -617,7 +670,7 @@
 						<div>
 							<strong>
 
-								検索結果 5件中 1～5件を表示
+								検索結果 13件中 1～13件を表示
 							</strong>
 						</div>
 					</div>
@@ -689,7 +742,7 @@
 					
 					<dd class="box_card_text">
 					  
-						レベル１モンスター×２体以上<br>①：このカードの攻撃力は、このカードのX素材の数×２００アップする。②：このカードは直接攻撃でき、X素材を持ったこのカードは、その数まで１度のバトルフェイズに攻撃できる。③：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。ターン終了時まで、自分フィールドの「LL」モンスターは戦闘・効果では破壊されず、自分が受ける戦闘ダメージは０になる。この効果は相手ターンでも発動できる。
+						レベル１モンスター×２体以上<br>①：このカードの攻撃力は、このカードのX素材の数×２００アップする。②：このカードは直接攻撃でき、X素材を持っているこのカードは、その数まで１度のバトルフェイズ中に攻撃できる。③：１ターンに１度、このカードのX素材を１つ取り除いて発動できる。ターン終了時まで、自分フィールドの「LL」モンスターは戦闘・効果では破壊されず、自分が受ける戦闘ダメージは０になる。この効果は相手ターンでも発動できる。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -700,6 +753,77 @@
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12957">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>リリカル・ルスキニア－アンサンブルー・ロビン</span>
+						<span class="card_status">
+						<strong>LL－アンサンブルー・ロビン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 1</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル１モンスター×２体以上<br>①：このカードの攻撃力は、このカードのX素材の数×５００アップする。②：相手がモンスターの特殊召喚に成功した場合、このカードのX素材を１つ取り除き、その特殊召喚されたモンスター１体を対象として発動できる。そのモンスターを持ち主の手札に戻す。③：このカードが相手によって墓地へ送られた場合、このカード以外の自分の墓地の「LL」モンスター１体を対象として発動できる。そのモンスターを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="LL－アンサンブルー・ロビン" title="LL－アンサンブルー・ロビン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16392">
 			</li>
 		  
 			<li>
@@ -766,7 +890,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="LL－インディペンデント・ナイチンゲール" title="LL－インディペンデント・ナイチンゲール" class="none">
+						<img id="card_image_2_1" alt="LL－インディペンデント・ナイチンゲール" title="LL－インディペンデント・ナイチンゲール" class="none">
 					  
 					</dd>
 				</dl>
@@ -828,13 +952,13 @@
 					
 					<dd class="box_card_text">
 					  
-						「LL－コバルト・スパロー」の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。デッキから鳥獣族・レベル１モンスター１体を手札に加える。②：フィールドのこのカードを素材としてX召喚した風属性モンスターは以下の効果を得る。●このカードは相手の効果の対象にならない。
+						このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。デッキから鳥獣族・レベル１モンスター１体を手札に加える。②：フィールドのこのカードを素材としてX召喚した風属性モンスターは以下の効果を得る。●このカードは相手の効果の対象にならない。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="LL－コバルト・スパロー" title="LL－コバルト・スパロー" class="none">
+						<img id="card_image_3_1" alt="LL－コバルト・スパロー" title="LL－コバルト・スパロー" class="none">
 					  
 					</dd>
 				</dl>
@@ -896,17 +1020,401 @@
 					
 					<dd class="box_card_text">
 					  
-						「LL－サファイア・スワロー」の①の効果は１ターンに１度しか使用できない。①：自分フィールドに鳥獣族モンスターが存在する場合に発動できる。このカードと鳥獣族・レベル１モンスター１体を手札から特殊召喚する。②：フィールドのこのカードを素材としてX召喚した風属性モンスターは以下の効果を得る。●このX召喚に成功した場合、自分の墓地の「LL」モンスター１体を対象として発動できる。そのモンスターをこのカードの下に重ねてX素材とする。
+						このカード名の①の効果は１ターンに１度しか使用できない。①：自分フィールドに鳥獣族モンスターが存在する場合に発動できる。このカードと鳥獣族・レベル１モンスター１体を手札から特殊召喚する。②：フィールドのこのカードを素材としてX召喚した風属性モンスターは以下の効果を得る。●このX召喚に成功した場合、自分の墓地の「LL」モンスター１体を対象として発動できる。そのモンスターをこのカードの下に重ねてX素材とする。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="LL－サファイア・スワロー" title="LL－サファイア・スワロー" class="none">
+						<img id="card_image_4_1" alt="LL－サファイア・スワロー" title="LL－サファイア・スワロー" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12927">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>リリカル・ルスキニア－セレスト・ワグテイル</span>
+						<span class="card_status">
+						<strong>LL－セレスト・ワグテイル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 200</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。デッキから「LL」魔法・罠カード１枚を手札に加える。②：このカードが墓地に存在する場合、自分フィールドの「LL」Xモンスター１体を対象として発動できる。このカードをそのモンスターの下に重ねてX素材とする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="LL－セレスト・ワグテイル" title="LL－セレスト・ワグテイル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16391">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>リリカル・ルスキニア－バード・コール</span>
+						<span class="card_status">
+						<strong>LL－バード・コール</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：デッキから「LL」モンスター１体を選び、手札に加えるか墓地へ送る。その後、そのモンスターとはカード名が異なる「LL」モンスター１体を手札から特殊召喚できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="LL－バード・コール" title="LL－バード・コール" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16394">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>リリカル・ルスキニア－バード・サンクチュアリ</span>
+						<span class="card_status">
+						<strong>LL－バード・サンクチュアリ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの鳥獣族Xモンスター２体を対象として発動できる。対象のモンスターの内１体を、もう１体のモンスターの下に重ねてX素材とする（X素材を持っているモンスターを重ねる場合はそのX素材も全て重ねる）。②：X素材を３つ以上持っているXモンスターが自分フィールドに存在する場合に発動できる。自分はデッキから１枚ドローする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="LL－バード・サンクチュアリ" title="LL－バード・サンクチュアリ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16395">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>リリカル・ルスキニア－バード・ストライク</span>
+						<span class="card_status">
+						<strong>LL－バード・ストライク</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドに「LL」モンスターが存在する場合に発動できる。相手フィールドの全ての表側表示モンスターの効果はターン終了時まで無効化される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_8_1" alt="LL－バード・ストライク" title="LL－バード・ストライク" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16430">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>リリカル・ルスキニア－ひよくのれいちょう</span>
+						<span class="card_status">
+						<strong>LL－比翼の麗鳥</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「LL」モンスター１体を対象として発動できる。相手フィールドの全てのモンスターの攻撃力は対象のモンスターの攻撃力と同じになり、相手フィールドの全てのモンスターのレベル・ランクは１になる。②：相手モンスターが自分の「LL」モンスターに攻撃宣言した時、墓地のこのカードを除外して発動できる。その自分のモンスターの攻撃力はターン終了時まで、その相手モンスターの攻撃力と同じになる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_9_1" alt="LL－比翼の麗鳥" title="LL－比翼の麗鳥" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16396">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>リリカル・ルスキニア－プロム・スラッシュ</span>
+						<span class="card_status">
+						<strong>LL－プロム・スラッシュ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 1</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル１モンスター×２体以上<br>①：このカードの攻撃力は、このカードのX素材の数×５００アップする。②：１ターンに１度、このカードのX素材を１つ取り除き、相手フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを持ち主のデッキに戻す。③：このカード以外の自分のモンスターが戦闘を行うダメージステップ開始時に、このカードのX素材を任意の数だけ取り除いて発動できる。その自分のモンスターの攻撃力はターン終了時まで、取り除いた数×３００アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_10_1" alt="LL－プロム・スラッシュ" title="LL－プロム・スラッシュ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16393">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>リリカル・ルスキニア－ベリル・カナリー</span>
+						<span class="card_status">
+						<strong>LL－ベリル・カナリー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							鳥獣族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 200</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが手札に存在する場合、自分の墓地の「LL」モンスター１体を対象として発動できる。このカードと対象のモンスターを特殊召喚する。この効果の発動後、ターン終了時まで自分はXモンスターしかEXデッキから特殊召喚できない。②：フィールドのこのカードを素材としてX召喚した風属性モンスターは以下の効果を得る。●このカードの攻撃力は２００アップし、コントロールを変更できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_11_1" alt="LL－ベリル・カナリー" title="LL－ベリル・カナリー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16390">
 			</li>
 		  
 			<li>
@@ -973,7 +1481,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="LL－リサイト・スターリング" title="LL－リサイト・スターリング" class="none">
+						<img id="card_image_12_1" alt="LL－リサイト・スターリング" title="LL－リサイト・スターリング" class="none">
 					  
 					</dd>
 				</dl>

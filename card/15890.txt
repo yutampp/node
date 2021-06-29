@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="デメット爺さん | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「デメット爺さん」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15890%26request_locale%3Dja%26a%3D202105071520"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15890%26request_locale%3Dja%26a%3D202105071520"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15890%26request_locale%3Dja%26a%3D202106241207"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15890%26request_locale%3Dja%26a%3D202106241207"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,11 +151,15 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15891&ciid=1&enc=eMKTHFge3SM0y5YAYlYBPA').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16427&ciid=1&enc=R9T40ViqBBJAJYhSGZ4fSg').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10723&ciid=1&enc=Txmy6FHWhI5giDQxhWQ_jw').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15891&ciid=1&enc=eMKTHFge3SM0y5YAYlYBPA').show();
+			
+		
+			
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10723&ciid=1&enc=Txmy6FHWhI5giDQxhWQ_jw').show();
 			
 		
 
@@ -472,14 +476,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15890%26request_locale%3Dja%26a%3D202105071520&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15890%26request_locale%3Dja%26a%3D202106241207&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15890&request_locale=ja&a=202105071520" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15890&request_locale=ja&a=202106241207" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15890&request_locale=ja&a=202105071520"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15890&request_locale=ja&a=202106241207"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -645,7 +649,7 @@
 						<div>
 							<strong>
 
-								検索結果 2件中 1～2件を表示
+								検索結果 3件中 1～3件を表示
 							</strong>
 						</div>
 					</div>
@@ -658,6 +662,54 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>にんぎょうのいえ</span>
+						<span class="card_status">
+						<strong>人形の家</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_field.png" alt="フィールド" title="フィールド">
+							<span>フィールド</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の効果は１ターンに１度しか使用できない。①：自分の墓地の攻撃力か守備力が０の通常モンスター１体を対象として発動できる。その同名モンスター１体をデッキから闇属性・レベル６モンスターとして特殊召喚する。自分フィールドに「プリンセス・コロン」が存在する場合、この効果の対象を２体にできる。②：相手モンスターの攻撃宣言時に発動できる。自分フィールドの「デメット爺さん」１体を選び、自分フィールドの「プリンセス・コロン」のX素材とする。その後、バトルフェイズを終了する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="人形の家" title="人形の家" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16427">
+			</li>
 		  
 			<li>
 				<dl>
@@ -700,7 +752,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="人形の幸福" title="人形の幸福" class="none">
+						<img id="card_image_1_1" alt="人形の幸福" title="人形の幸福" class="none">
 					  
 					</dd>
 				</dl>
@@ -771,7 +823,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="プリンセス・コロン" title="プリンセス・コロン" class="none">
+						<img id="card_image_2_1" alt="プリンセス・コロン" title="プリンセス・コロン" class="none">
 					  
 					</dd>
 				</dl>

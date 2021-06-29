@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ハーピィ・レディ３ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ハーピィ・レディ３」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6188%26request_locale%3Dja%26a%3D202105071411"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6188%26request_locale%3Dja%26a%3D202105071411"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6188%26request_locale%3Dja%26a%3D202106241057"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6188%26request_locale%3Dja%26a%3D202106241057"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -175,83 +175,87 @@
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6686&ciid=1&enc=vZbklZ5GcV7I462cEULZMg').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16622&ciid=1&enc=D5K6khid0rndYRzDHUZ50g').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10536&ciid=1&enc=SRN2vazAuQeJqLer0rcFPQ').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6686&ciid=1&enc=vZbklZ5GcV7I462cEULZMg').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10563&ciid=1&enc=01KdSGtkdVyaep-E1_6Avg').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10536&ciid=1&enc=SRN2vazAuQeJqLer0rcFPQ').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10516&ciid=1&enc=BCgwytgA6XT-URPpMNJrBw').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10563&ciid=1&enc=01KdSGtkdVyaep-E1_6Avg').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6207&ciid=1&enc=DbBxo1_hZ3A3r9RFkZElWQ').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10516&ciid=1&enc=BCgwytgA6XT-URPpMNJrBw').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12900&ciid=1&enc=nc_7GXLbfcJE7YjPm-kIhw').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6207&ciid=1&enc=DbBxo1_hZ3A3r9RFkZElWQ').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14168&ciid=1&enc=R0VhdmHYrRvMyPwKEeCS4A').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12900&ciid=1&enc=nc_7GXLbfcJE7YjPm-kIhw').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11657&ciid=1&enc=-y1V0-x30CqH6KTBu0m0NA').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14168&ciid=1&enc=R0VhdmHYrRvMyPwKEeCS4A').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14165&ciid=1&enc=6FZa1NCesCFXdVH0CJZgIQ').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11657&ciid=1&enc=-y1V0-x30CqH6KTBu0m0NA').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4068&ciid=1&enc=Li08YVmJ9Ep7zNO345FUFw').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14165&ciid=1&enc=6FZa1NCesCFXdVH0CJZgIQ').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5239&ciid=1&enc=njMpLcMydm89R5pW8Ba9jA').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4068&ciid=1&enc=Li08YVmJ9Ep7zNO345FUFw').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15463&ciid=1&enc=6nTItDmoyZn_NZAtivh_Xg').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5239&ciid=1&enc=njMpLcMydm89R5pW8Ba9jA').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6187&ciid=1&enc=TymImdI6HwTNEbIxMA4OfQ').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15463&ciid=1&enc=6nTItDmoyZn_NZAtivh_Xg').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10865&ciid=1&enc=6vXkU_PfMrUqEW60lqz72A').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6187&ciid=1&enc=TymImdI6HwTNEbIxMA4OfQ').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6186&ciid=1&enc=hKvPZgl_8wbJDMj1oY_wgA').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10865&ciid=1&enc=6vXkU_PfMrUqEW60lqz72A').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5021&ciid=1&enc=TbmloBBH8xsFSGNvQb06fQ').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6186&ciid=1&enc=hKvPZgl_8wbJDMj1oY_wgA').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10546&ciid=1&enc=MqVAv4oNo9I21OnItPe98A').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5021&ciid=1&enc=TbmloBBH8xsFSGNvQb06fQ').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6722&ciid=1&enc=t9skN_KMRwCyarT-psIFLQ').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10546&ciid=1&enc=MqVAv4oNo9I21OnItPe98A').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4324&ciid=1&enc=7UdPLeBlZrbB0Ww75dmY7w').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6722&ciid=1&enc=t9skN_KMRwCyarT-psIFLQ').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14167&ciid=1&enc=WcUlpeluw7C8oNhSL2jb4A').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4324&ciid=1&enc=7UdPLeBlZrbB0Ww75dmY7w').show();
+			
+		
+			
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14167&ciid=1&enc=WcUlpeluw7C8oNhSL2jb4A').show();
 			
 		
 
@@ -570,14 +574,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6188%26request_locale%3Dja%26a%3D202105071411&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6188%26request_locale%3Dja%26a%3D202106241057&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6188&request_locale=ja&a=202105071411" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6188&request_locale=ja&a=202106241057" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6188&request_locale=ja&a=202105071411"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6188&request_locale=ja&a=202106241057"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -764,7 +768,7 @@
 						<div>
 							<strong>
 
-								検索結果 26件中 1～26件を表示
+								検索結果 27件中 1～27件を表示
 							</strong>
 						</div>
 					</div>
@@ -1144,6 +1148,74 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ハーピィズペットドラゴン－セイント・ファイアー・ギガ</span>
+						<span class="card_status">
+						<strong>ハーピィズペット竜－セイント・ファイアー・ギガ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにレベル６以下の風属性モンスターが存在する場合に発動できる。このカードを手札から守備表示で特殊召喚する。②：このカードがモンスターゾーンに存在する限り、お互いにレベル６以下の「ハーピィ」モンスターを攻撃対象に選択できない。③：このカードがフィールドから墓地へ送られた場合に発動できる。デッキから鳥獣族・風属性モンスター１体を墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="ハーピィズペット竜－セイント・ファイアー・ギガ" title="ハーピィズペット竜－セイント・ファイアー・ギガ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16622">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ハーピィズペットベビードラゴン</span>
 						<span class="card_status">
 						<strong>ハーピィズペット仔竜</strong>
@@ -1202,7 +1274,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="ハーピィズペット仔竜" title="ハーピィズペット仔竜" class="none">
+						<img id="card_image_7_1" alt="ハーピィズペット仔竜" title="ハーピィズペット仔竜" class="none">
 					  
 					</dd>
 				</dl>
@@ -1273,7 +1345,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="ハーピィズペット幻竜" title="ハーピィズペット幻竜" class="none">
+						<img id="card_image_8_1" alt="ハーピィズペット幻竜" title="ハーピィズペット幻竜" class="none">
 					  
 					</dd>
 				</dl>
@@ -1341,7 +1413,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="ハーピィ・ダンサー" title="ハーピィ・ダンサー" class="none">
+						<img id="card_image_9_1" alt="ハーピィ・ダンサー" title="ハーピィ・ダンサー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1409,7 +1481,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ハーピィ・チャネラー" title="ハーピィ・チャネラー" class="none">
+						<img id="card_image_10_1" alt="ハーピィ・チャネラー" title="ハーピィ・チャネラー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1457,7 +1529,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="ハーピィの狩場" title="ハーピィの狩場" class="none">
+						<img id="card_image_11_1" alt="ハーピィの狩場" title="ハーピィの狩場" class="none">
 					  
 					</dd>
 				</dl>
@@ -1500,7 +1572,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="ハーピィの羽根吹雪" title="ハーピィの羽根吹雪" class="none">
+						<img id="card_image_12_1" alt="ハーピィの羽根吹雪" title="ハーピィの羽根吹雪" class="none">
 					  
 					</dd>
 				</dl>
@@ -1543,7 +1615,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="ハーピィの羽根休め" title="ハーピィの羽根休め" class="none">
+						<img id="card_image_13_1" alt="ハーピィの羽根休め" title="ハーピィの羽根休め" class="none">
 					  
 					</dd>
 				</dl>
@@ -1611,7 +1683,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="ハーピィ・ハーピスト" title="ハーピィ・ハーピスト" class="none">
+						<img id="card_image_14_1" alt="ハーピィ・ハーピスト" title="ハーピィ・ハーピスト" class="none">
 					  
 					</dd>
 				</dl>
@@ -1679,7 +1751,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="ハーピィ・パフューマー" title="ハーピィ・パフューマー" class="none">
+						<img id="card_image_15_1" alt="ハーピィ・パフューマー" title="ハーピィ・パフューマー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1747,7 +1819,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="ハーピィ・レディ" title="ハーピィ・レディ" class="none">
+						<img id="card_image_16_1" alt="ハーピィ・レディ" title="ハーピィ・レディ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1815,7 +1887,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="ハーピィ・レディ・SB" title="ハーピィ・レディ・SB" class="none">
+						<img id="card_image_17_1" alt="ハーピィ・レディ・SB" title="ハーピィ・レディ・SB" class="none">
 					  
 					</dd>
 				</dl>
@@ -1886,7 +1958,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="ハーピィ・レディ・SC" title="ハーピィ・レディ・SC" class="none">
+						<img id="card_image_18_1" alt="ハーピィ・レディ・SC" title="ハーピィ・レディ・SC" class="none">
 					  
 					</dd>
 				</dl>
@@ -1954,7 +2026,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="ハーピィ・レディ２" title="ハーピィ・レディ２" class="none">
+						<img id="card_image_19_1" alt="ハーピィ・レディ２" title="ハーピィ・レディ２" class="none">
 					  
 					</dd>
 				</dl>
@@ -1997,7 +2069,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="ハーピィ・レディ －鳳凰の陣－" title="ハーピィ・レディ －鳳凰の陣－" class="none">
+						<img id="card_image_20_1" alt="ハーピィ・レディ －鳳凰の陣－" title="ハーピィ・レディ －鳳凰の陣－" class="none">
 					  
 					</dd>
 				</dl>
@@ -2065,7 +2137,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="ハーピィ・レディ１" title="ハーピィ・レディ１" class="none">
+						<img id="card_image_21_1" alt="ハーピィ・レディ１" title="ハーピィ・レディ１" class="none">
 					  
 					</dd>
 				</dl>
@@ -2133,7 +2205,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="バード・フェイス" title="バード・フェイス" class="none">
+						<img id="card_image_22_1" alt="バード・フェイス" title="バード・フェイス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2181,7 +2253,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="ヒステリック・サイン" title="ヒステリック・サイン" class="none">
+						<img id="card_image_23_1" alt="ヒステリック・サイン" title="ヒステリック・サイン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2229,7 +2301,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="ヒステリック・パーティー" title="ヒステリック・パーティー" class="none">
+						<img id="card_image_24_1" alt="ヒステリック・パーティー" title="ヒステリック・パーティー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2272,7 +2344,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="万華鏡－華麗なる分身－" title="万華鏡－華麗なる分身－" class="none">
+						<img id="card_image_25_1" alt="万華鏡－華麗なる分身－" title="万華鏡－華麗なる分身－" class="none">
 					  
 					</dd>
 				</dl>
@@ -2320,7 +2392,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="魅惑の合わせ鏡" title="魅惑の合わせ鏡" class="none">
+						<img id="card_image_26_1" alt="魅惑の合わせ鏡" title="魅惑の合わせ鏡" class="none">
 					  
 					</dd>
 				</dl>

@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="光波翼機 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「光波翼機」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12551%26request_locale%3Dja%26a%3D202105071511"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12551%26request_locale%3Dja%26a%3D202105071511"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12551%26request_locale%3Dja%26a%3D202106241158"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12551%26request_locale%3Dja%26a%3D202106241158"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -163,43 +163,55 @@
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12746&ciid=1&enc=2rbn8E4dYPxG-djqQT2G-Q').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16433&ciid=1&enc=EGzIgZ0CukElORNpQQL_Ng').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5034&ciid=1&enc=DsmnIFBcnF5ZoUOaU12Row').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12746&ciid=1&enc=2rbn8E4dYPxG-djqQT2G-Q').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12804&ciid=1&enc=aS-TJT6__fRZC6_G2k4Xww').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5034&ciid=1&enc=DsmnIFBcnF5ZoUOaU12Row').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12600&ciid=1&enc=axQcG3BJf06fvvBSwsslZQ').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12804&ciid=1&enc=aS-TJT6__fRZC6_G2k4Xww').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12659&ciid=1&enc=3WKuiknt_Uxi5U_V_zavmA').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12600&ciid=1&enc=axQcG3BJf06fvvBSwsslZQ').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12601&ciid=1&enc=MJUSJxoxjx27IEcfrdXPvw').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16432&ciid=1&enc=DNawUcQA5zwMhs86MzXOyQ').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13524&ciid=1&enc=JCJ-oWqbh3__bPW7K3AdTQ').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12659&ciid=1&enc=3WKuiknt_Uxi5U_V_zavmA').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12658&ciid=1&enc=M7m8g8pJCQKChWUtAIP_GQ').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12601&ciid=1&enc=MJUSJxoxjx27IEcfrdXPvw').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12784&ciid=1&enc=6btc8mQnhj2QdqvP6ghZNg').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13524&ciid=1&enc=JCJ-oWqbh3__bPW7K3AdTQ').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12791&ciid=1&enc=Y5KyIoerMqf0Ab7CcHXOcA').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16434&ciid=1&enc=Vr-zQArBLLrld0dI39IpDQ').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12658&ciid=1&enc=M7m8g8pJCQKChWUtAIP_GQ').show();
+			
+		
+			
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12784&ciid=1&enc=6btc8mQnhj2QdqvP6ghZNg').show();
+			
+		
+			
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12791&ciid=1&enc=Y5KyIoerMqf0Ab7CcHXOcA').show();
 			
 		
 
@@ -518,14 +530,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12551%26request_locale%3Dja%26a%3D202105071511&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12551%26request_locale%3Dja%26a%3D202106241158&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12551&request_locale=ja&a=202105071511" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12551&request_locale=ja&a=202106241158" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12551&request_locale=ja&a=202105071511"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12551&request_locale=ja&a=202106241158"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -649,7 +661,7 @@
 						<div>
 							<strong>
 
-								検索結果 13件中 1～13件を表示
+								検索結果 16件中 1～16件を表示
 							</strong>
 						</div>
 					</div>
@@ -879,6 +891,54 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>サイファー・インターフィアー</span>
+						<span class="card_status">
+						<strong>光波干渉</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の効果は１ターンに１度しか使用できない。①：フィールドに同名モンスターが存在する、自分の「サイファー」モンスターが戦闘を行うダメージ計算時に発動できる。その戦闘を行う自分の「サイファー」モンスターの攻撃力はバトルフェイズ終了時まで倍になる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="光波干渉" title="光波干渉" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16433">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>サイファー・エトランゼ</span>
 						<span class="card_status">
 						<strong>光波異邦臣</strong>
@@ -937,7 +997,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="光波異邦臣" title="光波異邦臣" class="none">
+						<img id="card_image_4_1" alt="光波異邦臣" title="光波異邦臣" class="none">
 					  
 					</dd>
 				</dl>
@@ -1005,7 +1065,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="サイファー・スカウター" title="サイファー・スカウター" class="none">
+						<img id="card_image_5_1" alt="サイファー・スカウター" title="サイファー・スカウター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1048,7 +1108,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="光波分光" title="光波分光" class="none">
+						<img id="card_image_6_1" alt="光波分光" title="光波分光" class="none">
 					  
 					</dd>
 				</dl>
@@ -1116,11 +1176,79 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="光波双顎機" title="光波双顎機" class="none">
+						<img id="card_image_7_1" alt="光波双顎機" title="光波双顎機" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12600">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>サイファー・バイプレーン</span>
+						<span class="card_status">
+						<strong>光波複葉機</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1000</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「サイファー」モンスターが召喚・特殊召喚された場合に発動できる。このカードを手札から特殊召喚する。②：１ターンに１度、自分フィールドの「サイファー」モンスター２体を対象として発動できる。そのモンスターのレベルをターン終了時まで８にする。③：このカードが戦闘・効果で破壊され墓地へ送られた場合、墓地のこのカードを除外して発動できる。デッキから「サイファー」モンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_8_1" alt="光波複葉機" title="光波複葉機" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16432">
 			</li>
 		  
 			<li>
@@ -1159,7 +1287,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="光波防輪" title="光波防輪" class="none">
+						<img id="card_image_9_1" alt="光波防輪" title="光波防輪" class="none">
 					  
 					</dd>
 				</dl>
@@ -1227,7 +1355,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="光波鏡騎士" title="光波鏡騎士" class="none">
+						<img id="card_image_10_1" alt="光波鏡騎士" title="光波鏡騎士" class="none">
 					  
 					</dd>
 				</dl>
@@ -1295,11 +1423,59 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ストームサイファー" title="ストームサイファー" class="none">
+						<img id="card_image_11_1" alt="ストームサイファー" title="ストームサイファー" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13524">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ダブル・エクスポージャー</span>
+						<span class="card_status">
+						<strong>二重露光</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドのレベル６以下の同名モンスター２体を対象として発動できる。そのモンスターのレベルは倍になる。②：自分・相手のバトルフェイズ開始時に、自分フィールドの「サイファー」モンスター１体を対象として発動できる。そのモンスター以外のフィールドの表側表示モンスター１体を選び、エンドフェイズまでそのカード名を対象の「サイファー」モンスターと同名カードとして扱う。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_12_1" alt="二重露光" title="二重露光" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16434">
 			</li>
 		  
 			<li>
@@ -1338,7 +1514,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="二重光波" title="二重光波" class="none">
+						<img id="card_image_13_1" alt="二重光波" title="二重光波" class="none">
 					  
 					</dd>
 				</dl>
@@ -1409,7 +1585,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="超銀河眼の光波龍" title="超銀河眼の光波龍" class="none">
+						<img id="card_image_14_1" alt="超銀河眼の光波龍" title="超銀河眼の光波龍" class="none">
 					  
 					</dd>
 				</dl>
@@ -1457,7 +1633,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="RUM－光波昇華" title="RUM－光波昇華" class="none">
+						<img id="card_image_15_1" alt="RUM－光波昇華" title="RUM－光波昇華" class="none">
 					  
 					</dd>
 				</dl>

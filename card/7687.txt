@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ジャンク・シンクロン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ジャンク・シンクロン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7687%26request_locale%3Dja%26a%3D202105071438"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7687%26request_locale%3Dja%26a%3D202105071438"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7687%26request_locale%3Dja%26a%3D202106241124"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7687%26request_locale%3Dja%26a%3D202106241124"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -179,91 +179,95 @@
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8862&ciid=1&enc=JecpUYLOeE8WWNQLp90ccQ').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16388&ciid=1&enc=LQkr4NCG2y4SkV10r3ko3g').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11622&ciid=1&enc=dsIzWfcnlQS5FDTGfAp-NA').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8862&ciid=1&enc=JecpUYLOeE8WWNQLp90ccQ').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11620&ciid=1&enc=93Tmj3HxH0CPEbjBDCSmpA').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11622&ciid=1&enc=dsIzWfcnlQS5FDTGfAp-NA').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11304&ciid=1&enc=m8c5XXTqE0iY_wESFkhZrw').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11620&ciid=1&enc=93Tmj3HxH0CPEbjBDCSmpA').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8581&ciid=1&enc=8Wo8cNjkhNYe4_E6z85lCg').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11304&ciid=1&enc=m8c5XXTqE0iY_wESFkhZrw').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7696&ciid=1&enc=h1A2lWoEUZGTrtNFo5e70Q').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8581&ciid=1&enc=8Wo8cNjkhNYe4_E6z85lCg').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9045&ciid=1&enc=e0T4mxxySvyygdXTJVaOhg').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7696&ciid=1&enc=h1A2lWoEUZGTrtNFo5e70Q').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13544&ciid=1&enc=zt9az6eDnxpXOzd3Qp_FKw').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9045&ciid=1&enc=e0T4mxxySvyygdXTJVaOhg').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14916&ciid=1&enc=qsvBfZ_-7rbr4FVjVrSRRg').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13544&ciid=1&enc=zt9az6eDnxpXOzd3Qp_FKw').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9472&ciid=1&enc=EbxX4GjRsCfPoPN14NDjfQ').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14916&ciid=1&enc=qsvBfZ_-7rbr4FVjVrSRRg').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13868&ciid=1&enc=348itS1MjRPc1zWK6iACLg').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9472&ciid=1&enc=EbxX4GjRsCfPoPN14NDjfQ').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12255&ciid=1&enc=5GslgP6Lct016a5cwrOEQA').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13868&ciid=1&enc=348itS1MjRPc1zWK6iACLg').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8860&ciid=1&enc=XrgtxER2a_U8kr2KBzO6Yw').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12255&ciid=1&enc=5GslgP6Lct016a5cwrOEQA').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9508&ciid=1&enc=F3JpGOINvYJyPmdAUAXD6A').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8860&ciid=1&enc=XrgtxER2a_U8kr2KBzO6Yw').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8735&ciid=1&enc=Qdb73p3EWplI8VIGi550YA').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9508&ciid=1&enc=F3JpGOINvYJyPmdAUAXD6A').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12087&ciid=1&enc=VBZup_oUUnD5nHyKvhQ6hQ').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8735&ciid=1&enc=Qdb73p3EWplI8VIGi550YA').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16192&ciid=1&enc=YJZuiCXJd6MV_7sDuUWcVQ').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12087&ciid=1&enc=VBZup_oUUnD5nHyKvhQ6hQ').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11625&ciid=1&enc=swq32m6nToNwQrcICJKBqg').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16192&ciid=1&enc=YJZuiCXJd6MV_7sDuUWcVQ').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9122&ciid=1&enc=YsuzAvYHYOVGymReJ3JPUw').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11625&ciid=1&enc=swq32m6nToNwQrcICJKBqg').show();
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9082&ciid=1&enc=FQLthe3WNuEgmO_3zu3PWA').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9122&ciid=1&enc=YsuzAvYHYOVGymReJ3JPUw').show();
 			
 		
 			
-				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8872&ciid=1&enc=l-iOdbQbW77p_bGGhNYoEA').show();
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9082&ciid=1&enc=FQLthe3WNuEgmO_3zu3PWA').show();
 			
 		
 			
-				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11621&ciid=1&enc=xLmbWXuYm7wkSvERos7dmg').show();
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8872&ciid=1&enc=l-iOdbQbW77p_bGGhNYoEA').show();
+			
+		
+			
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11621&ciid=1&enc=xLmbWXuYm7wkSvERos7dmg').show();
 			
 		
 
@@ -587,14 +591,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7687%26request_locale%3Dja%26a%3D202105071438&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7687%26request_locale%3Dja%26a%3D202106241124&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7687&request_locale=ja&a=202105071438" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7687&request_locale=ja&a=202106241124" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7687&request_locale=ja&a=202105071438"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7687&request_locale=ja&a=202106241124"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -928,7 +932,7 @@
 						<div>
 							<strong>
 
-								検索結果 29件中 1～29件を表示
+								検索結果 30件中 1～30件を表示
 							</strong>
 						</div>
 					</div>
@@ -1394,6 +1398,54 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>シンクロ・ディレンマ</span>
+						<span class="card_status">
+						<strong>シンクロ・ディレンマ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の効果は１ターンに１度しか使用できない。①：以下の効果から１つを選択して発動できる。<br>●手札及び自分フィールドの表側表示モンスターの中から、「シンクロン」モンスター１体を墓地へ送って発動できる。手札からモンスター１体を特殊召喚する。<br>●このカード以外の自分フィールドのカード１枚を対象として発動できる。そのカードを破壊し、そのカードとは元々のカード名が異なる「シンクロン」モンスター１体を自分の手札・墓地から選んで特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="シンクロ・ディレンマ" title="シンクロ・ディレンマ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16388">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>シンクロン・エクスプローラー</span>
 						<span class="card_status">
 						<strong>シンクロン・エクスプローラー</strong>
@@ -1452,7 +1504,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="シンクロン・エクスプローラー" title="シンクロン・エクスプローラー" class="none">
+						<img id="card_image_8_1" alt="シンクロン・エクスプローラー" title="シンクロン・エクスプローラー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1520,7 +1572,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="シンクロン・キャリアー" title="シンクロン・キャリアー" class="none">
+						<img id="card_image_9_1" alt="シンクロン・キャリアー" title="シンクロン・キャリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1591,7 +1643,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ジェット・シンクロン" title="ジェット・シンクロン" class="none">
+						<img id="card_image_10_1" alt="ジェット・シンクロン" title="ジェット・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1662,7 +1714,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="ジャンク・アンカー" title="ジャンク・アンカー" class="none">
+						<img id="card_image_11_1" alt="ジャンク・アンカー" title="ジャンク・アンカー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1733,7 +1785,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="ジャンク・アーチャー" title="ジャンク・アーチャー" class="none">
+						<img id="card_image_12_1" alt="ジャンク・アーチャー" title="ジャンク・アーチャー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1804,7 +1856,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="ジャンク・ウォリアー" title="ジャンク・ウォリアー" class="none">
+						<img id="card_image_13_1" alt="ジャンク・ウォリアー" title="ジャンク・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1875,7 +1927,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="ジャンク・ガードナー" title="ジャンク・ガードナー" class="none">
+						<img id="card_image_14_1" alt="ジャンク・ガードナー" title="ジャンク・ガードナー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1943,7 +1995,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="ジャンク・コネクター" title="ジャンク・コネクター" class="none">
+						<img id="card_image_15_1" alt="ジャンク・コネクター" title="ジャンク・コネクター" class="none">
 					  
 					</dd>
 				</dl>
@@ -2011,7 +2063,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="ジャンク・コンバーター" title="ジャンク・コンバーター" class="none">
+						<img id="card_image_16_1" alt="ジャンク・コンバーター" title="ジャンク・コンバーター" class="none">
 					  
 					</dd>
 				</dl>
@@ -2079,7 +2131,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="ジャンク・サーバント" title="ジャンク・サーバント" class="none">
+						<img id="card_image_17_1" alt="ジャンク・サーバント" title="ジャンク・サーバント" class="none">
 					  
 					</dd>
 				</dl>
@@ -2150,7 +2202,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="ジャンク・スピーダー" title="ジャンク・スピーダー" class="none">
+						<img id="card_image_18_1" alt="ジャンク・スピーダー" title="ジャンク・スピーダー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2221,7 +2273,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="ジャンク・チェンジャー" title="ジャンク・チェンジャー" class="none">
+						<img id="card_image_19_1" alt="ジャンク・チェンジャー" title="ジャンク・チェンジャー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2292,7 +2344,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="ジャンク・デストロイヤー" title="ジャンク・デストロイヤー" class="none">
+						<img id="card_image_20_1" alt="ジャンク・デストロイヤー" title="ジャンク・デストロイヤー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2363,7 +2415,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="ジャンク・バーサーカー" title="ジャンク・バーサーカー" class="none">
+						<img id="card_image_21_1" alt="ジャンク・バーサーカー" title="ジャンク・バーサーカー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2431,7 +2483,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="ジャンク・ブレーダー" title="ジャンク・ブレーダー" class="none">
+						<img id="card_image_22_1" alt="ジャンク・ブレーダー" title="ジャンク・ブレーダー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2502,7 +2554,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="スターダスト・アサルト・ウォリアー" title="スターダスト・アサルト・ウォリアー" class="none">
+						<img id="card_image_23_1" alt="スターダスト・アサルト・ウォリアー" title="スターダスト・アサルト・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2570,7 +2622,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="スターダスト・トレイル" title="スターダスト・トレイル" class="none">
+						<img id="card_image_24_1" alt="スターダスト・トレイル" title="スターダスト・トレイル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2618,7 +2670,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="スターライト・ジャンクション" title="スターライト・ジャンクション" class="none">
+						<img id="card_image_25_1" alt="スターライト・ジャンクション" title="スターライト・ジャンクション" class="none">
 					  
 					</dd>
 				</dl>
@@ -2661,7 +2713,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="調律" title="調律" class="none">
+						<img id="card_image_26_1" alt="調律" title="調律" class="none">
 					  
 					</dd>
 				</dl>
@@ -2729,7 +2781,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="ネクロ・リンカー" title="ネクロ・リンカー" class="none">
+						<img id="card_image_27_1" alt="ネクロ・リンカー" title="ネクロ・リンカー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2800,7 +2852,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_27_1" alt="ライティ・ドライバー" title="ライティ・ドライバー" class="none">
+						<img id="card_image_28_1" alt="ライティ・ドライバー" title="ライティ・ドライバー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2868,7 +2920,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_28_1" alt="ラッシュ・ウォリアー" title="ラッシュ・ウォリアー" class="none">
+						<img id="card_image_29_1" alt="ラッシュ・ウォリアー" title="ラッシュ・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>

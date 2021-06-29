@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="リアクター・スライム | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「リアクター・スライム」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15330%26request_locale%3Dja%26a%3D202105071515"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15330%26request_locale%3Dja%26a%3D202105071515"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15330%26request_locale%3Dja%26a%3D202106241202"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15330%26request_locale%3Dja%26a%3D202106241202"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,11 +151,15 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9218&ciid=1&enc=77pwpfgy2UhhE0yQx23tXg').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5119&ciid=1&enc=zptDEy9ifea4fEs7ZapI_A').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5686&ciid=1&enc=f4irWL4hY0r6M28HERZ2WQ').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9218&ciid=1&enc=77pwpfgy2UhhE0yQx23tXg').show();
+			
+		
+			
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5686&ciid=1&enc=f4irWL4hY0r6M28HERZ2WQ').show();
 			
 		
 
@@ -474,14 +478,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15330%26request_locale%3Dja%26a%3D202105071515&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15330%26request_locale%3Dja%26a%3D202106241202&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15330&request_locale=ja&a=202105071515" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15330&request_locale=ja&a=202106241202" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15330&request_locale=ja&a=202105071515"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15330&request_locale=ja&a=202106241202"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -605,7 +609,7 @@
 						<div>
 							<strong>
 
-								検索結果 2件中 1～2件を表示
+								検索結果 3件中 1～3件を表示
 							</strong>
 						</div>
 					</div>
@@ -618,6 +622,54 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>スライムぞうしょくろ</span>
+						<span class="card_status">
+						<strong>スライム増殖炉</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						自分のスタンバイフェイズ毎に、自分フィールド上に「スライムモンスタートークン」（水族・水・星１・攻／守５００）１体を攻撃表示で特殊召喚する。このカードがフィールド上に存在する限り、自分は「スライムモンスタートークン」以外のモンスターを召喚・反転召喚・特殊召喚する事はできない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="スライム増殖炉" title="スライム増殖炉" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=5119">
+			</li>
 		  
 			<li>
 				<dl>
@@ -683,7 +735,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="ダーク・フラット・トップ" title="ダーク・フラット・トップ" class="none">
+						<img id="card_image_1_1" alt="ダーク・フラット・トップ" title="ダーク・フラット・トップ" class="none">
 					  
 					</dd>
 				</dl>
@@ -731,7 +783,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="メタル・リフレクト・スライム" title="メタル・リフレクト・スライム" class="none">
+						<img id="card_image_2_1" alt="メタル・リフレクト・スライム" title="メタル・リフレクト・スライム" class="none">
 					  
 					</dd>
 				</dl>
