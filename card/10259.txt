@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="子型ペンギン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「子型ペンギン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10259%26request_locale%3Dja%26a%3D202106241015"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10259%26request_locale%3Dja%26a%3D202106241015"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10259%26request_locale%3Dja%26a%3D202108231048"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10259%26request_locale%3Dja%26a%3D202108231048"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -179,27 +179,43 @@
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4608&ciid=1&enc=D0xwUKXDvrZKrBdknL2l-A').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16512&ciid=1&enc=wwswqdnOikPJlurnKU0XGA').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16404&ciid=1&enc=3qPs53Sj3LY2hJnzp0pKbA').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4608&ciid=1&enc=D0xwUKXDvrZKrBdknL2l-A').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4205&ciid=1&enc=ahgP8MzSUUpcteD-zfODpA').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16404&ciid=1&enc=3qPs53Sj3LY2hJnzp0pKbA').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5803&ciid=1&enc=cJRhGYqXIxfCSoO55wFUpA').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4205&ciid=1&enc=ahgP8MzSUUpcteD-zfODpA').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15518&ciid=1&enc=nyDfSOt99eMNM_S_YiYR8A').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5803&ciid=1&enc=cJRhGYqXIxfCSoO55wFUpA').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4467&ciid=1&enc=wfsegeFEmARxqKqmVt9qxQ').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16511&ciid=1&enc=_5vvKhcMASHTXbeIFLuGkQ').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16510&ciid=1&enc=VVPGSSP1-TQ8XDJACKb2rA').show();
+			
+		
+			
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15518&ciid=1&enc=nyDfSOt99eMNM_S_YiYR8A').show();
+			
+		
+			
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=4467&ciid=1&enc=wfsegeFEmARxqKqmVt9qxQ').show();
+			
+		
+			
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16549&ciid=1&enc=LmfQNRZY4QUZDFIg338hlw').show();
 			
 		
 
@@ -490,7 +506,7 @@
 										<b>カードテキスト</b>
 									</div>
 									リバースしたこのカードが墓地へ送られた時、自分の墓地から「子型ペンギン」以外の「ペンギン」と名のついたモンスター１体を選択し、表側攻撃表示または裏側守備表示で特殊召喚する。
-									
+		
 			
 								</div>
 							</td>
@@ -518,14 +534,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10259%26request_locale%3Dja%26a%3D202106241015&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D10259%26request_locale%3Dja%26a%3D202108231048&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10259&request_locale=ja&a=202106241015" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10259&request_locale=ja&a=202108231048" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10259&request_locale=ja&a=202106241015"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10259&request_locale=ja&a=202108231048"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -649,7 +665,7 @@
 						<div>
 							<strong>
 
-								検索結果 13件中 1～13件を表示
+								検索結果 17件中 1～17件を表示
 							</strong>
 						</div>
 					</div>
@@ -1145,6 +1161,74 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ペンギンそうりょ</span>
+						<span class="card_status">
+						<strong>ペンギン僧侶</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_water.png" alt="水属性" title="水属性">
+							<span>水属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							水族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 600</span>
+						
+						
+							<span class="def_power">守備力 1700</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の効果は１ターンに１度しか使用できない。①：「ペンギン」モンスターが相手によって自分のモンスターゾーンから自分の墓地へ送られた場合、その内の１体を対象として発動できる（ダメージステップでも発動可能）。このカードを手札から捨て、対象のモンスターを裏側守備表示で特殊召喚する。②：１ターンに１度、自分フィールドの「ペンギン」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで６００アップし、自分は６００LP回復する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="ペンギン僧侶" title="ペンギン僧侶" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16512">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ペンギン・ソルジャー</span>
 						<span class="card_status">
 						<strong>ペンギン・ソルジャー</strong>
@@ -1200,13 +1284,13 @@
 					
 					<dd class="box_card_text">
 					  
-						リバース：フィールド上のモンスターを２体まで選択して持ち主の手札に戻す事ができる。
+						①：このカードがリバースした場合、フィールドのモンスターを２体まで対象として発動できる。そのモンスターを持ち主の手札に戻す。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="ペンギン・ソルジャー" title="ペンギン・ソルジャー" class="none">
+						<img id="card_image_8_1" alt="ペンギン・ソルジャー" title="ペンギン・ソルジャー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1254,7 +1338,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="ペンギン・ソード" title="ペンギン・ソード" class="none">
+						<img id="card_image_9_1" alt="ペンギン・ソード" title="ペンギン・ソード" class="none">
 					  
 					</dd>
 				</dl>
@@ -1322,7 +1406,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ペンギン・ナイト" title="ペンギン・ナイト" class="none">
+						<img id="card_image_10_1" alt="ペンギン・ナイト" title="ペンギン・ナイト" class="none">
 					  
 					</dd>
 				</dl>
@@ -1390,11 +1474,153 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="ペンギン・ナイトメア" title="ペンギン・ナイトメア" class="none">
+						<img id="card_image_11_1" alt="ペンギン・ナイトメア" title="ペンギン・ナイトメア" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=5803">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ペンギンにんじゃ</span>
+						<span class="card_status">
+						<strong>ペンギン忍者</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_water.png" alt="水属性" title="水属性">
+							<span>水属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							水族
+						  
+							／
+							リバース
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1400</span>
+						
+						
+							<span class="def_power">守備力 700</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがリバースした場合、相手フィールドの魔法・罠カードを２枚まで対象として発動できる。そのカードを持ち主の手札に戻す。②：自分フィールドの「ペンギン」モンスター１体を対象として発動できる。そのモンスターを裏側守備表示にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_12_1" alt="ペンギン忍者" title="ペンギン忍者" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16511">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ペンギンゆうし</span>
+						<span class="card_status">
+						<strong>ペンギン勇士</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_water.png" alt="水属性" title="水属性">
+							<span>水属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							水族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できず、このカードをS素材とする場合、水属性モンスターのS召喚にしか使用できない。①：自分フィールドにモンスターがセットされた場合に発動できる。このカードを手札から特殊召喚する。その後、このカードのレベルを１つまたは２つ下げる事ができる。②：自分フィールドの裏側守備表示モンスター１体を対象として発動できる。そのモンスターを表側守備表示にする。この効果で「ペンギン」モンスター以外のモンスターを表側守備表示にした場合、その効果は無効化される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_13_1" alt="ペンギン勇士" title="ペンギン勇士" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16510">
 			</li>
 		  
 			<li>
@@ -1461,7 +1687,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="ペンギン勇者" title="ペンギン勇者" class="none">
+						<img id="card_image_14_1" alt="ペンギン勇者" title="ペンギン勇者" class="none">
 					  
 					</dd>
 				</dl>
@@ -1529,11 +1755,59 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="ボルト・ペンギン" title="ボルト・ペンギン" class="none">
+						<img id="card_image_15_1" alt="ボルト・ペンギン" title="ボルト・ペンギン" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=4467">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ロイヤル・ペンギンズ・ガーデン</span>
+						<span class="card_status">
+						<strong>ロイヤル・ペンギンズ・ガーデン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、デッキから「ロイヤル・ペンギンズ・ガーデン」以外の「ペンギン」カード１枚を手札に加える事ができる。②：１ターンに１度、自分メインフェイズに発動できる。手札及び自分フィールドの表側表示モンスターの中から、「ペンギン」モンスター１体を選び、そのモンスターのレベルをターン終了時まで１つ下げる。その後、自分の手札を１枚選んで捨てる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_16_1" alt="ロイヤル・ペンギンズ・ガーデン" title="ロイヤル・ペンギンズ・ガーデン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16549">
 			</li>
 		  
 		</ul><!--.box_list-->

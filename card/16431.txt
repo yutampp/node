@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="トイ・パレード | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「トイ・パレード」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16431%26request_locale%3Dja%26a%3D202106241154"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16431%26request_locale%3Dja%26a%3D202106241154"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16431%26request_locale%3Dja%26a%3D202108231228"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16431%26request_locale%3Dja%26a%3D202108231228"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -497,7 +497,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカード名はルール上「デストーイ」カードとしても扱う。このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：EXデッキから特殊召喚された自分の闇属性モンスター１体を対象として発動できる。このターン、自分はそのモンスターでしか攻撃宣言できず、そのモンスターは戦闘でモンスターを破壊し墓地へ送る度に続けて攻撃できる。②：自分フィールドに天使族モンスターが存在する場合、墓地のこのカードを除外して発動できる。自分の墓地からレベル４以下の闇属性モンスター１体を選んで手札に加える。
-									
+		
 		
 								</div>
 							</td>
@@ -524,14 +524,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16431%26request_locale%3Dja%26a%3D202106241154&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16431%26request_locale%3Dja%26a%3D202108231228&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16431&request_locale=ja&a=202106241154" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16431&request_locale=ja&a=202108231228" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16431&request_locale=ja&a=202106241154"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16431&request_locale=ja&a=202108231228"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>

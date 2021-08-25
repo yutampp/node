@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ラヴァル・ツインスレイヤー | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ラヴァル・ツインスレイヤー」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9214%26request_locale%3Dja%26a%3D202106241238"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9214%26request_locale%3Dja%26a%3D202106241238"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9214%26request_locale%3Dja%26a%3D202108231314"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9214%26request_locale%3Dja%26a%3D202108231314"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -563,7 +563,7 @@
 										<b>カードテキスト</b>
 									</div>
 									チューナー＋チューナー以外の炎属性モンスター１体以上<br>自分の墓地に存在する「ラヴァル」と名のついたモンスターの数によって、このカードは以下の効果を得る。●２体以上：このカードが守備表示モンスターを攻撃した場合、もう１度だけ続けて攻撃する事ができる。●３体以上：このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。
-									
+		
 			
 								</div>
 							</td>
@@ -591,14 +591,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9214%26request_locale%3Dja%26a%3D202106241238&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9214%26request_locale%3Dja%26a%3D202108231314&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9214&request_locale=ja&a=202106241238" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9214&request_locale=ja&a=202108231314" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9214&request_locale=ja&a=202106241238"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9214&request_locale=ja&a=202108231314"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>

@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="クリボーン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「クリボーン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202106241132"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202106241132"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202108231206"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202108231206"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -510,7 +510,7 @@
 										<b>カードテキスト</b>
 									</div>
 									①：自分・相手のバトルフェイズ終了時にこのカードを手札から捨て、このターンに戦闘で破壊され自分の墓地へ送られたモンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：相手モンスターの攻撃宣言時、墓地のこのカードを除外し、自分の墓地の「クリボー」モンスターを任意の数だけ対象として発動できる。そのモンスターを特殊召喚する。
-									
+		
 			
 								</div>
 							</td>
@@ -538,14 +538,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202106241132&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12577%26request_locale%3Dja%26a%3D202108231206&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12577&request_locale=ja&a=202106241132" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12577&request_locale=ja&a=202108231206" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12577&request_locale=ja&a=202106241132"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12577&request_locale=ja&a=202108231206"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -590,6 +590,27 @@
 					<col width="50">
 					<tr>
 						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2021-07-01</td>
+		
+		
+		
+						<td>21TP-JP301</td>
+		
+		
+						<td>
+							<b>トーナメントパック　2021 Vol.3</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=1000005358000&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_sr.png" class="icon_info rid_3" alt="スーパーレア仕様" style="margin-right: 7px;">
+		
+		
+						</td>
 					</tr>
 	
 					<tr class="row">
@@ -1602,7 +1623,7 @@
 					
 					<dd class="box_card_text">
 					  
-						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に、その攻撃モンスター１体を対象として発動できる。このカードを手札から装備カード扱いとしてそのモンスターに装備する。装備モンスターは攻撃できない。②：このカードが墓地に存在する場合、相手モンスターの直接攻撃宣言時に発動できる。このカードを墓地から特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に、その攻撃モンスター１体を対象として発動できる。このカードを手札から装備カード扱いとしてそのモンスターに装備する。装備モンスターは攻撃できない。②：このカードが墓地に存在する場合、相手モンスターの直接攻撃宣言時に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
 					  
 					</dd>
 					<dd class="box_card_img">

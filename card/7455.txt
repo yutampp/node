@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="フォース・リリース | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「フォース・リリース」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7455%26request_locale%3Dja%26a%3D202106241042"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7455%26request_locale%3Dja%26a%3D202106241042"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7455%26request_locale%3Dja%26a%3D202108231116"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7455%26request_locale%3Dja%26a%3D202108231116"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -149,6 +149,10 @@
 			location.href = $('.link_value', this).val();
 		});
 		
+		
+			
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16518&ciid=1&enc=9hNIqqtO_Usq2JPj9cdzmQ').show();
+			
 		
 
 		
@@ -367,7 +371,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカードの発動時に自分フィールド上に表側表示で存在する全てのデュアルモンスターは再度召喚した状態になる。この効果を適用したモンスターはエンドフェイズ時に裏側守備表示になる。
-									
+		
 		
 								</div>
 							</td>
@@ -394,19 +398,23 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7455%26request_locale%3Dja%26a%3D202106241042&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D7455%26request_locale%3Dja%26a%3D202108231116&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7455&request_locale=ja&a=202106241042" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7455&request_locale=ja&a=202108231116" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7455&request_locale=ja&a=202106241042"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7455&request_locale=ja&a=202108231116"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
 					</table>
 				
+				
+					<div id="relationCard_a">
+						<a href="#relationCard">このカードの関連カードを見る</a>
+					</div>
 				
 				</td>
 				<td valign="top" style="padding-left:8px;">
@@ -495,6 +503,153 @@
 
 
 
+
+
+	<div class="list_style" id="relationCard">
+		<div class="li_top">関連カード</div>
+
+
+
+			<table style="margin:0 auto;width:100%;border-spacing: 0px;">
+				<tr>
+				<td valign="top" style="padding: 0px;">
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="mode" style="width:110px;">
+							<option value="1">画像表示</option>
+							<option value="2">テキスト表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="rp" style="width:170px;">
+							<option value="10">10件ずつ表示</option>
+							<option value="50">50件ずつ表示</option>
+							<option value="100">100件ずつ表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right">
+						<select id="sort" style="width:260px;">
+							<option value="1">50音順</option>
+							<option value="2">レベル／ランク順（大きい順）</option>
+							<option value="3">レベル／ランク順（小さい順）</option>
+							<option value="4">攻撃力順（大きい順）</option>
+							<option value="5">攻撃力順（小さい順）</option>
+							<option value="6">守備力順（大きい順）</option>
+							<option value="7">守備力順（小さい順）</option>
+							<option value="8">ペンデュラムスケール順（大きい順）</option>
+							<option value="9">ペンデュラムスケール順（小さい順）</option>
+							<option value="11">リンク数（多い順）</option>
+							<option value="12">リンク数（少ない順）</option>
+						</select>
+					</span>
+
+					
+					<div class="page_num_title">
+						<div>
+							<strong>
+
+								検索結果 1件中 1～1件を表示
+							</strong>
+						</div>
+					</div>
+					<br class="f_del">
+				</td>
+				</tr>
+			</table>
+
+
+
+
+		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>デュアライズ・ロード－ゴルドナイト</span>
+						<span class="card_status">
+						<strong>重起士道－ゴルドナイト</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_earth.png" alt="地属性" title="地属性">
+							<span>地属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							デュアル
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1500</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：このカードはフィールド・墓地に存在する限り、通常モンスターとして扱う。②：フィールドの通常モンスター扱いのこのカードを通常召喚としてもう１度召喚できる。その場合このカードは効果モンスター扱いとなり以下の効果を得る。<br>●このカードが召喚・特殊召喚に成功した場合に発動できる。効果テキストに「デュアルモンスター」と記された魔法・罠カード１枚をデッキから手札に加える。このカード名のこの効果は１ターンに１度しか使用できない。<br>●このカードは機械族になり、攻撃力が５００アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="重起士道－ゴルドナイト" title="重起士道－ゴルドナイト" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16518">
+			</li>
+		  
+		</ul><!--.box_list-->
+	</div><!--.list_style-->
+
+	<div class="page_num">
+		<span>
+			
+			
+			  
+				<a class="nowpage">1</a>
+			  
+			  
+			
+			
+		</span>
+	</div>
 
 
 

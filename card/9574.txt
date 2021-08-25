@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="エクシーズエフェクト | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「エクシーズエフェクト」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9574%26request_locale%3Dja%26a%3D202106241123"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9574%26request_locale%3Dja%26a%3D202106241123"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9574%26request_locale%3Dja%26a%3D202108231157"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9574%26request_locale%3Dja%26a%3D202108231157"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,7 +151,11 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10193&ciid=1&enc=FrhXpVrMGge05mqZxGvJjg').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16467&ciid=1&enc=Dqs8_4Q35dy2_1q6aVfhDA').show();
+			
+		
+			
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10193&ciid=1&enc=FrhXpVrMGge05mqZxGvJjg').show();
 			
 		
 
@@ -371,7 +375,7 @@
 										<b>カードテキスト</b>
 									</div>
 									自分がエクシーズ召喚に成功した時、フィールド上のカード１枚を選択して発動できる。選択したカードを破壊する。
-									
+		
 		
 								</div>
 							</td>
@@ -398,14 +402,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9574%26request_locale%3Dja%26a%3D202106241123&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9574%26request_locale%3Dja%26a%3D202108231157&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9574&request_locale=ja&a=202106241123" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9574&request_locale=ja&a=202108231157" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9574&request_locale=ja&a=202106241123"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9574&request_locale=ja&a=202108231157"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -571,7 +575,7 @@
 						<div>
 							<strong>
 
-								検索結果 1件中 1～1件を表示
+								検索結果 2件中 1～2件を表示
 							</strong>
 						</div>
 					</div>
@@ -584,6 +588,74 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>きぼうおうアストラル・ホープ</span>
+						<span class="card_status">
+						<strong>希望皇アストラル・ホープ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドにXモンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。②：このカード以外の自分の手札・フィールドのカード１枚を墓地へ送って発動できる。デッキから以下のカードの内いずれか１枚を手札に加える。<br>●「エクシーズ」魔法・罠カード<br>●「オノマト」魔法・罠カード<br>●「ゼアル」魔法・罠カード<br>●「ナンバーズ」魔法・罠カード
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="希望皇アストラル・ホープ" title="希望皇アストラル・ホープ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16467">
+			</li>
 		  
 			<li>
 				<dl>
@@ -621,7 +693,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="ジェネレーション・フォース" title="ジェネレーション・フォース" class="none">
+						<img id="card_image_1_1" alt="ジェネレーション・フォース" title="ジェネレーション・フォース" class="none">
 					  
 					</dd>
 				</dl>

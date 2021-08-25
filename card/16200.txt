@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="しゃりの軍貫 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「しゃりの軍貫」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16200%26request_locale%3Dja%26a%3D202106240923"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16200%26request_locale%3Dja%26a%3D202106240923"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16200%26request_locale%3Dja%26a%3D202108230956"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16200%26request_locale%3Dja%26a%3D202108230956"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -155,15 +155,31 @@
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16263&ciid=1&enc=36u_OJst0v4sXGchbV7btA').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16508&ciid=1&enc=dPz8E8WlBaho7fxMOP9V_A').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16247&ciid=1&enc=POI4kg_bgRL1uUNrK9osBg').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16263&ciid=1&enc=36u_OJst0v4sXGchbV7btA').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16232&ciid=1&enc=I0iQrfNXlfVXHVO-huA64g').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16535&ciid=1&enc=572DI9rz94PLaOuqF5hn3g').show();
+			
+		
+			
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16247&ciid=1&enc=POI4kg_bgRL1uUNrK9osBg').show();
+			
+		
+			
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16509&ciid=1&enc=dIiuAC3qLvQc9jLJ4KhgtQ').show();
+			
+		
+			
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16534&ciid=1&enc=ptXdmxmDYZ-8PmzsjBGSfA').show();
+			
+		
+			
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16232&ciid=1&enc=I0iQrfNXlfVXHVO-huA64g').show();
 			
 		
 
@@ -329,6 +345,8 @@
 	
 					しゃりの軍貫
 	
+					<span>Gunkan Suship Shari</span>
+	
 				</h1>
 			</div>
 		</header>
@@ -452,7 +470,7 @@
 										<b>カードテキスト</b>
 									</div>
 									以前から気になっていた軍貫一筋の軍港に。ここのしゃりは年間二千隻しか製造されておらず、独自開発した粘り気の少ない古米によって他港には無い重厚感が愉しめる事もあり、数多の通を唸らせてきた逸品。港内の雰囲気も格式高く胸が高鳴ります。<br>念願の軍貫は、お酢比率、握り加減、造形が正に職人技で流石の一言。店主曰く「円みと芳醇な香りを備えたEDO－FRONT製の赤酢も近日入港予定」との事で調和が大変楽しみです。<br>周辺海域が若干騒がしかったのが残念でした・・・。今後の期待も込めて今回は星４とさせていただきます！
-									
+		
 			
 								</div>
 							</td>
@@ -480,14 +498,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16200%26request_locale%3Dja%26a%3D202106240923&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16200%26request_locale%3Dja%26a%3D202108230956&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16200&request_locale=ja&a=202106240923" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16200&request_locale=ja&a=202108230956" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16200&request_locale=ja&a=202106240923"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16200&request_locale=ja&a=202108230956"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -611,7 +629,7 @@
 						<div>
 							<strong>
 
-								検索結果 4件中 1～4件を表示
+								検索結果 8件中 1～8件を表示
 							</strong>
 						</div>
 					</div>
@@ -696,6 +714,74 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>うにのぐんかん</span>
+						<span class="card_status">
+						<strong>うにの軍貫</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							水族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 900</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカード以外の手札の「軍貫」カード１枚を相手に見せて発動できる。このカードを手札から特殊召喚する。その後、見せたカードによって以下の効果を適用する。●「しゃりの軍貫」：見せたモンスターを特殊召喚できる。●それ以外：見せたカードをデッキの一番下に戻す。②：自分フィールドの「軍貫」モンスター１体を対象として発動できる。そのモンスターのレベルを４または５にする。その後、デッキから「しゃりの軍貫」１体を手札に加える事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="うにの軍貫" title="うにの軍貫" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16508">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>きまぐれぐんかんにぎり</span>
 						<span class="card_status">
 						<strong>きまぐれ軍貫握り</strong>
@@ -729,11 +815,82 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="きまぐれ軍貫握り" title="きまぐれ軍貫握り" class="none">
+						<img id="card_image_2_1" alt="きまぐれ軍貫握り" title="きまぐれ軍貫握り" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16263">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>くうぼぐんかん－しらうおがたとくむかん</span>
+						<span class="card_status">
+						<strong>空母軍貫－しらうお型特務艦</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							水族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2200</span>
+						
+						
+							<span class="def_power">守備力 250</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル４モンスター×２<br>このカード名の①の効果は１ターンに１度しか使用できない。①：このカードがX召喚に成功した場合に発動できる。そのX召喚の素材としたモンスターによって以下の効果を適用する。<br>●「しゃりの軍貫」：自分はデッキから１枚ドローする。<br>●「しらうおの軍貫」：デッキから「軍貫」魔法・罠カード１枚を手札に加える。<br>②：フィールドゾーンに表側表示でカードが存在する限り、EXデッキから特殊召喚された自分の「軍貫」モンスターは、相手の効果では破壊されず、攻撃力がその元々の守備力分アップする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="空母軍貫－しらうお型特務艦" title="空母軍貫－しらうお型特務艦" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16535">
 			</li>
 		  
 			<li>
@@ -777,11 +934,150 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="軍貫処 『海せん』" title="軍貫処 『海せん』" class="none">
+						<img id="card_image_4_1" alt="軍貫処 『海せん』" title="軍貫処 『海せん』" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16247">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>しらうおのぐんかん</span>
+						<span class="card_status">
+						<strong>しらうおの軍貫</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							水族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 200</span>
+						
+						
+							<span class="def_power">守備力 250</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「しゃりの軍貫」または「しゃりの軍貫」をX素材としているXモンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。②：自分メインフェイズに発動できる。手札から「しらうおの軍貫」以外の「軍貫」モンスター１体を特殊召喚する。その後、自分のデッキ・墓地から「しゃりの軍貫」を任意の数だけ選び、好きな順番でデッキの一番上に置く事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="しらうおの軍貫" title="しらうおの軍貫" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16509">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ちょうどきゅうぐんかん－うにがたにばんかん</span>
+						<span class="card_status">
+						<strong>超弩級軍貫－うに型二番艦</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 5</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							水族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2900</span>
+						
+						
+							<span class="def_power">守備力 500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル５モンスター×２<br>このカード名の①の効果は１ターンに１度しか使用できない。①：このカードがX召喚に成功した場合に発動できる。そのX召喚の素材としたモンスターによって以下の効果を適用する。<br>●「しゃりの軍貫」：自分はデッキから１枚ドローする。<br>●「うにの軍貫」：このカードは直接攻撃できる。<br>②：自分メインフェイズ及び相手バトルフェイズに１度、EXデッキから特殊召喚された自分の「軍貫」モンスターの数まで相手フィールドの表側表示のカードを対象として発動できる。そのカードの効果を無効にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="超弩級軍貫－うに型二番艦" title="超弩級軍貫－うに型二番艦" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16534">
 			</li>
 		  
 			<li>
@@ -848,7 +1144,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="弩級軍貫－いくら型一番艦" title="弩級軍貫－いくら型一番艦" class="none">
+						<img id="card_image_7_1" alt="弩級軍貫－いくら型一番艦" title="弩級軍貫－いくら型一番艦" class="none">
 					  
 					</dd>
 				</dl>

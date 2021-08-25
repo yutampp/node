@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="魔鍵錠－解－ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「魔鍵錠－解－」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16262%26request_locale%3Dja%26a%3D202106240924"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16262%26request_locale%3Dja%26a%3D202106240924"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16262%26request_locale%3Dja%26a%3D202108230957"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16262%26request_locale%3Dja%26a%3D202108230957"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,35 +151,55 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16261&ciid=1&enc=MH7rLnOqnpTNawR19jpHfw').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16507&ciid=1&enc=iHAqSgc5xeELwLU9t1vfcg').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16225&ciid=1&enc=85uCAVrhDpchsvO75aCvgg').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16261&ciid=1&enc=MH7rLnOqnpTNawR19jpHfw').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16226&ciid=1&enc=Tt6a1ZG9t_kLT8rc_NmMAA').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16225&ciid=1&enc=85uCAVrhDpchsvO75aCvgg').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16199&ciid=1&enc=ESZgCrRUxcnHL2dsBIjasQ').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16226&ciid=1&enc=Tt6a1ZG9t_kLT8rc_NmMAA').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16221&ciid=1&enc=etPHUZxEsKrul-XoiAjryA').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16199&ciid=1&enc=ESZgCrRUxcnHL2dsBIjasQ').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16246&ciid=1&enc=jwxochI3czJzB6JIeyGLvw').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16221&ciid=1&enc=etPHUZxEsKrul-XoiAjryA').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16222&ciid=1&enc=VKWgMKd0Xlh3l0H0UkwXzA').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16563&ciid=1&enc=Wc9x1IjaQ_Y4-ZMSGY_rlg').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16245&ciid=1&enc=n29UpAb21qze4kbBaLotFw').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16246&ciid=1&enc=jwxochI3czJzB6JIeyGLvw').show();
+			
+		
+			
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16548&ciid=1&enc=w8SOk767FqI7sHNMElEsTw').show();
+			
+		
+			
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16533&ciid=1&enc=jJQVixrvdIZnGqNMcE258Q').show();
+			
+		
+			
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16530&ciid=1&enc=NCPHqw3WO6dIzZSsuQWYvA').show();
+			
+		
+			
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16222&ciid=1&enc=VKWgMKd0Xlh3l0H0UkwXzA').show();
+			
+		
+			
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16245&ciid=1&enc=n29UpAb21qze4kbBaLotFw').show();
 			
 		
 
@@ -345,6 +365,8 @@
 	
 					魔鍵錠－解－
 	
+					<span>Magikey Unlocking</span>
+	
 				</h1>
 			</div>
 		</header>
@@ -397,7 +419,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカード名のカードは１ターンに１枚しか発動できない。①：「魔鍵」儀式モンスターまたはEXデッキから特殊召喚された「魔鍵」モンスターが自分フィールドに存在し、相手が魔法・罠カードを発動した時に発動できる。その発動を無効にし破壊する。その後、属性を１つ宣言できる。その場合、ターン終了時まで相手フィールドの全ての表側表示モンスターは宣言した属性になる。
-									
+		
 		
 								</div>
 							</td>
@@ -424,14 +446,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16262%26request_locale%3Dja%26a%3D202106240924&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16262%26request_locale%3Dja%26a%3D202108230957&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16262&request_locale=ja&a=202106240924" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16262&request_locale=ja&a=202108230957" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16262&request_locale=ja&a=202106240924"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16262&request_locale=ja&a=202108230957"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -555,7 +577,7 @@
 						<div>
 							<strong>
 
-								検索結果 8件中 1～8件を表示
+								検索結果 13件中 1～13件を表示
 							</strong>
 						</div>
 					</div>
@@ -568,6 +590,77 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>だいまけん－マフテアル</span>
+						<span class="card_status">
+						<strong>大魔鍵－マフテアル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							悪魔族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1600</span>
+						
+						
+							<span class="def_power">守備力 1600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できず、このカードをS・X召喚の素材とする場合、「魔鍵」モンスターのS・X召喚にしか使用できない。①：自分フィールドに「魔鍵」モンスターが存在する場合、手札のこのカードを相手に見せて発動できる。このターン、自分は通常召喚に加えて１度だけ、「魔鍵」モンスター１体を召喚できる。②：このカードが召喚に成功した時、自分の墓地のレベル４以下の、通常モンスターまたは「魔鍵」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="大魔鍵－マフテアル" title="大魔鍵－マフテアル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16507">
+			</li>
 		  
 			<li>
 				<dl>
@@ -605,7 +698,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="繋がれし魔鍵" title="繋がれし魔鍵" class="none">
+						<img id="card_image_1_1" alt="繋がれし魔鍵" title="繋がれし魔鍵" class="none">
 					  
 					</dd>
 				</dl>
@@ -679,7 +772,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="魔鍵召獣－アンシャラボラス" title="魔鍵召獣－アンシャラボラス" class="none">
+						<img id="card_image_2_1" alt="魔鍵召獣－アンシャラボラス" title="魔鍵召獣－アンシャラボラス" class="none">
 					  
 					</dd>
 				</dl>
@@ -750,7 +843,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="魔鍵召竜－アンドラビムス" title="魔鍵召竜－アンドラビムス" class="none">
+						<img id="card_image_3_1" alt="魔鍵召竜－アンドラビムス" title="魔鍵召竜－アンドラビムス" class="none">
 					  
 					</dd>
 				</dl>
@@ -818,7 +911,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="魔鍵銃士－クラヴィス" title="魔鍵銃士－クラヴィス" class="none">
+						<img id="card_image_4_1" alt="魔鍵銃士－クラヴィス" title="魔鍵銃士－クラヴィス" class="none">
 					  
 					</dd>
 				</dl>
@@ -892,11 +985,54 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="魔鍵銃－バトスバスター" title="魔鍵銃－バトスバスター" class="none">
+						<img id="card_image_5_1" alt="魔鍵銃－バトスバスター" title="魔鍵銃－バトスバスター" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16221">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>まけんじょう－ロック－</span>
+						<span class="card_status">
+						<strong>魔鍵錠－施－</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：トークン以外の自分フィールドの、通常モンスターまたは「魔鍵」モンスター１体をリリースし、レベルの合計が８以下になるように、自分の墓地の通常モンスターまたは「魔鍵」モンスターを２体まで対象として発動できる。そのモンスターを守備表示で特殊召喚する。その後、以下の効果から１つを選んで適用できる。<br>●自分フィールドのモンスターをS素材として「魔鍵」Sモンスター１体をS召喚する。<br>●自分フィールドのモンスターをX素材として「魔鍵」Xモンスター１体をX召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="魔鍵錠－施－" title="魔鍵錠－施－" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16563">
 			</li>
 		  
 			<li>
@@ -940,11 +1076,201 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="魔鍵施解" title="魔鍵施解" class="none">
+						<img id="card_image_7_1" alt="魔鍵施解" title="魔鍵施解" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16246">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>まけんとうそう</span>
+						<span class="card_status">
+						<strong>魔鍵闘争</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						①：自分の墓地の、通常モンスター、「魔鍵」モンスター、「魔鍵－マフテア」の内、１枚を対象として発動できる。そのカードをデッキに戻す。相手の魔法・罠・モンスターの効果の発動にチェーンしてこのカードを発動した場合、さらにトークン以外の自分フィールドの通常モンスター及び「魔鍵」モンスターはその相手の効果を受けない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_8_1" alt="魔鍵闘争" title="魔鍵闘争" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16548">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>まけんひょうれい－ウェパルトゥ</span>
+						<span class="card_status">
+						<strong>魔鍵憑霊－ウェパルトゥ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_water.png" alt="水属性" title="水属性">
+							<span>水属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							海竜族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル４モンスター×２<br>①：このカードがX召喚に成功した場合、このカードのX素材を１つ取り除いて発動できる。自分のデッキ・墓地からレベル４以上の通常モンスター１体を選んで手札に加える。②：このカードが通常モンスターをX素材としている場合、以下の効果を得る。●自分の墓地の通常モンスターまたは「魔鍵」モンスターのいずれかと同じ属性を持つ相手モンスターとこのカードが戦闘を行うダメージステップ開始時に、このカードのX素材を１つ取り除いて発動できる。相手はそのモンスターを墓地へ送らなければならない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_9_1" alt="魔鍵憑霊－ウェパルトゥ" title="魔鍵憑霊－ウェパルトゥ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16533">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>まけんへんき－トランスフルミネ</span>
+						<span class="card_status">
+						<strong>魔鍵変鬼－トランスフルミネ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							雷族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2800</span>
+						
+						
+							<span class="def_power">守備力 2800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「魔鍵」チューナー＋チューナー以外の通常モンスター１体以上<br>このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードは１度のバトルフェイズ中に２回までモンスターに攻撃できる。②：このカードのS素材としたモンスターの属性が２種類以上だった場合に発動できる。デッキから「魔鍵」魔法・罠カード１枚を選んで自分の魔法＆罠ゾーンにセットする。③：自分の墓地のいずれかのモンスターと同じ属性を持つモンスターを相手が召喚・特殊召喚した場合に発動できる。そのモンスターを破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_10_1" alt="魔鍵変鬼－トランスフルミネ" title="魔鍵変鬼－トランスフルミネ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16530">
 			</li>
 		  
 			<li>
@@ -1011,7 +1337,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="魔鍵砲－ガレスヴェート" title="魔鍵砲－ガレスヴェート" class="none">
+						<img id="card_image_11_1" alt="魔鍵砲－ガレスヴェート" title="魔鍵砲－ガレスヴェート" class="none">
 					  
 					</dd>
 				</dl>
@@ -1054,7 +1380,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="魔鍵－マフテア" title="魔鍵－マフテア" class="none">
+						<img id="card_image_12_1" alt="魔鍵－マフテア" title="魔鍵－マフテア" class="none">
 					  
 					</dd>
 				</dl>

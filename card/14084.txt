@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ヴァレット・シンクロン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ヴァレット・シンクロン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14084%26request_locale%3Dja%26a%3D202106240937"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14084%26request_locale%3Dja%26a%3D202106240937"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14084%26request_locale%3Dja%26a%3D202108231010"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14084%26request_locale%3Dja%26a%3D202108231010"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -183,139 +183,151 @@
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14617&ciid=1&enc=z7oZnC0ewDdwWeGmm4aq0w').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16522&ciid=1&enc=7O2csh_adF5REZD8JpXZjA').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13226&ciid=1&enc=llDPRWXTNCx_pctUnqc85A').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14617&ciid=1&enc=z7oZnC0ewDdwWeGmm4aq0w').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8439&ciid=1&enc=SF5oMZ_smSkHDSsLkc1mDw').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13226&ciid=1&enc=llDPRWXTNCx_pctUnqc85A').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13272&ciid=1&enc=sYnyJidlK4W2IOZypnKN9Q').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8439&ciid=1&enc=SF5oMZ_smSkHDSsLkc1mDw').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14915&ciid=1&enc=JUiJJ9K-pTNqhgqMHttc9g').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13272&ciid=1&enc=sYnyJidlK4W2IOZypnKN9Q').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14917&ciid=1&enc=0lR6LjBVA0f_5zMOL7Vnaw').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14915&ciid=1&enc=JUiJJ9K-pTNqhgqMHttc9g').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13377&ciid=1&enc=26EMIOOCvLFPNekQT4RIKA').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14917&ciid=1&enc=0lR6LjBVA0f_5zMOL7Vnaw').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13756&ciid=1&enc=Oap-SqP56A7PWNDphoh7hg').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13377&ciid=1&enc=26EMIOOCvLFPNekQT4RIKA').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14614&ciid=1&enc=uMtKC90NjPNd-z0TduckMA').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13756&ciid=1&enc=Oap-SqP56A7PWNDphoh7hg').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14918&ciid=1&enc=l0PerQBlw0mtoTJ6xRIQdw').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14614&ciid=1&enc=uMtKC90NjPNd-z0TduckMA').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16388&ciid=1&enc=LQkr4NCG2y4SkV10r3ko3g').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14918&ciid=1&enc=l0PerQBlw0mtoTJ6xRIQdw').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8862&ciid=1&enc=JecpUYLOeE8WWNQLp90ccQ').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16388&ciid=1&enc=LQkr4NCG2y4SkV10r3ko3g').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11622&ciid=1&enc=dsIzWfcnlQS5FDTGfAp-NA').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8862&ciid=1&enc=JecpUYLOeE8WWNQLp90ccQ').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11304&ciid=1&enc=m8c5XXTqE0iY_wESFkhZrw').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11622&ciid=1&enc=dsIzWfcnlQS5FDTGfAp-NA').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14916&ciid=1&enc=qsvBfZ_-7rbr4FVjVrSRRg').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11304&ciid=1&enc=m8c5XXTqE0iY_wESFkhZrw').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13868&ciid=1&enc=348itS1MjRPc1zWK6iACLg').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14916&ciid=1&enc=qsvBfZ_-7rbr4FVjVrSRRg').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13271&ciid=1&enc=Q8VpE1KsMEtZclLqbN0rNg').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13868&ciid=1&enc=348itS1MjRPc1zWK6iACLg').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16192&ciid=1&enc=YJZuiCXJd6MV_7sDuUWcVQ').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13271&ciid=1&enc=Q8VpE1KsMEtZclLqbN0rNg').show();
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11625&ciid=1&enc=swq32m6nToNwQrcICJKBqg').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16192&ciid=1&enc=YJZuiCXJd6MV_7sDuUWcVQ').show();
 			
 		
 			
-				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14721&ciid=1&enc=6Ii1SXIjvaObFfp6YQTdNA').show();
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11625&ciid=1&enc=swq32m6nToNwQrcICJKBqg').show();
 			
 		
 			
-				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14083&ciid=1&enc=hn3PNO68ft65M65DQWwHSw').show();
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14721&ciid=1&enc=6Ii1SXIjvaObFfp6YQTdNA').show();
 			
 		
 			
-				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14626&ciid=1&enc=fRdhChilC_v0Mo1n1Vciag').show();
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14083&ciid=1&enc=hn3PNO68ft65M65DQWwHSw').show();
 			
 		
 			
-				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13517&ciid=1&enc=aRU-G9f7cRXVE6aKaMxoJA').show();
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14626&ciid=1&enc=fRdhChilC_v0Mo1n1Vciag').show();
 			
 		
 			
-				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9122&ciid=1&enc=YsuzAvYHYOVGymReJ3JPUw').show();
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13517&ciid=1&enc=aRU-G9f7cRXVE6aKaMxoJA').show();
 			
 		
 			
-				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14291&ciid=1&enc=v6uzHpIxRAWq95Ln87a7Lw').show();
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9122&ciid=1&enc=YsuzAvYHYOVGymReJ3JPUw').show();
 			
 		
 			
-				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9082&ciid=1&enc=FQLthe3WNuEgmO_3zu3PWA').show();
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16488&ciid=1&enc=9ygTDCEqOwTdH35gPIsUVg').show();
 			
 		
 			
-				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13516&ciid=1&enc=-sZnNcw6JzNkjVmrrY00fA').show();
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14291&ciid=1&enc=v6uzHpIxRAWq95Ln87a7Lw').show();
 			
 		
 			
-				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13227&ciid=1&enc=LCC9OkxBxDLNRg1sx9nP8w').show();
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9082&ciid=1&enc=FQLthe3WNuEgmO_3zu3PWA').show();
 			
 		
 			
-				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13378&ciid=1&enc=vEf8uh2gUo_KpxjO7l3xfg').show();
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13516&ciid=1&enc=-sZnNcw6JzNkjVmrrY00fA').show();
 			
 		
 			
-				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8872&ciid=1&enc=l-iOdbQbW77p_bGGhNYoEA').show();
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16538&ciid=1&enc=6ktQ96Y56Pj02nJbLOnJJg').show();
 			
 		
 			
-				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11621&ciid=1&enc=xLmbWXuYm7wkSvERos7dmg').show();
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13227&ciid=1&enc=LCC9OkxBxDLNRg1sx9nP8w').show();
 			
 		
 			
-				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13424&ciid=1&enc=fHE4Bfd_mqOd5xljeSnJPA').show();
+				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13378&ciid=1&enc=vEf8uh2gUo_KpxjO7l3xfg').show();
 			
 		
 			
-				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13342&ciid=1&enc=PNKUiK2BY_Zb9Naxr6iq9Q').show();
+				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8872&ciid=1&enc=l-iOdbQbW77p_bGGhNYoEA').show();
 			
 		
 			
-				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13786&ciid=1&enc=kpS1tdnR5I8pyMySer0T5w').show();
+				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11621&ciid=1&enc=xLmbWXuYm7wkSvERos7dmg').show();
+			
+		
+			
+				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13424&ciid=1&enc=fHE4Bfd_mqOd5xljeSnJPA').show();
+			
+		
+			
+				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13342&ciid=1&enc=PNKUiK2BY_Zb9Naxr6iq9Q').show();
+			
+		
+			
+				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13786&ciid=1&enc=kpS1tdnR5I8pyMySer0T5w').show();
 			
 		
 
@@ -611,7 +623,7 @@
 										<b>カードテキスト</b>
 									</div>
 									①：このカードが召喚に成功した時、自分の墓地のレベル５以上のドラゴン族・闇属性モンスター１体を対象として発動できる。そのモンスターを効果を無効にして守備表示で特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに破壊される。この効果の発動後、ターン終了時まで自分は闇属性モンスターしかEXデッキから特殊召喚できない。
-									
+		
 			
 								</div>
 							</td>
@@ -639,14 +651,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14084%26request_locale%3Dja%26a%3D202106240937&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14084%26request_locale%3Dja%26a%3D202108231010&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14084&request_locale=ja&a=202106240937" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14084&request_locale=ja&a=202108231010" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14084&request_locale=ja&a=202106240937"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14084&request_locale=ja&a=202108231010"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -791,7 +803,7 @@
 						<div>
 							<strong>
 
-								検索結果 42件中 1～42件を表示
+								検索結果 45件中 1～45件を表示
 							</strong>
 						</div>
 					</div>
@@ -1296,6 +1308,77 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ヴァレルロード・ライオット・ドラゴン</span>
+						<span class="card_status">
+						<strong>ヴァレルロード・R・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							儀式
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「ヘヴィ・トリガー」により降臨。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手がモンスターを特殊召喚する際に発動できる。その特殊召喚を無効にし、そのモンスターを破壊する。その後、このカードまたは自分フィールドの「ヴァレット」モンスター１体を選んで破壊する。②：このカードが墓地に存在する場合、自分の墓地の、「ヴァレル」モンスターまたは「ヴァレット」モンスター１体を対象として発動できる。自分の手札・フィールドのカード１枚を選んで破壊し、対象のモンスターを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_8_1" alt="ヴァレルロード・R・ドラゴン" title="ヴァレルロード・R・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16522">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>エクスプロードヴァレット・ドラゴン</span>
 						<span class="card_status">
 						<strong>エクスプロードヴァレット・ドラゴン</strong>
@@ -1354,7 +1437,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="エクスプロードヴァレット・ドラゴン" title="エクスプロードヴァレット・ドラゴン" class="none">
+						<img id="card_image_9_1" alt="エクスプロードヴァレット・ドラゴン" title="エクスプロードヴァレット・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1422,7 +1505,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="オートヴァレット・ドラゴン" title="オートヴァレット・ドラゴン" class="none">
+						<img id="card_image_10_1" alt="オートヴァレット・ドラゴン" title="オートヴァレット・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1493,7 +1576,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="クイック・シンクロン" title="クイック・シンクロン" class="none">
+						<img id="card_image_11_1" alt="クイック・シンクロン" title="クイック・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1541,7 +1624,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="クイック・リボルブ" title="クイック・リボルブ" class="none">
+						<img id="card_image_12_1" alt="クイック・リボルブ" title="クイック・リボルブ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1612,7 +1695,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="サテライト・ウォリアー" title="サテライト・ウォリアー" class="none">
+						<img id="card_image_13_1" alt="サテライト・ウォリアー" title="サテライト・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1683,7 +1766,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="サテライト・シンクロン" title="サテライト・シンクロン" class="none">
+						<img id="card_image_14_1" alt="サテライト・シンクロン" title="サテライト・シンクロン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1751,7 +1834,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="シェルヴァレット・ドラゴン" title="シェルヴァレット・ドラゴン" class="none">
+						<img id="card_image_15_1" alt="シェルヴァレット・ドラゴン" title="シェルヴァレット・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1819,7 +1902,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="ショートヴァレル・ドラゴン" title="ショートヴァレル・ドラゴン" class="none">
+						<img id="card_image_16_1" alt="ショートヴァレル・ドラゴン" title="ショートヴァレル・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1887,7 +1970,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="シルバーヴァレット・ドラゴン" title="シルバーヴァレット・ドラゴン" class="none">
+						<img id="card_image_17_1" alt="シルバーヴァレット・ドラゴン" title="シルバーヴァレット・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1935,7 +2018,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="シンクロ・チェイス" title="シンクロ・チェイス" class="none">
+						<img id="card_image_18_1" alt="シンクロ・チェイス" title="シンクロ・チェイス" class="none">
 					  
 					</dd>
 				</dl>
@@ -1983,7 +2066,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="シンクロ・ディレンマ" title="シンクロ・ディレンマ" class="none">
+						<img id="card_image_19_1" alt="シンクロ・ディレンマ" title="シンクロ・ディレンマ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2051,7 +2134,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="シンクロン・エクスプローラー" title="シンクロン・エクスプローラー" class="none">
+						<img id="card_image_20_1" alt="シンクロン・エクスプローラー" title="シンクロン・エクスプローラー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2119,7 +2202,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="シンクロン・キャリアー" title="シンクロン・キャリアー" class="none">
+						<img id="card_image_21_1" alt="シンクロン・キャリアー" title="シンクロン・キャリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2190,7 +2273,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="ジャンク・アンカー" title="ジャンク・アンカー" class="none">
+						<img id="card_image_22_1" alt="ジャンク・アンカー" title="ジャンク・アンカー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2258,7 +2341,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="ジャンク・コンバーター" title="ジャンク・コンバーター" class="none">
+						<img id="card_image_23_1" alt="ジャンク・コンバーター" title="ジャンク・コンバーター" class="none">
 					  
 					</dd>
 				</dl>
@@ -2329,7 +2412,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="ジャンク・スピーダー" title="ジャンク・スピーダー" class="none">
+						<img id="card_image_24_1" alt="ジャンク・スピーダー" title="ジャンク・スピーダー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2377,7 +2460,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="スクイブ・ドロー" title="スクイブ・ドロー" class="none">
+						<img id="card_image_25_1" alt="スクイブ・ドロー" title="スクイブ・ドロー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2445,7 +2528,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="スターダスト・トレイル" title="スターダスト・トレイル" class="none">
+						<img id="card_image_26_1" alt="スターダスト・トレイル" title="スターダスト・トレイル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2493,7 +2576,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="スターライト・ジャンクション" title="スターライト・ジャンクション" class="none">
+						<img id="card_image_27_1" alt="スターライト・ジャンクション" title="スターライト・ジャンクション" class="none">
 					  
 					</dd>
 				</dl>
@@ -2561,7 +2644,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_27_1" alt="ストライカー・ドラゴン" title="ストライカー・ドラゴン" class="none">
+						<img id="card_image_28_1" alt="ストライカー・ドラゴン" title="ストライカー・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2629,7 +2712,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_28_1" alt="スピードローダー・ドラゴン" title="スピードローダー・ドラゴン" class="none">
+						<img id="card_image_29_1" alt="スピードローダー・ドラゴン" title="スピードローダー・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2697,7 +2780,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_29_1" alt="ソーンヴァレル・ドラゴン" title="ソーンヴァレル・ドラゴン" class="none">
+						<img id="card_image_30_1" alt="ソーンヴァレル・ドラゴン" title="ソーンヴァレル・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2740,7 +2823,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_30_1" alt="タクティカル・エクスチェンバー" title="タクティカル・エクスチェンバー" class="none">
+						<img id="card_image_31_1" alt="タクティカル・エクスチェンバー" title="タクティカル・エクスチェンバー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2783,11 +2866,79 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_31_1" alt="調律" title="調律" class="none">
+						<img id="card_image_32_1" alt="調律" title="調律" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9122">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>デュアルウィール・ドラゴン</span>
+						<span class="card_status">
+						<strong>デュアルウィール・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードをリリースし、自分の墓地のカード名が異なる「ヴァレット」モンスター２体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。②：墓地のこのカードを除外して発動できる。自分のデッキ・墓地から「ラピッド・トリガー」または「ヘヴィ・トリガー」１枚を選んで手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_33_1" alt="デュアルウィール・ドラゴン" title="デュアルウィール・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16488">
 			</li>
 		  
 			<li>
@@ -2851,7 +3002,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_32_1" alt="デリンジャラス・ドラゴン" title="デリンジャラス・ドラゴン" class="none">
+						<img id="card_image_34_1" alt="デリンジャラス・ドラゴン" title="デリンジャラス・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2919,7 +3070,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_33_1" alt="ネクロ・リンカー" title="ネクロ・リンカー" class="none">
+						<img id="card_image_35_1" alt="ネクロ・リンカー" title="ネクロ・リンカー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2987,11 +3138,59 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_34_1" alt="ブースター・ドラゴン" title="ブースター・ドラゴン" class="none">
+						<img id="card_image_36_1" alt="ブースター・ドラゴン" title="ブースター・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=13516">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ヘヴィ・トリガー</span>
+						<span class="card_status">
+						<strong>ヘヴィ・トリガー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_ritual.png" alt="儀式" title="儀式">
+							<span>儀式</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「ヴァレルロード・R・ドラゴン」の降臨に必要。①：レベルの合計が８以上になるように、自分の手札・フィールドのモンスターをリリース、またはリリースの代わりに自分の手札・フィールドの「ヴァレット」モンスターを破壊し、手札から「ヴァレルロード・R・ドラゴン」を儀式召喚する。この効果で特殊召喚したモンスターはEXデッキから特殊召喚されたモンスターとの戦闘では破壊されず、EXデッキから特殊召喚されたモンスターが発動した効果を受けない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_37_1" alt="ヘヴィ・トリガー" title="ヘヴィ・トリガー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16538">
 			</li>
 		  
 			<li>
@@ -3055,7 +3254,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_35_1" alt="マグナヴァレット・ドラゴン" title="マグナヴァレット・ドラゴン" class="none">
+						<img id="card_image_38_1" alt="マグナヴァレット・ドラゴン" title="マグナヴァレット・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3123,7 +3322,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_36_1" alt="メタルヴァレット・ドラゴン" title="メタルヴァレット・ドラゴン" class="none">
+						<img id="card_image_39_1" alt="メタルヴァレット・ドラゴン" title="メタルヴァレット・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3194,7 +3393,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_37_1" alt="ライティ・ドライバー" title="ライティ・ドライバー" class="none">
+						<img id="card_image_40_1" alt="ライティ・ドライバー" title="ライティ・ドライバー" class="none">
 					  
 					</dd>
 				</dl>
@@ -3262,7 +3461,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_38_1" alt="ラッシュ・ウォリアー" title="ラッシュ・ウォリアー" class="none">
+						<img id="card_image_41_1" alt="ラッシュ・ウォリアー" title="ラッシュ・ウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -3310,7 +3509,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_39_1" alt="リボルブート・セクター" title="リボルブート・セクター" class="none">
+						<img id="card_image_42_1" alt="リボルブート・セクター" title="リボルブート・セクター" class="none">
 					  
 					</dd>
 				</dl>
@@ -3378,7 +3577,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_40_1" alt="リローダー・ドラゴン" title="リローダー・ドラゴン" class="none">
+						<img id="card_image_43_1" alt="リローダー・ドラゴン" title="リローダー・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3426,7 +3625,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_41_1" alt="リンク・デス・ターレット" title="リンク・デス・ターレット" class="none">
+						<img id="card_image_44_1" alt="リンク・デス・ターレット" title="リンク・デス・ターレット" class="none">
 					  
 					</dd>
 				</dl>

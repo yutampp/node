@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ヴァレルロード・X・ドラゴン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ヴァレルロード・X・ドラゴン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14487%26request_locale%3Dja%26a%3D202106240935"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14487%26request_locale%3Dja%26a%3D202106240935"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14487%26request_locale%3Dja%26a%3D202108231008"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14487%26request_locale%3Dja%26a%3D202108231008"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -159,47 +159,55 @@
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14620&ciid=1&enc=GPALREHkF1Lb0tbh1KinCw').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16536&ciid=1&enc=2XZvhkNYbuIKnUWTq9KkMQ').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13750&ciid=1&enc=L3fMQGmmztl7mfIBGu_Ggw').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14620&ciid=1&enc=GPALREHkF1Lb0tbh1KinCw').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13769&ciid=1&enc=jJyEOwr5G6zMyS3rrGUaSA').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13750&ciid=1&enc=L3fMQGmmztl7mfIBGu_Ggw').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13439&ciid=1&enc=hj1UeazZNg6gY6-zQOm5Xw').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13769&ciid=1&enc=jJyEOwr5G6zMyS3rrGUaSA').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14114&ciid=1&enc=0zEWBLwSD9_PysWEawGgRA').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13439&ciid=1&enc=hj1UeazZNg6gY6-zQOm5Xw').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13258&ciid=1&enc=BkupDIptSoZsKIJUMYz__Q').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14114&ciid=1&enc=0zEWBLwSD9_PysWEawGgRA').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14625&ciid=1&enc=T3Ww_MEYzcL5h4Qbmg0Hlg').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13258&ciid=1&enc=BkupDIptSoZsKIJUMYz__Q').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14623&ciid=1&enc=hvIyVa6t4uJA2FwO-LysQQ').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14625&ciid=1&enc=T3Ww_MEYzcL5h4Qbmg0Hlg').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13756&ciid=1&enc=Oap-SqP56A7PWNDphoh7hg').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16522&ciid=1&enc=7O2csh_adF5REZD8JpXZjA').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14626&ciid=1&enc=fRdhChilC_v0Mo1n1Vciag').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14623&ciid=1&enc=hvIyVa6t4uJA2FwO-LysQQ').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14786&ciid=1&enc=qLJmX3BI_xmFcxnlrehRfQ').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13756&ciid=1&enc=Oap-SqP56A7PWNDphoh7hg').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14626&ciid=1&enc=fRdhChilC_v0Mo1n1Vciag').show();
+			
+		
+			
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14786&ciid=1&enc=qLJmX3BI_xmFcxnlrehRfQ').show();
 			
 		
 
@@ -495,7 +503,7 @@
 										<b>カードテキスト</b>
 									</div>
 									ドラゴン族・闇属性レベル４モンスター×２<br>①：X召喚したこのカードは他のモンスターの効果の対象にならない。②：１ターンに１度、このカードのX素材を１つ取り除き、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力は６００ダウンする。その後、自分の墓地から「ヴァレル」モンスター１体を選んで特殊召喚できる。この効果で特殊召喚したモンスターはエンドフェイズに除外される。この効果の発動後、ターン終了時まで自分はモンスターを特殊召喚できず、直接攻撃できない。
-									
+		
 			
 								</div>
 							</td>
@@ -523,14 +531,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14487%26request_locale%3Dja%26a%3D202106240935&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14487%26request_locale%3Dja%26a%3D202108231008&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14487&request_locale=ja&a=202106240935" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14487&request_locale=ja&a=202108231008" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14487&request_locale=ja&a=202106240935"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14487&request_locale=ja&a=202108231008"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -738,7 +746,7 @@
 						<div>
 							<strong>
 
-								検索結果 13件中 1～13件を表示
+								検索結果 15件中 1～15件を表示
 							</strong>
 						</div>
 					</div>
@@ -891,6 +899,74 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ヴァレルコード・ドラゴン</span>
+						<span class="card_status">
+						<strong>ヴァレルコード・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+						<span class="box_card_linkmarker">
+							<img class="icon_img" src="external/image/parts/link_pc/link813.png" alt="リンク" title="リンク">
+							<span>リンク 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							リンク
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+							<span class="def_power">守備力 - </span>
+						
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						効果モンスター２体以上<br>このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：リンクモンスターのリンク先のこのカードは効果では破壊されない。②：モンスター３体を素材としてリンク召喚したこのカードが相手モンスターと戦闘を行うダメージステップ開始時に発動できる。フィールドのモンスターを全て破壊する。③：墓地のこのカードを除外して発動できる。フィールドの攻撃力３０００以上の闇属性モンスター１体を選んで除外し、自分のEXデッキ・墓地から「トポロジック」モンスター１体を選んで特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="ヴァレルコード・ドラゴン" title="ヴァレルコード・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16536">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ヴァレル・サプライヤー</span>
 						<span class="card_status">
 						<strong>ヴァレル・サプライヤー</strong>
@@ -929,7 +1005,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="ヴァレル・サプライヤー" title="ヴァレル・サプライヤー" class="none">
+						<img id="card_image_3_1" alt="ヴァレル・サプライヤー" title="ヴァレル・サプライヤー" class="none">
 					  
 					</dd>
 				</dl>
@@ -997,7 +1073,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="ヴァレルソード・ドラゴン" title="ヴァレルソード・ドラゴン" class="none">
+						<img id="card_image_4_1" alt="ヴァレルソード・ドラゴン" title="ヴァレルソード・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1045,7 +1121,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="ヴァレル・リロード" title="ヴァレル・リロード" class="none">
+						<img id="card_image_5_1" alt="ヴァレル・リロード" title="ヴァレル・リロード" class="none">
 					  
 					</dd>
 				</dl>
@@ -1088,7 +1164,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="ヴァレル・レフリジェレーション" title="ヴァレル・レフリジェレーション" class="none">
+						<img id="card_image_6_1" alt="ヴァレル・レフリジェレーション" title="ヴァレル・レフリジェレーション" class="none">
 					  
 					</dd>
 				</dl>
@@ -1159,7 +1235,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="ヴァレルロード・S・ドラゴン" title="ヴァレルロード・S・ドラゴン" class="none">
+						<img id="card_image_7_1" alt="ヴァレルロード・S・ドラゴン" title="ヴァレルロード・S・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1227,7 +1303,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="ヴァレルロード・ドラゴン" title="ヴァレルロード・ドラゴン" class="none">
+						<img id="card_image_8_1" alt="ヴァレルロード・ドラゴン" title="ヴァレルロード・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1298,11 +1374,82 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="ヴァレルロード・F・ドラゴン" title="ヴァレルロード・F・ドラゴン" class="none">
+						<img id="card_image_9_1" alt="ヴァレルロード・F・ドラゴン" title="ヴァレルロード・F・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14625">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ヴァレルロード・ライオット・ドラゴン</span>
+						<span class="card_status">
+						<strong>ヴァレルロード・R・ドラゴン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							ドラゴン族
+						  
+							／
+							儀式
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「ヘヴィ・トリガー」により降臨。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手がモンスターを特殊召喚する際に発動できる。その特殊召喚を無効にし、そのモンスターを破壊する。その後、このカードまたは自分フィールドの「ヴァレット」モンスター１体を選んで破壊する。②：このカードが墓地に存在する場合、自分の墓地の、「ヴァレル」モンスターまたは「ヴァレット」モンスター１体を対象として発動できる。自分の手札・フィールドのカード１枚を選んで破壊し、対象のモンスターを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_10_1" alt="ヴァレルロード・R・ドラゴン" title="ヴァレルロード・R・ドラゴン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16522">
 			</li>
 		  
 			<li>
@@ -1346,7 +1493,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ガンスリンガー・エクスキューション" title="ガンスリンガー・エクスキューション" class="none">
+						<img id="card_image_11_1" alt="ガンスリンガー・エクスキューション" title="ガンスリンガー・エクスキューション" class="none">
 					  
 					</dd>
 				</dl>
@@ -1414,7 +1561,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="ショートヴァレル・ドラゴン" title="ショートヴァレル・ドラゴン" class="none">
+						<img id="card_image_12_1" alt="ショートヴァレル・ドラゴン" title="ショートヴァレル・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1482,7 +1629,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="ソーンヴァレル・ドラゴン" title="ソーンヴァレル・ドラゴン" class="none">
+						<img id="card_image_13_1" alt="ソーンヴァレル・ドラゴン" title="ソーンヴァレル・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1530,7 +1677,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="ベイオネット・パニッシャー" title="ベイオネット・パニッシャー" class="none">
+						<img id="card_image_14_1" alt="ベイオネット・パニッシャー" title="ベイオネット・パニッシャー" class="none">
 					  
 					</dd>
 				</dl>

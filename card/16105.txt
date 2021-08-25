@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ベアルクティ－グラン＝シャリオ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ベアルクティ－グラン＝シャリオ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16105%26request_locale%3Dja%26a%3D202106241144"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16105%26request_locale%3Dja%26a%3D202106241144"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16105%26request_locale%3Dja%26a%3D202108231218"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16105%26request_locale%3Dja%26a%3D202108231218"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,51 +151,59 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16109&ciid=1&enc=WLXhsAykYSyinJnf6NzwSQ').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16526&ciid=1&enc=u2Py3N8YaNJU0z4ZNchIIw').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16107&ciid=1&enc=5ajBLkO3NfryHmuKZicPNQ').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16109&ciid=1&enc=WLXhsAykYSyinJnf6NzwSQ').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16104&ciid=1&enc=nPipHHgSk6WVLHd0Z3Q-8w').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16107&ciid=1&enc=5ajBLkO3NfryHmuKZicPNQ').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16106&ciid=1&enc=4_V6Q6FoQqVktH_liFNr9w').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16104&ciid=1&enc=nPipHHgSk6WVLHd0Z3Q-8w').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16108&ciid=1&enc=cFEEcvsax-P-0yTxn9f-wQ').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16106&ciid=1&enc=4_V6Q6FoQqVktH_liFNr9w').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16103&ciid=1&enc=qCzuO5Qsgr7WGAdD2h8sCA').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16552&ciid=1&enc=kubxnrlKkPSYD3VfSBpyXA').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16098&ciid=1&enc=4lP43hGW_8rM195iRAnGdQ').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16108&ciid=1&enc=cFEEcvsax-P-0yTxn9f-wQ').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16099&ciid=1&enc=5iUhfMgCmJ13MNcesDl8DA').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16103&ciid=1&enc=qCzuO5Qsgr7WGAdD2h8sCA').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16097&ciid=1&enc=DAko0A7_VBAFNm73hs2A4A').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16098&ciid=1&enc=4lP43hGW_8rM195iRAnGdQ').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16101&ciid=1&enc=Xzhhy8bcUIguDfCnDDwBqw').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16099&ciid=1&enc=5iUhfMgCmJ13MNcesDl8DA').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16102&ciid=1&enc=UJw8GnZEZQ_MQ1J9vYt82A').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16097&ciid=1&enc=DAko0A7_VBAFNm73hs2A4A').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16100&ciid=1&enc=KM9rOg3CNJD-IpOP3T3rVQ').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16101&ciid=1&enc=Xzhhy8bcUIguDfCnDDwBqw').show();
+			
+		
+			
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16102&ciid=1&enc=UJw8GnZEZQ_MQ1J9vYt82A').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16100&ciid=1&enc=KM9rOg3CNJD-IpOP3T3rVQ').show();
 			
 		
 
@@ -491,7 +499,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカードはS召喚できず、レベルの差が７となるように自分フィールドからレベル８以上のチューナー１体とチューナー以外のSモンスター１体を墓地へ送った場合のみ特殊召喚できる。①：このカードが特殊召喚に成功した場合、このカード以外のフィールドのカードを２枚まで対象として発動できる。そのカードを破壊する。②：１ターンに１度、自分フィールドの「ベアルクティ」カードを対象とするカードの効果が発動した時、自分の手札・フィールドのモンスター１体をリリースして発動できる。その発動を無効にする。
-									
+		
 			
 								</div>
 							</td>
@@ -519,14 +527,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16105%26request_locale%3Dja%26a%3D202106241144&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16105%26request_locale%3Dja%26a%3D202108231218&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16105&request_locale=ja&a=202106241144" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16105&request_locale=ja&a=202108231218" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16105&request_locale=ja&a=202106241144"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16105&request_locale=ja&a=202108231218"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -650,7 +658,7 @@
 						<div>
 							<strong>
 
-								検索結果 12件中 1～12件を表示
+								検索結果 14件中 1～14件を表示
 							</strong>
 						</div>
 					</div>
@@ -663,6 +671,77 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>てんきょくきかん－ベアトロン</span>
+						<span class="card_status">
+						<strong>天極輝艦－熊斗竜巧</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_water.png" alt="水属性" title="水属性">
+							<span>水属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 7</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							機械族
+						  
+							／
+							融合
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 700</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名はルール上「ベアルクティ」カード、「ドライトロン」カードとしても扱う。このカードは「天斗輝巧極」の効果でのみ特殊召喚できる。①：１ターンに１度、自分フィールドに他の効果モンスターが特殊召喚された場合に発動できる。デッキから「ベアルクティ」モンスターまたは「ドライトロン」モンスター１体を手札に加える。②：１ターンに１度、除外されている自分の、「ベアルクティ」モンスターまたは「ドライトロン」モンスター１体を対象として発動できる。そのモンスターを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="天極輝艦－熊斗竜巧" title="天極輝艦－熊斗竜巧" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16526">
+			</li>
 		  
 			<li>
 				<dl>
@@ -705,7 +784,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="ベアルクティ・クィントチャージ" title="ベアルクティ・クィントチャージ" class="none">
+						<img id="card_image_1_1" alt="ベアルクティ・クィントチャージ" title="ベアルクティ・クィントチャージ" class="none">
 					  
 					</dd>
 				</dl>
@@ -753,7 +832,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="ベアルクティ・スライダー" title="ベアルクティ・スライダー" class="none">
+						<img id="card_image_2_1" alt="ベアルクティ・スライダー" title="ベアルクティ・スライダー" class="none">
 					  
 					</dd>
 				</dl>
@@ -824,7 +903,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="ベアルクティ－セプテン＝トリオン" title="ベアルクティ－セプテン＝トリオン" class="none">
+						<img id="card_image_3_1" alt="ベアルクティ－セプテン＝トリオン" title="ベアルクティ－セプテン＝トリオン" class="none">
 					  
 					</dd>
 				</dl>
@@ -867,11 +946,54 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="ベアルクティ・ディパーチャー" title="ベアルクティ・ディパーチャー" class="none">
+						<img id="card_image_4_1" alt="ベアルクティ・ディパーチャー" title="ベアルクティ・ディパーチャー" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16106">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ベアルクティ・ドライトロン</span>
+						<span class="card_status">
+						<strong>天斗輝巧極</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できない。①：自分の手札・フィールドから、「ベアルクティ・ビッグディッパー」と「竜輝巧－ファフニール」を１枚ずつ除外し、「天極輝艦－熊斗竜巧」１体をEXデッキから特殊召喚する。フィールドに「ベアルクティ－ポラリィ」または「竜輝巧－バンα」が存在する場合、除外するカードの内１枚をデッキから除外する事もできる。②：自分が「ベアルクティ」、「ドライトロン」モンスターの効果を発動するためにモンスターをリリースする場合、代わりに墓地のこのカードを除外できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="天斗輝巧極" title="天斗輝巧極" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16552">
 			</li>
 		  
 			<li>
@@ -915,7 +1037,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="ベアルクティ・ビッグディッパー" title="ベアルクティ・ビッグディッパー" class="none">
+						<img id="card_image_6_1" alt="ベアルクティ・ビッグディッパー" title="ベアルクティ・ビッグディッパー" class="none">
 					  
 					</dd>
 				</dl>
@@ -986,7 +1108,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="ベアルクティ－ポラリィ" title="ベアルクティ－ポラリィ" class="none">
+						<img id="card_image_7_1" alt="ベアルクティ－ポラリィ" title="ベアルクティ－ポラリィ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1054,7 +1176,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="ベアルクティ－ミクタナス" title="ベアルクティ－ミクタナス" class="none">
+						<img id="card_image_8_1" alt="ベアルクティ－ミクタナス" title="ベアルクティ－ミクタナス" class="none">
 					  
 					</dd>
 				</dl>
@@ -1122,7 +1244,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="ベアルクティ－ミクビリス" title="ベアルクティ－ミクビリス" class="none">
+						<img id="card_image_9_1" alt="ベアルクティ－ミクビリス" title="ベアルクティ－ミクビリス" class="none">
 					  
 					</dd>
 				</dl>
@@ -1190,7 +1312,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="ベアルクティ－ミクポーラ" title="ベアルクティ－ミクポーラ" class="none">
+						<img id="card_image_10_1" alt="ベアルクティ－ミクポーラ" title="ベアルクティ－ミクポーラ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1261,7 +1383,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="ベアルクティ－メガタナス" title="ベアルクティ－メガタナス" class="none">
+						<img id="card_image_11_1" alt="ベアルクティ－メガタナス" title="ベアルクティ－メガタナス" class="none">
 					  
 					</dd>
 				</dl>
@@ -1332,7 +1454,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="ベアルクティ－メガビリス" title="ベアルクティ－メガビリス" class="none">
+						<img id="card_image_12_1" alt="ベアルクティ－メガビリス" title="ベアルクティ－メガビリス" class="none">
 					  
 					</dd>
 				</dl>
@@ -1403,7 +1525,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="ベアルクティ－メガポーラ" title="ベアルクティ－メガポーラ" class="none">
+						<img id="card_image_13_1" alt="ベアルクティ－メガポーラ" title="ベアルクティ－メガポーラ" class="none">
 					  
 					</dd>
 				</dl>

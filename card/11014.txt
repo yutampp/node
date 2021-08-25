@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="CNo.15 ギミック・パペット－シリアルキラー | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「CNo.15 ギミック・パペット－シリアルキラー」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11014%26request_locale%3Dja%26a%3D202106241210"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11014%26request_locale%3Dja%26a%3D202106241210"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11014%26request_locale%3Dja%26a%3D202108231244"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11014%26request_locale%3Dja%26a%3D202108231244"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -279,107 +279,119 @@
 			
 		
 			
-				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11088&ciid=1&enc=B4J7bQVRsy6frYtpY9CC1Q').show();
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16472&ciid=1&enc=9a27L5BkLoi6vC3X3okZyw').show();
 			
 		
 			
-				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10727&ciid=1&enc=v7NeK1IRVuP5bPGfAf23YA').show();
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11088&ciid=1&enc=B4J7bQVRsy6frYtpY9CC1Q').show();
 			
 		
 			
-				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10802&ciid=1&enc=2GGMQ_1qXsTyIjO5E8Oz6g').show();
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10727&ciid=1&enc=v7NeK1IRVuP5bPGfAf23YA').show();
 			
 		
 			
-				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11305&ciid=1&enc=Kw5Z27OWo4xC9cK80Oj8eg').show();
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10802&ciid=1&enc=2GGMQ_1qXsTyIjO5E8Oz6g').show();
 			
 		
 			
-				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12088&ciid=1&enc=P5UEOiOffvS_M8Ojt9bEmg').show();
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16471&ciid=1&enc=ZGvK1gCuhyQirkb_0odJnA').show();
 			
 		
 			
-				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14566&ciid=1&enc=lRc1on9Q08TpOlXmT939SQ').show();
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11305&ciid=1&enc=Kw5Z27OWo4xC9cK80Oj8eg').show();
 			
 		
 			
-				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13165&ciid=1&enc=82Rtzx-fB2WUWbF6jqcvTA').show();
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12088&ciid=1&enc=P5UEOiOffvS_M8Ojt9bEmg').show();
 			
 		
 			
-				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13825&ciid=1&enc=H1w6oNp-9tfgsgigH0DsCA').show();
+				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14566&ciid=1&enc=lRc1on9Q08TpOlXmT939SQ').show();
 			
 		
 			
-				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12549&ciid=1&enc=w1wk8iTRW_uwlq5OGRCaVA').show();
+				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13165&ciid=1&enc=82Rtzx-fB2WUWbF6jqcvTA').show();
 			
 		
 			
-				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11295&ciid=1&enc=pOJZ76lrXydX5_GdaJZ-1A').show();
+				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13825&ciid=1&enc=H1w6oNp-9tfgsgigH0DsCA').show();
 			
 		
 			
-				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12544&ciid=1&enc=WvLAUW0adpgXs2QTSOVZAg').show();
+				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12549&ciid=1&enc=w1wk8iTRW_uwlq5OGRCaVA').show();
 			
 		
 			
-				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11076&ciid=1&enc=Ts2MU8LGv1I0kTB9vOVm-g').show();
+				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11295&ciid=1&enc=pOJZ76lrXydX5_GdaJZ-1A').show();
 			
 		
 			
-				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10212&ciid=1&enc=d3Le1oK7cBsEi9lQ8b2mqQ').show();
+				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12544&ciid=1&enc=WvLAUW0adpgXs2QTSOVZAg').show();
 			
 		
 			
-				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16050&ciid=1&enc=OYty1mVeXLLzrlKgADi-qA').show();
+				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16470&ciid=1&enc=D88RaWtC3QN8t2oLaN7p2w').show();
 			
 		
 			
-				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14599&ciid=1&enc=RWh57-8BbLKGp_DyJQjI7Q').show();
+				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11076&ciid=1&enc=Ts2MU8LGv1I0kTB9vOVm-g').show();
 			
 		
 			
-				$('#card_image_47_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10958&ciid=1&enc=cYHJC8b3zr7y2aIjojeRiw').show();
+				$('#card_image_47_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10212&ciid=1&enc=d3Le1oK7cBsEi9lQ8b2mqQ').show();
 			
 		
 			
-				$('#card_image_48_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11413&ciid=1&enc=MAi7IhD5ZVgZXa_sK5Q82A').show();
+				$('#card_image_48_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16050&ciid=1&enc=OYty1mVeXLLzrlKgADi-qA').show();
 			
 		
 			
-				$('#card_image_49_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13017&ciid=1&enc=m_KIwgfnJBMM7YVUZHC19A').show();
+				$('#card_image_49_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14599&ciid=1&enc=RWh57-8BbLKGp_DyJQjI7Q').show();
 			
 		
 			
-				$('#card_image_50_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14958&ciid=1&enc=ojG_-dQNAfZ9i4DElmBBNQ').show();
+				$('#card_image_50_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10958&ciid=1&enc=cYHJC8b3zr7y2aIjojeRiw').show();
 			
 		
 			
-				$('#card_image_51_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11188&ciid=1&enc=yPhaFcZkyZlbb0eySE28gg').show();
+				$('#card_image_51_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11413&ciid=1&enc=MAi7IhD5ZVgZXa_sK5Q82A').show();
 			
 		
 			
-				$('#card_image_52_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11022&ciid=1&enc=SZo8hB2xnkDpS2p4VxTgLg').show();
+				$('#card_image_52_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13017&ciid=1&enc=m_KIwgfnJBMM7YVUZHC19A').show();
 			
 		
 			
-				$('#card_image_53_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11186&ciid=1&enc=WGexPCLHP6GB28ymi-HMAA').show();
+				$('#card_image_53_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14958&ciid=1&enc=ojG_-dQNAfZ9i4DElmBBNQ').show();
 			
 		
 			
-				$('#card_image_54_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10662&ciid=1&enc=Llw7YDGmlv3n7XaL-xq2kQ').show();
+				$('#card_image_54_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11188&ciid=1&enc=yPhaFcZkyZlbb0eySE28gg').show();
 			
 		
 			
-				$('#card_image_55_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10541&ciid=1&enc=_foB4BRJzpA7ss6HCgrMfg').show();
+				$('#card_image_55_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11022&ciid=1&enc=SZo8hB2xnkDpS2p4VxTgLg').show();
 			
 		
 			
-				$('#card_image_56_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10570&ciid=1&enc=yTbFRoz2EMyzdO3ij3r5mg').show();
+				$('#card_image_56_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11186&ciid=1&enc=WGexPCLHP6GB28ymi-HMAA').show();
 			
 		
 			
-				$('#card_image_57_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14883&ciid=1&enc=BPJwNWzaP7dw4ulY9mMgPw').show();
+				$('#card_image_57_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10662&ciid=1&enc=Llw7YDGmlv3n7XaL-xq2kQ').show();
+			
+		
+			
+				$('#card_image_58_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10541&ciid=1&enc=_foB4BRJzpA7ss6HCgrMfg').show();
+			
+		
+			
+				$('#card_image_59_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10570&ciid=1&enc=yTbFRoz2EMyzdO3ij3r5mg').show();
+			
+		
+			
+				$('#card_image_60_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14883&ciid=1&enc=BPJwNWzaP7dw4ulY9mMgPw').show();
 			
 		
 
@@ -675,7 +687,7 @@
 										<b>カードテキスト</b>
 									</div>
 									レベル９モンスター×３<br>①：１ターンに１度、このカードのX素材を１つ取り除き、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。この効果でモンスターを破壊した場合、さらにそのモンスターの元々の攻撃力分のダメージを相手に与える。
-									
+		
 			
 								</div>
 							</td>
@@ -703,14 +715,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11014%26request_locale%3Dja%26a%3D202106241210&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11014%26request_locale%3Dja%26a%3D202108231244&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11014&request_locale=ja&a=202106241210" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11014&request_locale=ja&a=202108231244" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11014&request_locale=ja&a=202106241210"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11014&request_locale=ja&a=202108231244"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -876,7 +888,7 @@
 						<div>
 							<strong>
 
-								検索結果 58件中 1～58件を表示
+								検索結果 61件中 1～61件を表示
 							</strong>
 						</div>
 					</div>
@@ -2867,6 +2879,77 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ゼアル・サーバス－ホープ・セージ</span>
+						<span class="card_status">
+						<strong>ZS－希望賢者</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 4</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2000</span>
+						
+						
+							<span class="def_power">守備力 2500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル４モンスター×２<br>このカード名の①の効果は１ターンに１度しか使用できない。①：このカードのX素材を２つ取り除いて発動できる。デッキから「ZW」モンスターまたは「ZS」モンスター１体を特殊召喚する。この効果の発動後、ターン終了時まで自分はXモンスターしかEXデッキから特殊召喚できず、「No.」モンスターでしか攻撃できない。②：「ZS－希望賢者」を除く自分フィールドの元々の属性が光属性の「ホープ」Xモンスターが戦闘・効果で破壊される場合、代わりにフィールド・墓地のこのカードを除外できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_32_1" alt="ZS－希望賢者" title="ZS－希望賢者" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16472">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ドン・サウザンドのぎょくざ</span>
 						<span class="card_status">
 						<strong>ドン・サウザンドの玉座</strong>
@@ -2905,7 +2988,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_32_1" alt="ドン・サウザンドの玉座" title="ドン・サウザンドの玉座" class="none">
+						<img id="card_image_33_1" alt="ドン・サウザンドの玉座" title="ドン・サウザンドの玉座" class="none">
 					  
 					</dd>
 				</dl>
@@ -2953,7 +3036,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_33_1" alt="ナンバーズ・ウォール" title="ナンバーズ・ウォール" class="none">
+						<img id="card_image_34_1" alt="ナンバーズ・ウォール" title="ナンバーズ・ウォール" class="none">
 					  
 					</dd>
 				</dl>
@@ -2996,7 +3079,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_34_1" alt="ナンバーズ・オーバーレイ・ブースト" title="ナンバーズ・オーバーレイ・ブースト" class="none">
+						<img id="card_image_35_1" alt="ナンバーズ・オーバーレイ・ブースト" title="ナンバーズ・オーバーレイ・ブースト" class="none">
 					  
 					</dd>
 				</dl>
@@ -3006,7 +3089,78 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
-						<span>ナンバーズ９９ きぼうおうりゅうホープドラグーン</span>
+						<span>ナンバーズ９９　きぼうおうホープドラグナー</span>
+						<span class="card_status">
+						<strong>No.99 希望皇ホープドラグナー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 12</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 3000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル１２モンスター×３体以上<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手ターンに、このカードのX素材を２つ取り除いて発動できる。「No.1」～「No.100」のいずれかの「No.」モンスター１体をX召喚扱いとしてEXデッキから特殊召喚する。この効果を発動するターン、自分はXモンスターしかEXデッキから特殊召喚できず、このカード以外の自分のモンスターは直接攻撃できない。②：相手モンスターの攻撃宣言時に発動できる。その相手モンスターの攻撃力を０にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_36_1" alt="No.99 希望皇ホープドラグナー" title="No.99 希望皇ホープドラグナー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16471">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ナンバーズ９９　きぼうおうりゅうホープドラグーン</span>
 						<span class="card_status">
 						<strong>No.99 希望皇龍ホープドラグーン</strong>
 						
@@ -3067,7 +3221,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_35_1" alt="No.99 希望皇龍ホープドラグーン" title="No.99 希望皇龍ホープドラグーン" class="none">
+						<img id="card_image_37_1" alt="No.99 希望皇龍ホープドラグーン" title="No.99 希望皇龍ホープドラグーン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3138,7 +3292,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_36_1" alt="No.93 希望皇ホープ・カイザー" title="No.93 希望皇ホープ・カイザー" class="none">
+						<img id="card_image_38_1" alt="No.93 希望皇ホープ・カイザー" title="No.93 希望皇ホープ・カイザー" class="none">
 					  
 					</dd>
 				</dl>
@@ -3209,7 +3363,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_37_1" alt="No.97 龍影神ドラッグラビオン" title="No.97 龍影神ドラッグラビオン" class="none">
+						<img id="card_image_39_1" alt="No.97 龍影神ドラッグラビオン" title="No.97 龍影神ドラッグラビオン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3280,7 +3434,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_38_1" alt="No.71 リバリアン・シャーク" title="No.71 リバリアン・シャーク" class="none">
+						<img id="card_image_40_1" alt="No.71 リバリアン・シャーク" title="No.71 リバリアン・シャーク" class="none">
 					  
 					</dd>
 				</dl>
@@ -3351,7 +3505,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_39_1" alt="No.75 惑乱のゴシップ・シャドー" title="No.75 惑乱のゴシップ・シャドー" class="none">
+						<img id="card_image_41_1" alt="No.75 惑乱のゴシップ・シャドー" title="No.75 惑乱のゴシップ・シャドー" class="none">
 					  
 					</dd>
 				</dl>
@@ -3422,7 +3576,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_40_1" alt="No.78 ナンバーズ・アーカイブ" title="No.78 ナンバーズ・アーカイブ" class="none">
+						<img id="card_image_42_1" alt="No.78 ナンバーズ・アーカイブ" title="No.78 ナンバーズ・アーカイブ" class="none">
 					  
 					</dd>
 				</dl>
@@ -3490,7 +3644,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_41_1" alt="ナンバーズハンター" title="ナンバーズハンター" class="none">
+						<img id="card_image_43_1" alt="ナンバーズハンター" title="ナンバーズハンター" class="none">
 					  
 					</dd>
 				</dl>
@@ -3561,11 +3715,59 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_42_1" alt="No.100 ヌメロン・ドラゴン" title="No.100 ヌメロン・ドラゴン" class="none">
+						<img id="card_image_44_1" alt="No.100 ヌメロン・ドラゴン" title="No.100 ヌメロン・ドラゴン" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=12544">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ナンバーズ・プロテクト</span>
+						<span class="card_status">
+						<strong>ナンバーズ・プロテクト</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_counter.png" alt="カウンター" title="カウンター">
+							<span>カウンター</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドに「No.」Xモンスターが存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にし破壊する。②：このカードが墓地に存在し、自分フィールドの「No.」Xモンスターが戦闘・効果で破壊された場合に発動できる。このカードを自分フィールドにセットする。この効果でセットしたこのカードはフィールドから離れた場合に除外される。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_45_1" alt="ナンバーズ・プロテクト" title="ナンバーズ・プロテクト" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16470">
 			</li>
 		  
 			<li>
@@ -3632,7 +3834,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_43_1" alt="No.43 魂魄傀儡鬼ソウル・マリオネッター" title="No.43 魂魄傀儡鬼ソウル・マリオネッター" class="none">
+						<img id="card_image_46_1" alt="No.43 魂魄傀儡鬼ソウル・マリオネッター" title="No.43 魂魄傀儡鬼ソウル・マリオネッター" class="none">
 					  
 					</dd>
 				</dl>
@@ -3703,7 +3905,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_44_1" alt="No.6 先史遺産アトランタル" title="No.6 先史遺産アトランタル" class="none">
+						<img id="card_image_47_1" alt="No.6 先史遺産アトランタル" title="No.6 先史遺産アトランタル" class="none">
 					  
 					</dd>
 				</dl>
@@ -3746,7 +3948,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_45_1" alt="ヌメロン・カオス・リチューアル" title="ヌメロン・カオス・リチューアル" class="none">
+						<img id="card_image_48_1" alt="ヌメロン・カオス・リチューアル" title="ヌメロン・カオス・リチューアル" class="none">
 					  
 					</dd>
 				</dl>
@@ -3794,7 +3996,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_46_1" alt="パフォーム・パペット" title="パフォーム・パペット" class="none">
+						<img id="card_image_49_1" alt="パフォーム・パペット" title="パフォーム・パペット" class="none">
 					  
 					</dd>
 				</dl>
@@ -3837,7 +4039,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_47_1" alt="パージ・レイ" title="パージ・レイ" class="none">
+						<img id="card_image_50_1" alt="パージ・レイ" title="パージ・レイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -3908,7 +4110,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_48_1" alt="FNo.0 未来皇ホープ" title="FNo.0 未来皇ホープ" class="none">
+						<img id="card_image_51_1" alt="FNo.0 未来皇ホープ" title="FNo.0 未来皇ホープ" class="none">
 					  
 					</dd>
 				</dl>
@@ -3979,7 +4181,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_49_1" alt="FNo.0 未来皇ホープ－フューチャー・スラッシュ" title="FNo.0 未来皇ホープ－フューチャー・スラッシュ" class="none">
+						<img id="card_image_52_1" alt="FNo.0 未来皇ホープ－フューチャー・スラッシュ" title="FNo.0 未来皇ホープ－フューチャー・スラッシュ" class="none">
 					  
 					</dd>
 				</dl>
@@ -4050,7 +4252,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_50_1" alt="FNo.0 未来龍皇ホープ" title="FNo.0 未来龍皇ホープ" class="none">
+						<img id="card_image_53_1" alt="FNo.0 未来龍皇ホープ" title="FNo.0 未来龍皇ホープ" class="none">
 					  
 					</dd>
 				</dl>
@@ -4093,7 +4295,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_51_1" alt="RUM－千死蛮巧" title="RUM－千死蛮巧" class="none">
+						<img id="card_image_54_1" alt="RUM－千死蛮巧" title="RUM－千死蛮巧" class="none">
 					  
 					</dd>
 				</dl>
@@ -4136,7 +4338,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_52_1" alt="RUM－アージェント・カオス・フォース" title="RUM－アージェント・カオス・フォース" class="none">
+						<img id="card_image_55_1" alt="RUM－アージェント・カオス・フォース" title="RUM－アージェント・カオス・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -4184,7 +4386,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_53_1" alt="RUM－クイック・カオス" title="RUM－クイック・カオス" class="none">
+						<img id="card_image_56_1" alt="RUM－クイック・カオス" title="RUM－クイック・カオス" class="none">
 					  
 					</dd>
 				</dl>
@@ -4227,7 +4429,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_54_1" alt="RUM－ヌメロン・フォース" title="RUM－ヌメロン・フォース" class="none">
+						<img id="card_image_57_1" alt="RUM－ヌメロン・フォース" title="RUM－ヌメロン・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -4270,7 +4472,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_55_1" alt="RUM－バリアンズ・フォース" title="RUM－バリアンズ・フォース" class="none">
+						<img id="card_image_58_1" alt="RUM－バリアンズ・フォース" title="RUM－バリアンズ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -4313,7 +4515,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_56_1" alt="RUM－リミテッド・バリアンズ・フォース" title="RUM－リミテッド・バリアンズ・フォース" class="none">
+						<img id="card_image_59_1" alt="RUM－リミテッド・バリアンズ・フォース" title="RUM－リミテッド・バリアンズ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -4361,7 +4563,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_57_1" alt="リサーガム・エクシーズ" title="リサーガム・エクシーズ" class="none">
+						<img id="card_image_60_1" alt="リサーガム・エクシーズ" title="リサーガム・エクシーズ" class="none">
 					  
 					</dd>
 				</dl>

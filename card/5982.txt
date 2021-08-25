@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="天空の聖域 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「天空の聖域」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5982%26request_locale%3Dja%26a%3D202106241100"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5982%26request_locale%3Dja%26a%3D202106241100"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5982%26request_locale%3Dja%26a%3D202108231134"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5982%26request_locale%3Dja%26a%3D202108231134"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,71 +151,103 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7047&ciid=1&enc=X1B_5ZhygVPaIRM583_euQ').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16646&ciid=1&enc=kvtd_3S3-ImSu0yHYADpiA').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13351&ciid=1&enc=vI1G0Q61CA4d2GRa5NfQhA').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16648&ciid=1&enc=6Bg9sjwDcWf651U7srXAkQ').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7046&ciid=1&enc=6WnWcXF7pJ7kRHVzhkBdyQ').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7047&ciid=1&enc=X1B_5ZhygVPaIRM583_euQ').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9289&ciid=1&enc=4x-25Mwb3hwsE-wFhFui9A').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13351&ciid=1&enc=vI1G0Q61CA4d2GRa5NfQhA').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7050&ciid=1&enc=sRXty1zGWjOfzbiHquQFsw').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7046&ciid=1&enc=6WnWcXF7pJ7kRHVzhkBdyQ').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5951&ciid=1&enc=1AHhhXy7driVEUm53EJ7kA').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9289&ciid=1&enc=4x-25Mwb3hwsE-wFhFui9A').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5988&ciid=1&enc=ukalibLDo-no2Kh_vP3Yuw').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7050&ciid=1&enc=sRXty1zGWjOfzbiHquQFsw').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11245&ciid=1&enc=jwIodWiYNKkh6BbRXV616Q').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5951&ciid=1&enc=1AHhhXy7driVEUm53EJ7kA').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9291&ciid=1&enc=Hv54-4pleIKow7EOUCwLMw').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5988&ciid=1&enc=ukalibLDo-no2Kh_vP3Yuw').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9288&ciid=1&enc=T7LSPXVXyQZx6t8Stxv7Jg').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11245&ciid=1&enc=jwIodWiYNKkh6BbRXV616Q').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14196&ciid=1&enc=FdcJiAm1Zo5SSJQzjZfIyQ').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9291&ciid=1&enc=Hv54-4pleIKow7EOUCwLMw').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5976&ciid=1&enc=xNnVBjTVhmXdRtvW-uuUWA').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9288&ciid=1&enc=T7LSPXVXyQZx6t8Stxv7Jg').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5954&ciid=1&enc=vvL3fy_2RntHF86oTKy0LA').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14196&ciid=1&enc=FdcJiAm1Zo5SSJQzjZfIyQ').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7109&ciid=1&enc=8dn5AacOj3nPwtj8tGhHyw').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16651&ciid=1&enc=Ffbq2cG6jCW0E6h4Gaa6GA').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13353&ciid=1&enc=s_goliTUElBCT8c9DBrGDg').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5976&ciid=1&enc=xNnVBjTVhmXdRtvW-uuUWA').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7051&ciid=1&enc=J1m6Bd-FGR4qPcx8J9bP3Q').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5954&ciid=1&enc=vvL3fy_2RntHF86oTKy0LA').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9287&ciid=1&enc=JCrTcCCW9uMiaZTDDySZlQ').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16647&ciid=1&enc=bXT3t4q_yuhHk-tf3SHafg').show();
+			
+		
+			
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7109&ciid=1&enc=8dn5AacOj3nPwtj8tGhHyw').show();
+			
+		
+			
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16652&ciid=1&enc=NN1KYt61Xw5HAhJB0PFLLw').show();
+			
+		
+			
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13353&ciid=1&enc=s_goliTUElBCT8c9DBrGDg').show();
+			
+		
+			
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7051&ciid=1&enc=J1m6Bd-FGR4qPcx8J9bP3Q').show();
+			
+		
+			
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16645&ciid=1&enc=Bue4kqDn733s6gBCxjC45A').show();
+			
+		
+			
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9287&ciid=1&enc=JCrTcCCW9uMiaZTDDySZlQ').show();
+			
+		
+			
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16650&ciid=1&enc=_bFhh3jWCG0ouGv9cSvVlA').show();
+			
+		
+			
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16649&ciid=1&enc=gsZn1-lcs8ik99z0RL4HRg').show();
 			
 		
 
@@ -435,7 +467,7 @@
 										<b>カードテキスト</b>
 									</div>
 									①：このカードがフィールドゾーンに存在する限り、天使族モンスターの戦闘で発生するそのコントローラーへの戦闘ダメージは０になる。
-									
+		
 		
 								</div>
 							</td>
@@ -462,14 +494,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5982%26request_locale%3Dja%26a%3D202106241100&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5982%26request_locale%3Dja%26a%3D202108231134&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5982&request_locale=ja&a=202106241100" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5982&request_locale=ja&a=202108231134" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5982&request_locale=ja&a=202106241100"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5982&request_locale=ja&a=202108231134"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -514,6 +546,27 @@
 					<col width="50">
 					<tr>
 						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2021-08-07</td>
+		
+		
+		
+						<td>SR12-JP023</td>
+		
+		
+						<td>
+							<b>ストラクチャーデッキＲ－ロスト・サンクチュアリ－</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=1000000879000&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_p.png" class="icon_info rid_9" alt="パラレル仕様" style="margin-right: 7px;">
+		
+		
+						</td>
 					</tr>
 	
 					<tr class="row">
@@ -698,7 +751,7 @@
 						<div>
 							<strong>
 
-								検索結果 17件中 1～17件を表示
+								検索結果 25件中 1～25件を表示
 							</strong>
 						</div>
 					</div>
@@ -711,6 +764,122 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>いのちのだいこうしゃ　ネプチューン</span>
+						<span class="card_status">
+						<strong>命の代行者 ネプチューン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 1</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							天使族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードを手札から捨てて発動できる。自分の手札・墓地から「命の代行者 ネプチューン」以外の「代行者」モンスター１体を選んで特殊召喚する。フィールドまたは墓地に「天空の聖域」が存在する場合、特殊召喚するモンスターを「ヒュペリオン」モンスター１体にできる。相手ターン終了時まで、お互いにこの効果で特殊召喚したモンスターをリリースできない。②：このカードが除外された場合に発動できる。デッキから「天空の聖域」１枚を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="命の代行者 ネプチューン" title="命の代行者 ネプチューン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16646">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>うしなわれたせいいき</span>
+						<span class="card_status">
+						<strong>失われた聖域</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_continuous.png" alt="永続" title="永続">
+							<span>永続</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できず、このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、デッキから「天空の聖域」またはそのカード名が記された魔法・罠カード１枚を選んで自分フィールドにセットする。②：このカードのカード名は、フィールド・墓地に存在する限り「天空の聖域」として扱う。③：自分の墓地から天使族モンスター１体を除外し、相手フィールドの効果モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="失われた聖域" title="失われた聖域" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16648">
+			</li>
 		  
 			<li>
 				<dl>
@@ -773,7 +942,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="天空聖者メルティウス" title="天空聖者メルティウス" class="none">
+						<img id="card_image_2_1" alt="天空聖者メルティウス" title="天空聖者メルティウス" class="none">
 					  
 					</dd>
 				</dl>
@@ -841,7 +1010,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="天空賢者ミネルヴァ" title="天空賢者ミネルヴァ" class="none">
+						<img id="card_image_3_1" alt="天空賢者ミネルヴァ" title="天空賢者ミネルヴァ" class="none">
 					  
 					</dd>
 				</dl>
@@ -909,7 +1078,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="天空勇士ネオパーシアス" title="天空勇士ネオパーシアス" class="none">
+						<img id="card_image_4_1" alt="天空勇士ネオパーシアス" title="天空勇士ネオパーシアス" class="none">
 					  
 					</dd>
 				</dl>
@@ -971,13 +1140,13 @@
 					
 					<dd class="box_card_text">
 					  
-						１ターンに１度、自分の墓地に存在する「代行者」と名のついたモンスター１体をゲームから除外して発動する事ができる。自分フィールド上に表側表示で存在する天使族・光属性モンスター１体の攻撃力は、エンドフェイズ時まで８００ポイントアップする。また、フィールド上に「天空の聖域」が表側表示で存在する場合、１ターンに１度、手札から天使族モンスター１体を捨てる事で、ゲームから除外されている自分の天使族・光属性モンスター１体を選択して特殊召喚する。
+						①：１ターンに１度、自分の墓地から「代行者」モンスター１体を除外し、自分フィールドの天使族・光属性モンスター１体を対象として発動できる。その自分の天使族・光属性モンスターの攻撃力はターン終了時まで８００アップする。②：１ターンに１度、手札から天使族モンスター１体を捨て、除外されている自分の天使族・光属性モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果はフィールドに「天空の聖域」が存在する場合に発動と処理ができる。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="奇跡の代行者 ジュピター" title="奇跡の代行者 ジュピター" class="none">
+						<img id="card_image_5_1" alt="奇跡の代行者 ジュピター" title="奇跡の代行者 ジュピター" class="none">
 					  
 					</dd>
 				</dl>
@@ -1045,7 +1214,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="コーリング・ノヴァ" title="コーリング・ノヴァ" class="none">
+						<img id="card_image_6_1" alt="コーリング・ノヴァ" title="コーリング・ノヴァ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1107,13 +1276,13 @@
 					
 					<dd class="box_card_text">
 					  
-						自分のライフポイントが相手を超えている場合、自分フィールド上に存在するこのカードをリリースして発動する事ができる。超えているライフポイントの数値分のダメージを相手ライフに与える。この効果は自分フィールド上に「天空の聖域」が表側表示で存在しなければ適用できない。この効果を発動するターン、自分はバトルフェイズを行う事ができない。
+						①：このカードをリリースして発動できる。自分のLPが相手より多い場合、その差の数値分のダメージを相手に与える。この効果は自分フィールドに「天空の聖域」が存在する場合に発動と処理ができる。この効果を発動するターン、自分はバトルフェイズを行えない。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="裁きの代行者 サターン" title="裁きの代行者 サターン" class="none">
+						<img id="card_image_7_1" alt="裁きの代行者 サターン" title="裁きの代行者 サターン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1156,7 +1325,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="裁きの光" title="裁きの光" class="none">
+						<img id="card_image_8_1" alt="裁きの光" title="裁きの光" class="none">
 					  
 					</dd>
 				</dl>
@@ -1221,13 +1390,13 @@
 					
 					<dd class="box_card_text">
 					  
-						①：フィールドに「天空の聖域」が存在する場合、このカードは手札から特殊召喚できる。②：１ターンに１度、自分メインフェイズに発動できる。デッキから「代行者」モンスター１体を墓地へ送る。このカードのレベルは、この効果で墓地へ送ったモンスターのレベルと同じになる。
+						①：フィールドに「天空の聖域」が存在する場合、このカードは手札から特殊召喚できる。②：１ターンに１度、自分メインフェイズに発動できる。デッキから「代行者」モンスター１体を墓地へ送る。このカードのレベルは、そのモンスターのレベルと同じになる。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="死の代行者 ウラヌス" title="死の代行者 ウラヌス" class="none">
+						<img id="card_image_9_1" alt="死の代行者 ウラヌス" title="死の代行者 ウラヌス" class="none">
 					  
 					</dd>
 				</dl>
@@ -1275,7 +1444,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="神罰" title="神罰" class="none">
+						<img id="card_image_10_1" alt="神罰" title="神罰" class="none">
 					  
 					</dd>
 				</dl>
@@ -1340,13 +1509,13 @@
 					
 					<dd class="box_card_text">
 					  
-						このカードが召喚に成功した時、自分のデッキから「神秘の代行者 アース」以外の「代行者」と名のついたモンスター１体を手札に加える事ができる。フィールド上に「天空の聖域」が表側表示で存在する場合、代わりに「マスター・ヒュペリオン」１体を手札に加える事ができる。
+						①：このカードが召喚に成功した時に発動できる。デッキから「神秘の代行者 アース」以外の「代行者」モンスター１体を手札に加える。フィールドに「天空の聖域」が存在する場合、手札に加えるモンスターを「マスター・ヒュペリオン」１体にできる。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="神秘の代行者 アース" title="神秘の代行者 アース" class="none">
+						<img id="card_image_11_1" alt="神秘の代行者 アース" title="神秘の代行者 アース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1408,17 +1577,85 @@
 					
 					<dd class="box_card_text">
 					  
-						天使族モンスター２体以上<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札を１枚捨てて発動できる。「天空の聖域」のカード名が記されたカードまたは「天空の聖域」１枚をデッキから手札に加える。フィールドに「天空の聖域」が存在する場合にはその１枚を天使族モンスター１体にできる。②：自分フィールドの表側表示の天使族モンスターが墓地へ送られた場合、自分の墓地から天使族モンスター１体を除外して発動できる。除外したモンスターよりレベルが高い天使族モンスター１体を手札から特殊召喚する。
+						天使族モンスター２体以上<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札を１枚捨てて発動できる。「天空の聖域」またはそのカード名が記されたカード１枚をデッキから手札に加える。フィールドに「天空の聖域」が存在する場合、手札に加えるカードを天使族モンスター１体にできる。②：自分フィールドの表側表示の天使族モンスターが墓地へ送られた場合、自分の墓地から天使族モンスター１体を除外して発動できる。除外したモンスターよりレベルが高い天使族モンスター１体を手札から特殊召喚する。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="天空神騎士ロードパーシアス" title="天空神騎士ロードパーシアス" class="none">
+						<img id="card_image_12_1" alt="天空神騎士ロードパーシアス" title="天空神騎士ロードパーシアス" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14196">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>だいこうしゃのこのえ　ムーン</span>
+						<span class="card_status">
+						<strong>代行者の近衛 ムーン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+						<span class="box_card_linkmarker">
+							<img class="icon_img" src="external/image/parts/link_pc/link63.png" alt="リンク" title="リンク">
+							<span>リンク 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							天使族
+						  
+							／
+							リンク
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+							<span class="def_power">守備力 - </span>
+						
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						天使族モンスター２体<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがリンク召喚に成功した場合に発動できる。デッキから「天空の聖域」またはそのカード名が記されたカード１枚を墓地へ送る。フィールドまたは墓地に「天空の聖域」が存在する場合、代わりに自分のデッキ・墓地から「神秘の代行者 アース」１体を選んで手札に加える事ができる。②：自分フィールドの天使族モンスター１体をリリースし、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_13_1" alt="代行者の近衛 ムーン" title="代行者の近衛 ムーン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16651">
 			</li>
 		  
 			<li>
@@ -1485,7 +1722,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="大天使ゼラート" title="大天使ゼラート" class="none">
+						<img id="card_image_14_1" alt="大天使ゼラート" title="大天使ゼラート" class="none">
 					  
 					</dd>
 				</dl>
@@ -1547,17 +1784,60 @@
 					
 					<dd class="box_card_text">
 					  
-						このカードは魔法カードの効果を受けない。自分フィールド上に「天空の聖域」が表側表示で存在し、自分のライフポイントが相手より上の場合、その数値だけこのカードの攻撃力・守備力がアップする。
+						①：フィールドのこのカードは魔法カードの効果を受けない。②：自分フィールドに「天空の聖域」が存在し、自分のLPが相手より多い場合、その差の数値分このカードの攻撃力・守備力はアップする。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="力の代行者 マーズ" title="力の代行者 マーズ" class="none">
+						<img id="card_image_15_1" alt="力の代行者 マーズ" title="力の代行者 マーズ" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=5954">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>てんくうのうたごえ</span>
+						<span class="card_status">
+						<strong>天空の歌声</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：１０００LPを払い、自分の墓地の天使族モンスター１体を対象として発動できる。そのモンスターを手札に加える。その後、フィールドまたは墓地に「天空の聖域」が存在する場合、除外されている自分のカードの中から、「天空の聖域」またはそのカード名が記されたカード１枚を選んで手札に加える事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_16_1" alt="天空の歌声" title="天空の歌声" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16647">
 			</li>
 		  
 			<li>
@@ -1621,11 +1901,54 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="天空の使者 ゼラディアス" title="天空の使者 ゼラディアス" class="none">
+						<img id="card_image_17_1" alt="天空の使者 ゼラディアス" title="天空の使者 ゼラディアス" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=7109">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>てんくうのせいすい</span>
+						<span class="card_status">
+						<strong>天空の聖水</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから、「天空の聖域」１枚を発動するか、「天空の聖域」のカード名が記されたモンスター１体を手札に加える。その後、フィールドまたは墓地に「天空の聖域」が存在する場合、自分は自分フィールドの「ヒュペリオン」モンスター及び「代行者」モンスターの数×５００LP回復できる。②：「天空の聖域」のカード名が記された自分のモンスターが戦闘で破壊される場合、代わりに墓地のこのカードを除外できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_18_1" alt="天空の聖水" title="天空の聖水" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16652">
 			</li>
 		  
 			<li>
@@ -1669,7 +1992,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="パーシアスの神域" title="パーシアスの神域" class="none">
+						<img id="card_image_19_1" alt="パーシアスの神域" title="パーシアスの神域" class="none">
 					  
 					</dd>
 				</dl>
@@ -1737,11 +2060,79 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="ホーリー・ジェラル" title="ホーリー・ジェラル" class="none">
+						<img id="card_image_20_1" alt="ホーリー・ジェラル" title="ホーリー・ジェラル" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=7051">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>マジェスティ・ヒュペリオン</span>
+						<span class="card_status">
+						<strong>マジェスティ・ヒュペリオン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							天使族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2100</span>
+						
+						
+							<span class="def_power">守備力 2700</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：このカードは自分の手札・フィールド・墓地の「代行者」モンスター１体を除外し、手札・墓地から特殊召喚できる。②：自分の天使族モンスターの戦闘で発生する自分への戦闘ダメージは相手も受ける。③：１ターンに１度、自分の手札・墓地から天使族モンスター１体を除外し、自分または相手の墓地のカード１枚を対象として発動できる。そのカードを除外する。フィールドまたは墓地に「天空の聖域」が存在する場合、この効果は１ターンに２度まで使用できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_21_1" alt="マジェスティ・ヒュペリオン" title="マジェスティ・ヒュペリオン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16645">
 			</li>
 		  
 			<li>
@@ -1799,17 +2190,162 @@
 					
 					<dd class="box_card_text">
 					  
-						このカードは、自分の手札・フィールド上・墓地に存在する「代行者」と名のついたモンスター１体をゲームから除外し、手札から特殊召喚する事ができる。１ターンに１度、自分の墓地に存在する天使族・光属性モンスター１体をゲームから除外する事で、フィールド上に存在するカード１枚を選択して破壊する。フィールド上に「天空の聖域」が表側表示で存在する場合、この効果は１ターンに２度まで使用できる。
+						①：このカードは自分の手札・フィールド・墓地の「代行者」モンスター１体を除外し、手札から特殊召喚できる。②：１ターンに１度、自分の墓地から天使族・光属性モンスター１体を除外し、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。フィールドに「天空の聖域」が存在する場合、この効果は１ターンに２度まで使用できる。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="マスター・ヒュペリオン" title="マスター・ヒュペリオン" class="none">
+						<img id="card_image_22_1" alt="マスター・ヒュペリオン" title="マスター・ヒュペリオン" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=9287">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>マスターフレア・ヒュペリオン</span>
+						<span class="card_status">
+						<strong>マスターフレア・ヒュペリオン</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 10</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							天使族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3200</span>
+						
+						
+							<span class="def_power">守備力 2600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外の天使族モンスター１体以上<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：「代行者」モンスター１体または「天空の聖域」のカード名が記されたモンスター１体を手札・デッキ・EXデッキから墓地へ送って発動できる。エンドフェイズまで、このカードはそのモンスターと同名カードとして扱い、同じ効果を得る。②：相手がカードの効果を発動した時、自分の手札・墓地から天使族モンスター１体を除外し、フィールドのカード１枚を対象として発動できる。そのカードを除外する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_23_1" alt="マスターフレア・ヒュペリオン" title="マスターフレア・ヒュペリオン" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16650">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>めいふのしっこうしゃ　プルート</span>
+						<span class="card_status">
+						<strong>冥府の執行者 プルート</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 5</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							天使族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2300</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外のモンスター１体以上<br>このカード名はルール上「代行者」カードとしても扱う。このカード名の②の効果は１ターンに１度しか使用できない。①：１ターンに１度、自分の墓地からモンスター１体を除外し、フィールドの効果モンスター１体を対象として発動できる。そのモンスターを裏側守備表示にする。フィールドまたは墓地に「天空の聖域」が存在する場合、この効果は相手ターンでも発動できる。②：墓地のこのカードを除外して発動できる。自分のデッキ・墓地から「天空の聖域」１枚を選んで手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_24_1" alt="冥府の執行者 プルート" title="冥府の執行者 プルート" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16649">
 			</li>
 		  
 		</ul><!--.box_list-->

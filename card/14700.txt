@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="タキオン・ギャラクシースパイラル | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「タキオン・ギャラクシースパイラル」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14700%26request_locale%3Dja%26a%3D202106240934"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14700%26request_locale%3Dja%26a%3D202106240934"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14700%26request_locale%3Dja%26a%3D202108231007"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14700%26request_locale%3Dja%26a%3D202108231007"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -563,7 +563,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカード名のカードは１ターンに１枚しか発動できない。自分フィールドに「ギャラクシーアイズ・タキオン・ドラゴン」モンスターが存在する場合、このカードの発動は手札からもできる。①：自分フィールドのドラゴン族の「ギャラクシー」モンスター１体を対象として発動できる。そのモンスターはターン終了時まで、戦闘では破壊されず、自身以外のカードの効果を受けない。
-									
+		
 		
 								</div>
 							</td>
@@ -590,14 +590,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14700%26request_locale%3Dja%26a%3D202106240934&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14700%26request_locale%3Dja%26a%3D202108231007&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14700&request_locale=ja&a=202106240934" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14700&request_locale=ja&a=202108231007" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14700&request_locale=ja&a=202106240934"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14700&request_locale=ja&a=202108231007"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -3311,7 +3311,7 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
-						<span>ナンバーズ６２ ギャラクシーアイズ・プライム・フォトン・ドラゴン</span>
+						<span>ナンバーズ６２　ギャラクシーアイズ・プライム・フォトン・ドラゴン</span>
 						<span class="card_status">
 						<strong>No.62 銀河眼の光子竜皇</strong>
 						

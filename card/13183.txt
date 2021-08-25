@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="サイバーダーク・インフェルノ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「サイバーダーク・インフェルノ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D13183%26request_locale%3Dja%26a%3D202106241125"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D13183%26request_locale%3Dja%26a%3D202106241125"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D13183%26request_locale%3Dja%26a%3D202108231159"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D13183%26request_locale%3Dja%26a%3D202108231159"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -683,7 +683,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカード名の②の効果は１ターンに１度しか使用できない。①：装備カードを装備した自分フィールドの「サイバー・ダーク」効果モンスターは、相手の効果の対象にならず、相手の効果では破壊されない。②：自分フィールドの「サイバー・ダーク」モンスター１体を対象として発動できる。そのモンスターを持ち主の手札に戻し、その後「サイバー・ダーク」モンスター１体を召喚できる。③：フィールドのこのカードが相手の効果で破壊された場合に発動できる。デッキから「融合」魔法カードまたは「フュージョン」魔法カード１枚を手札に加える。
-									
+		
 		
 								</div>
 							</td>
@@ -710,14 +710,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D13183%26request_locale%3Dja%26a%3D202106241125&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D13183%26request_locale%3Dja%26a%3D202108231159&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13183&request_locale=ja&a=202106241125" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13183&request_locale=ja&a=202108231159" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13183&request_locale=ja&a=202106241125"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13183&request_locale=ja&a=202108231159"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -4573,7 +4573,7 @@
 					
 					<dd class="box_card_text">
 					  
-						戦士族モンスターにのみ装備可能。装備モンスターの攻撃力は８００ポイントアップする。モンスターに装備されているこのカードは、カードの効果では破壊されない。
+						戦士族モンスターにのみ装備可能。①：装備モンスターの攻撃力は８００アップする。②：モンスターに装備されているこのカードは効果では破壊されない。
 					  
 					</dd>
 					<dd class="box_card_img">

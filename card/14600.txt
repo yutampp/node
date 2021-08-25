@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="傀儡葬儀－パペット・パレード | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「傀儡葬儀－パペット・パレード」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14600%26request_locale%3Dja%26a%3D202106241203"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14600%26request_locale%3Dja%26a%3D202106241203"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14600%26request_locale%3Dja%26a%3D202108231237"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14600%26request_locale%3Dja%26a%3D202108231237"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -231,75 +231,79 @@
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10945&ciid=1&enc=18Zual2VuM1Q5Ln1F1d0KA').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16473&ciid=1&enc=0V7sPV3bw0BfjuKU6HlH5A').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11188&ciid=1&enc=yPhaFcZkyZlbb0eySE28gg').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10945&ciid=1&enc=18Zual2VuM1Q5Ln1F1d0KA').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11022&ciid=1&enc=SZo8hB2xnkDpS2p4VxTgLg').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11188&ciid=1&enc=yPhaFcZkyZlbb0eySE28gg').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11186&ciid=1&enc=WGexPCLHP6GB28ymi-HMAA').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11022&ciid=1&enc=SZo8hB2xnkDpS2p4VxTgLg').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12791&ciid=1&enc=Y5KyIoerMqf0Ab7CcHXOcA').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11186&ciid=1&enc=WGexPCLHP6GB28ymi-HMAA').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11087&ciid=1&enc=H2PmyaF3f2OCn-vddb1Rrw').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12791&ciid=1&enc=Y5KyIoerMqf0Ab7CcHXOcA').show();
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12330&ciid=1&enc=bvwlK0z8UkmSnjCSDA1X2w').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11087&ciid=1&enc=H2PmyaF3f2OCn-vddb1Rrw').show();
 			
 		
 			
-				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16011&ciid=1&enc=gIEzDlOcGaSdU-6Ow0JlBg').show();
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12330&ciid=1&enc=bvwlK0z8UkmSnjCSDA1X2w').show();
 			
 		
 			
-				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12214&ciid=1&enc=kSHLzIcfg3p5wt4CA-htQw').show();
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16011&ciid=1&enc=gIEzDlOcGaSdU-6Ow0JlBg').show();
 			
 		
 			
-				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12213&ciid=1&enc=TaxFAbJNvihBrFezxcg2eA').show();
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12214&ciid=1&enc=kSHLzIcfg3p5wt4CA-htQw').show();
 			
 		
 			
-				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10662&ciid=1&enc=Llw7YDGmlv3n7XaL-xq2kQ').show();
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12213&ciid=1&enc=TaxFAbJNvihBrFezxcg2eA').show();
 			
 		
 			
-				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10541&ciid=1&enc=_foB4BRJzpA7ss6HCgrMfg').show();
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10662&ciid=1&enc=Llw7YDGmlv3n7XaL-xq2kQ').show();
 			
 		
 			
-				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12644&ciid=1&enc=AUns1W4Dz2DRH3lkHoRbqA').show();
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10541&ciid=1&enc=_foB4BRJzpA7ss6HCgrMfg').show();
 			
 		
 			
-				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15530&ciid=1&enc=X8dOuO_YUsnXKgl0EoU8mQ').show();
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12644&ciid=1&enc=AUns1W4Dz2DRH3lkHoRbqA').show();
 			
 		
 			
-				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11841&ciid=1&enc=YzqKmh0KZpgWZRd1nOIUGg').show();
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15530&ciid=1&enc=X8dOuO_YUsnXKgl0EoU8mQ').show();
 			
 		
 			
-				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10570&ciid=1&enc=yTbFRoz2EMyzdO3ij3r5mg').show();
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11841&ciid=1&enc=YzqKmh0KZpgWZRd1nOIUGg').show();
 			
 		
 			
-				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11998&ciid=1&enc=TWQFswmpEkUHaJKMGfOayw').show();
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10570&ciid=1&enc=yTbFRoz2EMyzdO3ij3r5mg').show();
 			
 		
 			
-				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11732&ciid=1&enc=ojW0dPHlJYaVcs2OwXabOA').show();
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11998&ciid=1&enc=TWQFswmpEkUHaJKMGfOayw').show();
+			
+		
+			
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11732&ciid=1&enc=ojW0dPHlJYaVcs2OwXabOA').show();
 			
 		
 
@@ -519,7 +523,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカード名のカードは１ターンに１枚しか発動できない。①：相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合、その差の数までデッキから「ギミック・パペット」モンスターを特殊召喚する（同名カードは１枚まで）。自分のLPが相手より２０００以上少ない場合、さらにデッキから「RUM」通常魔法カード１枚を選んで自分の魔法＆罠ゾーンにセットできる。このカードの発動後、ターン終了時まで自分は「ギミック・パペット」モンスターしか特殊召喚できない。
-									
+		
 		
 								</div>
 							</td>
@@ -546,14 +550,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14600%26request_locale%3Dja%26a%3D202106241203&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14600%26request_locale%3Dja%26a%3D202108231237&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14600&request_locale=ja&a=202106241203" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14600&request_locale=ja&a=202108231237" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14600&request_locale=ja&a=202106241203"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14600&request_locale=ja&a=202108231237"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -677,7 +681,7 @@
 						<div>
 							<strong>
 
-								検索結果 38件中 1～38件を表示
+								検索結果 39件中 1～39件を表示
 							</strong>
 						</div>
 					</div>
@@ -2075,6 +2079,49 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ハイパーランクアップマジック－ユートピア・フォース</span>
+						<span class="card_status">
+						<strong>HRUM－ユートピア・フォース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのランク９以下の「希望皇ホープ」Xモンスター１体を対象として発動できる。ランク１０以上の「ホープ」Xモンスター１体を、対象の自分のXモンスターの上に重ねてX召喚扱いとしてEXデッキから特殊召喚する。②：このカードが墓地に存在し、ランク１０以上の「ホープ」Xモンスターの効果でXモンスターが特殊召喚された場合、その特殊召喚されたモンスター１体を対象として発動できる。このカードをそのモンスターの下に重ねてX素材とする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_20_1" alt="HRUM－ユートピア・フォース" title="HRUM－ユートピア・フォース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16473">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ランクアップマジック－アストラル・フォース</span>
 						<span class="card_status">
 						<strong>RUM－アストラル・フォース</strong>
@@ -2108,7 +2155,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="RUM－アストラル・フォース" title="RUM－アストラル・フォース" class="none">
+						<img id="card_image_21_1" alt="RUM－アストラル・フォース" title="RUM－アストラル・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2151,7 +2198,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="RUM－千死蛮巧" title="RUM－千死蛮巧" class="none">
+						<img id="card_image_22_1" alt="RUM－千死蛮巧" title="RUM－千死蛮巧" class="none">
 					  
 					</dd>
 				</dl>
@@ -2194,7 +2241,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="RUM－アージェント・カオス・フォース" title="RUM－アージェント・カオス・フォース" class="none">
+						<img id="card_image_23_1" alt="RUM－アージェント・カオス・フォース" title="RUM－アージェント・カオス・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2242,7 +2289,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="RUM－クイック・カオス" title="RUM－クイック・カオス" class="none">
+						<img id="card_image_24_1" alt="RUM－クイック・カオス" title="RUM－クイック・カオス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2290,7 +2337,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="RUM－光波昇華" title="RUM－光波昇華" class="none">
+						<img id="card_image_25_1" alt="RUM－光波昇華" title="RUM－光波昇華" class="none">
 					  
 					</dd>
 				</dl>
@@ -2333,7 +2380,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="RUM－七皇の剣" title="RUM－七皇の剣" class="none">
+						<img id="card_image_26_1" alt="RUM－七皇の剣" title="RUM－七皇の剣" class="none">
 					  
 					</dd>
 				</dl>
@@ -2376,7 +2423,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="RUM－スキップ・フォース" title="RUM－スキップ・フォース" class="none">
+						<img id="card_image_27_1" alt="RUM－スキップ・フォース" title="RUM－スキップ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2419,7 +2466,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_27_1" alt="RUM－ゼアル・フォース" title="RUM－ゼアル・フォース" class="none">
+						<img id="card_image_28_1" alt="RUM－ゼアル・フォース" title="RUM－ゼアル・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2462,7 +2509,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_28_1" alt="RUM－ソウル・シェイブ・フォース" title="RUM－ソウル・シェイブ・フォース" class="none">
+						<img id="card_image_29_1" alt="RUM－ソウル・シェイブ・フォース" title="RUM－ソウル・シェイブ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2510,7 +2557,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_29_1" alt="RUM－デス・ダブル・フォース" title="RUM－デス・ダブル・フォース" class="none">
+						<img id="card_image_30_1" alt="RUM－デス・ダブル・フォース" title="RUM－デス・ダブル・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2553,7 +2600,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_30_1" alt="RUM－ヌメロン・フォース" title="RUM－ヌメロン・フォース" class="none">
+						<img id="card_image_31_1" alt="RUM－ヌメロン・フォース" title="RUM－ヌメロン・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2596,7 +2643,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_31_1" alt="RUM－バリアンズ・フォース" title="RUM－バリアンズ・フォース" class="none">
+						<img id="card_image_32_1" alt="RUM－バリアンズ・フォース" title="RUM－バリアンズ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2644,7 +2691,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_32_1" alt="RUM－幻影騎士団ラウンチ" title="RUM－幻影騎士団ラウンチ" class="none">
+						<img id="card_image_33_1" alt="RUM－幻影騎士団ラウンチ" title="RUM－幻影騎士団ラウンチ" class="none">
 					  
 					</dd>
 				</dl>
@@ -2692,7 +2739,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_33_1" alt="RUM－ファントム・フォース" title="RUM－ファントム・フォース" class="none">
+						<img id="card_image_34_1" alt="RUM－ファントム・フォース" title="RUM－ファントム・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2740,7 +2787,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_34_1" alt="RUM－ラプターズ・フォース" title="RUM－ラプターズ・フォース" class="none">
+						<img id="card_image_35_1" alt="RUM－ラプターズ・フォース" title="RUM－ラプターズ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2783,7 +2830,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_35_1" alt="RUM－リミテッド・バリアンズ・フォース" title="RUM－リミテッド・バリアンズ・フォース" class="none">
+						<img id="card_image_36_1" alt="RUM－リミテッド・バリアンズ・フォース" title="RUM－リミテッド・バリアンズ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2826,7 +2873,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_36_1" alt="RUM－レイド・フォース" title="RUM－レイド・フォース" class="none">
+						<img id="card_image_37_1" alt="RUM－レイド・フォース" title="RUM－レイド・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2874,7 +2921,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_37_1" alt="RUM－レヴォリューション・フォース" title="RUM－レヴォリューション・フォース" class="none">
+						<img id="card_image_38_1" alt="RUM－レヴォリューション・フォース" title="RUM－レヴォリューション・フォース" class="none">
 					  
 					</dd>
 				</dl>

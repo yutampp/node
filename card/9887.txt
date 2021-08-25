@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="機甲忍者フレイム | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「機甲忍者フレイム」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9887%26request_locale%3Dja%26a%3D202106241019"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9887%26request_locale%3Dja%26a%3D202106241019"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9887%26request_locale%3Dja%26a%3D202108231052"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9887%26request_locale%3Dja%26a%3D202108231052"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -319,11 +319,15 @@
 			
 		
 			
-				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6334&ciid=1&enc=ZCuHeAchP4eZES5emWWmvA').show();
+				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16511&ciid=1&enc=_5vvKhcMASHTXbeIFLuGkQ').show();
 			
 		
 			
-				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5816&ciid=1&enc=3AAEIxyEGNywlGffrTyZoA').show();
+				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6334&ciid=1&enc=ZCuHeAchP4eZES5emWWmvA').show();
+			
+		
+			
+				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=5816&ciid=1&enc=3AAEIxyEGNywlGffrTyZoA').show();
 			
 		
 
@@ -614,7 +618,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカードが召喚・反転召喚・特殊召喚に成功した時、自分フィールド上の「忍者」と名のついたモンスター１体を選択して発動できる。選択したモンスターのレベルを１つ上げる。
-									
+		
 			
 								</div>
 							</td>
@@ -642,14 +646,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9887%26request_locale%3Dja%26a%3D202106241019&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D9887%26request_locale%3Dja%26a%3D202108231052&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9887&request_locale=ja&a=202106241019" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9887&request_locale=ja&a=202108231052" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9887&request_locale=ja&a=202106241019"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9887&request_locale=ja&a=202108231052"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -773,7 +777,7 @@
 						<div>
 							<strong>
 
-								検索結果 44件中 1～44件を表示
+								検索結果 45件中 1～45件を表示
 							</strong>
 						</div>
 					</div>
@@ -3467,6 +3471,77 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ペンギンにんじゃ</span>
+						<span class="card_status">
+						<strong>ペンギン忍者</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_water.png" alt="水属性" title="水属性">
+							<span>水属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							水族
+						  
+							／
+							リバース
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1400</span>
+						
+						
+							<span class="def_power">守備力 700</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがリバースした場合、相手フィールドの魔法・罠カードを２枚まで対象として発動できる。そのカードを持ち主の手札に戻す。②：自分フィールドの「ペンギン」モンスター１体を対象として発動できる。そのモンスターを裏側守備表示にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_42_1" alt="ペンギン忍者" title="ペンギン忍者" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16511">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ホワイトにんじゃ</span>
 						<span class="card_status">
 						<strong>白い忍者</strong>
@@ -3528,7 +3603,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_42_1" alt="白い忍者" title="白い忍者" class="none">
+						<img id="card_image_43_1" alt="白い忍者" title="白い忍者" class="none">
 					  
 					</dd>
 				</dl>
@@ -3599,7 +3674,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_43_1" alt="赤い忍者" title="赤い忍者" class="none">
+						<img id="card_image_44_1" alt="赤い忍者" title="赤い忍者" class="none">
 					  
 					</dd>
 				</dl>

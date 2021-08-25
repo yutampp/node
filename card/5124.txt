@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="魔法の筒 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「魔法の筒」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5124%26request_locale%3Dja%26a%3D202106241123"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5124%26request_locale%3Dja%26a%3D202106241123"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5124%26request_locale%3Dja%26a%3D202108231156"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5124%26request_locale%3Dja%26a%3D202108231156"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -149,6 +149,10 @@
 			location.href = $('.link_value', this).val();
 		});
 		
+		
+			
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16556&ciid=1&enc=LIvZVCZcMs-Edv5J9zDHeA').show();
+			
 		
 
 		
@@ -367,7 +371,7 @@
 										<b>カードテキスト</b>
 									</div>
 									①：相手モンスターの攻撃宣言時、攻撃モンスター１体を対象として発動できる。その攻撃モンスターの攻撃を無効にし、その攻撃力分のダメージを相手に与える。
-									
+		
 		
 								</div>
 							</td>
@@ -394,19 +398,23 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5124%26request_locale%3Dja%26a%3D202106241123&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D5124%26request_locale%3Dja%26a%3D202108231156&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5124&request_locale=ja&a=202106241123" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5124&request_locale=ja&a=202108231156" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5124&request_locale=ja&a=202106241123"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5124&request_locale=ja&a=202108231156"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
 					</table>
 				
+				
+					<div id="relationCard_a">
+						<a href="#relationCard">このカードの関連カードを見る</a>
+					</div>
 				
 				</td>
 				<td valign="top" style="padding-left:8px;">
@@ -442,6 +450,27 @@
 					<col width="50">
 					<tr>
 						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2021-07-10</td>
+		
+		
+		
+						<td>DR01-JPA32</td>
+		
+		
+						<td>
+							<b>デュエルロワイヤル　デッキセットEX[ ブラック・マジシャン ]</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=1000008800000&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
 					</tr>
 	
 					<tr class="row">
@@ -957,6 +986,125 @@
 
 
 
+
+
+	<div class="list_style" id="relationCard">
+		<div class="li_top">関連カード</div>
+
+
+
+			<table style="margin:0 auto;width:100%;border-spacing: 0px;">
+				<tr>
+				<td valign="top" style="padding: 0px;">
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="mode" style="width:110px;">
+							<option value="1">画像表示</option>
+							<option value="2">テキスト表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="rp" style="width:170px;">
+							<option value="10">10件ずつ表示</option>
+							<option value="50">50件ずつ表示</option>
+							<option value="100">100件ずつ表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right">
+						<select id="sort" style="width:260px;">
+							<option value="1">50音順</option>
+							<option value="2">レベル／ランク順（大きい順）</option>
+							<option value="3">レベル／ランク順（小さい順）</option>
+							<option value="4">攻撃力順（大きい順）</option>
+							<option value="5">攻撃力順（小さい順）</option>
+							<option value="6">守備力順（大きい順）</option>
+							<option value="7">守備力順（小さい順）</option>
+							<option value="8">ペンデュラムスケール順（大きい順）</option>
+							<option value="9">ペンデュラムスケール順（小さい順）</option>
+							<option value="11">リンク数（多い順）</option>
+							<option value="12">リンク数（少ない順）</option>
+						</select>
+					</span>
+
+					
+					<div class="page_num_title">
+						<div>
+							<strong>
+
+								検索結果 1件中 1～1件を表示
+							</strong>
+						</div>
+					</div>
+					<br class="f_del">
+				</td>
+				</tr>
+			</table>
+
+
+
+
+		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>リローデッド・シリンダー</span>
+						<span class="card_status">
+						<strong>リローデッド・シリンダー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の②の効果は１ターンに１度しか使用できない。①：自分のデッキ・墓地から「魔法の筒」１枚を選んで自分フィールドにセットする。デッキからセットした場合、そのカードはセットしたターンでも発動できる。②：自分が「魔法の筒」を発動した時、墓地のこのカードを除外して発動できる。その効果で相手に与えるダメージは倍になる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="リローデッド・シリンダー" title="リローデッド・シリンダー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16556">
+			</li>
+		  
+		</ul><!--.box_list-->
+	</div><!--.list_style-->
+
+	<div class="page_num">
+		<span>
+			
+			
+			  
+				<a class="nowpage">1</a>
+			  
+			  
+			
+			
+		</span>
+	</div>
 
 
 

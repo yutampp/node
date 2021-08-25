@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="E・HERO アイスエッジ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「E・HERO アイスエッジ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8126%26request_locale%3Dja%26a%3D202106241238"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8126%26request_locale%3Dja%26a%3D202106241238"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8126%26request_locale%3Dja%26a%3D202108231314"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8126%26request_locale%3Dja%26a%3D202108231314"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -395,127 +395,131 @@
 			
 		
 			
-				$('#card_image_61_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14259&ciid=1&enc=DOJDh0wbRlJD9F57Lao4cQ').show();
+				$('#card_image_61_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16524&ciid=1&enc=kThpqg7sICotBj0By-oDpw').show();
 			
 		
 			
-				$('#card_image_62_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6408&ciid=1&enc=yhhiDcEOv-C7e1SoEZshvA').show();
+				$('#card_image_62_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14259&ciid=1&enc=DOJDh0wbRlJD9F57Lao4cQ').show();
 			
 		
 			
-				$('#card_image_63_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6536&ciid=1&enc=kbBP15Fbrc1gI7aa_tVIFw').show();
+				$('#card_image_63_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6408&ciid=1&enc=yhhiDcEOv-C7e1SoEZshvA').show();
 			
 		
 			
-				$('#card_image_64_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7942&ciid=1&enc=LJzLF6iG3fbvZ-D8ZwYq9Q').show();
+				$('#card_image_64_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6536&ciid=1&enc=kbBP15Fbrc1gI7aa_tVIFw').show();
 			
 		
 			
-				$('#card_image_65_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7187&ciid=1&enc=-lu4AQwzT-XWQEaG5HuTBg').show();
+				$('#card_image_65_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7942&ciid=1&enc=LJzLF6iG3fbvZ-D8ZwYq9Q').show();
 			
 		
 			
-				$('#card_image_66_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7160&ciid=1&enc=CVXAnHHPZGK6PgSFpvjA0g').show();
+				$('#card_image_66_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7187&ciid=1&enc=-lu4AQwzT-XWQEaG5HuTBg').show();
 			
 		
 			
-				$('#card_image_67_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6356&ciid=1&enc=U-qFtw2XCnx_saNWqwRU2g').show();
+				$('#card_image_67_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7160&ciid=1&enc=CVXAnHHPZGK6PgSFpvjA0g').show();
 			
 		
 			
-				$('#card_image_68_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6584&ciid=1&enc=mYGeJL8Xq0-HHdZcBxTsNA').show();
+				$('#card_image_68_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6356&ciid=1&enc=U-qFtw2XCnx_saNWqwRU2g').show();
 			
 		
 			
-				$('#card_image_69_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6785&ciid=1&enc=nvB-C5tf4U3WmM7PRkFiVQ').show();
+				$('#card_image_69_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6584&ciid=1&enc=mYGeJL8Xq0-HHdZcBxTsNA').show();
 			
 		
 			
-				$('#card_image_70_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8150&ciid=1&enc=HrCqRowWE96kma2z_kc2eg').show();
+				$('#card_image_70_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6785&ciid=1&enc=nvB-C5tf4U3WmM7PRkFiVQ').show();
 			
 		
 			
-				$('#card_image_71_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6571&ciid=1&enc=eWNVCyMwIIeV9JRv0MopsQ').show();
+				$('#card_image_71_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8150&ciid=1&enc=HrCqRowWE96kma2z_kc2eg').show();
 			
 		
 			
-				$('#card_image_72_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6495&ciid=1&enc=Yz4KG_AF4nwFOU93qF1h9g').show();
+				$('#card_image_72_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6571&ciid=1&enc=eWNVCyMwIIeV9JRv0MopsQ').show();
 			
 		
 			
-				$('#card_image_73_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6675&ciid=1&enc=HHITd50Lewvmh7_lrYHDuw').show();
+				$('#card_image_73_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6495&ciid=1&enc=Yz4KG_AF4nwFOU93qF1h9g').show();
 			
 		
 			
-				$('#card_image_74_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7637&ciid=1&enc=Y1qyTcAP3XRlGnkmhFQqsw').show();
+				$('#card_image_74_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6675&ciid=1&enc=HHITd50Lewvmh7_lrYHDuw').show();
 			
 		
 			
-				$('#card_image_75_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7618&ciid=1&enc=iG_wnEkHtjvo-_WzhVaiWw').show();
+				$('#card_image_75_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7637&ciid=1&enc=Y1qyTcAP3XRlGnkmhFQqsw').show();
 			
 		
 			
-				$('#card_image_76_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6779&ciid=1&enc=-1fZJROGPZjt3aq5Pr4idw').show();
+				$('#card_image_76_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7618&ciid=1&enc=iG_wnEkHtjvo-_WzhVaiWw').show();
 			
 		
 			
-				$('#card_image_77_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14913&ciid=1&enc=h09omAYRf1QXIlTzteAOzg').show();
+				$('#card_image_77_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6779&ciid=1&enc=-1fZJROGPZjt3aq5Pr4idw').show();
 			
 		
 			
-				$('#card_image_78_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9068&ciid=1&enc=KkFpS5Tj4BpVd8GD_XIQew').show();
+				$('#card_image_78_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14913&ciid=1&enc=h09omAYRf1QXIlTzteAOzg').show();
 			
 		
 			
-				$('#card_image_79_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14304&ciid=1&enc=R7vd1D5bdgdTCu8xHXcRYA').show();
+				$('#card_image_79_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9068&ciid=1&enc=KkFpS5Tj4BpVd8GD_XIQew').show();
 			
 		
 			
-				$('#card_image_80_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6391&ciid=1&enc=1noGxjoaOZtWKawxNLAsig').show();
+				$('#card_image_80_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14304&ciid=1&enc=R7vd1D5bdgdTCu8xHXcRYA').show();
 			
 		
 			
-				$('#card_image_81_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7161&ciid=1&enc=oF-aOR-3oq8iaLYyasRUvA').show();
+				$('#card_image_81_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6391&ciid=1&enc=1noGxjoaOZtWKawxNLAsig').show();
 			
 		
 			
-				$('#card_image_82_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14914&ciid=1&enc=m39gdb6go0Ggdn9yBnZwqA').show();
+				$('#card_image_82_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7161&ciid=1&enc=oF-aOR-3oq8iaLYyasRUvA').show();
 			
 		
 			
-				$('#card_image_83_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9066&ciid=1&enc=eskfCAJL2n2VGYTBmOBArA').show();
+				$('#card_image_83_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14914&ciid=1&enc=m39gdb6go0Ggdn9yBnZwqA').show();
 			
 		
 			
-				$('#card_image_84_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11309&ciid=1&enc=F4qiEgsjG49fjFysZqBtMw').show();
+				$('#card_image_84_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9066&ciid=1&enc=eskfCAJL2n2VGYTBmOBArA').show();
 			
 		
 			
-				$('#card_image_85_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11311&ciid=1&enc=vbOxEWUn5TkO2p4QN_nh_A').show();
+				$('#card_image_85_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11309&ciid=1&enc=F4qiEgsjG49fjFysZqBtMw').show();
 			
 		
 			
-				$('#card_image_86_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9067&ciid=1&enc=AUcuZa5Ct4bZ_c0p-5qPyQ').show();
+				$('#card_image_86_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11311&ciid=1&enc=vbOxEWUn5TkO2p4QN_nh_A').show();
 			
 		
 			
-				$('#card_image_87_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9559&ciid=1&enc=XO8XUJD7V8Mm9y91fnzxkA').show();
+				$('#card_image_87_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9067&ciid=1&enc=AUcuZa5Ct4bZ_c0p-5qPyQ').show();
 			
 		
 			
-				$('#card_image_88_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6399&ciid=1&enc=PkJrvxNAnc48K2iajCDtLg').show();
+				$('#card_image_88_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9559&ciid=1&enc=XO8XUJD7V8Mm9y91fnzxkA').show();
 			
 		
 			
-				$('#card_image_89_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7004&ciid=1&enc=VD5I0NP3f-j_M5cqrgopAA').show();
+				$('#card_image_89_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6399&ciid=1&enc=PkJrvxNAnc48K2iajCDtLg').show();
 			
 		
 			
-				$('#card_image_90_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10213&ciid=1&enc=dCMufmf7i8fbGBSR0OePNw').show();
+				$('#card_image_90_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7004&ciid=1&enc=VD5I0NP3f-j_M5cqrgopAA').show();
 			
 		
 			
-				$('#card_image_91_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6432&ciid=1&enc=1Dookl3nyvWCRUxcdRrpTQ').show();
+				$('#card_image_91_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10213&ciid=1&enc=dCMufmf7i8fbGBSR0OePNw').show();
+			
+		
+			
+				$('#card_image_92_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6432&ciid=1&enc=1Dookl3nyvWCRUxcdRrpTQ').show();
 			
 		
 
@@ -806,7 +810,7 @@
 										<b>カードテキスト</b>
 									</div>
 									１ターンに１度、自分のメインフェイズ１で手札を１枚捨てて発動する。このターンこのカードは相手プレイヤーに直接攻撃する事ができる。また、このカードが直接攻撃によって相手ライフに戦闘ダメージを与えた時、相手の魔法＆罠カードゾーンにセットされたカード１枚を破壊する事ができる。
-									
+		
 			
 								</div>
 							</td>
@@ -834,14 +838,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8126%26request_locale%3Dja%26a%3D202106241238&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8126%26request_locale%3Dja%26a%3D202108231314&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8126&request_locale=ja&a=202106241238" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8126&request_locale=ja&a=202108231314" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8126&request_locale=ja&a=202106241238"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8126&request_locale=ja&a=202108231314"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -965,7 +969,7 @@
 						<div>
 							<strong>
 
-								検索結果 92件中 1～92件を表示
+								検索結果 93件中 1～93件を表示
 							</strong>
 						</div>
 					</div>
@@ -4824,6 +4828,77 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>デステニーヒーロー　デストロイフェニックスガイ</span>
+						<span class="card_status">
+						<strong>D-HERO デストロイフェニックスガイ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							融合
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル６以上の「HERO」モンスター＋「D-HERO」モンスター<br>このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：相手フィールドのモンスターの攻撃力は、自分の墓地の「HERO」カードの数×２００ダウンする。②：自分・相手ターンに発動できる。自分フィールドのカード１枚とフィールドのカード１枚を選んで破壊する。③：このカードが戦闘・効果で破壊された場合に発動できる。次のターンのスタンバイフェイズに、自分の墓地から「D-HERO」モンスター１体を選んで特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_61_1" alt="D-HERO デストロイフェニックスガイ" title="D-HERO デストロイフェニックスガイ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16524">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>デステニーヒーロー ドローガイ</span>
 						<span class="card_status">
 						<strong>D-HERO ドローガイ</strong>
@@ -4882,7 +4957,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_61_1" alt="D-HERO ドローガイ" title="D-HERO ドローガイ" class="none">
+						<img id="card_image_62_1" alt="D-HERO ドローガイ" title="D-HERO ドローガイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -4930,7 +5005,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_62_1" alt="バブル・シャッフル" title="バブル・シャッフル" class="none">
+						<img id="card_image_63_1" alt="バブル・シャッフル" title="バブル・シャッフル" class="none">
 					  
 					</dd>
 				</dl>
@@ -4973,7 +5048,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_63_1" alt="バースト・リターン" title="バースト・リターン" class="none">
+						<img id="card_image_64_1" alt="バースト・リターン" title="バースト・リターン" class="none">
 					  
 					</dd>
 				</dl>
@@ -5016,7 +5091,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_64_1" alt="平行世界融合" title="平行世界融合" class="none">
+						<img id="card_image_65_1" alt="平行世界融合" title="平行世界融合" class="none">
 					  
 					</dd>
 				</dl>
@@ -5059,7 +5134,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_65_1" alt="ヒーローアライブ" title="ヒーローアライブ" class="none">
+						<img id="card_image_66_1" alt="ヒーローアライブ" title="ヒーローアライブ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5102,7 +5177,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_66_1" alt="ヒーロー逆襲" title="ヒーロー逆襲" class="none">
+						<img id="card_image_67_1" alt="ヒーロー逆襲" title="ヒーロー逆襲" class="none">
 					  
 					</dd>
 				</dl>
@@ -5145,7 +5220,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_67_1" alt="ヒーロー・シグナル" title="ヒーロー・シグナル" class="none">
+						<img id="card_image_68_1" alt="ヒーロー・シグナル" title="ヒーロー・シグナル" class="none">
 					  
 					</dd>
 				</dl>
@@ -5188,7 +5263,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_68_1" alt="ヒーロースピリッツ" title="ヒーロースピリッツ" class="none">
+						<img id="card_image_69_1" alt="ヒーロースピリッツ" title="ヒーロースピリッツ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5231,7 +5306,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_69_1" alt="HERO&rsquo;S ボンド" title="HERO&rsquo;S ボンド" class="none">
+						<img id="card_image_70_1" alt="HERO&rsquo;S ボンド" title="HERO&rsquo;S ボンド" class="none">
 					  
 					</dd>
 				</dl>
@@ -5274,7 +5349,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_70_1" alt="HEROの遺産" title="HEROの遺産" class="none">
+						<img id="card_image_71_1" alt="HEROの遺産" title="HEROの遺産" class="none">
 					  
 					</dd>
 				</dl>
@@ -5317,7 +5392,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_71_1" alt="ヒーローハート" title="ヒーローハート" class="none">
+						<img id="card_image_72_1" alt="ヒーローハート" title="ヒーローハート" class="none">
 					  
 					</dd>
 				</dl>
@@ -5360,7 +5435,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_72_1" alt="ヒーローバリア" title="ヒーローバリア" class="none">
+						<img id="card_image_73_1" alt="ヒーローバリア" title="ヒーローバリア" class="none">
 					  
 					</dd>
 				</dl>
@@ -5403,7 +5478,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_73_1" alt="ヒーローフラッシュ！！" title="ヒーローフラッシュ！！" class="none">
+						<img id="card_image_74_1" alt="ヒーローフラッシュ！！" title="ヒーローフラッシュ！！" class="none">
 					  
 					</dd>
 				</dl>
@@ -5446,7 +5521,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_74_1" alt="ヒーロー・ブラスト" title="ヒーロー・ブラスト" class="none">
+						<img id="card_image_75_1" alt="ヒーロー・ブラスト" title="ヒーロー・ブラスト" class="none">
 					  
 					</dd>
 				</dl>
@@ -5489,7 +5564,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_75_1" alt="ヒーロー・マスク" title="ヒーロー・マスク" class="none">
+						<img id="card_image_76_1" alt="ヒーロー・マスク" title="ヒーロー・マスク" class="none">
 					  
 					</dd>
 				</dl>
@@ -5532,7 +5607,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_76_1" alt="フェイク・ヒーロー" title="フェイク・ヒーロー" class="none">
+						<img id="card_image_77_1" alt="フェイク・ヒーロー" title="フェイク・ヒーロー" class="none">
 					  
 					</dd>
 				</dl>
@@ -5580,7 +5655,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_77_1" alt="フェイバリット・ヒーロー" title="フェイバリット・ヒーロー" class="none">
+						<img id="card_image_78_1" alt="フェイバリット・ヒーロー" title="フェイバリット・ヒーロー" class="none">
 					  
 					</dd>
 				</dl>
@@ -5628,7 +5703,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_78_1" alt="フォーム・チェンジ" title="フォーム・チェンジ" class="none">
+						<img id="card_image_79_1" alt="フォーム・チェンジ" title="フォーム・チェンジ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5671,7 +5746,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_79_1" alt="フュージョン・デステニー" title="フュージョン・デステニー" class="none">
+						<img id="card_image_80_1" alt="フュージョン・デステニー" title="フュージョン・デステニー" class="none">
 					  
 					</dd>
 				</dl>
@@ -5739,7 +5814,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_80_1" alt="フレンドッグ" title="フレンドッグ" class="none">
+						<img id="card_image_81_1" alt="フレンドッグ" title="フレンドッグ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5782,7 +5857,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_81_1" alt="ホープ・オブ・フィフス" title="ホープ・オブ・フィフス" class="none">
+						<img id="card_image_82_1" alt="ホープ・オブ・フィフス" title="ホープ・オブ・フィフス" class="none">
 					  
 					</dd>
 				</dl>
@@ -5825,7 +5900,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_82_1" alt="マジスタリー・アルケミスト" title="マジスタリー・アルケミスト" class="none">
+						<img id="card_image_83_1" alt="マジスタリー・アルケミスト" title="マジスタリー・アルケミスト" class="none">
 					  
 					</dd>
 				</dl>
@@ -5873,7 +5948,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_83_1" alt="マスク・チェンジ" title="マスク・チェンジ" class="none">
+						<img id="card_image_84_1" alt="マスク・チェンジ" title="マスク・チェンジ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5916,7 +5991,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_84_1" alt="マスク・チャージ" title="マスク・チャージ" class="none">
+						<img id="card_image_85_1" alt="マスク・チャージ" title="マスク・チャージ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5987,7 +6062,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_85_1" alt="M・HERO 光牙" title="M・HERO 光牙" class="none">
+						<img id="card_image_86_1" alt="M・HERO 光牙" title="M・HERO 光牙" class="none">
 					  
 					</dd>
 				</dl>
@@ -6058,7 +6133,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_86_1" alt="M・HERO 剛火" title="M・HERO 剛火" class="none">
+						<img id="card_image_87_1" alt="M・HERO 剛火" title="M・HERO 剛火" class="none">
 					  
 					</dd>
 				</dl>
@@ -6129,7 +6204,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_87_1" alt="M・HERO ダイアン" title="M・HERO ダイアン" class="none">
+						<img id="card_image_88_1" alt="M・HERO ダイアン" title="M・HERO ダイアン" class="none">
 					  
 					</dd>
 				</dl>
@@ -6177,7 +6252,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_88_1" alt="摩天楼 －スカイスクレイパー－" title="摩天楼 －スカイスクレイパー－" class="none">
+						<img id="card_image_89_1" alt="摩天楼 －スカイスクレイパー－" title="摩天楼 －スカイスクレイパー－" class="none">
 					  
 					</dd>
 				</dl>
@@ -6225,7 +6300,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_89_1" alt="摩天楼２－ヒーローシティ" title="摩天楼２－ヒーローシティ" class="none">
+						<img id="card_image_90_1" alt="摩天楼２－ヒーローシティ" title="摩天楼２－ヒーローシティ" class="none">
 					  
 					</dd>
 				</dl>
@@ -6268,7 +6343,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_90_1" alt="ミラクル・コンタクト" title="ミラクル・コンタクト" class="none">
+						<img id="card_image_91_1" alt="ミラクル・コンタクト" title="ミラクル・コンタクト" class="none">
 					  
 					</dd>
 				</dl>
@@ -6311,7 +6386,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_91_1" alt="ミラクル・フュージョン" title="ミラクル・フュージョン" class="none">
+						<img id="card_image_92_1" alt="ミラクル・フュージョン" title="ミラクル・フュージョン" class="none">
 					  
 					</dd>
 				</dl>

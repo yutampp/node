@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="希望郷－オノマトピア－ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「希望郷－オノマトピア－」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11298%26request_locale%3Dja%26a%3D202106241005"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11298%26request_locale%3Dja%26a%3D202106241005"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11298%26request_locale%3Dja%26a%3D202108231038"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11298%26request_locale%3Dja%26a%3D202108231038"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -255,127 +255,135 @@
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14221&ciid=1&enc=kK2XVTMc9Y1GzGeojuJy0A').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16467&ciid=1&enc=Dqs8_4Q35dy2_1q6aVfhDA').show();
 			
 		
 			
-				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11924&ciid=1&enc=lAwgqj2KbA2LexrWwOmdIw').show();
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14221&ciid=1&enc=kK2XVTMc9Y1GzGeojuJy0A').show();
 			
 		
 			
-				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10483&ciid=1&enc=7kBo4LIlEk6LBG5jCQEFpA').show();
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11924&ciid=1&enc=lAwgqj2KbA2LexrWwOmdIw').show();
 			
 		
 			
-				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10838&ciid=1&enc=8W_1g5gvPTqE26Kncu7ioQ').show();
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10483&ciid=1&enc=7kBo4LIlEk6LBG5jCQEFpA').show();
 			
 		
 			
-				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10979&ciid=1&enc=cHGlFe9K-RF3p8hWYgUkKg').show();
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10838&ciid=1&enc=8W_1g5gvPTqE26Kncu7ioQ').show();
 			
 		
 			
-				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10361&ciid=1&enc=Qqa1sWIQqOvgWQD5RfSPYw').show();
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10979&ciid=1&enc=cHGlFe9K-RF3p8hWYgUkKg').show();
 			
 		
 			
-				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9619&ciid=1&enc=4Fx5GdCBv4OJyfVqEVIkkg').show();
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10361&ciid=1&enc=Qqa1sWIQqOvgWQD5RfSPYw').show();
 			
 		
 			
-				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10830&ciid=1&enc=ayaSAcP43PMS-hyqAp4F3A').show();
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9619&ciid=1&enc=4Fx5GdCBv4OJyfVqEVIkkg').show();
 			
 		
 			
-				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9878&ciid=1&enc=D6yyeamJ_ehjQVrp66DcFA').show();
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10830&ciid=1&enc=ayaSAcP43PMS-hyqAp4F3A').show();
 			
 		
 			
-				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11766&ciid=1&enc=GMs_WzBbjJgq_MfrW6zxnQ').show();
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9878&ciid=1&enc=D6yyeamJ_ehjQVrp66DcFA').show();
 			
 		
 			
-				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10977&ciid=1&enc=1NmCw0iYzoteo7u-_A2Z5g').show();
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11766&ciid=1&enc=GMs_WzBbjJgq_MfrW6zxnQ').show();
 			
 		
 			
-				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16421&ciid=1&enc=14Crt7mKhUR688fDe5UNnw').show();
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10977&ciid=1&enc=1NmCw0iYzoteo7u-_A2Z5g').show();
 			
 		
 			
-				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10453&ciid=1&enc=6Ot84P-1PEb9BNgTdPzK9Q').show();
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16421&ciid=1&enc=14Crt7mKhUR688fDe5UNnw').show();
 			
 		
 			
-				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9563&ciid=1&enc=uVnP46GofL77K_6x6Zx2zQ').show();
+				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10453&ciid=1&enc=6Ot84P-1PEb9BNgTdPzK9Q').show();
 			
 		
 			
-				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9960&ciid=1&enc=SUCpQxtdxpFS1kJQ2wbREw').show();
+				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9563&ciid=1&enc=uVnP46GofL77K_6x6Zx2zQ').show();
 			
 		
 			
-				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14921&ciid=1&enc=me88txZGv6fQqWc5EO2tiA').show();
+				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9960&ciid=1&enc=SUCpQxtdxpFS1kJQ2wbREw').show();
 			
 		
 			
-				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10831&ciid=1&enc=QijRJqW__2CMw4zdV4G-mA').show();
+				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14921&ciid=1&enc=me88txZGv6fQqWc5EO2tiA').show();
 			
 		
 			
-				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9852&ciid=1&enc=iMRe5rkZluFPabVReyh9jQ').show();
+				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10831&ciid=1&enc=QijRJqW__2CMw4zdV4G-mA').show();
 			
 		
 			
-				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10832&ciid=1&enc=JERH32qdy87ZGnS97FDslg').show();
+				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9852&ciid=1&enc=iMRe5rkZluFPabVReyh9jQ').show();
 			
 		
 			
-				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10980&ciid=1&enc=0jf-f1hZF1v-BVcK3ym09A').show();
+				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10832&ciid=1&enc=JERH32qdy87ZGnS97FDslg').show();
 			
 		
 			
-				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11112&ciid=1&enc=qJLIOe_JWYJgKgYi8b1Qmw').show();
+				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10980&ciid=1&enc=0jf-f1hZF1v-BVcK3ym09A').show();
 			
 		
 			
-				$('#card_image_47_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14922&ciid=1&enc=oHmVyRc9BF4NOLUdgm-jwA').show();
+				$('#card_image_47_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11112&ciid=1&enc=qJLIOe_JWYJgKgYi8b1Qmw').show();
 			
 		
 			
-				$('#card_image_48_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10478&ciid=1&enc=RATW18YJweeAnU-I6WQJNA').show();
+				$('#card_image_48_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14922&ciid=1&enc=oHmVyRc9BF4NOLUdgm-jwA').show();
 			
 		
 			
-				$('#card_image_49_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10360&ciid=1&enc=tzBQLA-ArKFrH_IbdACpzw').show();
+				$('#card_image_49_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10478&ciid=1&enc=RATW18YJweeAnU-I6WQJNA').show();
 			
 		
 			
-				$('#card_image_50_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12088&ciid=1&enc=P5UEOiOffvS_M8Ojt9bEmg').show();
+				$('#card_image_50_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10360&ciid=1&enc=tzBQLA-ArKFrH_IbdACpzw').show();
 			
 		
 			
-				$('#card_image_51_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11111&ciid=1&enc=XPoGFpyQ3SrSeYDPDAxWVQ').show();
+				$('#card_image_51_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16471&ciid=1&enc=ZGvK1gCuhyQirkb_0odJnA').show();
 			
 		
 			
-				$('#card_image_52_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11132&ciid=1&enc=VaOlsCqC1WZw9Tt16txZ6w').show();
+				$('#card_image_52_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12088&ciid=1&enc=P5UEOiOffvS_M8Ojt9bEmg').show();
 			
 		
 			
-				$('#card_image_53_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9575&ciid=1&enc=oCptcr0lKHuvzlXGnVj2Fw').show();
+				$('#card_image_53_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11111&ciid=1&enc=XPoGFpyQ3SrSeYDPDAxWVQ').show();
 			
 		
 			
-				$('#card_image_54_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14220&ciid=1&enc=urAIZTzuoQ_DSakryW_sZg').show();
+				$('#card_image_54_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11132&ciid=1&enc=VaOlsCqC1WZw9Tt16txZ6w').show();
 			
 		
 			
-				$('#card_image_55_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10934&ciid=1&enc=F7h64G03QMhfARJsRzQIDA').show();
+				$('#card_image_55_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9575&ciid=1&enc=oCptcr0lKHuvzlXGnVj2Fw').show();
 			
 		
 			
-				$('#card_image_56_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16000&ciid=1&enc=XlLgC28QJxes_rgjdz8MVQ').show();
+				$('#card_image_56_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14220&ciid=1&enc=urAIZTzuoQ_DSakryW_sZg').show();
+			
+		
+			
+				$('#card_image_57_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10934&ciid=1&enc=F7h64G03QMhfARJsRzQIDA').show();
+			
+		
+			
+				$('#card_image_58_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16000&ciid=1&enc=XlLgC28QJxes_rgjdz8MVQ').show();
 			
 		
 
@@ -595,7 +603,7 @@
 										<b>カードテキスト</b>
 									</div>
 									①：このカードがフィールドゾーンに存在する限り、自分フィールドに「希望皇ホープ」モンスターが特殊召喚される度に、このカードにかっとビングカウンターを１つ置く。②：自分フィールドのモンスターの攻撃力・守備力は、このカードのかっとビングカウンターの数×２００アップする。③：１ターンに１度、このカードのかっとビングカウンターを２つ取り除いて発動できる。デッキから「ズババ」、「ガガガ」、「ゴゴゴ」、「ドドド」モンスターの内いずれか１体を特殊召喚する。
-									
+		
 		
 								</div>
 							</td>
@@ -622,14 +630,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11298%26request_locale%3Dja%26a%3D202106241005&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11298%26request_locale%3Dja%26a%3D202108231038&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11298&request_locale=ja&a=202106241005" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11298&request_locale=ja&a=202108231038" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11298&request_locale=ja&a=202106241005"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11298&request_locale=ja&a=202108231038"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -753,7 +761,7 @@
 						<div>
 							<strong>
 
-								検索結果 57件中 1～57件を表示
+								検索結果 59件中 1～59件を表示
 							</strong>
 						</div>
 					</div>
@@ -1169,7 +1177,7 @@
 					
 					<dd class="box_card_text">
 					  
-						相手フィールド上にモンスターが存在し、自分フィールド上にモンスターが存在しない場合に発動できる。デッキから「ガガガ」と名のついたモンスター１体を特殊召喚する。このカードを発動するターン、自分はエクシーズ召喚以外の特殊召喚ができない。「ガガガ学園の緊急連絡網」は１ターンに１枚しか発動できない。
+						このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分はX召喚以外の特殊召喚ができない。①：相手フィールドにのみモンスターが存在する場合に発動できる。デッキから「ガガガ」モンスター１体を特殊召喚する。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -1490,7 +1498,7 @@
 					
 					<dd class="box_card_text">
 					  
-						自分フィールド上の「ガガガマジシャン」１体を選択して発動できる。このカードは選択したモンスターと同じレベルになる。また、このカードを含む「ガガガ」と名のついたモンスターのみを素材としたエクシーズモンスターは以下の効果を得る。●このエクシーズ召喚に成功した時、相手フィールド上の特殊召喚されたモンスター１体を選択して発動できる。選択したモンスターの攻撃力を０にする。
+						①：自分フィールドの「ガガガマジシャン」１体を対象として発動できる。このカードのレベルはそのモンスターと同じになる。②：このカードを含む「ガガガ」モンスターのみを素材としてX召喚したモンスターは以下の効果を得る。●このX召喚に成功した時、相手フィールドの特殊召喚されたモンスター１体を対象として発動できる。そのモンスターの攻撃力を０にする。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -1626,7 +1634,7 @@
 					
 					<dd class="box_card_text">
 					  
-						自分フィールド上に「ガガガクラーク」以外の「ガガガ」と名のついたモンスターが存在する場合、このカードは手札から特殊召喚できる。
+						①：自分フィールドに「ガガガクラーク」以外の「ガガガ」モンスターが存在する場合、このカードは手札から特殊召喚できる。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -1765,7 +1773,7 @@
 					
 					<dd class="box_card_text">
 					  
-						このカードが召喚に成功した時、デッキから「ガガガ」と名のついた魔法・罠カード１枚を手札に加える事ができる。また、このカード以外の自分フィールド上の「ガガガ」と名のついたモンスター１体を選択して発動できる。選択したモンスターとこのカードは、エンドフェイズ時までそれぞれのレベルを合計したレベルになる。「ガガガシスター」のこの効果は１ターンに１度しか使用できない。
+						このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。デッキから「ガガガ」魔法・罠カード１枚を手札に加える。②：このカード以外の自分フィールドの「ガガガ」モンスター１体を対象として発動できる。そのモンスターとこのカードは、ターン終了時までその２体のレベルを合計したレベルになる。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -2280,7 +2288,7 @@
 					
 					<dd class="box_card_text">
 					  
-						自分の墓地の「ガガガ」と名のついたモンスター１体を選択して発動できる。選択したモンスターを特殊召喚し、このカードを装備する。このカードがフィールド上から離れた時、装備モンスターを破壊する。また、装備モンスターがエクシーズ素材になる事によってこのカードが墓地へ送られた時、自分フィールド上の全てのエクシーズモンスターの攻撃力を３００ポイントアップする。
+						①：自分の墓地の「ガガガ」モンスター１体を対象としてこのカードを発動できる。そのモンスターを特殊召喚し、このカードを装備する。このカードがフィールドから離れた時にそのモンスターは破壊される。②：装備モンスターがX素材になった事でこのカードが墓地へ送られた場合に発動する。自分フィールドの全てのXモンスターの攻撃力は３００アップする。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -2291,6 +2299,74 @@
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10181">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>きぼうおうアストラル・ホープ</span>
+						<span class="card_status">
+						<strong>希望皇アストラル・ホープ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 0</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドにXモンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。②：このカード以外の自分の手札・フィールドのカード１枚を墓地へ送って発動できる。デッキから以下のカードの内いずれか１枚を手札に加える。<br>●「エクシーズ」魔法・罠カード<br>●「オノマト」魔法・罠カード<br>●「ゼアル」魔法・罠カード<br>●「ナンバーズ」魔法・罠カード
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_26_1" alt="希望皇アストラル・ホープ" title="希望皇アストラル・ホープ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16467">
 			</li>
 		  
 			<li>
@@ -2354,7 +2430,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="希望皇オノマトピア" title="希望皇オノマトピア" class="none">
+						<img id="card_image_27_1" alt="希望皇オノマトピア" title="希望皇オノマトピア" class="none">
 					  
 					</dd>
 				</dl>
@@ -2422,7 +2498,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_27_1" alt="ゴゴゴアリステラ＆デクシア" title="ゴゴゴアリステラ＆デクシア" class="none">
+						<img id="card_image_28_1" alt="ゴゴゴアリステラ＆デクシア" title="ゴゴゴアリステラ＆デクシア" class="none">
 					  
 					</dd>
 				</dl>
@@ -2490,7 +2566,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_28_1" alt="ゴゴゴギガース" title="ゴゴゴギガース" class="none">
+						<img id="card_image_29_1" alt="ゴゴゴギガース" title="ゴゴゴギガース" class="none">
 					  
 					</dd>
 				</dl>
@@ -2538,7 +2614,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_29_1" alt="ゴゴゴ護符" title="ゴゴゴ護符" class="none">
+						<img id="card_image_30_1" alt="ゴゴゴ護符" title="ゴゴゴ護符" class="none">
 					  
 					</dd>
 				</dl>
@@ -2606,7 +2682,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_30_1" alt="ゴゴゴゴラム" title="ゴゴゴゴラム" class="none">
+						<img id="card_image_31_1" alt="ゴゴゴゴラム" title="ゴゴゴゴラム" class="none">
 					  
 					</dd>
 				</dl>
@@ -2674,7 +2750,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_31_1" alt="ゴゴゴゴースト" title="ゴゴゴゴースト" class="none">
+						<img id="card_image_32_1" alt="ゴゴゴゴースト" title="ゴゴゴゴースト" class="none">
 					  
 					</dd>
 				</dl>
@@ -2736,13 +2812,13 @@
 					
 					<dd class="box_card_text">
 					  
-						①：守備表示のこのカードは、１ターンに１度だけ戦闘では破壊されない。
+						①：守備表示のこのカードは１ターンに１度だけ戦闘では破壊されない。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_32_1" alt="ゴゴゴゴーレム" title="ゴゴゴゴーレム" class="none">
+						<img id="card_image_33_1" alt="ゴゴゴゴーレム" title="ゴゴゴゴーレム" class="none">
 					  
 					</dd>
 				</dl>
@@ -2813,7 +2889,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_33_1" alt="ゴゴゴゴーレム－GF" title="ゴゴゴゴーレム－GF" class="none">
+						<img id="card_image_34_1" alt="ゴゴゴゴーレム－GF" title="ゴゴゴゴーレム－GF" class="none">
 					  
 					</dd>
 				</dl>
@@ -2881,7 +2957,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_34_1" alt="ゴゴゴジャイアント" title="ゴゴゴジャイアント" class="none">
+						<img id="card_image_35_1" alt="ゴゴゴジャイアント" title="ゴゴゴジャイアント" class="none">
 					  
 					</dd>
 				</dl>
@@ -2952,7 +3028,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_35_1" alt="SNo.39 希望皇ホープ・ザ・ライトニング" title="SNo.39 希望皇ホープ・ザ・ライトニング" class="none">
+						<img id="card_image_36_1" alt="SNo.39 希望皇ホープ・ザ・ライトニング" title="SNo.39 希望皇ホープ・ザ・ライトニング" class="none">
 					  
 					</dd>
 				</dl>
@@ -3023,7 +3099,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_36_1" alt="SNo.39 希望皇ホープONE" title="SNo.39 希望皇ホープONE" class="none">
+						<img id="card_image_37_1" alt="SNo.39 希望皇ホープONE" title="SNo.39 希望皇ホープONE" class="none">
 					  
 					</dd>
 				</dl>
@@ -3094,7 +3170,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_37_1" alt="獣装合体 ライオ・ホープレイ" title="獣装合体 ライオ・ホープレイ" class="none">
+						<img id="card_image_38_1" alt="獣装合体 ライオ・ホープレイ" title="獣装合体 ライオ・ホープレイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -3165,7 +3241,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_38_1" alt="ズババジェネラル" title="ズババジェネラル" class="none">
+						<img id="card_image_39_1" alt="ズババジェネラル" title="ズババジェネラル" class="none">
 					  
 					</dd>
 				</dl>
@@ -3227,13 +3303,13 @@
 					
 					<dd class="box_card_text">
 					  
-						このカードが表側守備表示のモンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。
+						①：このカードが表側守備表示モンスターを攻撃するダメージステップ開始時に発動する。そのモンスターを破壊する。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_39_1" alt="ズババナイト" title="ズババナイト" class="none">
+						<img id="card_image_40_1" alt="ズババナイト" title="ズババナイト" class="none">
 					  
 					</dd>
 				</dl>
@@ -3301,7 +3377,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_40_1" alt="ズバババスター" title="ズバババスター" class="none">
+						<img id="card_image_41_1" alt="ズバババスター" title="ズバババスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -3369,7 +3445,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_41_1" alt="ズバババンチョー－GC" title="ズバババンチョー－GC" class="none">
+						<img id="card_image_42_1" alt="ズバババンチョー－GC" title="ズバババンチョー－GC" class="none">
 					  
 					</dd>
 				</dl>
@@ -3431,13 +3507,13 @@
 					
 					<dd class="box_card_text">
 					  
-						このカードが召喚・特殊召喚に成功した時、手札から「ドドドウィッチ」以外の「ドドド」と名のついたモンスター１体を表側攻撃表示または裏側守備表示で特殊召喚できる。
+						①：このカードが召喚・特殊召喚に成功した時に発動できる。手札から「ドドドウィッチ」以外の「ドドド」モンスター１体を表側攻撃表示または裏側守備表示で特殊召喚する。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_42_1" alt="ドドドウィッチ" title="ドドドウィッチ" class="none">
+						<img id="card_image_43_1" alt="ドドドウィッチ" title="ドドドウィッチ" class="none">
 					  
 					</dd>
 				</dl>
@@ -3505,7 +3581,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_43_1" alt="ドドドウォリアー" title="ドドドウォリアー" class="none">
+						<img id="card_image_44_1" alt="ドドドウォリアー" title="ドドドウォリアー" class="none">
 					  
 					</dd>
 				</dl>
@@ -3573,7 +3649,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_44_1" alt="ドドドガッサー" title="ドドドガッサー" class="none">
+						<img id="card_image_45_1" alt="ドドドガッサー" title="ドドドガッサー" class="none">
 					  
 					</dd>
 				</dl>
@@ -3641,7 +3717,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_45_1" alt="ドドドドライバー" title="ドドドドライバー" class="none">
+						<img id="card_image_46_1" alt="ドドドドライバー" title="ドドドドライバー" class="none">
 					  
 					</dd>
 				</dl>
@@ -3684,7 +3760,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_46_1" alt="ドドドドロー" title="ドドドドロー" class="none">
+						<img id="card_image_47_1" alt="ドドドドロー" title="ドドドドロー" class="none">
 					  
 					</dd>
 				</dl>
@@ -3752,7 +3828,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_47_1" alt="ドドドドワーフ－GG" title="ドドドドワーフ－GG" class="none">
+						<img id="card_image_48_1" alt="ドドドドワーフ－GG" title="ドドドドワーフ－GG" class="none">
 					  
 					</dd>
 				</dl>
@@ -3820,7 +3896,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_48_1" alt="ドドドバスター" title="ドドドバスター" class="none">
+						<img id="card_image_49_1" alt="ドドドバスター" title="ドドドバスター" class="none">
 					  
 					</dd>
 				</dl>
@@ -3888,11 +3964,82 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_49_1" alt="ドドドボット" title="ドドドボット" class="none">
+						<img id="card_image_50_1" alt="ドドドボット" title="ドドドボット" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=10360">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ナンバーズ９９　きぼうおうホープドラグナー</span>
+						<span class="card_status">
+						<strong>No.99 希望皇ホープドラグナー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank rank">
+							<img class="icon_img" src="external/image/parts/icon_rank.png" alt="ランク" title="ランク">
+							<span>ランク 12</span>
+						</span>
+					  
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							エクシーズ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3000</span>
+						
+						
+							<span class="def_power">守備力 3000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル１２モンスター×３体以上<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手ターンに、このカードのX素材を２つ取り除いて発動できる。「No.1」～「No.100」のいずれかの「No.」モンスター１体をX召喚扱いとしてEXデッキから特殊召喚する。この効果を発動するターン、自分はXモンスターしかEXデッキから特殊召喚できず、このカード以外の自分のモンスターは直接攻撃できない。②：相手モンスターの攻撃宣言時に発動できる。その相手モンスターの攻撃力を０にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_51_1" alt="No.99 希望皇ホープドラグナー" title="No.99 希望皇ホープドラグナー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16471">
 			</li>
 		  
 			<li>
@@ -3959,7 +4106,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_50_1" alt="No.93 希望皇ホープ・カイザー" title="No.93 希望皇ホープ・カイザー" class="none">
+						<img id="card_image_52_1" alt="No.93 希望皇ホープ・カイザー" title="No.93 希望皇ホープ・カイザー" class="none">
 					  
 					</dd>
 				</dl>
@@ -4030,7 +4177,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_51_1" alt="No.55 ゴゴゴゴライアス" title="No.55 ゴゴゴゴライアス" class="none">
+						<img id="card_image_53_1" alt="No.55 ゴゴゴゴライアス" title="No.55 ゴゴゴゴライアス" class="none">
 					  
 					</dd>
 				</dl>
@@ -4101,7 +4248,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_52_1" alt="No.39 希望皇ビヨンド・ザ・ホープ" title="No.39 希望皇ビヨンド・ザ・ホープ" class="none">
+						<img id="card_image_54_1" alt="No.39 希望皇ビヨンド・ザ・ホープ" title="No.39 希望皇ビヨンド・ザ・ホープ" class="none">
 					  
 					</dd>
 				</dl>
@@ -4111,7 +4258,7 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
-						<span>ナンバーズ３９ きぼうおうホープ</span>
+						<span>ナンバーズ３９　きぼうおうホープ</span>
 						<span class="card_status">
 						<strong>No.39 希望皇ホープ</strong>
 						
@@ -4172,7 +4319,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_53_1" alt="No.39 希望皇ホープ" title="No.39 希望皇ホープ" class="none">
+						<img id="card_image_55_1" alt="No.39 希望皇ホープ" title="No.39 希望皇ホープ" class="none">
 					  
 					</dd>
 				</dl>
@@ -4182,7 +4329,7 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
-						<span>ナンバーズ３９ きぼうおうホープ・ダブル</span>
+						<span>ナンバーズ３９　きぼうおうホープ・ダブル</span>
 						<span class="card_status">
 						<strong>No.39 希望皇ホープ・ダブル</strong>
 						
@@ -4243,7 +4390,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_54_1" alt="No.39 希望皇ホープ・ダブル" title="No.39 希望皇ホープ・ダブル" class="none">
+						<img id="card_image_56_1" alt="No.39 希望皇ホープ・ダブル" title="No.39 希望皇ホープ・ダブル" class="none">
 					  
 					</dd>
 				</dl>
@@ -4314,7 +4461,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_55_1" alt="No.39 希望皇ホープ・ルーツ" title="No.39 希望皇ホープ・ルーツ" class="none">
+						<img id="card_image_57_1" alt="No.39 希望皇ホープ・ルーツ" title="No.39 希望皇ホープ・ルーツ" class="none">
 					  
 					</dd>
 				</dl>
@@ -4385,7 +4532,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_56_1" alt="竜装合体 ドラゴニック・ホープレイ" title="竜装合体 ドラゴニック・ホープレイ" class="none">
+						<img id="card_image_58_1" alt="竜装合体 ドラゴニック・ホープレイ" title="竜装合体 ドラゴニック・ホープレイ" class="none">
 					  
 					</dd>
 				</dl>

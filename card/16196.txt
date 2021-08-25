@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="デスピアの大導劇神 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「デスピアの大導劇神」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16196%26request_locale%3Dja%26a%3D202106240923"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16196%26request_locale%3Dja%26a%3D202106240923"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16196%26request_locale%3Dja%26a%3D202108230956"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16196%26request_locale%3Dja%26a%3D202108230956"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,23 +151,35 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16193&ciid=1&enc=HL43lFx-hT9C4hcXGzd1nA').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16543&ciid=1&enc=uedaAy9Bel6zMwcW_2ZDbg').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16223&ciid=1&enc=bt0PGFmm3YmJT5FM1DaoCQ').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16525&ciid=1&enc=V59fCBrHWUN06dHcnRamxQ').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16224&ciid=1&enc=RBd1MToCkIdZ3PcDsQhRIA').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16193&ciid=1&enc=HL43lFx-hT9C4hcXGzd1nA').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16194&ciid=1&enc=dI6TQiAM1YdWhveZ82gTkw').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16497&ciid=1&enc=tvycQob_tx62MzpwQMYTHg').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16243&ciid=1&enc=Pzmcbca5WnQaxuayXcyiZw').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16223&ciid=1&enc=bt0PGFmm3YmJT5FM1DaoCQ').show();
+			
+		
+			
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16224&ciid=1&enc=RBd1MToCkIdZ3PcDsQhRIA').show();
+			
+		
+			
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16194&ciid=1&enc=dI6TQiAM1YdWhveZ82gTkw').show();
+			
+		
+			
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16243&ciid=1&enc=Pzmcbca5WnQaxuayXcyiZw').show();
 			
 		
 
@@ -333,6 +345,8 @@
 	
 					デスピアの大導劇神
 	
+					<span>Dramaturge of Despia</span>
+	
 				</h1>
 			</div>
 		</header>
@@ -456,7 +470,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：融合・S・X・リンクモンスターが特殊召喚された場合、フィールドの効果モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。②：手札・フィールドのこのカードが融合召喚の素材になり、墓地へ送られた場合または除外された場合に発動できる。このカードを特殊召喚する。
-									
+		
 			
 								</div>
 							</td>
@@ -484,14 +498,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16196%26request_locale%3Dja%26a%3D202106240923&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16196%26request_locale%3Dja%26a%3D202108230956&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16196&request_locale=ja&a=202106240923" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16196&request_locale=ja&a=202108230956" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16196&request_locale=ja&a=202106240923"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16196&request_locale=ja&a=202108230956"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -699,7 +713,7 @@
 						<div>
 							<strong>
 
-								検索結果 5件中 1～5件を表示
+								検索結果 8件中 1～8件を表示
 							</strong>
 						</div>
 					</div>
@@ -712,6 +726,125 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>あかのらくいん</span>
+						<span class="card_status">
+						<strong>赫の烙印</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_quickplay.png" alt="速攻" title="速攻">
+							<span>速攻</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地の、「デスピア」モンスターまたは「アルバスの落胤」１体を対象として発動できる。そのモンスターを手札に加える。その後、以下の効果を適用できる。●自分の手札・フィールドから、レベル８以上の融合モンスターカードによって決められた融合素材モンスターを除外し、その融合モンスター１体をEXデッキから融合召喚する。この効果で特殊召喚したモンスターはこのターン直接攻撃できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="赫の烙印" title="赫の烙印" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16543">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>かくしゃくりゅうマスカレイド</span>
+						<span class="card_status">
+						<strong>赫灼竜マスカレイド</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							悪魔族
+						  
+							／
+							融合
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「デスピア」モンスター＋光・闇属性モンスター<br>このカード名の②の効果は１ターンに１度しか使用できない。①：融合召喚したこのカードがモンスターゾーンに存在する限り、相手は６００LPを払わなければ、カードの効果を発動できない。②：このカードが墓地に存在し、相手フィールドに儀式・融合・S・X・リンクモンスターのいずれかが存在する場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。この効果は相手ターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="赫灼竜マスカレイド" title="赫灼竜マスカレイド" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16525">
+			</li>
 		  
 			<li>
 				<dl>
@@ -774,11 +907,79 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="喜劇のデスピアン" title="喜劇のデスピアン" class="none">
+						<img id="card_image_2_1" alt="喜劇のデスピアン" title="喜劇のデスピアン" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16193">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>デスピアのアドリビトゥム</span>
+						<span class="card_status">
+						<strong>デスピアの凶劇</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							天使族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1500</span>
+						
+						
+							<span class="def_power">守備力 2000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。フィールドの全てのモンスターの攻撃力は相手ターン終了時まで、自身のレベル×１００アップする。②：手札・フィールドのこのカードが融合召喚の素材になり、墓地へ送られた場合または除外された場合、自分の墓地のモンスター及び除外されている自分のモンスターの中から、「デスピアの凶劇」以外の「デスピア」モンスターまたはレベル８以上の融合モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="デスピアの凶劇" title="デスピアの凶劇" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16497">
 			</li>
 		  
 			<li>
@@ -845,7 +1046,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="デスピアン・クエリティス" title="デスピアン・クエリティス" class="none">
+						<img id="card_image_4_1" alt="デスピアン・クエリティス" title="デスピアン・クエリティス" class="none">
 					  
 					</dd>
 				</dl>
@@ -916,7 +1117,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="デスピアン・プロスケニオン" title="デスピアン・プロスケニオン" class="none">
+						<img id="card_image_5_1" alt="デスピアン・プロスケニオン" title="デスピアン・プロスケニオン" class="none">
 					  
 					</dd>
 				</dl>
@@ -984,7 +1185,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="悲劇のデスピアン" title="悲劇のデスピアン" class="none">
+						<img id="card_image_6_1" alt="悲劇のデスピアン" title="悲劇のデスピアン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1032,7 +1233,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="烙印開幕" title="烙印開幕" class="none">
+						<img id="card_image_7_1" alt="烙印開幕" title="烙印開幕" class="none">
 					  
 					</dd>
 				</dl>

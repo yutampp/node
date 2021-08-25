@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="アーティファクト－ロンギヌス | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「アーティファクト－ロンギヌス」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11243%26request_locale%3Dja%26a%3D202106241004"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11243%26request_locale%3Dja%26a%3D202106241004"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11243%26request_locale%3Dja%26a%3D202108231037"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11243%26request_locale%3Dja%26a%3D202108231037"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -478,7 +478,7 @@
 										<b>カードテキスト</b>
 									</div>
 									①：このカードは魔法カード扱いとして手札から魔法＆罠ゾーンにセットできる。②：魔法＆罠ゾーンにセットされたこのカードが相手ターンに破壊され墓地へ送られた場合に発動する。このカードを特殊召喚する。③：相手ターンに、手札・フィールドのこのカードをリリースして発動できる。このターン、お互いにカードを除外できない。
-									
+		
 			
 								</div>
 							</td>
@@ -506,14 +506,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11243%26request_locale%3Dja%26a%3D202106241004&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11243%26request_locale%3Dja%26a%3D202108231037&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11243&request_locale=ja&a=202106241004" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11243&request_locale=ja&a=202108231037" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11243&request_locale=ja&a=202106241004"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11243&request_locale=ja&a=202108231037"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -558,6 +558,27 @@
 					<col width="50">
 					<tr>
 						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2021-08-07</td>
+		
+		
+		
+						<td>SR12-JP013</td>
+		
+		
+						<td>
+							<b>ストラクチャーデッキＲ－ロスト・サンクチュアリ－</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=1000000879000&rp=99999">
+						</td>
+						<td>
+		
+							<img src="external/image/parts/rarity/icon_p.png" class="icon_info rid_9" alt="パラレル仕様" style="margin-right: 7px;">
+		
+		
+						</td>
 					</tr>
 	
 					<tr class="row">

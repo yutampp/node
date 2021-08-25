@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ラプターズ・アルティメット・メイス | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ラプターズ・アルティメット・メイス」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11999%26request_locale%3Dja%26a%3D202106240957"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11999%26request_locale%3Dja%26a%3D202106240957"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11999%26request_locale%3Dja%26a%3D202108231030"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11999%26request_locale%3Dja%26a%3D202108231030"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -151,231 +151,235 @@
 		
 		
 			
-				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10945&ciid=1&enc=18Zual2VuM1Q5Ln1F1d0KA').show();
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16473&ciid=1&enc=0V7sPV3bw0BfjuKU6HlH5A').show();
 			
 		
 			
-				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11188&ciid=1&enc=yPhaFcZkyZlbb0eySE28gg').show();
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10945&ciid=1&enc=18Zual2VuM1Q5Ln1F1d0KA').show();
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11022&ciid=1&enc=SZo8hB2xnkDpS2p4VxTgLg').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11188&ciid=1&enc=yPhaFcZkyZlbb0eySE28gg').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11186&ciid=1&enc=WGexPCLHP6GB28ymi-HMAA').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11022&ciid=1&enc=SZo8hB2xnkDpS2p4VxTgLg').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12791&ciid=1&enc=Y5KyIoerMqf0Ab7CcHXOcA').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11186&ciid=1&enc=WGexPCLHP6GB28ymi-HMAA').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11087&ciid=1&enc=H2PmyaF3f2OCn-vddb1Rrw').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12791&ciid=1&enc=Y5KyIoerMqf0Ab7CcHXOcA').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12330&ciid=1&enc=bvwlK0z8UkmSnjCSDA1X2w').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11087&ciid=1&enc=H2PmyaF3f2OCn-vddb1Rrw').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16011&ciid=1&enc=gIEzDlOcGaSdU-6Ow0JlBg').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12330&ciid=1&enc=bvwlK0z8UkmSnjCSDA1X2w').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12214&ciid=1&enc=kSHLzIcfg3p5wt4CA-htQw').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16011&ciid=1&enc=gIEzDlOcGaSdU-6Ow0JlBg').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12213&ciid=1&enc=TaxFAbJNvihBrFezxcg2eA').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12214&ciid=1&enc=kSHLzIcfg3p5wt4CA-htQw').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10662&ciid=1&enc=Llw7YDGmlv3n7XaL-xq2kQ').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12213&ciid=1&enc=TaxFAbJNvihBrFezxcg2eA').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10541&ciid=1&enc=_foB4BRJzpA7ss6HCgrMfg').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10662&ciid=1&enc=Llw7YDGmlv3n7XaL-xq2kQ').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12644&ciid=1&enc=AUns1W4Dz2DRH3lkHoRbqA').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10541&ciid=1&enc=_foB4BRJzpA7ss6HCgrMfg').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15530&ciid=1&enc=X8dOuO_YUsnXKgl0EoU8mQ').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12644&ciid=1&enc=AUns1W4Dz2DRH3lkHoRbqA').show();
 			
 		
 			
-				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11841&ciid=1&enc=YzqKmh0KZpgWZRd1nOIUGg').show();
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15530&ciid=1&enc=X8dOuO_YUsnXKgl0EoU8mQ').show();
 			
 		
 			
-				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10570&ciid=1&enc=yTbFRoz2EMyzdO3ij3r5mg').show();
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11841&ciid=1&enc=YzqKmh0KZpgWZRd1nOIUGg').show();
 			
 		
 			
-				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11998&ciid=1&enc=TWQFswmpEkUHaJKMGfOayw').show();
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=10570&ciid=1&enc=yTbFRoz2EMyzdO3ij3r5mg').show();
 			
 		
 			
-				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11732&ciid=1&enc=ojW0dPHlJYaVcs2OwXabOA').show();
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11998&ciid=1&enc=TWQFswmpEkUHaJKMGfOayw').show();
 			
 		
 			
-				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15547&ciid=1&enc=plSvjarlNQi15M0hcl-IOw').show();
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11732&ciid=1&enc=ojW0dPHlJYaVcs2OwXabOA').show();
 			
 		
 			
-				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15480&ciid=1&enc=GkJIcESMlB_AOAXdHkhp-A').show();
+				$('#card_image_19_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15547&ciid=1&enc=plSvjarlNQi15M0hcl-IOw').show();
 			
 		
 			
-				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15519&ciid=1&enc=ZRoBJLT_A96gMvHepGy-BA').show();
+				$('#card_image_20_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15480&ciid=1&enc=GkJIcESMlB_AOAXdHkhp-A').show();
 			
 		
 			
-				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12286&ciid=1&enc=xNzKcTYLSXJrjCnDKCo9lQ').show();
+				$('#card_image_21_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15519&ciid=1&enc=ZRoBJLT_A96gMvHepGy-BA').show();
 			
 		
 			
-				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12325&ciid=1&enc=A197seVmfyfKb1bZnW9WEw').show();
+				$('#card_image_22_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12286&ciid=1&enc=xNzKcTYLSXJrjCnDKCo9lQ').show();
 			
 		
 			
-				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12868&ciid=1&enc=uZ3hFOC3frfjzmAoK7ii7A').show();
+				$('#card_image_23_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12325&ciid=1&enc=A197seVmfyfKb1bZnW9WEw').show();
 			
 		
 			
-				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11691&ciid=1&enc=aOf2GgaqxCuEuGgGl4BYYA').show();
+				$('#card_image_24_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12868&ciid=1&enc=uZ3hFOC3frfjzmAoK7ii7A').show();
 			
 		
 			
-				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12958&ciid=1&enc=m34SDLoIQvQyRTA1SZjMJg').show();
+				$('#card_image_25_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11691&ciid=1&enc=aOf2GgaqxCuEuGgGl4BYYA').show();
 			
 		
 			
-				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12212&ciid=1&enc=uRDjUJd_0Eq4fEb_9aJGyQ').show();
+				$('#card_image_26_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12958&ciid=1&enc=m34SDLoIQvQyRTA1SZjMJg').show();
 			
 		
 			
-				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12211&ciid=1&enc=ppHXy9suzbjG7T66-4f7VA').show();
+				$('#card_image_27_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12212&ciid=1&enc=uRDjUJd_0Eq4fEb_9aJGyQ').show();
 			
 		
 			
-				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11798&ciid=1&enc=XdBAPyyN4BBY0gBCof88Vg').show();
+				$('#card_image_28_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12211&ciid=1&enc=ppHXy9suzbjG7T66-4f7VA').show();
 			
 		
 			
-				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11958&ciid=1&enc=aF0GOeIH8fXVYBmNTHwHhw').show();
+				$('#card_image_29_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11798&ciid=1&enc=XdBAPyyN4BBY0gBCof88Vg').show();
 			
 		
 			
-				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15484&ciid=1&enc=dWt-xiCNH0qt-4KPr-5zFw').show();
+				$('#card_image_30_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11958&ciid=1&enc=aF0GOeIH8fXVYBmNTHwHhw').show();
 			
 		
 			
-				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11995&ciid=1&enc=6eMnYuR9YyGXfXmJxeeCmQ').show();
+				$('#card_image_31_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15484&ciid=1&enc=dWt-xiCNH0qt-4KPr-5zFw').show();
 			
 		
 			
-				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11767&ciid=1&enc=iKVfykFsBvuhahLM7rG7LQ').show();
+				$('#card_image_32_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11995&ciid=1&enc=6eMnYuR9YyGXfXmJxeeCmQ').show();
 			
 		
 			
-				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12532&ciid=1&enc=5RqUJAkSHw3fyPWC2LXh7Q').show();
+				$('#card_image_33_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11767&ciid=1&enc=iKVfykFsBvuhahLM7rG7LQ').show();
 			
 		
 			
-				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12209&ciid=1&enc=k6wizsLvjrxUQ3DNl7GtbQ').show();
+				$('#card_image_34_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12532&ciid=1&enc=5RqUJAkSHw3fyPWC2LXh7Q').show();
 			
 		
 			
-				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11574&ciid=1&enc=It9zp-2pIvX8_SbqHAYVBA').show();
+				$('#card_image_35_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12209&ciid=1&enc=k6wizsLvjrxUQ3DNl7GtbQ').show();
 			
 		
 			
-				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11531&ciid=1&enc=7VGxKVwQBx6l6tEA9nz_4Q').show();
+				$('#card_image_36_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11574&ciid=1&enc=It9zp-2pIvX8_SbqHAYVBA').show();
 			
 		
 			
-				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15483&ciid=1&enc=XElhd8qrriXSCQASmulH6g').show();
+				$('#card_image_37_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11531&ciid=1&enc=7VGxKVwQBx6l6tEA9nz_4Q').show();
 			
 		
 			
-				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13140&ciid=1&enc=1iB0zD0KX--8mXZ7jtYg4w').show();
+				$('#card_image_38_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15483&ciid=1&enc=XElhd8qrriXSCQASmulH6g').show();
 			
 		
 			
-				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11797&ciid=1&enc=PiU2Ca6cMTaqgZcjZfe3wA').show();
+				$('#card_image_39_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13140&ciid=1&enc=1iB0zD0KX--8mXZ7jtYg4w').show();
 			
 		
 			
-				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15548&ciid=1&enc=M8yxx8zPnskM6cs042Rc8g').show();
+				$('#card_image_40_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11797&ciid=1&enc=PiU2Ca6cMTaqgZcjZfe3wA').show();
 			
 		
 			
-				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11619&ciid=1&enc=8ESxsr9yztIszmUTYEpe0w').show();
+				$('#card_image_41_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15548&ciid=1&enc=M8yxx8zPnskM6cs042Rc8g').show();
 			
 		
 			
-				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11723&ciid=1&enc=HDPIyZoqhYDWgAYh2HMP1g').show();
+				$('#card_image_42_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11619&ciid=1&enc=8ESxsr9yztIszmUTYEpe0w').show();
 			
 		
 			
-				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12533&ciid=1&enc=IeBPuDw8gGeca8VbMeRsKA').show();
+				$('#card_image_43_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11723&ciid=1&enc=HDPIyZoqhYDWgAYh2HMP1g').show();
 			
 		
 			
-				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12288&ciid=1&enc=8tKwr2fiK0qO1jN4qearQA').show();
+				$('#card_image_44_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12533&ciid=1&enc=IeBPuDw8gGeca8VbMeRsKA').show();
 			
 		
 			
-				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12287&ciid=1&enc=89snCqUPCJFxwzzBpYjW_g').show();
+				$('#card_image_45_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12288&ciid=1&enc=8tKwr2fiK0qO1jN4qearQA').show();
 			
 		
 			
-				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11692&ciid=1&enc=arYfe_Aj9FZLHmgF-f3Mxg').show();
+				$('#card_image_46_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12287&ciid=1&enc=89snCqUPCJFxwzzBpYjW_g').show();
 			
 		
 			
-				$('#card_image_47_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11570&ciid=1&enc=eIpvbiMJeOrERBjwgSWDmQ').show();
+				$('#card_image_47_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11692&ciid=1&enc=arYfe_Aj9FZLHmgF-f3Mxg').show();
 			
 		
 			
-				$('#card_image_48_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12210&ciid=1&enc=RmWcgviVRQe2zoOlJCv4mQ').show();
+				$('#card_image_48_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11570&ciid=1&enc=eIpvbiMJeOrERBjwgSWDmQ').show();
 			
 		
 			
-				$('#card_image_49_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13139&ciid=1&enc=AtSM2W3J_K3K6hLcZEQqKw').show();
+				$('#card_image_49_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12210&ciid=1&enc=RmWcgviVRQe2zoOlJCv4mQ').show();
 			
 		
 			
-				$('#card_image_50_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11853&ciid=1&enc=XrkWOOtAeHrTG1lCkQqC_A').show();
+				$('#card_image_50_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13139&ciid=1&enc=AtSM2W3J_K3K6hLcZEQqKw').show();
 			
 		
 			
-				$('#card_image_51_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11724&ciid=1&enc=dn6_YbI2boUZy0mUblkiOw').show();
+				$('#card_image_51_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11853&ciid=1&enc=XrkWOOtAeHrTG1lCkQqC_A').show();
 			
 		
 			
-				$('#card_image_52_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13018&ciid=1&enc=SpGtQPq1lSOV9-cjVIjTxQ').show();
+				$('#card_image_52_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11724&ciid=1&enc=dn6_YbI2boUZy0mUblkiOw').show();
 			
 		
 			
-				$('#card_image_53_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11590&ciid=1&enc=yvdL7ygmA_cvEN1AoXbgzA').show();
+				$('#card_image_53_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13018&ciid=1&enc=SpGtQPq1lSOV9-cjVIjTxQ').show();
 			
 		
 			
-				$('#card_image_54_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12887&ciid=1&enc=Ze0O3MgJoaW-Am8tWeU2-w').show();
+				$('#card_image_54_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11590&ciid=1&enc=yvdL7ygmA_cvEN1AoXbgzA').show();
 			
 		
 			
-				$('#card_image_55_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14205&ciid=1&enc=C_0ZmuqcU7wLvm9EC3LRaQ').show();
+				$('#card_image_55_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12887&ciid=1&enc=Ze0O3MgJoaW-Am8tWeU2-w').show();
 			
 		
 			
-				$('#card_image_56_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11957&ciid=1&enc=dfVOmqAKVig8h0L-FaHqjQ').show();
+				$('#card_image_56_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14205&ciid=1&enc=C_0ZmuqcU7wLvm9EC3LRaQ').show();
+			
+		
+			
+				$('#card_image_57_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11957&ciid=1&enc=dfVOmqAKVig8h0L-FaHqjQ').show();
 			
 		
 
@@ -595,7 +599,7 @@
 										<b>カードテキスト</b>
 									</div>
 									「RR」モンスターにのみ装備可能。①：装備モンスターの攻撃力は１０００アップする。②：装備モンスターが、装備モンスターより攻撃力が高いモンスターの攻撃対象に選択された時に発動できる。デッキから「RUM」魔法カード１枚を手札に加え、その戦闘で発生する自分への戦闘ダメージは０になる。
-									
+		
 		
 								</div>
 							</td>
@@ -622,14 +626,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11999%26request_locale%3Dja%26a%3D202106240957&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D11999%26request_locale%3Dja%26a%3D202108231030&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11999&request_locale=ja&a=202106240957" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11999&request_locale=ja&a=202108231030" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11999&request_locale=ja&a=202106240957"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11999&request_locale=ja&a=202108231030"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -753,7 +757,7 @@
 						<div>
 							<strong>
 
-								検索結果 57件中 1～57件を表示
+								検索結果 58件中 1～58件を表示
 							</strong>
 						</div>
 					</div>
@@ -766,6 +770,49 @@
 
 
 		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ハイパーランクアップマジック－ユートピア・フォース</span>
+						<span class="card_status">
+						<strong>HRUM－ユートピア・フォース</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのランク９以下の「希望皇ホープ」Xモンスター１体を対象として発動できる。ランク１０以上の「ホープ」Xモンスター１体を、対象の自分のXモンスターの上に重ねてX召喚扱いとしてEXデッキから特殊召喚する。②：このカードが墓地に存在し、ランク１０以上の「ホープ」Xモンスターの効果でXモンスターが特殊召喚された場合、その特殊召喚されたモンスター１体を対象として発動できる。このカードをそのモンスターの下に重ねてX素材とする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="HRUM－ユートピア・フォース" title="HRUM－ユートピア・フォース" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16473">
+			</li>
 		  
 			<li>
 				<dl>
@@ -803,7 +850,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_0_1" alt="RUM－アストラル・フォース" title="RUM－アストラル・フォース" class="none">
+						<img id="card_image_1_1" alt="RUM－アストラル・フォース" title="RUM－アストラル・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -846,7 +893,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_1_1" alt="RUM－千死蛮巧" title="RUM－千死蛮巧" class="none">
+						<img id="card_image_2_1" alt="RUM－千死蛮巧" title="RUM－千死蛮巧" class="none">
 					  
 					</dd>
 				</dl>
@@ -889,7 +936,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="RUM－アージェント・カオス・フォース" title="RUM－アージェント・カオス・フォース" class="none">
+						<img id="card_image_3_1" alt="RUM－アージェント・カオス・フォース" title="RUM－アージェント・カオス・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -937,7 +984,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="RUM－クイック・カオス" title="RUM－クイック・カオス" class="none">
+						<img id="card_image_4_1" alt="RUM－クイック・カオス" title="RUM－クイック・カオス" class="none">
 					  
 					</dd>
 				</dl>
@@ -985,7 +1032,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="RUM－光波昇華" title="RUM－光波昇華" class="none">
+						<img id="card_image_5_1" alt="RUM－光波昇華" title="RUM－光波昇華" class="none">
 					  
 					</dd>
 				</dl>
@@ -1028,7 +1075,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="RUM－七皇の剣" title="RUM－七皇の剣" class="none">
+						<img id="card_image_6_1" alt="RUM－七皇の剣" title="RUM－七皇の剣" class="none">
 					  
 					</dd>
 				</dl>
@@ -1071,7 +1118,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="RUM－スキップ・フォース" title="RUM－スキップ・フォース" class="none">
+						<img id="card_image_7_1" alt="RUM－スキップ・フォース" title="RUM－スキップ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1114,7 +1161,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="RUM－ゼアル・フォース" title="RUM－ゼアル・フォース" class="none">
+						<img id="card_image_8_1" alt="RUM－ゼアル・フォース" title="RUM－ゼアル・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1157,7 +1204,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="RUM－ソウル・シェイブ・フォース" title="RUM－ソウル・シェイブ・フォース" class="none">
+						<img id="card_image_9_1" alt="RUM－ソウル・シェイブ・フォース" title="RUM－ソウル・シェイブ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1205,7 +1252,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="RUM－デス・ダブル・フォース" title="RUM－デス・ダブル・フォース" class="none">
+						<img id="card_image_10_1" alt="RUM－デス・ダブル・フォース" title="RUM－デス・ダブル・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1248,7 +1295,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="RUM－ヌメロン・フォース" title="RUM－ヌメロン・フォース" class="none">
+						<img id="card_image_11_1" alt="RUM－ヌメロン・フォース" title="RUM－ヌメロン・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1291,7 +1338,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="RUM－バリアンズ・フォース" title="RUM－バリアンズ・フォース" class="none">
+						<img id="card_image_12_1" alt="RUM－バリアンズ・フォース" title="RUM－バリアンズ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1339,7 +1386,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="RUM－幻影騎士団ラウンチ" title="RUM－幻影騎士団ラウンチ" class="none">
+						<img id="card_image_13_1" alt="RUM－幻影騎士団ラウンチ" title="RUM－幻影騎士団ラウンチ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1387,7 +1434,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="RUM－ファントム・フォース" title="RUM－ファントム・フォース" class="none">
+						<img id="card_image_14_1" alt="RUM－ファントム・フォース" title="RUM－ファントム・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1435,7 +1482,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_14_1" alt="RUM－ラプターズ・フォース" title="RUM－ラプターズ・フォース" class="none">
+						<img id="card_image_15_1" alt="RUM－ラプターズ・フォース" title="RUM－ラプターズ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1478,7 +1525,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_15_1" alt="RUM－リミテッド・バリアンズ・フォース" title="RUM－リミテッド・バリアンズ・フォース" class="none">
+						<img id="card_image_16_1" alt="RUM－リミテッド・バリアンズ・フォース" title="RUM－リミテッド・バリアンズ・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1521,7 +1568,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_16_1" alt="RUM－レイド・フォース" title="RUM－レイド・フォース" class="none">
+						<img id="card_image_17_1" alt="RUM－レイド・フォース" title="RUM－レイド・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1569,7 +1616,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_17_1" alt="RUM－レヴォリューション・フォース" title="RUM－レヴォリューション・フォース" class="none">
+						<img id="card_image_18_1" alt="RUM－レヴォリューション・フォース" title="RUM－レヴォリューション・フォース" class="none">
 					  
 					</dd>
 				</dl>
@@ -1617,7 +1664,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_18_1" alt="レイダーズ・アンブレイカブル・マインド" title="レイダーズ・アンブレイカブル・マインド" class="none">
+						<img id="card_image_19_1" alt="レイダーズ・アンブレイカブル・マインド" title="レイダーズ・アンブレイカブル・マインド" class="none">
 					  
 					</dd>
 				</dl>
@@ -1685,7 +1732,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_19_1" alt="レイダーズ・ウィング" title="レイダーズ・ウィング" class="none">
+						<img id="card_image_20_1" alt="レイダーズ・ウィング" title="レイダーズ・ウィング" class="none">
 					  
 					</dd>
 				</dl>
@@ -1756,7 +1803,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_20_1" alt="レイダーズ・ナイト" title="レイダーズ・ナイト" class="none">
+						<img id="card_image_21_1" alt="レイダーズ・ナイト" title="レイダーズ・ナイト" class="none">
 					  
 					</dd>
 				</dl>
@@ -1824,7 +1871,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_21_1" alt="RR－アベンジ・ヴァルチャー" title="RR－アベンジ・ヴァルチャー" class="none">
+						<img id="card_image_22_1" alt="RR－アベンジ・ヴァルチャー" title="RR－アベンジ・ヴァルチャー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1895,7 +1942,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_22_1" alt="RR－アルティメット・ファルコン" title="RR－アルティメット・ファルコン" class="none">
+						<img id="card_image_23_1" alt="RR－アルティメット・ファルコン" title="RR－アルティメット・ファルコン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1966,7 +2013,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_23_1" alt="RR－アーセナル・ファルコン" title="RR－アーセナル・ファルコン" class="none">
+						<img id="card_image_24_1" alt="RR－アーセナル・ファルコン" title="RR－アーセナル・ファルコン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2034,7 +2081,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_24_1" alt="RR－インペイル・レイニアス" title="RR－インペイル・レイニアス" class="none">
+						<img id="card_image_25_1" alt="RR－インペイル・レイニアス" title="RR－インペイル・レイニアス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2105,7 +2152,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_25_1" alt="RR－エトランゼ・ファルコン" title="RR－エトランゼ・ファルコン" class="none">
+						<img id="card_image_26_1" alt="RR－エトランゼ・ファルコン" title="RR－エトランゼ・ファルコン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2148,7 +2195,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_26_1" alt="RR－コール" title="RR－コール" class="none">
+						<img id="card_image_27_1" alt="RR－コール" title="RR－コール" class="none">
 					  
 					</dd>
 				</dl>
@@ -2219,7 +2266,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_27_1" alt="RR－サテライト・キャノン・ファルコン" title="RR－サテライト・キャノン・ファルコン" class="none">
+						<img id="card_image_28_1" alt="RR－サテライト・キャノン・ファルコン" title="RR－サテライト・キャノン・ファルコン" class="none">
 					  
 					</dd>
 				</dl>
@@ -2287,7 +2334,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_28_1" alt="RR－シンギング・レイニアス" title="RR－シンギング・レイニアス" class="none">
+						<img id="card_image_29_1" alt="RR－シンギング・レイニアス" title="RR－シンギング・レイニアス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2355,7 +2402,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_29_1" alt="RR－スカル・イーグル" title="RR－スカル・イーグル" class="none">
+						<img id="card_image_30_1" alt="RR－スカル・イーグル" title="RR－スカル・イーグル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2423,7 +2470,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_30_1" alt="RR－ストラングル・レイニアス" title="RR－ストラングル・レイニアス" class="none">
+						<img id="card_image_31_1" alt="RR－ストラングル・レイニアス" title="RR－ストラングル・レイニアス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2494,7 +2541,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_31_1" alt="RR－デビル・イーグル" title="RR－デビル・イーグル" class="none">
+						<img id="card_image_32_1" alt="RR－デビル・イーグル" title="RR－デビル・イーグル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2562,7 +2609,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_32_1" alt="RR－トリビュート・レイニアス" title="RR－トリビュート・レイニアス" class="none">
+						<img id="card_image_33_1" alt="RR－トリビュート・レイニアス" title="RR－トリビュート・レイニアス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2630,7 +2677,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_33_1" alt="RR－ナパーム・ドラゴニアス" title="RR－ナパーム・ドラゴニアス" class="none">
+						<img id="card_image_34_1" alt="RR－ナパーム・ドラゴニアス" title="RR－ナパーム・ドラゴニアス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2698,7 +2745,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_34_1" alt="RR－ネクロ・ヴァルチャー" title="RR－ネクロ・ヴァルチャー" class="none">
+						<img id="card_image_35_1" alt="RR－ネクロ・ヴァルチャー" title="RR－ネクロ・ヴァルチャー" class="none">
 					  
 					</dd>
 				</dl>
@@ -2746,7 +2793,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_35_1" alt="RR－ネスト" title="RR－ネスト" class="none">
+						<img id="card_image_36_1" alt="RR－ネスト" title="RR－ネスト" class="none">
 					  
 					</dd>
 				</dl>
@@ -2814,7 +2861,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_36_1" alt="RR－バニシング・レイニアス" title="RR－バニシング・レイニアス" class="none">
+						<img id="card_image_37_1" alt="RR－バニシング・レイニアス" title="RR－バニシング・レイニアス" class="none">
 					  
 					</dd>
 				</dl>
@@ -2882,7 +2929,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_37_1" alt="RR－ヒール・イーグル" title="RR－ヒール・イーグル" class="none">
+						<img id="card_image_38_1" alt="RR－ヒール・イーグル" title="RR－ヒール・イーグル" class="none">
 					  
 					</dd>
 				</dl>
@@ -2953,7 +3000,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_38_1" alt="RR－ファイナル・フォートレス・ファルコン" title="RR－ファイナル・フォートレス・ファルコン" class="none">
+						<img id="card_image_39_1" alt="RR－ファイナル・フォートレス・ファルコン" title="RR－ファイナル・フォートレス・ファルコン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3021,7 +3068,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_39_1" alt="RR－ファジー・レイニアス" title="RR－ファジー・レイニアス" class="none">
+						<img id="card_image_40_1" alt="RR－ファジー・レイニアス" title="RR－ファジー・レイニアス" class="none">
 					  
 					</dd>
 				</dl>
@@ -3069,7 +3116,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_40_1" alt="RR－ファントム・クロー" title="RR－ファントム・クロー" class="none">
+						<img id="card_image_41_1" alt="RR－ファントム・クロー" title="RR－ファントム・クロー" class="none">
 					  
 					</dd>
 				</dl>
@@ -3140,7 +3187,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_41_1" alt="RR－フォース・ストリクス" title="RR－フォース・ストリクス" class="none">
+						<img id="card_image_42_1" alt="RR－フォース・ストリクス" title="RR－フォース・ストリクス" class="none">
 					  
 					</dd>
 				</dl>
@@ -3211,7 +3258,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_42_1" alt="RR－ブレイズ・ファルコン" title="RR－ブレイズ・ファルコン" class="none">
+						<img id="card_image_43_1" alt="RR－ブレイズ・ファルコン" title="RR－ブレイズ・ファルコン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3282,7 +3329,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_43_1" alt="RR－ブレード・バーナー・ファルコン" title="RR－ブレード・バーナー・ファルコン" class="none">
+						<img id="card_image_44_1" alt="RR－ブレード・バーナー・ファルコン" title="RR－ブレード・バーナー・ファルコン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3350,7 +3397,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_44_1" alt="RR－ブースター・ストリクス" title="RR－ブースター・ストリクス" class="none">
+						<img id="card_image_45_1" alt="RR－ブースター・ストリクス" title="RR－ブースター・ストリクス" class="none">
 					  
 					</dd>
 				</dl>
@@ -3418,7 +3465,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_45_1" alt="RR－ペイン・レイニアス" title="RR－ペイン・レイニアス" class="none">
+						<img id="card_image_46_1" alt="RR－ペイン・レイニアス" title="RR－ペイン・レイニアス" class="none">
 					  
 					</dd>
 				</dl>
@@ -3486,7 +3533,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_46_1" alt="RR－ミミクリー・レイニアス" title="RR－ミミクリー・レイニアス" class="none">
+						<img id="card_image_47_1" alt="RR－ミミクリー・レイニアス" title="RR－ミミクリー・レイニアス" class="none">
 					  
 					</dd>
 				</dl>
@@ -3557,7 +3604,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_47_1" alt="RR－ライズ・ファルコン" title="RR－ライズ・ファルコン" class="none">
+						<img id="card_image_48_1" alt="RR－ライズ・ファルコン" title="RR－ライズ・ファルコン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3625,7 +3672,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_48_1" alt="RR－ラスト・ストリクス" title="RR－ラスト・ストリクス" class="none">
+						<img id="card_image_49_1" alt="RR－ラスト・ストリクス" title="RR－ラスト・ストリクス" class="none">
 					  
 					</dd>
 				</dl>
@@ -3693,7 +3740,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_49_1" alt="RR－ラダー・ストリクス" title="RR－ラダー・ストリクス" class="none">
+						<img id="card_image_50_1" alt="RR－ラダー・ストリクス" title="RR－ラダー・ストリクス" class="none">
 					  
 					</dd>
 				</dl>
@@ -3736,7 +3783,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_50_1" alt="RR－リターン" title="RR－リターン" class="none">
+						<img id="card_image_51_1" alt="RR－リターン" title="RR－リターン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3807,7 +3854,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_51_1" alt="RR－レヴォリューション・ファルコン" title="RR－レヴォリューション・ファルコン" class="none">
+						<img id="card_image_52_1" alt="RR－レヴォリューション・ファルコン" title="RR－レヴォリューション・ファルコン" class="none">
 					  
 					</dd>
 				</dl>
@@ -3878,7 +3925,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_52_1" alt="RR－レヴォリューション・ファルコン－エアレイド" title="RR－レヴォリューション・ファルコン－エアレイド" class="none">
+						<img id="card_image_53_1" alt="RR－レヴォリューション・ファルコン－エアレイド" title="RR－レヴォリューション・ファルコン－エアレイド" class="none">
 					  
 					</dd>
 				</dl>
@@ -3921,7 +3968,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_53_1" alt="RR－レディネス" title="RR－レディネス" class="none">
+						<img id="card_image_54_1" alt="RR－レディネス" title="RR－レディネス" class="none">
 					  
 					</dd>
 				</dl>
@@ -3964,7 +4011,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_54_1" alt="R・R・R" title="R・R・R" class="none">
+						<img id="card_image_55_1" alt="R・R・R" title="R・R・R" class="none">
 					  
 					</dd>
 				</dl>
@@ -4032,7 +4079,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_55_1" alt="RR－ワイズ・ストリクス" title="RR－ワイズ・ストリクス" class="none">
+						<img id="card_image_56_1" alt="RR－ワイズ・ストリクス" title="RR－ワイズ・ストリクス" class="none">
 					  
 					</dd>
 				</dl>
@@ -4100,7 +4147,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_56_1" alt="RR－ワイルド・ヴァルチャー" title="RR－ワイルド・ヴァルチャー" class="none">
+						<img id="card_image_57_1" alt="RR－ワイルド・ヴァルチャー" title="RR－ワイルド・ヴァルチャー" class="none">
 					  
 					</dd>
 				</dl>

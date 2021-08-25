@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="Evil★Twins キスキル・リィラ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「Evil★Twins キスキル・リィラ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15628%26request_locale%3Dja%26a%3D202106241144"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15628%26request_locale%3Dja%26a%3D202106241144"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15628%26request_locale%3Dja%26a%3D202108231218"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15628%26request_locale%3Dja%26a%3D202108231218"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -159,47 +159,51 @@
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15632&ciid=1&enc=kvVK2nfnxH6D0jxdY46JbA').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16537&ciid=1&enc=r2op7tP_0FsvOTUPtfNYww').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15634&ciid=1&enc=3WfHM7KKS-w7BMHwQ5FGxA').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15632&ciid=1&enc=kvVK2nfnxH6D0jxdY46JbA').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15627&ciid=1&enc=tchRm9i3uK-0v8chFs4dhQ').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15634&ciid=1&enc=3WfHM7KKS-w7BMHwQ5FGxA').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15631&ciid=1&enc=_KIs30XsR5Vnw2ZKrihlSQ').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15627&ciid=1&enc=tchRm9i3uK-0v8chFs4dhQ').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15629&ciid=1&enc=HC5V5FSAChN3lT50e31qdQ').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15631&ciid=1&enc=_KIs30XsR5Vnw2ZKrihlSQ').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15624&ciid=1&enc=_j0zGHWO2lIiaI2Q1AH-dg').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15629&ciid=1&enc=HC5V5FSAChN3lT50e31qdQ').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15978&ciid=1&enc=lmKrGP5RGUa-98zBvmLgJw').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15624&ciid=1&enc=_j0zGHWO2lIiaI2Q1AH-dg').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15630&ciid=1&enc=1DxfoAYt6MXtKcBF-OMSVg').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15978&ciid=1&enc=lmKrGP5RGUa-98zBvmLgJw').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16251&ciid=1&enc=LFt4EnLa_yIifrnrBDWrAA').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15630&ciid=1&enc=1DxfoAYt6MXtKcBF-OMSVg').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15625&ciid=1&enc=Hg88JyXf37aODK8bpCCZsg').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16251&ciid=1&enc=LFt4EnLa_yIifrnrBDWrAA').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15719&ciid=1&enc=brniDOSZuB4fdmwd7tl8Tg').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15625&ciid=1&enc=Hg88JyXf37aODK8bpCCZsg').show();
+			
+		
+			
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15719&ciid=1&enc=brniDOSZuB4fdmwd7tl8Tg').show();
 			
 		
 
@@ -495,7 +499,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカードは通常召喚できない。自分フィールドのリンクモンスター２体をリリースした場合のみ手札・墓地から特殊召喚できる。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。相手は自身のフィールドのカードが３枚以上の場合には２枚になるように墓地へ送らなければならない。②：自分の墓地に「キスキル」モンスター及び「リィラ」モンスターが存在する限り、このカードの攻撃力・守備力は２２００アップする。
-									
+		
 			
 								</div>
 							</td>
@@ -523,14 +527,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15628%26request_locale%3Dja%26a%3D202106241144&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15628%26request_locale%3Dja%26a%3D202108231218&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15628&request_locale=ja&a=202106241144" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15628&request_locale=ja&a=202108231218" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15628&request_locale=ja&a=202106241144"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15628&request_locale=ja&a=202108231218"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -675,7 +679,7 @@
 						<div>
 							<strong>
 
-								検索結果 13件中 1～13件を表示
+								検索結果 14件中 1～14件を表示
 							</strong>
 						</div>
 					</div>
@@ -808,6 +812,74 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>イビルツインズ　トラブル・サニー</span>
+						<span class="card_status">
+						<strong>Evil★Twin&rsquo;s トラブル・サニー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+						<span class="box_card_linkmarker">
+							<img class="icon_img" src="external/image/parts/link_pc/link8462.png" alt="リンク" title="リンク">
+							<span>リンク 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							悪魔族
+						  
+							／
+							リンク
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 3300</span>
+						
+							<span class="def_power">守備力 - </span>
+						
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						「イビルツイン」モンスターを含むモンスター２体以上<br>このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードをリリースして発動できる。自分の墓地から「キスキル」モンスターと「リィラ」モンスターをそれぞれ１体まで選んで特殊召喚する。この効果は相手ターンでも発動できる。②：墓地のこのカードを除外し、手札・デッキ及び自分フィールドの表側表示モンスターの中から、「イビルツイン」モンスター１体を墓地へ送って発動できる。フィールドのカード１枚を選んで墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="Evil★Twin&rsquo;s トラブル・サニー" title="Evil★Twin&rsquo;s トラブル・サニー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16537">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>イビルツイン　チャレンジ</span>
 						<span class="card_status">
 						<strong>Evil★Twin チャレンジ</strong>
@@ -841,7 +913,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="Evil★Twin チャレンジ" title="Evil★Twin チャレンジ" class="none">
+						<img id="card_image_3_1" alt="Evil★Twin チャレンジ" title="Evil★Twin チャレンジ" class="none">
 					  
 					</dd>
 				</dl>
@@ -884,7 +956,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="Evil★Twin プレゼント" title="Evil★Twin プレゼント" class="none">
+						<img id="card_image_4_1" alt="Evil★Twin プレゼント" title="Evil★Twin プレゼント" class="none">
 					  
 					</dd>
 				</dl>
@@ -952,7 +1024,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="Evil★Twin リィラ" title="Evil★Twin リィラ" class="none">
+						<img id="card_image_5_1" alt="Evil★Twin リィラ" title="Evil★Twin リィラ" class="none">
 					  
 					</dd>
 				</dl>
@@ -995,7 +1067,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="シークレット・パスフレーズ" title="シークレット・パスフレーズ" class="none">
+						<img id="card_image_6_1" alt="シークレット・パスフレーズ" title="シークレット・パスフレーズ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1043,7 +1115,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="Live☆Twin エントランス" title="Live☆Twin エントランス" class="none">
+						<img id="card_image_7_1" alt="Live☆Twin エントランス" title="Live☆Twin エントランス" class="none">
 					  
 					</dd>
 				</dl>
@@ -1111,7 +1183,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="Live☆Twin キスキル" title="Live☆Twin キスキル" class="none">
+						<img id="card_image_8_1" alt="Live☆Twin キスキル" title="Live☆Twin キスキル" class="none">
 					  
 					</dd>
 				</dl>
@@ -1179,7 +1251,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="Live☆Twin キスキル・フロスト" title="Live☆Twin キスキル・フロスト" class="none">
+						<img id="card_image_9_1" alt="Live☆Twin キスキル・フロスト" title="Live☆Twin キスキル・フロスト" class="none">
 					  
 					</dd>
 				</dl>
@@ -1227,7 +1299,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="Live☆Twin チャンネル" title="Live☆Twin チャンネル" class="none">
+						<img id="card_image_10_1" alt="Live☆Twin チャンネル" title="Live☆Twin チャンネル" class="none">
 					  
 					</dd>
 				</dl>
@@ -1275,7 +1347,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="Live☆Twin トラブルサン" title="Live☆Twin トラブルサン" class="none">
+						<img id="card_image_11_1" alt="Live☆Twin トラブルサン" title="Live☆Twin トラブルサン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1343,7 +1415,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="Live☆Twin リィラ" title="Live☆Twin リィラ" class="none">
+						<img id="card_image_12_1" alt="Live☆Twin リィラ" title="Live☆Twin リィラ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1411,7 +1483,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="Live☆Twin リィラ・トリート" title="Live☆Twin リィラ・トリート" class="none">
+						<img id="card_image_13_1" alt="Live☆Twin リィラ・トリート" title="Live☆Twin リィラ・トリート" class="none">
 					  
 					</dd>
 				</dl>

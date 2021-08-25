@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="青眼の亜白龍 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「青眼の亜白龍」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12253%26request_locale%3Dja%26a%3D202106241142"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12253%26request_locale%3Dja%26a%3D202106241142"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12253%26request_locale%3Dja%26a%3D202108231216"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12253%26request_locale%3Dja%26a%3D202108231216"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -563,7 +563,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカードは通常召喚できない。手札の「青眼の白龍」１体を相手に見せた場合に特殊召喚できる。この方法による「青眼の亜白龍」の特殊召喚は１ターンに１度しかできない。①：このカードのカード名は、フィールド・墓地に存在する限り「青眼の白龍」として扱う。②：１ターンに１度、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。この効果を発動するターン、このカードは攻撃できない。
-									
+		
 			
 								</div>
 							</td>
@@ -591,14 +591,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12253%26request_locale%3Dja%26a%3D202106241142&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D12253%26request_locale%3Dja%26a%3D202108231216&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12253&request_locale=ja&a=202106241142" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12253&request_locale=ja&a=202108231216" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12253&request_locale=ja&a=202106241142"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12253&request_locale=ja&a=202108231216"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -1938,7 +1938,7 @@
 					
 					<dd class="box_card_text">
 					  
-						「白竜降臨」により降臨。フィールドか手札から、レベルが４以上になるようカードを生け贄に捧げなければならない。このカードが裏側守備表示のモンスターを攻撃した場合、ダメージ計算を行わず裏側守備表示のままそのモンスターを破壊する。また、このカードを生け贄に捧げる事で手札またはデッキから「青眼の白龍」１体を特殊召喚する事ができる。（そのターン「青眼の白龍」は攻撃できない。）
+						「白竜降臨」により降臨。①：このカードが裏側守備表示モンスターに攻撃するダメージステップ開始時に発動する。その裏側守備表示モンスターを破壊する。②：このカードをリリースして発動できる。手札・デッキから「青眼の白龍」１体を特殊召喚する。このターン、自分の「青眼の白龍」は攻撃できない。
 					  
 					</dd>
 					<dd class="box_card_img">

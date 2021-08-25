@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="妖眼の相剣師 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「妖眼の相剣師」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16198%26request_locale%3Dja%26a%3D202106240923"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16198%26request_locale%3Dja%26a%3D202106240923"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16198%26request_locale%3Dja%26a%3D202108230956"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16198%26request_locale%3Dja%26a%3D202108230956"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -149,6 +149,38 @@
 			location.href = $('.link_value', this).val();
 		});
 		
+		
+			
+				$('#card_image_0_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16493&ciid=1&enc=xxJw1HpXwI07JNU5PIPb7A').show();
+			
+		
+			
+				$('#card_image_1_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16558&ciid=1&enc=bMHTgsSEHUY58Y5IvYR9zA').show();
+			
+		
+			
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16491&ciid=1&enc=YWyC4PWJE0cFGBadf_UQeA').show();
+			
+		
+			
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16490&ciid=1&enc=4WazgdtAttI9rPu3e51v7w').show();
+			
+		
+			
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16489&ciid=1&enc=kpd3OdSXiTLyyJiAqjmLIw').show();
+			
+		
+			
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16527&ciid=1&enc=MkPQPT2fk8SJyK8wTPORpg').show();
+			
+		
+			
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16540&ciid=1&enc=hQKwvNvpDoIlmeSIrbq5vQ').show();
+			
+		
+			
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16539&ciid=1&enc=SXn_aXYyPRECETTTYpBuOA').show();
+			
 		
 
 		
@@ -313,6 +345,8 @@
 	
 					妖眼の相剣師
 	
+					<span>The Iris Swordsoul</span>
+	
 				</h1>
 			</div>
 		</header>
@@ -436,7 +470,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：効果が無効化されているモンスターがフィールドに存在する場合、自分・相手のメインフェイズに発動できる。このカードを手札から特殊召喚する。②：相手がモンスターを特殊召喚した場合、そのモンスターをどこから特殊召喚したかによって以下の効果から１つを選択して発動できる。●手札：手札からモンスター１体を特殊召喚する。●デッキ：自分はデッキから２枚ドローする。●EXデッキ：EXデッキから特殊召喚されたそのモンスター１体を選んで破壊する。
-									
+		
 			
 								</div>
 							</td>
@@ -464,19 +498,23 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16198%26request_locale%3Dja%26a%3D202106240923&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16198%26request_locale%3Dja%26a%3D202108230956&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16198&request_locale=ja&a=202106240923" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16198&request_locale=ja&a=202108230956" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16198&request_locale=ja&a=202106240923"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16198&request_locale=ja&a=202108230956"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
 					</table>
 				
+				
+					<div id="relationCard_a">
+						<a href="#relationCard">このカードの関連カードを見る</a>
+					</div>
 				
 				</td>
 				<td valign="top" style="padding-left:8px;">
@@ -649,6 +687,557 @@
 
 
 
+
+
+	<div class="list_style" id="relationCard">
+		<div class="li_top">関連カード</div>
+
+
+
+			<table style="margin:0 auto;width:100%;border-spacing: 0px;">
+				<tr>
+				<td valign="top" style="padding: 0px;">
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="mode" style="width:110px;">
+							<option value="1">画像表示</option>
+							<option value="2">テキスト表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right" style="margin-left:10px;">
+						<select id="rp" style="width:170px;">
+							<option value="10">10件ずつ表示</option>
+							<option value="50">50件ずつ表示</option>
+							<option value="100">100件ずつ表示</option>
+						</select>
+					</span>
+					
+					<span class="f_right">
+						<select id="sort" style="width:260px;">
+							<option value="1">50音順</option>
+							<option value="2">レベル／ランク順（大きい順）</option>
+							<option value="3">レベル／ランク順（小さい順）</option>
+							<option value="4">攻撃力順（大きい順）</option>
+							<option value="5">攻撃力順（小さい順）</option>
+							<option value="6">守備力順（大きい順）</option>
+							<option value="7">守備力順（小さい順）</option>
+							<option value="8">ペンデュラムスケール順（大きい順）</option>
+							<option value="9">ペンデュラムスケール順（小さい順）</option>
+							<option value="11">リンク数（多い順）</option>
+							<option value="12">リンク数（少ない順）</option>
+						</select>
+					</span>
+
+					
+					<div class="page_num_title">
+						<div>
+							<strong>
+
+								検索結果 8件中 1～8件を表示
+							</strong>
+						</div>
+					</div>
+					<br class="f_del">
+				</td>
+				</tr>
+			</table>
+
+
+
+
+		<ul class="box_list">
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>しろのせいじょエクレシア</span>
+						<span class="card_status">
+						<strong>白の聖女エクレシア</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							魔法使い族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1500</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②③の効果はそれぞれ１ターンに１度しか使用できない。①：相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合、このカードは手札から特殊召喚できる。②：自分・相手のメインフェイズに、このカードをリリースして発動できる。手札・デッキから「相剣」モンスターまたは「アルバスの落胤」１体を特殊召喚する。③：このターンに融合モンスターが自分の墓地へ送られている場合、エンドフェイズに発動できる。墓地のこのカードを手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_0_1" alt="白の聖女エクレシア" title="白の聖女エクレシア" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16493">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ずいそうけんきゅう</span>
+						<span class="card_status">
+						<strong>瑞相剣究</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの表側表示モンスター１体を対象として発動できる。自分の墓地から「相剣」カードまたは幻竜族モンスターを５枚まで除外し、対象のモンスターの攻撃力は除外した数×３００アップする。②：このカードが除外された場合に発動できる。自分フィールドに「相剣トークン」（幻竜族・チューナー・水・星４・攻／守０）１体を特殊召喚する。この効果で特殊召喚したトークンが存在する限り、自分はSモンスターしかEXデッキから特殊召喚できない。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_1_1" alt="瑞相剣究" title="瑞相剣究" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16558">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>そうけんぐんし－リュウエン</span>
+						<span class="card_status">
+						<strong>相剣軍師－龍淵</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_fire.png" alt="炎属性" title="炎属性">
+							<span>炎属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 6</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							幻竜族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1200</span>
+						
+						
+							<span class="def_power">守備力 2300</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカード以外の手札の「相剣」カード１枚または幻竜族モンスター１体を捨てて発動できる。このカードを手札から特殊召喚する。その後、自分フィールドに「相剣トークン」（幻竜族・チューナー・水・星４・攻／守０）１体を特殊召喚できる。この効果で特殊召喚したトークンが存在する限り、自分はSモンスターしかEXデッキから特殊召喚できない。②：このカードがS素材として墓地へ送られた場合に発動できる。相手に１２００ダメージを与える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="相剣軍師－龍淵" title="相剣軍師－龍淵" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16491">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>そうけんし－タイア</span>
+						<span class="card_status">
+						<strong>相剣師－泰阿</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_wind.png" alt="風属性" title="風属性">
+							<span>風属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							幻竜族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1800</span>
+						
+						
+							<span class="def_power">守備力 1500</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地から「相剣」カード１枚または幻竜族モンスター１体を除外して発動できる。自分フィールドに「相剣トークン」（幻竜族・チューナー・水・星４・攻／守０）１体を特殊召喚する。この効果で特殊召喚したトークンが存在する限り、自分はSモンスターしかEXデッキから特殊召喚できない。②：このカードがS素材として墓地へ送られた場合に発動できる。デッキから「相剣」カード１枚または幻竜族モンスター１体を墓地へ送る。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_3_1" alt="相剣師－泰阿" title="相剣師－泰阿" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16490">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>そうけんし－バクヤ</span>
+						<span class="card_status">
+						<strong>相剣師－莫邪</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_water.png" alt="水属性" title="水属性">
+							<span>水属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							幻竜族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1700</span>
+						
+						
+							<span class="def_power">守備力 1800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、手札の「相剣」カード１枚または幻竜族モンスター１体を相手に見せて発動できる。自分フィールドに「相剣トークン」（幻竜族・チューナー・水・星４・攻／守０）１体を特殊召喚する。この効果で特殊召喚したトークンが存在する限り、自分はSモンスターしかEXデッキから特殊召喚できない。②：このカードがS素材として墓地へ送られた場合に発動できる。自分はデッキから１枚ドローする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_4_1" alt="相剣師－莫邪" title="相剣師－莫邪" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16489">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>そうけんたいし－セキショウ</span>
+						<span class="card_status">
+						<strong>相剣大師－赤霄</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							幻竜族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2800</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						チューナー＋チューナー以外の幻竜族モンスター１体以上<br>このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがS召喚に成功した場合に発動できる。デッキから「相剣」カード１枚を手札に加えるか除外する。②：自分の手札・墓地から「相剣」カード１枚または幻竜族モンスター１体を除外し、このカード以外のフィールドの効果モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。この効果は相手ターンでも発動できる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="相剣大師－赤霄" title="相剣大師－赤霄" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16527">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>だいれいほうそうけんもん</span>
+						<span class="card_status">
+						<strong>大霊峰相剣門</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地の「相剣」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。自分フィールドにSモンスターが存在する場合、代わりに幻竜族モンスター１体を対象とする事もできる。②：このカードが除外された場合、自分フィールドの、「相剣」モンスターまたは幻竜族モンスター１体を対象として発動できる。そのモンスターのレベルをターン終了時まで１つ上げる、または下げる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_6_1" alt="大霊峰相剣門" title="大霊峰相剣門" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16540">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>りゅうそうけんげん</span>
+						<span class="card_status">
+						<strong>龍相剣現</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから「相剣」モンスター１体を手札に加える。自分フィールドにSモンスターが存在する場合、代わりに幻竜族モンスター１体を手札に加える事もできる。②：このカードが除外された場合、自分フィールドの、「相剣」モンスターまたは幻竜族モンスター１体を対象として発動できる。そのモンスターのレベルをターン終了時まで１つ上げる、または下げる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_7_1" alt="龍相剣現" title="龍相剣現" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16539">
+			</li>
+		  
+		</ul><!--.box_list-->
+	</div><!--.list_style-->
+
+	<div class="page_num">
+		<span>
+			
+			
+			  
+				<a class="nowpage">1</a>
+			  
+			  
+			
+			
+		</span>
+	</div>
 
 
 

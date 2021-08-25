@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="クリビー | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「クリビー」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16398%26request_locale%3Dja%26a%3D202106241154"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16398%26request_locale%3Dja%26a%3D202106241154"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16398%26request_locale%3Dja%26a%3D202108231228"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16398%26request_locale%3Dja%26a%3D202108231228"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -524,7 +524,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカード名はルール上「クリボー」カードとしても扱う。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードまたは自分の「クリボー」モンスターが戦闘で破壊された時に発動できる。デッキから「クリボー」のカード名が記された魔法・罠カード１枚を手札に加える。②：１ターンに１度、自分フィールドに他の「クリボー」モンスターが存在する場合、相手モンスターの攻撃宣言時に発動できる。このカード以外の自分フィールドの全てのモンスターの攻撃力をターン終了時まで０にし、その攻撃を無効にする。
-									
+		
 			
 								</div>
 							</td>
@@ -552,14 +552,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16398%26request_locale%3Dja%26a%3D202106241154&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D16398%26request_locale%3Dja%26a%3D202108231228&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16398&request_locale=ja&a=202106241154" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16398&request_locale=ja&a=202108231228" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16398&request_locale=ja&a=202106241154"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16398&request_locale=ja&a=202108231228"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -1844,7 +1844,7 @@
 					
 					<dd class="box_card_text">
 					  
-						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に、その攻撃モンスター１体を対象として発動できる。このカードを手札から装備カード扱いとしてそのモンスターに装備する。装備モンスターは攻撃できない。②：このカードが墓地に存在する場合、相手モンスターの直接攻撃宣言時に発動できる。このカードを墓地から特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に、その攻撃モンスター１体を対象として発動できる。このカードを手札から装備カード扱いとしてそのモンスターに装備する。装備モンスターは攻撃できない。②：このカードが墓地に存在する場合、相手モンスターの直接攻撃宣言時に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
 					  
 					</dd>
 					<dd class="box_card_img">

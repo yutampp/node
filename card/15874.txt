@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="聖なる篝火 | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「聖なる篝火」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15874%26request_locale%3Dja%26a%3D202106241139"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15874%26request_locale%3Dja%26a%3D202106241139"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15874%26request_locale%3Dja%26a%3D202108231213"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15874%26request_locale%3Dja%26a%3D202108231213"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -159,27 +159,31 @@
 			
 		
 			
-				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15980&ciid=1&enc=Ao7T934zf0fk32p0UWEltw').show();
+				$('#card_image_2_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16513&ciid=1&enc=6KqVaCg5FehnLKc4K_7scw').show();
 			
 		
 			
-				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15875&ciid=1&enc=kLcnYdLwlTUzqS6JMmSoJw').show();
+				$('#card_image_3_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15980&ciid=1&enc=Ao7T934zf0fk32p0UWEltw').show();
 			
 		
 			
-				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15876&ciid=1&enc=e-2j1K5PYKjFLdVA9s3Apg').show();
+				$('#card_image_4_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15875&ciid=1&enc=kLcnYdLwlTUzqS6JMmSoJw').show();
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15873&ciid=1&enc=t3khP4OheaK0eG9GvPdcPA').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15876&ciid=1&enc=e-2j1K5PYKjFLdVA9s3Apg').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15878&ciid=1&enc=7qLhyZEnXs6J6xG-9WqzNg').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15873&ciid=1&enc=t3khP4OheaK0eG9GvPdcPA').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15871&ciid=1&enc=UF-mgJ4_NqLkJ0BnhQ11nA').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15878&ciid=1&enc=7qLhyZEnXs6J6xG-9WqzNg').show();
+			
+		
+			
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=15871&ciid=1&enc=UF-mgJ4_NqLkJ0BnhQ11nA').show();
 			
 		
 
@@ -399,7 +403,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカード名のカードは１ターンに１枚しか発動できない。①：デッキから「ホーリーナイツ」モンスターまたはドラゴン族・光属性・レベル７モンスター１体を手札に加える。相手フィールドに闇属性モンスターが存在し、自分フィールドにモンスターが存在しない場合、さらに手札からドラゴン族・光属性・レベル７モンスター１体を特殊召喚できる。
-									
+		
 		
 								</div>
 							</td>
@@ -426,14 +430,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15874%26request_locale%3Dja%26a%3D202106241139&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D15874%26request_locale%3Dja%26a%3D202108231213&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15874&request_locale=ja&a=202106241139" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15874&request_locale=ja&a=202108231213" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15874&request_locale=ja&a=202106241139"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15874&request_locale=ja&a=202108231213"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -599,7 +603,7 @@
 						<div>
 							<strong>
 
-								検索結果 8件中 1～8件を表示
+								検索結果 9件中 1～9件を表示
 							</strong>
 						</div>
 					</div>
@@ -732,6 +736,74 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>ホーリーナイツ・オルビタエル</span>
+						<span class="card_status">
+						<strong>ホーリーナイツ・オルビタエル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_light.png" alt="光属性" title="光属性">
+							<span>光属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							天使族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 400</span>
+						
+						
+							<span class="def_power">守備力 2100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの光属性モンスター１体を対象として発動できる。そのモンスターをリリースし、デッキから「ホーリーナイツ」魔法・罠カード１枚を選んで自分フィールドにセットする。この効果は相手ターンでも発動できる。②：このカードが墓地に存在し、自分フィールドの表側表示のドラゴン族・光属性・レベル７モンスターが手札に戻った場合に発動できる。このカードを特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_2_1" alt="ホーリーナイツ・オルビタエル" title="ホーリーナイツ・オルビタエル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16513">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>ホーリーナイツ・シエル</span>
 						<span class="card_status">
 						<strong>ホーリーナイツ・シエル</strong>
@@ -790,7 +862,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_2_1" alt="ホーリーナイツ・シエル" title="ホーリーナイツ・シエル" class="none">
+						<img id="card_image_3_1" alt="ホーリーナイツ・シエル" title="ホーリーナイツ・シエル" class="none">
 					  
 					</dd>
 				</dl>
@@ -838,7 +910,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_3_1" alt="煌めく聖夜" title="煌めく聖夜" class="none">
+						<img id="card_image_4_1" alt="煌めく聖夜" title="煌めく聖夜" class="none">
 					  
 					</dd>
 				</dl>
@@ -886,7 +958,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_4_1" alt="聖なる降誕" title="聖なる降誕" class="none">
+						<img id="card_image_5_1" alt="聖なる降誕" title="聖なる降誕" class="none">
 					  
 					</dd>
 				</dl>
@@ -954,7 +1026,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="ホーリーナイツ・フラムエル" title="ホーリーナイツ・フラムエル" class="none">
+						<img id="card_image_6_1" alt="ホーリーナイツ・フラムエル" title="ホーリーナイツ・フラムエル" class="none">
 					  
 					</dd>
 				</dl>
@@ -997,7 +1069,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="聖なる煌炎" title="聖なる煌炎" class="none">
+						<img id="card_image_7_1" alt="聖なる煌炎" title="聖なる煌炎" class="none">
 					  
 					</dd>
 				</dl>
@@ -1065,7 +1137,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="ホーリーナイツ・レイエル" title="ホーリーナイツ・レイエル" class="none">
+						<img id="card_image_8_1" alt="ホーリーナイツ・レイエル" title="ホーリーナイツ・レイエル" class="none">
 					  
 					</dd>
 				</dl>

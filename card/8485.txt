@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="レプティレス・スポーン | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「レプティレス・スポーン」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8485%26request_locale%3Dja%26a%3D202106241032"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8485%26request_locale%3Dja%26a%3D202106241032"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8485%26request_locale%3Dja%26a%3D202108231105"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8485%26request_locale%3Dja%26a%3D202108231105"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -171,39 +171,59 @@
 			
 		
 			
-				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8455&ciid=1&enc=Kpu66i1N2fI-y063NvFPJw').show();
+				$('#card_image_5_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16506&ciid=1&enc=_DZIteDEI2zrgN-I-7pwsA').show();
 			
 		
 			
-				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8626&ciid=1&enc=D32m77O5PRbyNR0ArOyb-A').show();
+				$('#card_image_6_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8455&ciid=1&enc=Kpu66i1N2fI-y063NvFPJw').show();
 			
 		
 			
-				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8457&ciid=1&enc=vmgq79CtbZcPmMpOa8z0TQ').show();
+				$('#card_image_7_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8626&ciid=1&enc=D32m77O5PRbyNR0ArOyb-A').show();
 			
 		
 			
-				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8628&ciid=1&enc=TNE_fR1H-hK3uvpO40YNZg').show();
+				$('#card_image_8_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8457&ciid=1&enc=vmgq79CtbZcPmMpOa8z0TQ').show();
 			
 		
 			
-				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8458&ciid=1&enc=pHtUV40QpbmKtHoy9F-R7Q').show();
+				$('#card_image_9_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8628&ciid=1&enc=TNE_fR1H-hK3uvpO40YNZg').show();
 			
 		
 			
-				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14473&ciid=1&enc=HjwIaW-YNoM7qFa588XcdA').show();
+				$('#card_image_10_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16505&ciid=1&enc=pxoODWWdDkV9nJoFsqQlkA').show();
 			
 		
 			
-				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8601&ciid=1&enc=ysfbeXRkvksaKnGnMIKjeQ').show();
+				$('#card_image_11_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8458&ciid=1&enc=pHtUV40QpbmKtHoy9F-R7Q').show();
 			
 		
 			
-				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8456&ciid=1&enc=zJAi2-uHRm012D74ubTzIg').show();
+				$('#card_image_12_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14473&ciid=1&enc=HjwIaW-YNoM7qFa588XcdA').show();
 			
 		
 			
-				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8477&ciid=1&enc=n524BI2R5SOLuprvWD_E0Q').show();
+				$('#card_image_13_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8601&ciid=1&enc=ysfbeXRkvksaKnGnMIKjeQ').show();
+			
+		
+			
+				$('#card_image_14_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8456&ciid=1&enc=zJAi2-uHRm012D74ubTzIg').show();
+			
+		
+			
+				$('#card_image_15_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16529&ciid=1&enc=-xuMQZ6cVxgjZm0-ZOO1vA').show();
+			
+		
+			
+				$('#card_image_16_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8477&ciid=1&enc=n524BI2R5SOLuprvWD_E0Q').show();
+			
+		
+			
+				$('#card_image_17_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16546&ciid=1&enc=J9l7dLKAnMFpimfihWmvHQ').show();
+			
+		
+			
+				$('#card_image_18_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16547&ciid=1&enc=URjFWvGldWbU0ijrdC9VIA').show();
 			
 		
 
@@ -423,7 +443,7 @@
 										<b>カードテキスト</b>
 									</div>
 									自分の墓地に存在する「レプティレス」と名のついたモンスター１体をゲームから除外して発動する。自分フィールド上に「レプティレストークン」（爬虫類族・地・星１・攻／守０）２体を特殊召喚する。
-									
+		
 		
 								</div>
 							</td>
@@ -450,14 +470,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8485%26request_locale%3Dja%26a%3D202106241032&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D8485%26request_locale%3Dja%26a%3D202108231105&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8485&request_locale=ja&a=202106241032" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8485&request_locale=ja&a=202108231105" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8485&request_locale=ja&a=202106241032"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8485&request_locale=ja&a=202108231105"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -581,7 +601,7 @@
 						<div>
 							<strong>
 
-								検索結果 14件中 1～14件を表示
+								検索結果 19件中 1～19件を表示
 							</strong>
 						</div>
 					</div>
@@ -901,6 +921,77 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>レプティレス・コアトル</span>
+						<span class="card_status">
+						<strong>レプティレス・コアトル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 4</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							爬虫類族
+						  
+							／
+							チューナー
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1400</span>
+						
+						
+							<span class="def_power">守備力 1000</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①の効果は１ターンに１度しか使用できない。①：自分フィールドに爬虫類族・闇属性モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。相手フィールドに攻撃力０のモンスターが存在する場合、さらにその数まで手札から「レプティレス」モンスターを特殊召喚できる。②：自分フィールドのこのカードを爬虫類族SモンスターのS素材とする場合、このカードをチューナー以外のモンスターとして扱う事ができる。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_5_1" alt="レプティレス・コアトル" title="レプティレス・コアトル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16506">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>レプティレス・ゴルゴーン</span>
 						<span class="card_status">
 						<strong>レプティレス・ゴルゴーン</strong>
@@ -959,7 +1050,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_5_1" alt="レプティレス・ゴルゴーン" title="レプティレス・ゴルゴーン" class="none">
+						<img id="card_image_6_1" alt="レプティレス・ゴルゴーン" title="レプティレス・ゴルゴーン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1027,7 +1118,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_6_1" alt="レプティレス・サーヴァント" title="レプティレス・サーヴァント" class="none">
+						<img id="card_image_7_1" alt="レプティレス・サーヴァント" title="レプティレス・サーヴァント" class="none">
 					  
 					</dd>
 				</dl>
@@ -1095,7 +1186,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_7_1" alt="レプティレス・スキュラ" title="レプティレス・スキュラ" class="none">
+						<img id="card_image_8_1" alt="レプティレス・スキュラ" title="レプティレス・スキュラ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1163,11 +1254,79 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_8_1" alt="レプティレス・ナージャ" title="レプティレス・ナージャ" class="none">
+						<img id="card_image_9_1" alt="レプティレス・ナージャ" title="レプティレス・ナージャ" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8628">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レプティレス・ニャミニ</span>
+						<span class="card_status">
+						<strong>レプティレス・ニャミニ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 2</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							爬虫類族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 200</span>
+						
+						
+							<span class="def_power">守備力 0</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分の墓地に爬虫類族モンスターが存在する場合、自分・相手のメインフェイズに、このカードを手札から墓地へ送り、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力を０にする。②：相手フィールドに攻撃力０のモンスターが存在する場合に発動できる。このカードを墓地から特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_10_1" alt="レプティレス・ニャミニ" title="レプティレス・ニャミニ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16505">
 			</li>
 		  
 			<li>
@@ -1234,7 +1393,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_9_1" alt="レプティレス・バイパー" title="レプティレス・バイパー" class="none">
+						<img id="card_image_11_1" alt="レプティレス・バイパー" title="レプティレス・バイパー" class="none">
 					  
 					</dd>
 				</dl>
@@ -1305,7 +1464,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_10_1" alt="レプティレス・ヒュドラ" title="レプティレス・ヒュドラ" class="none">
+						<img id="card_image_12_1" alt="レプティレス・ヒュドラ" title="レプティレス・ヒュドラ" class="none">
 					  
 					</dd>
 				</dl>
@@ -1348,7 +1507,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_11_1" alt="レプティレス・ポイズン" title="レプティレス・ポイズン" class="none">
+						<img id="card_image_13_1" alt="レプティレス・ポイズン" title="レプティレス・ポイズン" class="none">
 					  
 					</dd>
 				</dl>
@@ -1416,11 +1575,82 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_12_1" alt="レプティレス・メデューサ" title="レプティレス・メデューサ" class="none">
+						<img id="card_image_14_1" alt="レプティレス・メデューサ" title="レプティレス・メデューサ" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8456">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レプティレス・メルジーヌ</span>
+						<span class="card_status">
+						<strong>レプティレス・メルジーヌ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							爬虫類族
+						  
+							／
+							シンクロ
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2800</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						爬虫類族チューナー＋チューナー以外のモンスター１体以上<br>このカードの②の効果は同一チェーン上では１度しか発動できない。①：爬虫類族モンスターのみを素材としてS召喚したこのカードは戦闘・効果では破壊されない。②：相手がモンスターの効果を発動した時、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力を０にする。③：S召喚したこのカードが相手によって墓地へ送られた場合に発動できる。デッキから爬虫類族モンスター１体を手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_15_1" alt="レプティレス・メルジーヌ" title="レプティレス・メルジーヌ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16529">
 			</li>
 		  
 			<li>
@@ -1487,11 +1717,102 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_13_1" alt="レプティレス・ラミア" title="レプティレス・ラミア" class="none">
+						<img id="card_image_16_1" alt="レプティレス・ラミア" title="レプティレス・ラミア" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=8477">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レプティレス・ラミフィケーション</span>
+						<span class="card_status">
+						<strong>レプティレス・ラミフィケーション</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名のカードは１ターンに１枚しか発動できない。①：手札を１枚墓地へ送り、以下の効果から２つを選択して発動できる。<br>●デッキから「レプティレス」モンスター１体を手札に加える。<br>●デッキから「レプティレス・ラミフィケーション」以外の「レプティレス」魔法・罠カード１枚を手札に加える。<br>●相手フィールドのモンスター１体を選び、その攻撃力を０にする。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_17_1" alt="レプティレス・ラミフィケーション" title="レプティレス・ラミフィケーション" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16546">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>レプティレス・リコイル</span>
+						<span class="card_status">
+						<strong>レプティレス・リコイル</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_spell.png" alt="魔法" title="魔法">
+							<span>魔法</span>
+						</span>
+					  
+					  
+						<span class="box_card_effect">
+							<img class="icon_img" src="external/image/parts/effect/effect_icon_field.png" alt="フィールド" title="フィールド">
+							<span>フィールド</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの攻撃力０のモンスター１体と、自分の墓地の爬虫類族・闇属性モンスター１体を対象として発動できる。そのフィールドのモンスターを破壊し、その墓地のモンスターを特殊召喚する。②：相手がモンスターの効果を発動した場合、相手フィールドの攻撃力０のモンスター１体を対象として発動できる。そのモンスターのコントロールを得る。その後、相手フィールドに「レプティレストークン」（爬虫類族・地・星１・攻／守０）１体を特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_18_1" alt="レプティレス・リコイル" title="レプティレス・リコイル" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16547">
 			</li>
 		  
 		</ul><!--.box_list-->

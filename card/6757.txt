@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="D-HERO ドグマガイ | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「D-HERO ドグマガイ」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6757%26request_locale%3Dja%26a%3D202106241049"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6757%26request_locale%3Dja%26a%3D202106241049"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6757%26request_locale%3Dja%26a%3D202108231122"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6757%26request_locale%3Dja%26a%3D202108231122"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -391,111 +391,123 @@
 			
 		
 			
-				$('#card_image_60_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12707&ciid=1&enc=4UWdPmXifph-A50hMNwuHw').show();
+				$('#card_image_60_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16504&ciid=1&enc=AbcHcOOZTr1U1JPx-G9yEA').show();
 			
 		
 			
-				$('#card_image_61_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7417&ciid=1&enc=iNrAQxr9mdmcAa2L4T4ALw').show();
+				$('#card_image_61_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12707&ciid=1&enc=4UWdPmXifph-A50hMNwuHw').show();
 			
 		
 			
-				$('#card_image_62_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6755&ciid=1&enc=81TUy-QeDvRQSBVL-lJMIQ').show();
+				$('#card_image_62_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7417&ciid=1&enc=iNrAQxr9mdmcAa2L4T4ALw').show();
 			
 		
 			
-				$('#card_image_63_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12694&ciid=1&enc=fBM3pYL36iw-KWaVkA0JGg').show();
+				$('#card_image_63_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6755&ciid=1&enc=81TUy-QeDvRQSBVL-lJMIQ').show();
 			
 		
 			
-				$('#card_image_64_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6658&ciid=1&enc=VjM4fxh9whGFcAsIa28MuA').show();
+				$('#card_image_64_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16524&ciid=1&enc=kThpqg7sICotBj0By-oDpw').show();
 			
 		
 			
-				$('#card_image_65_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6756&ciid=1&enc=NtB-7JaogUayVopJ4HccIA').show();
+				$('#card_image_65_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12694&ciid=1&enc=fBM3pYL36iw-KWaVkA0JGg').show();
 			
 		
 			
-				$('#card_image_66_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14281&ciid=1&enc=RsnpgATQeTL-tExMzK1LTg').show();
+				$('#card_image_66_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6658&ciid=1&enc=VjM4fxh9whGFcAsIa28MuA').show();
 			
 		
 			
-				$('#card_image_67_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12702&ciid=1&enc=lFIlOqH_k23KKeSSUEnitw').show();
+				$('#card_image_67_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6756&ciid=1&enc=NtB-7JaogUayVopJ4HccIA').show();
 			
 		
 			
-				$('#card_image_68_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13153&ciid=1&enc=IjIecnI1Uo5Uno6C8ns_5w').show();
+				$('#card_image_68_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14281&ciid=1&enc=RsnpgATQeTL-tExMzK1LTg').show();
 			
 		
 			
-				$('#card_image_69_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6661&ciid=1&enc=9Cc2Wz_0-VPnUJj4tB8ATg').show();
+				$('#card_image_69_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=12702&ciid=1&enc=lFIlOqH_k23KKeSSUEnitw').show();
 			
 		
 			
-				$('#card_image_70_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7577&ciid=1&enc=2xsERpJxwjnL_HI2rQDYBA').show();
+				$('#card_image_70_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=13153&ciid=1&enc=IjIecnI1Uo5Uno6C8ns_5w').show();
 			
 		
 			
-				$('#card_image_71_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14259&ciid=1&enc=DOJDh0wbRlJD9F57Lao4cQ').show();
+				$('#card_image_71_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6661&ciid=1&enc=9Cc2Wz_0-VPnUJj4tB8ATg').show();
 			
 		
 			
-				$('#card_image_72_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7096&ciid=1&enc=AlCT4QEMw5dK1SlhekwzqQ').show();
+				$('#card_image_72_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7577&ciid=1&enc=2xsERpJxwjnL_HI2rQDYBA').show();
 			
 		
 			
-				$('#card_image_73_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6763&ciid=1&enc=rVHaVgOrJXPjUmt92eucoQ').show();
+				$('#card_image_73_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14259&ciid=1&enc=DOJDh0wbRlJD9F57Lao4cQ').show();
 			
 		
 			
-				$('#card_image_74_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16406&ciid=1&enc=ZQhVW8pgG7xbNlw62qlJuw').show();
+				$('#card_image_74_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7096&ciid=1&enc=AlCT4QEMw5dK1SlhekwzqQ').show();
 			
 		
 			
-				$('#card_image_75_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7615&ciid=1&enc=ou18eLJuoOevZ08wMNgc4g').show();
+				$('#card_image_75_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6763&ciid=1&enc=rVHaVgOrJXPjUmt92eucoQ').show();
 			
 		
 			
-				$('#card_image_76_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6785&ciid=1&enc=nvB-C5tf4U3WmM7PRkFiVQ').show();
+				$('#card_image_76_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16406&ciid=1&enc=ZQhVW8pgG7xbNlw62qlJuw').show();
 			
 		
 			
-				$('#card_image_77_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8150&ciid=1&enc=HrCqRowWE96kma2z_kc2eg').show();
+				$('#card_image_77_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=7615&ciid=1&enc=ou18eLJuoOevZ08wMNgc4g').show();
 			
 		
 			
-				$('#card_image_78_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14913&ciid=1&enc=h09omAYRf1QXIlTzteAOzg').show();
+				$('#card_image_78_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=6785&ciid=1&enc=nvB-C5tf4U3WmM7PRkFiVQ').show();
 			
 		
 			
-				$('#card_image_79_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9068&ciid=1&enc=KkFpS5Tj4BpVd8GD_XIQew').show();
+				$('#card_image_79_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=8150&ciid=1&enc=HrCqRowWE96kma2z_kc2eg').show();
 			
 		
 			
-				$('#card_image_80_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14304&ciid=1&enc=R7vd1D5bdgdTCu8xHXcRYA').show();
+				$('#card_image_80_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14913&ciid=1&enc=h09omAYRf1QXIlTzteAOzg').show();
 			
 		
 			
-				$('#card_image_81_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14914&ciid=1&enc=m39gdb6go0Ggdn9yBnZwqA').show();
+				$('#card_image_81_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9068&ciid=1&enc=KkFpS5Tj4BpVd8GD_XIQew').show();
 			
 		
 			
-				$('#card_image_82_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9066&ciid=1&enc=eskfCAJL2n2VGYTBmOBArA').show();
+				$('#card_image_82_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14304&ciid=1&enc=R7vd1D5bdgdTCu8xHXcRYA').show();
 			
 		
 			
-				$('#card_image_83_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11309&ciid=1&enc=F4qiEgsjG49fjFysZqBtMw').show();
+				$('#card_image_83_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=16562&ciid=1&enc=gDVcrmorrvhMQZ0nlbdp-Q').show();
 			
 		
 			
-				$('#card_image_84_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11311&ciid=1&enc=vbOxEWUn5TkO2p4QN_nh_A').show();
+				$('#card_image_84_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=14914&ciid=1&enc=m39gdb6go0Ggdn9yBnZwqA').show();
 			
 		
 			
-				$('#card_image_85_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9067&ciid=1&enc=AUcuZa5Ct4bZ_c0p-5qPyQ').show();
+				$('#card_image_85_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9066&ciid=1&enc=eskfCAJL2n2VGYTBmOBArA').show();
 			
 		
 			
-				$('#card_image_86_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9559&ciid=1&enc=XO8XUJD7V8Mm9y91fnzxkA').show();
+				$('#card_image_86_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11309&ciid=1&enc=F4qiEgsjG49fjFysZqBtMw').show();
+			
+		
+			
+				$('#card_image_87_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=11311&ciid=1&enc=vbOxEWUn5TkO2p4QN_nh_A').show();
+			
+		
+			
+				$('#card_image_88_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9067&ciid=1&enc=AUcuZa5Ct4bZ_c0p-5qPyQ').show();
+			
+		
+			
+				$('#card_image_89_1').attr('src', '/yugiohdb/get_image.action?type=1&cid=9559&ciid=1&enc=XO8XUJD7V8Mm9y91fnzxkA').show();
 			
 		
 
@@ -791,7 +803,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカードは通常召喚できない。「D-HERO」モンスターを含む自分フィールドのモンスター３体をリリースした場合のみ特殊召喚できる。①：この方法でこのカードが特殊召喚に成功した場合、次の相手スタンバイフェイズに発動する。相手のLPを半分にする。
-									
+		
 			
 								</div>
 							</td>
@@ -819,14 +831,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6757%26request_locale%3Dja%26a%3D202106241049&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D6757%26request_locale%3Dja%26a%3D202108231122&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6757&request_locale=ja&a=202106241049" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6757&request_locale=ja&a=202108231122" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6757&request_locale=ja&a=202106241049"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6757&request_locale=ja&a=202108231122"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -1055,7 +1067,7 @@
 						<div>
 							<strong>
 
-								検索結果 87件中 1～87件を表示
+								検索結果 90件中 1～90件を表示
 							</strong>
 						</div>
 					</div>
@@ -4757,6 +4769,74 @@
 			<li>
 				<dl>
 					<dt class="box_card_name">
+						<span>デステニーヒーロー　ディナイアルガイ</span>
+						<span class="card_status">
+						<strong>D-HERO ディナイアルガイ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 3</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							効果
+						  
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 1100</span>
+						
+						
+							<span class="def_power">守備力 600</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の、①の効果は１ターンに１度しか使用できず、②の効果はデュエル中に１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。自分のデッキ・墓地のモンスター及び除外されている自分のモンスターの中から、「D-HERO」モンスター１体を選んでデッキの一番上に置く。②：自分のフィールド・墓地に「D-HERO ディナイアルガイ」以外の「D-HERO」モンスターが存在する場合に発動できる。このカードを墓地から特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_60_1" alt="D-HERO ディナイアルガイ" title="D-HERO ディナイアルガイ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16504">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
 						<span>デステニーヒーロー　ディバインガイ</span>
 						<span class="card_status">
 						<strong>D-HERO ディバインガイ</strong>
@@ -4809,13 +4889,13 @@
 					
 					<dd class="box_card_text">
 					  
-						「D-HERO ディバインガイ」の②の効果は１ターンに１度しか使用できない。①：このカードの攻撃宣言時に、相手フィールドの表側表示の魔法カード１枚を対象として発動できる。そのカードを破壊し、相手に５００ダメージを与える。②：自分の手札が０枚の場合、自分の墓地からこのカードと「D-HERO」モンスター１体を除外して発動できる。自分はデッキから２枚ドローする。この効果はこのカードが墓地へ送られたターンには発動できない。
+						このカード名の②の効果は１ターンに１度しか使用できない。①：このカードの攻撃宣言時に、相手フィールドの表側表示の魔法カード１枚を対象として発動できる。そのカードを破壊し、相手に５００ダメージを与える。②：自分の手札が０枚の場合、自分の墓地からこのカードと「D-HERO」モンスター１体を除外して発動できる。自分はデッキから２枚ドローする。この効果はこのカードが墓地へ送られたターンには発動できない。
 					  
 					</dd>
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_60_1" alt="D-HERO ディバインガイ" title="D-HERO ディバインガイ" class="none">
+						<img id="card_image_61_1" alt="D-HERO ディバインガイ" title="D-HERO ディバインガイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -4883,7 +4963,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_61_1" alt="D-HERO ディパーテッドガイ" title="D-HERO ディパーテッドガイ" class="none">
+						<img id="card_image_62_1" alt="D-HERO ディパーテッドガイ" title="D-HERO ディパーテッドガイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -4951,11 +5031,82 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_62_1" alt="D-HERO ディフェンドガイ" title="D-HERO ディフェンドガイ" class="none">
+						<img id="card_image_63_1" alt="D-HERO ディフェンドガイ" title="D-HERO ディフェンドガイ" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=6755">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>デステニーヒーロー　デストロイフェニックスガイ</span>
+						<span class="card_status">
+						<strong>D-HERO デストロイフェニックスガイ</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_dark.png" alt="闇属性" title="闇属性">
+							<span>闇属性</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="box_card_level_rank level">
+							<img class="icon_img" src="external/image/parts/icon_level.png" alt="レベル" title="レベル">
+							<span>レベル 8</span>
+						</span>
+					  
+					  
+					  
+						<span class="card_info_species_and_other_item">
+							【
+							戦士族
+						  
+							／
+							融合
+						  
+						  
+							／
+							効果
+						  
+						  
+							】
+						</span>
+						<span class="atk_power">攻撃力 2500</span>
+						
+						
+							<span class="def_power">守備力 2100</span>
+						
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						レベル６以上の「HERO」モンスター＋「D-HERO」モンスター<br>このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：相手フィールドのモンスターの攻撃力は、自分の墓地の「HERO」カードの数×２００ダウンする。②：自分・相手ターンに発動できる。自分フィールドのカード１枚とフィールドのカード１枚を選んで破壊する。③：このカードが戦闘・効果で破壊された場合に発動できる。次のターンのスタンバイフェイズに、自分の墓地から「D-HERO」モンスター１体を選んで特殊召喚する。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_64_1" alt="D-HERO デストロイフェニックスガイ" title="D-HERO デストロイフェニックスガイ" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16524">
 			</li>
 		  
 			<li>
@@ -5022,7 +5173,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_63_1" alt="D-HERO デッドリーガイ" title="D-HERO デッドリーガイ" class="none">
+						<img id="card_image_65_1" alt="D-HERO デッドリーガイ" title="D-HERO デッドリーガイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5090,7 +5241,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_64_1" alt="D-HERO デビルガイ" title="D-HERO デビルガイ" class="none">
+						<img id="card_image_66_1" alt="D-HERO デビルガイ" title="D-HERO デビルガイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5158,7 +5309,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_65_1" alt="D-HERO ドゥームガイ" title="D-HERO ドゥームガイ" class="none">
+						<img id="card_image_67_1" alt="D-HERO ドゥームガイ" title="D-HERO ドゥームガイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5229,7 +5380,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_66_1" alt="D-HERO ドミネイトガイ" title="D-HERO ドミネイトガイ" class="none">
+						<img id="card_image_68_1" alt="D-HERO ドミネイトガイ" title="D-HERO ドミネイトガイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5297,7 +5448,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_67_1" alt="D-HERO ドリルガイ" title="D-HERO ドリルガイ" class="none">
+						<img id="card_image_69_1" alt="D-HERO ドリルガイ" title="D-HERO ドリルガイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5365,7 +5516,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_68_1" alt="D-HERO ドリームガイ" title="D-HERO ドリームガイ" class="none">
+						<img id="card_image_70_1" alt="D-HERO ドリームガイ" title="D-HERO ドリームガイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5433,7 +5584,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_69_1" alt="D-HERO ドレッドガイ" title="D-HERO ドレッドガイ" class="none">
+						<img id="card_image_71_1" alt="D-HERO ドレッドガイ" title="D-HERO ドレッドガイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5501,7 +5652,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_70_1" alt="D-HERO ドレッドサーヴァント" title="D-HERO ドレッドサーヴァント" class="none">
+						<img id="card_image_72_1" alt="D-HERO ドレッドサーヴァント" title="D-HERO ドレッドサーヴァント" class="none">
 					  
 					</dd>
 				</dl>
@@ -5569,7 +5720,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_71_1" alt="D-HERO ドローガイ" title="D-HERO ドローガイ" class="none">
+						<img id="card_image_73_1" alt="D-HERO ドローガイ" title="D-HERO ドローガイ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5640,7 +5791,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_72_1" alt="D-HERO Bloo-D" title="D-HERO Bloo-D" class="none">
+						<img id="card_image_74_1" alt="D-HERO Bloo-D" title="D-HERO Bloo-D" class="none">
 					  
 					</dd>
 				</dl>
@@ -5683,7 +5834,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_73_1" alt="デステニー・ミラージュ" title="デステニー・ミラージュ" class="none">
+						<img id="card_image_75_1" alt="デステニー・ミラージュ" title="デステニー・ミラージュ" class="none">
 					  
 					</dd>
 				</dl>
@@ -5726,7 +5877,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_74_1" alt="ドクターD" title="ドクターD" class="none">
+						<img id="card_image_76_1" alt="ドクターD" title="ドクターD" class="none">
 					  
 					</dd>
 				</dl>
@@ -5797,7 +5948,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_75_1" alt="Dragoon D-END" title="Dragoon D-END" class="none">
+						<img id="card_image_77_1" alt="Dragoon D-END" title="Dragoon D-END" class="none">
 					  
 					</dd>
 				</dl>
@@ -5840,7 +5991,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_76_1" alt="HERO&rsquo;S ボンド" title="HERO&rsquo;S ボンド" class="none">
+						<img id="card_image_78_1" alt="HERO&rsquo;S ボンド" title="HERO&rsquo;S ボンド" class="none">
 					  
 					</dd>
 				</dl>
@@ -5883,7 +6034,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_77_1" alt="HEROの遺産" title="HEROの遺産" class="none">
+						<img id="card_image_79_1" alt="HEROの遺産" title="HEROの遺産" class="none">
 					  
 					</dd>
 				</dl>
@@ -5931,7 +6082,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_78_1" alt="フェイバリット・ヒーロー" title="フェイバリット・ヒーロー" class="none">
+						<img id="card_image_80_1" alt="フェイバリット・ヒーロー" title="フェイバリット・ヒーロー" class="none">
 					  
 					</dd>
 				</dl>
@@ -5979,7 +6130,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_79_1" alt="フォーム・チェンジ" title="フォーム・チェンジ" class="none">
+						<img id="card_image_81_1" alt="フォーム・チェンジ" title="フォーム・チェンジ" class="none">
 					  
 					</dd>
 				</dl>
@@ -6022,11 +6173,54 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_80_1" alt="フュージョン・デステニー" title="フュージョン・デステニー" class="none">
+						<img id="card_image_82_1" alt="フュージョン・デステニー" title="フュージョン・デステニー" class="none">
 					  
 					</dd>
 				</dl>
 				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=14304">
+			</li>
+		  
+			<li>
+				<dl>
+					<dt class="box_card_name">
+						<span>ブレイク・ザ・デステニー</span>
+						<span class="card_status">
+						<strong>ブレイク・ザ・デステニー</strong>
+						
+						  
+						
+						
+						</span>
+					</dt>
+					<dd class="box_card_spec">
+					  
+						<span class="box_card_attribute">
+							<img class="icon_img" src="external/image/parts/attribute/attribute_icon_trap.png" alt="罠" title="罠">
+							<span>罠</span>
+						</span>
+					  
+					  
+					  
+					  
+					  
+					  
+						<span class="blank">&nbsp;</span>
+					  
+					</dd>
+					
+					<dd class="box_card_text">
+					  
+						このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドの、「Dragoon D-END」またはレベル８以上の「D-HERO」モンスター１体を対象として発動できる。そのモンスターを破壊し、次の相手メインフェイズ１をスキップする。②：墓地のこのカードを除外して発動できる。「ブレイク・ザ・デステニー」以外の、「Dragoon D-END」のカード名または「D-HERO」モンスターのカード名が記された魔法・罠カード１枚をデッキから手札に加える。
+					  
+					</dd>
+					<dd class="box_card_img">
+					  
+					  
+						<img id="card_image_83_1" alt="ブレイク・ザ・デステニー" title="ブレイク・ザ・デステニー" class="none">
+					  
+					</dd>
+				</dl>
+				<input type="hidden" class="link_value_detail" value="/yugiohdb/card_search.action?ope=2&cid=16562">
 			</li>
 		  
 			<li>
@@ -6065,7 +6259,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_81_1" alt="マジスタリー・アルケミスト" title="マジスタリー・アルケミスト" class="none">
+						<img id="card_image_84_1" alt="マジスタリー・アルケミスト" title="マジスタリー・アルケミスト" class="none">
 					  
 					</dd>
 				</dl>
@@ -6113,7 +6307,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_82_1" alt="マスク・チェンジ" title="マスク・チェンジ" class="none">
+						<img id="card_image_85_1" alt="マスク・チェンジ" title="マスク・チェンジ" class="none">
 					  
 					</dd>
 				</dl>
@@ -6156,7 +6350,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_83_1" alt="マスク・チャージ" title="マスク・チャージ" class="none">
+						<img id="card_image_86_1" alt="マスク・チャージ" title="マスク・チャージ" class="none">
 					  
 					</dd>
 				</dl>
@@ -6227,7 +6421,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_84_1" alt="M・HERO 光牙" title="M・HERO 光牙" class="none">
+						<img id="card_image_87_1" alt="M・HERO 光牙" title="M・HERO 光牙" class="none">
 					  
 					</dd>
 				</dl>
@@ -6298,7 +6492,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_85_1" alt="M・HERO 剛火" title="M・HERO 剛火" class="none">
+						<img id="card_image_88_1" alt="M・HERO 剛火" title="M・HERO 剛火" class="none">
 					  
 					</dd>
 				</dl>
@@ -6369,7 +6563,7 @@
 					<dd class="box_card_img">
 					  
 					  
-						<img id="card_image_86_1" alt="M・HERO ダイアン" title="M・HERO ダイアン" class="none">
+						<img id="card_image_89_1" alt="M・HERO ダイアン" title="M・HERO ダイアン" class="none">
 					  
 					</dd>
 				</dl>

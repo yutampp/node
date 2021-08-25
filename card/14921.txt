@@ -23,8 +23,8 @@
 	<meta name="twitter:title" content="ズバババンチョー－GC | カード詳細 | 遊戯王 オフィシャルカードゲーム デュエルモンスターズ - カードデータベース"/>
 	<meta name="twitter:description" content="「ズバババンチョー－GC」の遊戯王OCG公式ルールはこちらのページで確認してください。このカードを使用しているデッキを検索する事もできます。遊戯王OCGカードデータベースは、遊戯王 オフィシャルカードゲーム デュエルモンスターズのコナミ公式サイトです。"/>
 
-	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14921%26request_locale%3Dja%26a%3D202106241203"/>
-	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14921%26request_locale%3Dja%26a%3D202106241203"/>
+	<meta property="og:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14921%26request_locale%3Dja%26a%3D202108231158"/>
+	<meta name="twitter:url" content="https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14921%26request_locale%3Dja%26a%3D202108231158"/>
 
 	<meta http-equiv="x-ua-compatible" content="IE=10" >
 	<meta http-equiv="x-ua-compatible" content="IE=EmulateIE10" >
@@ -626,7 +626,7 @@
 										<b>カードテキスト</b>
 									</div>
 									このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在し、自分フィールドに「ズバババンチョー－GC」以外の、「ズババ」モンスターまたは「ガガガ」モンスターが存在する場合に発動できる。このカードを特殊召喚する。②：自分の墓地の、「ゴゴゴ」モンスターまたは「ドドド」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果の発動後、ターン終了時まで自分はXモンスターしかEXデッキから特殊召喚できない。
-									
+		
 			
 								</div>
 							</td>
@@ -654,14 +654,14 @@
 							</td>
 							<td>
 								
-								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14921%26request_locale%3Dja%26a%3D202106241203&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+								<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.db.yugioh-card.com%2Fyugiohdb%2Fcard_search.action%3Fope%3D2%26cid%3D14921%26request_locale%3Dja%26a%3D202108231158&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;locale=ja_JP" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
 							</td>
 							<td style="display: block;margin:0 10px 0 0;">
 								
-								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14921&request_locale=ja&a=202106241203" data-layout="button_count" data-size="small" ></div>
+								<div class="fb-share-button" data-href="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14921&request_locale=ja&a=202108231158" data-layout="button_count" data-size="small" ></div>
 							</td>
 							<td>
-								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14921&request_locale=ja&a=202106241203"></div>
+								<div class="line-it-button" style="display: none;" data-lang="ja" data-type="share-a" data-url="https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14921&request_locale=ja&a=202108231158"></div>
 								<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
 							</td>
 						</tr>
@@ -706,6 +706,27 @@
 					<col width="50">
 					<tr>
 						<th colspan="4">収録シリーズ</th>
+					</tr>
+	
+					<tr class="row">
+		
+						<td class="t_center">2021-06-26</td>
+		
+		
+		
+						<td>SD42-JP010</td>
+		
+		
+						<td>
+							<b>ストラクチャーデッキ－オーバーレイ・ユニバース－</b>
+							<input type="hidden" class="link_value" value="/yugiohdb/card_search.action?ope=1&sess=1&pid=1000000877000&rp=99999">
+						</td>
+						<td>
+		
+		
+							&nbsp;
+		
+						</td>
 					</tr>
 	
 					<tr class="row">
@@ -1031,7 +1052,7 @@
 					
 					<dd class="box_card_text">
 					  
-						相手フィールド上にモンスターが存在し、自分フィールド上にモンスターが存在しない場合に発動できる。デッキから「ガガガ」と名のついたモンスター１体を特殊召喚する。このカードを発動するターン、自分はエクシーズ召喚以外の特殊召喚ができない。「ガガガ学園の緊急連絡網」は１ターンに１枚しか発動できない。
+						このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分はX召喚以外の特殊召喚ができない。①：相手フィールドにのみモンスターが存在する場合に発動できる。デッキから「ガガガ」モンスター１体を特殊召喚する。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -1352,7 +1373,7 @@
 					
 					<dd class="box_card_text">
 					  
-						自分フィールド上の「ガガガマジシャン」１体を選択して発動できる。このカードは選択したモンスターと同じレベルになる。また、このカードを含む「ガガガ」と名のついたモンスターのみを素材としたエクシーズモンスターは以下の効果を得る。●このエクシーズ召喚に成功した時、相手フィールド上の特殊召喚されたモンスター１体を選択して発動できる。選択したモンスターの攻撃力を０にする。
+						①：自分フィールドの「ガガガマジシャン」１体を対象として発動できる。このカードのレベルはそのモンスターと同じになる。②：このカードを含む「ガガガ」モンスターのみを素材としてX召喚したモンスターは以下の効果を得る。●このX召喚に成功した時、相手フィールドの特殊召喚されたモンスター１体を対象として発動できる。そのモンスターの攻撃力を０にする。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -1488,7 +1509,7 @@
 					
 					<dd class="box_card_text">
 					  
-						自分フィールド上に「ガガガクラーク」以外の「ガガガ」と名のついたモンスターが存在する場合、このカードは手札から特殊召喚できる。
+						①：自分フィールドに「ガガガクラーク」以外の「ガガガ」モンスターが存在する場合、このカードは手札から特殊召喚できる。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -1627,7 +1648,7 @@
 					
 					<dd class="box_card_text">
 					  
-						このカードが召喚に成功した時、デッキから「ガガガ」と名のついた魔法・罠カード１枚を手札に加える事ができる。また、このカード以外の自分フィールド上の「ガガガ」と名のついたモンスター１体を選択して発動できる。選択したモンスターとこのカードは、エンドフェイズ時までそれぞれのレベルを合計したレベルになる。「ガガガシスター」のこの効果は１ターンに１度しか使用できない。
+						このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。デッキから「ガガガ」魔法・罠カード１枚を手札に加える。②：このカード以外の自分フィールドの「ガガガ」モンスター１体を対象として発動できる。そのモンスターとこのカードは、ターン終了時までその２体のレベルを合計したレベルになる。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -2142,7 +2163,7 @@
 					
 					<dd class="box_card_text">
 					  
-						自分の墓地の「ガガガ」と名のついたモンスター１体を選択して発動できる。選択したモンスターを特殊召喚し、このカードを装備する。このカードがフィールド上から離れた時、装備モンスターを破壊する。また、装備モンスターがエクシーズ素材になる事によってこのカードが墓地へ送られた時、自分フィールド上の全てのエクシーズモンスターの攻撃力を３００ポイントアップする。
+						①：自分の墓地の「ガガガ」モンスター１体を対象としてこのカードを発動できる。そのモンスターを特殊召喚し、このカードを装備する。このカードがフィールドから離れた時にそのモンスターは破壊される。②：装備モンスターがX素材になった事でこのカードが墓地へ送られた場合に発動する。自分フィールドの全てのXモンスターの攻撃力は３００アップする。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -2689,7 +2710,7 @@
 					
 					<dd class="box_card_text">
 					  
-						①：守備表示のこのカードは、１ターンに１度だけ戦闘では破壊されない。
+						①：守備表示のこのカードは１ターンに１度だけ戦闘では破壊されない。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -2967,7 +2988,7 @@
 					
 					<dd class="box_card_text">
 					  
-						このカードが表側守備表示のモンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。
+						①：このカードが表側守備表示モンスターを攻撃するダメージステップ開始時に発動する。そのモンスターを破壊する。
 					  
 					</dd>
 					<dd class="box_card_img">
@@ -3103,7 +3124,7 @@
 					
 					<dd class="box_card_text">
 					  
-						このカードが召喚・特殊召喚に成功した時、手札から「ドドドウィッチ」以外の「ドドド」と名のついたモンスター１体を表側攻撃表示または裏側守備表示で特殊召喚できる。
+						①：このカードが召喚・特殊召喚に成功した時に発動できる。手札から「ドドドウィッチ」以外の「ドドド」モンスター１体を表側攻撃表示または裏側守備表示で特殊召喚する。
 					  
 					</dd>
 					<dd class="box_card_img">
